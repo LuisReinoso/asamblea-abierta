@@ -1,0 +1,430 @@
+{
+  "generated_at": "2026-01-05T22:35:12.855788",
+  "total_sessions": 1,
+  "speaker_stats": [
+    {
+      "id": "speaker_36",
+      "name": "Mario Godoy",
+      "party": null,
+      "province": null,
+      "total_time": 4625.473000000002,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_2",
+      "name": "Mariela Logroño",
+      "party": null,
+      "province": null,
+      "total_time": 1737.6169999999984,
+      "total_interventions": 26,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_4",
+      "name": "Maritza Flores",
+      "party": null,
+      "province": null,
+      "total_time": 1587.4610000000018,
+      "total_interventions": 30,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_9",
+      "name": "Niels Olsen",
+      "party": null,
+      "province": null,
+      "total_time": 630.8070000000021,
+      "total_interventions": 25,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_25",
+      "name": "Comps Córdoba",
+      "party": null,
+      "province": null,
+      "total_time": 424.1199999999999,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_12",
+      "name": "Lucía Jaramillo",
+      "party": null,
+      "province": null,
+      "total_time": 364.1579999999999,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_21",
+      "name": "Xavier Lasso",
+      "party": null,
+      "province": null,
+      "total_time": 363.7549999999992,
+      "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_11",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 346.87999999999965,
+      "total_interventions": 6,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_3",
+      "name": "María Camila Zurita",
+      "party": null,
+      "province": null,
+      "total_time": 338.4760000000001,
+      "total_interventions": 21,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_23",
+      "name": "Ana Belén Tapia",
+      "party": null,
+      "province": null,
+      "total_time": 322.32800000000043,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_17",
+      "name": "Gerardo Machado",
+      "party": null,
+      "province": null,
+      "total_time": 319.6149999999998,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_26",
+      "name": "Adrián Castro",
+      "party": null,
+      "province": null,
+      "total_time": 307.7999999999993,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_13",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 300.2289999999998,
+      "total_interventions": 9,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_28",
+      "name": "Janeth Bustos",
+      "party": null,
+      "province": null,
+      "total_time": 276.1989999999996,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_29",
+      "name": "Andrés Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 246.74099999999999,
+      "total_interventions": 9,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_18",
+      "name": "Gerardo Machado",
+      "party": null,
+      "province": null,
+      "total_time": 232.4340000000002,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_24",
+      "name": "Mario Zambrano",
+      "party": null,
+      "province": null,
+      "total_time": 227.19999999999982,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_20",
+      "name": "Andrés Guschmer",
+      "party": null,
+      "province": null,
+      "total_time": 208.5009999999993,
+      "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_6",
+      "name": "Keevin Gallardo",
+      "party": null,
+      "province": null,
+      "total_time": 173.28999999999985,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_8",
+      "name": "Andrés Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 169.25900000000024,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_14",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 158.3800000000001,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_5",
+      "name": "Adrián Castro",
+      "party": null,
+      "province": null,
+      "total_time": 140.10000000000002,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_7",
+      "name": "Marco Olmedo",
+      "party": null,
+      "province": null,
+      "total_time": 127.41299999999978,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_27",
+      "name": "Janeth Bustos",
+      "party": null,
+      "province": null,
+      "total_time": 58.5699999999988,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_22",
+      "name": "Ana Belén Tapia",
+      "party": null,
+      "province": null,
+      "total_time": 57.49200000000019,
+      "total_interventions": 12,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_1",
+      "name": "Mariela Logroño",
+      "party": null,
+      "province": null,
+      "total_time": 46.33,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mariela Logroño",
+      "party": null,
+      "province": null,
+      "total_time": 38.930000000001456,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_10",
+      "name": "Giovanny Bravo",
+      "party": null,
+      "province": null,
+      "total_time": 36.88099999999986,
+      "total_interventions": 6,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_30",
+      "name": "Andrés Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 13.939000000000306,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_15",
+      "name": "Lucía Jaramillo",
+      "party": null,
+      "province": null,
+      "total_time": 11.05099999999993,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_34",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 7.818999999999505,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_35",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 6.9099999999998545,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_16",
+      "name": "Lucia Jaramillo",
+      "party": null,
+      "province": null,
+      "total_time": 6.208000000000084,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_33",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 4.0900000000001455,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_19",
+      "name": "Paola Jaramillo",
+      "party": null,
+      "province": null,
+      "total_time": 3.2490000000007058,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_37",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 1.3699999999989814,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_32",
+      "name": "Andrés Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 1.160000000000764,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_31",
+      "name": "Andrés Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 0.6799999999993815,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 3
+    }
+  ],
+  "topic_stats": [
+    {
+      "topic": "Justicia y Estructura del Estado",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    },
+    {
+      "topic": "Fiscalización y Control",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    },
+    {
+      "topic": "Derechos Humanos y Participación Ciudadana",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    }
+  ],
+  "monthly_stats": [
+    {
+      "month": "2026-01",
+      "sessions_count": 1,
+      "total_duration": 13946.958,
+      "unique_speakers": 38,
+      "unique_topics": 3
+    }
+  ]
+}

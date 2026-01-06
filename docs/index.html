@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Plataforma de transparencia para la Asamblea Nacional del Ecuador. Busca, explora y analiza las sesiones legislativas.">
+    <meta name="keywords" content="Asamblea Nacional, Ecuador, transparencia, sesiones, legislativas">
+    <meta name="author" content="Transparency Platform">
+
+    <title>Asamblea Nacional del Ecuador - Plataforma de Transparencia</title>
+
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Transparencia Legislativa</h1>
+            <p>Explora, busca y analiza las sesiones de la Asamblea Nacional del Ecuador</p>
+
+            <div class="search-bar">
+                <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Buscar en las sesiones..."
+                    autocomplete="off"
+                >
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Estadísticas</h2>
+                <p>Datos sobre las sesiones procesadas</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-sessions">-</div>
+                    <div class="stat-label">Sesiones</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-hours">-</div>
+                    <div class="stat-label">Horas</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-speakers">-</div>
+                    <div class="stat-label">Asambleístas</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-topics">-</div>
+                    <div class="stat-label">Temas</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <div class="section-header">
+                <h2>Sesiones Recientes</h2>
+                <p>Últimas sesiones procesadas</p>
+            </div>
+
+            <div class="card-grid" id="recent-sessions">
+                <!-- Sessions will be loaded dynamically -->
+                <div class="card">
+                    <h3 class="card-title">Cargando...</h3>
+                    <p class="card-meta">Obteniendo datos...</p>
+                    <div class="card-content">
+                        <p>Por favor espere mientras cargamos las sesiones más recientes.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="text-center mt-4">
+                <a href="sessions.html" class="btn">Ver Todas las Sesiones</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Sobre este Proyecto</h2>
+            </div>
+
+            <div style="max-width: 800px; margin: 0 auto;">
+                <p>
+                    Esta plataforma utiliza inteligencia artificial para transcribir, clasificar y hacer
+                    buscables las sesiones de la Asamblea Nacional del Ecuador. Nuestro objetivo es
+                    proporcionar a la ciudadanía acceso fácil y transparente a la información legislativa.
+                </p>
+
+                <h3 class="mt-4">Características</h3>
+                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                    <li>Transcripción automática usando OpenAI Whisper</li>
+                    <li>Clasificación por temas alineada con las comisiones parlamentarias</li>
+                    <li>Identificación de oradores (151 asambleístas)</li>
+                    <li>Búsqueda rápida en tiempo real</li>
+                    <li>Datasets descargables (JSON, CSV)</li>
+                    <li>100% código abierto y datos de dominio público</li>
+                </ul>
+
+                <h3 class="mt-4">Legal y Transparencia</h3>
+                <p>
+                    Este proyecto cumple con la <strong>LOTAIP 2023</strong> (Ley Orgánica de
+                    Transparencia y Acceso a la Información Pública) y el <strong>Artículo 18
+                    de la Constitución</strong> que garantiza el derecho de acceso a información
+                    pública. Los documentos legislativos son de dominio público.
+                </p>
+
+                <div class="text-center mt-4">
+                    <a href="https://github.com/tu-usuario/asamblea-nacional" class="btn" target="_blank">
+                        Ver en GitHub
+                    </a>
+                    <a href="download.html" class="btn btn-secondary">
+                        Descargar Datos
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+            <p>
+                <small>
+                    Las transcripciones pueden contener errores. Siempre verifica con el video oficial.<br>
+                    Fuente: <a href="https://www.youtube.com/@AsambleaNacionalEc" target="_blank">Canal oficial de YouTube</a>
+                </small>
+            </p>
+        </div>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

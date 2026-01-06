@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explora temas discutidos en la Asamblea Nacional">
+    <title>Temas - Asamblea Nacional del Ecuador</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>Temas Legislativos</h1>
+            <p>Explora los temas discutidos en las sesiones, alineados con las comisiones parlamentarias</p>
+
+            <div class="search-bar mt-4">
+                <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Buscar tema..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="mt-4">
+                <label for="sort-by">Ordenar por:</label>
+                <select id="sort-by" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="count-desc">Más discutidos</option>
+                    <option value="count-asc">Menos discutidos</option>
+                    <option value="name-asc">Nombre (A-Z)</option>
+                </select>
+            </div>
+
+            <div id="topics-count" class="mt-2" style="color: var(--text-light);">
+                Cargando temas...
+            </div>
+
+            <div id="topics-list" class="card-grid mt-4">
+                <div class="card">
+                    <h3 class="card-title">Cargando...</h3>
+                    <p>Por favor espere...</p>
+                </div>
+            </div>
+
+            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+                <h3>No se encontraron temas</h3>
+                <p>Intenta con otros criterios de búsqueda</p>
+            </div>
+
+            <div id="no-data" style="display: none; text-align: center; padding: 2rem;">
+                <h3>Sin temas disponibles</h3>
+                <p>Los temas se generarán automáticamente al procesar las sesiones.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <h2 class="text-center">Taxonomía de Temas</h2>
+            <p class="text-center">Categorías alineadas con las comisiones parlamentarias de Ecuador</p>
+
+            <div class="card-grid mt-4">
+                <div class="card">
+                    <h4>Derechos Humanos y Participación Ciudadana</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Derechos humanos, participación, ciudadanía, igualdad
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>Educación, Cultura y Deporte</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Educación, cultura, deporte, universidad, escuela
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>Salud Pública</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Salud, medicina, hospital, sanitario, pandemia
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>Desarrollo Económico y Productivo</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Economía, desarrollo, producción, comercio, industria
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>Régimen Tributario</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Impuestos, tributario, fiscal, IVA, renta
+                    </p>
+                </div>
+                <div class="card">
+                    <h4>Fiscalización y Control</h4>
+                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                        Fiscalización, control, auditoría, corrupción, transparencia
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        let allTopics = [];
+        let filteredTopics = [];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadTopics();
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            document.getElementById('search-input').addEventListener('input', filterTopics);
+            document.getElementById('sort-by').addEventListener('change', sortAndDisplayTopics);
+        }
+
+        async function loadTopics() {
+            try {
+                const response = await fetch('../data/stats/all-time.json');
+
+                if (!response.ok) {
+                    document.getElementById('no-data').style.display = 'block';
+                    document.getElementById('topics-list').style.display = 'none';
+                    document.getElementById('topics-count').textContent = '';
+                    return;
+                }
+
+                const stats = await response.json();
+                allTopics = stats.topic_stats || [];
+                filteredTopics = [...allTopics];
+
+                if (allTopics.length === 0) {
+                    document.getElementById('no-data').style.display = 'block';
+                    document.getElementById('topics-list').style.display = 'none';
+                    document.getElementById('topics-count').textContent = '';
+                    return;
+                }
+
+                sortAndDisplayTopics();
+
+            } catch (error) {
+                console.error('Error loading topics:', error);
+                document.getElementById('no-data').style.display = 'block';
+                document.getElementById('topics-list').style.display = 'none';
+            }
+        }
+
+        function filterTopics() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+
+            filteredTopics = allTopics.filter(topic =>
+                topic.topic.toLowerCase().includes(searchTerm)
+            );
+
+            sortAndDisplayTopics();
+        }
+
+        function sortAndDisplayTopics() {
+            const sortBy = document.getElementById('sort-by').value;
+
+            filteredTopics.sort((a, b) => {
+                switch (sortBy) {
+                    case 'count-desc':
+                        return b.count - a.count;
+                    case 'count-asc':
+                        return a.count - b.count;
+                    case 'name-asc':
+                        return a.topic.localeCompare(b.topic);
+                    default:
+                        return 0;
+                }
+            });
+
+            displayTopics();
+        }
+
+        function displayTopics() {
+            const container = document.getElementById('topics-list');
+            const countElement = document.getElementById('topics-count');
+            const noResults = document.getElementById('no-results');
+
+            if (filteredTopics.length === 0) {
+                container.style.display = 'none';
+                noResults.style.display = 'block';
+                countElement.textContent = '';
+                return;
+            }
+
+            container.style.display = 'grid';
+            noResults.style.display = 'none';
+            countElement.textContent = `Mostrando ${filteredTopics.length} de ${allTopics.length} temas`;
+
+            container.innerHTML = '';
+
+            filteredTopics.forEach(topic => {
+                const card = createTopicCard(topic);
+                container.appendChild(card);
+            });
+        }
+
+        function createTopicCard(topic) {
+            const card = document.createElement('div');
+            card.className = 'card';
+
+            // Get recent sessions (limit to 3)
+            const recentSessions = topic.sessions.slice(0, 3);
+            const sessionsHTML = recentSessions.map(session => {
+                const date = new Date(session.date).toLocaleDateString('es-EC', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric'
+                });
+                return `<li><a href="${session.id}" style="font-size: 0.875rem;">${date}: ${session.title.substring(0, 50)}...</a></li>`;
+            }).join('');
+
+            card.innerHTML = `
+                <h3 class="card-title">${topic.topic}</h3>
+                <p class="card-meta">
+                    📊 ${topic.count} sesión(es)
+                </p>
+                <div class="card-content">
+                    <p><strong>Sesiones recientes:</strong></p>
+                    <ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
+                        ${sessionsHTML}
+                    </ul>
+                    ${topic.count > 3 ? `<p class="mt-2" style="font-size: 0.875rem; color: var(--text-light);">y ${topic.count - 3} sesión(es) más...</p>` : ''}
+                </div>
+            `;
+
+            return card;
+        }
+    </script>
+</body>
+</html>

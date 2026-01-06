@@ -1,0 +1,131 @@
+name: Process Asamblea Nacional Sessions
+
+on:
+  # Run daily at 2 AM UTC (9 PM Ecuador time, after sessions)
+  schedule:
+    - cron: '0 2 * * *'
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      video_id:
+        description: 'Specific video ID to process (optional)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  process-sessions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Install yt-dlp
+        run: |
+          pip install yt-dlp
+
+      - name: Create config.yml from secrets
+        run: |
+          cat > config.yml <<EOF
+          openai:
+            api_key: "${{ secrets.OPENAI_API_KEY }}"
+
+          youtube:
+            api_key: "${{ secrets.YOUTUBE_API_KEY }}"
+            channel_id: "${{ vars.ASAMBLEA_CHANNEL_ID || 'UCiR_hqG93xvF0r5TKLhbhOg' }}"
+
+          processing:
+            cost_limit: 10.0
+            max_sessions_per_run: 5
+            language: "es"
+            min_speaker_confidence: 0.7
+
+          data:
+            sessions_dir: "data/sessions"
+            speakers_db: "data/speakers/asambleistas.json"
+            topics_taxonomy: "data/topics/taxonomy.json"
+            search_index: "data/search/index.json"
+          EOF
+
+      - name: Discover new videos
+        id: discover
+        run: |
+          python scripts/pipeline/01_discover_videos.py
+
+      - name: Process new sessions
+        run: |
+          # Create temp directory
+          mkdir -p temp/audio temp/transcripts temp/identified temp/classified
+
+          # Load session index
+          if [ -f "data/sessions/index.json" ]; then
+            # Get new sessions (those without a processed flag)
+            # For simplicity, we'll process the latest unprocessed sessions
+            # This would need more sophisticated logic in production
+
+            echo "Processing new sessions..."
+
+            # TODO: Implement full pipeline orchestration
+            # For now, this is a placeholder showing the workflow
+
+          else
+            echo "No sessions index found"
+          fi
+
+      - name: Generate statistics
+        run: |
+          python scripts/pipeline/06_generate_stats.py
+
+      - name: Build search index
+        run: |
+          python scripts/pipeline/07_build_search_index.py
+
+      - name: Update catalog
+        run: |
+          python scripts/pipeline/08_update_catalog.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          git add data/
+          git add docs/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update session data [automated]
+
+            - Generated statistics
+            - Updated search index
+            - Updated catalog"
+
+            git push
+          fi
+
+      - name: Clean up temp files
+        if: always()
+        run: |
+          rm -rf temp/
+          rm -f config.yml
+
+      - name: Report status
+        if: always()
+        run: |
+          echo "Workflow completed"
+          echo "Check the Actions tab for detailed logs"

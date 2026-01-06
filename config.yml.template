@@ -1,0 +1,49 @@
+# Configuration file for Asamblea Nacional Transparency Platform
+# Copy this file to config.yml and fill in your API keys
+
+# OpenAI API Configuration
+openai:
+  api_key: "YOUR_OPENAI_API_KEY_HERE"
+  # Get your key at: https://platform.openai.com/api-keys
+
+# ElevenLabs API Configuration
+elevenlabs:
+  api_key: "YOUR_ELEVENLABS_API_KEY_HERE"
+  # Get your key at: https://elevenlabs.io/app/settings/api-keys
+
+# YouTube Data API v3 Configuration
+youtube:
+  api_key: "YOUR_YOUTUBE_API_KEY_HERE"
+  # Get your key at: https://console.cloud.google.com/
+  # Enable YouTube Data API v3
+
+  # Asamblea Nacional YouTube Channel ID
+  channel_id: "UCiR_hqG93xvF0r5TKLhbhOg"  # Update with actual channel ID
+
+# Processing Configuration
+processing:
+  # Maximum cost limit per run (USD)
+  cost_limit: 10.0
+
+  # Maximum sessions to process per run
+  max_sessions_per_run: 5
+
+  # Language for transcription
+  language: "es"  # Spanish
+
+  # Minimum confidence for speaker identification
+  min_speaker_confidence: 0.7
+
+# Data Storage
+data:
+  # Base directory for session data
+  sessions_dir: "data/sessions"
+
+  # Speaker database file
+  speakers_db: "data/speakers/asambleistas.json"
+
+  # Topics taxonomy file
+  topics_taxonomy: "data/topics/taxonomy.json"
+
+  # Search index file
+  search_index: "data/search/index.json"

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explora todas las sesiones de la Asamblea Nacional del Ecuador">
+    <title>Sesiones - Asamblea Nacional del Ecuador</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>Sesiones de la Asamblea Nacional</h1>
+            <p>Explora todas las sesiones procesadas y transcriptas</p>
+
+            <div class="search-bar mt-4">
+                <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Buscar por título, tema o asambleísta..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="mt-4">
+                <label for="filter-topic">Filtrar por tema:</label>
+                <select id="filter-topic" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="">Todos los temas</option>
+                </select>
+
+                <label for="sort-by" style="margin-left: 1rem;">Ordenar por:</label>
+                <select id="sort-by" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="date-desc">Fecha (más reciente)</option>
+                    <option value="date-asc">Fecha (más antigua)</option>
+                    <option value="duration-desc">Duración (mayor)</option>
+                    <option value="duration-asc">Duración (menor)</option>
+                </select>
+            </div>
+
+            <div id="sessions-count" class="mt-2" style="color: var(--text-light);">
+                Cargando sesiones...
+            </div>
+
+            <div id="sessions-list" class="card-grid mt-4">
+                <!-- Sessions will be loaded dynamically -->
+                <div class="card">
+                    <h3 class="card-title">Cargando...</h3>
+                    <p class="card-meta">Por favor espere...</p>
+                </div>
+            </div>
+
+            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+                <h3>No se encontraron sesiones</h3>
+                <p>Intenta con otros criterios de búsqueda</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="assets/js/sessions.js"></script>
+</body>
+</html>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Directorio de asambleístas de Ecuador">
+    <title>Asambleístas - Asamblea Nacional del Ecuador</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>Asambleístas</h1>
+            <p>Estadísticas de participación de los asambleístas en sesiones procesadas</p>
+
+            <div class="search-bar mt-4">
+                <input
+                    type="text"
+                    id="search-input"
+                    placeholder="Buscar asambleísta por nombre..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="mt-4">
+                <label for="filter-party">Filtrar por partido:</label>
+                <select id="filter-party" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="">Todos los partidos</option>
+                </select>
+
+                <label for="sort-by" style="margin-left: 1rem;">Ordenar por:</label>
+                <select id="sort-by" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="time-desc">Tiempo de participación (mayor)</option>
+                    <option value="sessions-desc">Sesiones asistidas (mayor)</option>
+                    <option value="name-asc">Nombre (A-Z)</option>
+                </select>
+            </div>
+
+            <div id="speakers-count" class="mt-2" style="color: var(--text-light);">
+                Cargando asambleístas...
+            </div>
+
+            <div id="speakers-list" class="card-grid mt-4">
+                <div class="card">
+                    <h3 class="card-title">Cargando...</h3>
+                    <p>Por favor espere...</p>
+                </div>
+            </div>
+
+            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+                <h3>No se encontraron asambleístas</h3>
+                <p>Intenta con otros criterios de búsqueda</p>
+            </div>
+
+            <div id="no-data" style="display: none; text-align: center; padding: 2rem;">
+                <h3>Sin estadísticas disponibles</h3>
+                <p>Las estadísticas se generarán una vez que se procesen las sesiones.</p>
+                <p class="mt-2">Mientras tanto, puedes ver el
+                    <a href="../data/speakers/asambleistas.json" target="_blank">listado completo de asambleístas</a>.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        let allSpeakers = [];
+        let filteredSpeakers = [];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadSpeakers();
+            setupEventListeners();
+        });
+
+        function setupEventListeners() {
+            document.getElementById('search-input').addEventListener('input', filterSpeakers);
+            document.getElementById('filter-party').addEventListener('change', filterSpeakers);
+            document.getElementById('sort-by').addEventListener('change', sortAndDisplaySpeakers);
+        }
+
+        async function loadSpeakers() {
+            try {
+                const response = await fetch('../data/stats/all-time.json');
+
+                if (!response.ok) {
+                    document.getElementById('no-data').style.display = 'block';
+                    document.getElementById('speakers-list').style.display = 'none';
+                    document.getElementById('speakers-count').textContent = '';
+                    return;
+                }
+
+                const stats = await response.json();
+                allSpeakers = stats.speaker_stats || [];
+                filteredSpeakers = [...allSpeakers];
+
+                if (allSpeakers.length === 0) {
+                    document.getElementById('no-data').style.display = 'block';
+                    document.getElementById('speakers-list').style.display = 'none';
+                    document.getElementById('speakers-count').textContent = '';
+                    return;
+                }
+
+                populatePartyFilter();
+                sortAndDisplaySpeakers();
+
+            } catch (error) {
+                console.error('Error loading speakers:', error);
+                document.getElementById('no-data').style.display = 'block';
+                document.getElementById('speakers-list').style.display = 'none';
+            }
+        }
+
+        function populatePartyFilter() {
+            const parties = new Set();
+            allSpeakers.forEach(speaker => {
+                if (speaker.party) parties.add(speaker.party);
+            });
+
+            const select = document.getElementById('filter-party');
+            Array.from(parties).sort().forEach(party => {
+                const option = document.createElement('option');
+                option.value = party;
+                option.textContent = party;
+                select.appendChild(option);
+            });
+        }
+
+        function filterSpeakers() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const selectedParty = document.getElementById('filter-party').value;
+
+            filteredSpeakers = allSpeakers.filter(speaker => {
+                const matchesSearch = !searchTerm || speaker.name.toLowerCase().includes(searchTerm);
+                const matchesParty = !selectedParty || speaker.party === selectedParty;
+                return matchesSearch && matchesParty;
+            });
+
+            sortAndDisplaySpeakers();
+        }
+
+        function sortAndDisplaySpeakers() {
+            const sortBy = document.getElementById('sort-by').value;
+
+            filteredSpeakers.sort((a, b) => {
+                switch (sortBy) {
+                    case 'time-desc':
+                        return b.total_time - a.total_time;
+                    case 'sessions-desc':
+                        return b.sessions_attended - a.sessions_attended;
+                    case 'name-asc':
+                        return a.name.localeCompare(b.name);
+                    default:
+                        return 0;
+                }
+            });
+
+            displaySpeakers();
+        }
+
+        function displaySpeakers() {
+            const container = document.getElementById('speakers-list');
+            const countElement = document.getElementById('speakers-count');
+            const noResults = document.getElementById('no-results');
+
+            if (filteredSpeakers.length === 0) {
+                container.style.display = 'none';
+                noResults.style.display = 'block';
+                countElement.textContent = '';
+                return;
+            }
+
+            container.style.display = 'grid';
+            noResults.style.display = 'none';
+            countElement.textContent = `Mostrando ${filteredSpeakers.length} de ${allSpeakers.length} asambleístas`;
+
+            container.innerHTML = '';
+
+            filteredSpeakers.forEach(speaker => {
+                const card = createSpeakerCard(speaker);
+                container.appendChild(card);
+            });
+        }
+
+        function createSpeakerCard(speaker) {
+            const card = document.createElement('div');
+            card.className = 'card';
+
+            const totalMinutes = Math.round(speaker.total_time / 60);
+            const totalHours = (totalMinutes / 60).toFixed(1);
+
+            card.innerHTML = `
+                <h3 class="card-title">${speaker.name}</h3>
+                <p class="card-meta">
+                    ${speaker.party || 'Sin partido'} • ${speaker.province || 'Sin provincia'}
+                </p>
+                <div class="card-content">
+                    <p><strong>⏱️ Tiempo total:</strong> ${totalHours} horas</p>
+                    <p><strong>🎤 Intervenciones:</strong> ${speaker.total_interventions}</p>
+                    <p><strong>📅 Sesiones:</strong> ${speaker.sessions_attended}</p>
+                    <p><strong>🏷️ Temas:</strong> ${speaker.topics_discussed}</p>
+                </div>
+            `;
+
+            return card;
+        }
+    </script>
+</body>
+</html>

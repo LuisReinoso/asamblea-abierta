@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descarga datasets de las sesiones de la Asamblea Nacional">
+    <title>Descargas - Asamblea Nacional del Ecuador</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <h1>Descarga de Datasets</h1>
+            <p>Accede a los datos abiertos de la Asamblea Nacional en formato JSON</p>
+
+            <div class="card-grid mt-4">
+                <div class="card">
+                    <h3 class="card-title">📋 Catálogo de Sesiones</h3>
+                    <p>Lista completa de todas las sesiones procesadas con metadata.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> Títulos, fechas, duraciones, temas, oradores</p>
+                    <div class="mt-3">
+                        <a href="../data/catalog.json" class="btn" download>Descargar catalog.json</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">📊 Estadísticas</h3>
+                    <p>Estadísticas agregadas de participación y temas.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> Estadísticas de oradores, temas, mensuales</p>
+                    <div class="mt-3">
+                        <a href="../data/stats/all-time.json" class="btn" download>Descargar estadísticas</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">🔍 Índice de Búsqueda</h3>
+                    <p>Índice pre-compilado para búsquedas rápidas.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> Transcripciones, oradores, temas, keywords</p>
+                    <div class="mt-3">
+                        <a href="../data/search/index.json" class="btn" download>Descargar índice</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">🏷️ Taxonomía de Temas</h3>
+                    <p>Categorías de temas alineadas con comisiones parlamentarias.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> 18 categorías con keywords</p>
+                    <div class="mt-3">
+                        <a href="../data/topics/taxonomy.json" class="btn" download>Descargar taxonomía</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">📌 Mapeo Tema-Sesiones</h3>
+                    <p>Relación entre temas y sesiones donde fueron discutidos.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> Lista de sesiones por tema</p>
+                    <div class="mt-3">
+                        <a href="../data/topics/topic-sessions.json" class="btn" download>Descargar mapeo</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <h3 class="card-title">👥 Base de Asambleístas</h3>
+                    <p>Información de los 151 asambleístas.</p>
+                    <p class="mt-2"><strong>Formato:</strong> JSON</p>
+                    <p><strong>Incluye:</strong> Nombres, partidos, provincias, roles</p>
+                    <div class="mt-3">
+                        <a href="../data/speakers/asambleistas.json" class="btn" download>Descargar asambleístas</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section" style="background-color: var(--bg-light);">
+        <div class="container">
+            <h2>Licencia y Uso</h2>
+
+            <div style="max-width: 800px; margin: 0 auto;">
+                <h3>CC0 1.0 Universal (Dominio Público)</h3>
+                <p>
+                    Todos los datos están disponibles bajo la licencia
+                    <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0 Universal</a>.
+                    Esto significa que puedes:
+                </p>
+
+                <ul style="margin-left: 2rem; margin-top: 1rem;">
+                    <li>✅ Copiar, modificar y distribuir los datos</li>
+                    <li>✅ Usar los datos para fines comerciales</li>
+                    <li>✅ Hacer obras derivadas</li>
+                    <li>✅ Sin necesidad de pedir permiso</li>
+                    <li>✅ Sin necesidad de atribución (aunque es apreciada)</li>
+                </ul>
+
+                <h3 class="mt-4">Fuente de Datos</h3>
+                <p>
+                    Las transcripciones provienen de sesiones públicas de la Asamblea Nacional del Ecuador,
+                    disponibles en su
+                    <a href="https://www.youtube.com/@AsambleaNacionalEc" target="_blank">canal oficial de YouTube</a>.
+                </p>
+
+                <h3 class="mt-4">Limitación de Responsabilidad</h3>
+                <p>
+                    Las transcripciones son generadas automáticamente usando IA y pueden contener errores.
+                    <strong>Siempre verifica con el video oficial</strong> para información crítica.
+                </p>
+
+                <h3 class="mt-4">Código Fuente</h3>
+                <p>
+                    El código completo de esta plataforma está disponible en GitHub:
+                </p>
+                <div class="text-center mt-3">
+                    <a href="https://github.com/tu-usuario/asamblea-nacional" class="btn" target="_blank">
+                        Ver en GitHub
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+.env
+
+# API Keys and Secrets
+config.yml
+.env.local
+secrets.yml
+
+# Audio/Video files (never commit these)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.flac
+*.avi
+*.mkv
+*.mov
+data/video/
+data/frames/
+*.jpg
+*.jpeg
+*.png
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# GitHub Actions
+.github/workflows/*.log

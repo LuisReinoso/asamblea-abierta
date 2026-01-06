@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sesión - Asamblea Nacional del Ecuador</title>
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🏛️ Asamblea Nacional del Ecuador</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="download.html">Descargas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <div id="session-loading">
+                <h1>Cargando sesión...</h1>
+            </div>
+
+            <div id="session-content" style="display: none;">
+                <h1 id="session-title"></h1>
+
+                <div class="card mt-3">
+                    <div id="session-metadata"></div>
+                </div>
+
+                <div class="card mt-3">
+                    <h3>Resumen</h3>
+                    <p id="session-summary"></p>
+                </div>
+
+                <div class="card mt-3">
+                    <h3>Temas Discutidos</h3>
+                    <div id="session-topics"></div>
+                </div>
+
+                <div class="card mt-3">
+                    <h3>Palabras Clave</h3>
+                    <div id="session-keywords"></div>
+                </div>
+
+                <div class="card mt-3">
+                    <h3>Transcripción Completa</h3>
+                    <p style="color: var(--text-light); font-size: 0.875rem;">
+                        Transcripción automática generada con IA. Puede contener errores.
+                        <a id="youtube-link" href="#" target="_blank">Ver video oficial en YouTube</a>
+                    </p>
+
+                    <div style="margin: 1rem 0;">
+                        <label>
+                            <input type="checkbox" id="filter-identified" style="margin-right: 0.5rem;">
+                            Mostrar solo segmentos con orador identificado
+                        </label>
+                    </div>
+
+                    <div id="transcript" style="max-height: 600px; overflow-y: auto; background: var(--bg-light); padding: 1rem; border-radius: 4px; margin-top: 1rem;">
+                    </div>
+                </div>
+
+                <div class="card mt-3">
+                    <h3>Descargar Datos</h3>
+                    <p>
+                        <a id="download-json" class="btn" download>Descargar JSON completo</a>
+                    </p>
+                </div>
+            </div>
+
+            <div id="session-error" style="display: none;">
+                <h1>Error</h1>
+                <p>No se pudo cargar la sesión.</p>
+                <a href="sessions.html" class="btn">Volver a Sesiones</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>
+                Plataforma de Transparencia - Asamblea Nacional del Ecuador<br>
+                Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Get session ID from URL parameter
+        const urlParams = new URLSearchParams(window.location.search);
+        const sessionId = urlParams.get('id');
+
+        if (!sessionId) {
+            document.getElementById('session-loading').style.display = 'none';
+            document.getElementById('session-error').style.display = 'block';
+        } else {
+            loadSession(sessionId);
+        }
+
+        async function loadSession(sessionId) {
+            try {
+                // Load session data
+                const response = await fetch(`data/sessions/${sessionId}.json`);
+
+                if (!response.ok) {
+                    throw new Error('Session not found');
+                }
+
+                const session = await response.json();
+
+                // Hide loading, show content
+                document.getElementById('session-loading').style.display = 'none';
+                document.getElementById('session-content').style.display = 'block';
+
+                // Populate page
+                document.getElementById('session-title').textContent = session.title || 'Sesión';
+
+                // Metadata
+                const date = new Date(session.date);
+                const formattedDate = date.toLocaleDateString('es-EC', {
+                    year: 'numeric',
+                    month: 'long',
+                    day: 'numeric'
+                });
+                const durationMinutes = Math.round(session.duration / 60);
+                const speakerCount = session.speaker_stats ? session.speaker_stats.length : 0;
+
+                document.getElementById('session-metadata').innerHTML = `
+                    <p><strong>📅 Fecha:</strong> ${formattedDate}</p>
+                    <p><strong>⏱️ Duración:</strong> ${durationMinutes} minutos (${(durationMinutes/60).toFixed(1)} horas)</p>
+                    <p><strong>🎤 Oradores:</strong> ${speakerCount}</p>
+                    <p><strong>📺 Video:</strong> <a href="${session.source_url}" target="_blank">Ver en YouTube</a></p>
+                `;
+
+                // Summary
+                const summary = session.classification?.summary || 'No disponible';
+                document.getElementById('session-summary').textContent = summary;
+
+                // Topics
+                const topics = session.classification?.topics || [];
+                document.getElementById('session-topics').innerHTML = topics.map(topic =>
+                    `<span style="display: inline-block; background: var(--primary-color); color: white; padding: 0.5rem 1rem; margin: 0.25rem; border-radius: 4px;">${topic}</span>`
+                ).join('');
+
+                // Keywords
+                const keywords = session.classification?.keywords || [];
+                document.getElementById('session-keywords').innerHTML = keywords.map(kw =>
+                    `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.5rem; margin: 0.25rem; border-radius: 4px; font-size: 0.875rem;">${kw}</span>`
+                ).join('');
+
+                // Transcript - render segments with timestamps and speakers
+                const segments = session.segments || [];
+                renderTranscript(segments, session.source_url);
+
+                // Links
+                document.getElementById('youtube-link').href = session.source_url;
+                document.getElementById('download-json').href = `data/sessions/${sessionId}.json`;
+
+                // Filter checkbox
+                document.getElementById('filter-identified').addEventListener('change', (e) => {
+                    renderTranscript(segments, session.source_url, e.target.checked);
+                });
+
+            } catch (error) {
+                console.error('Error loading session:', error);
+                document.getElementById('session-loading').style.display = 'none';
+                document.getElementById('session-error').style.display = 'block';
+            }
+        }
+
+        function formatTime(seconds) {
+            const hours = Math.floor(seconds / 3600);
+            const minutes = Math.floor((seconds % 3600) / 60);
+            const secs = Math.floor(seconds % 60);
+
+            if (hours > 0) {
+                return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+            }
+            return `${minutes}:${secs.toString().padStart(2, '0')}`;
+        }
+
+        function getYouTubeTimestampUrl(baseUrl, seconds) {
+            const timeInSeconds = Math.floor(seconds);
+            return `${baseUrl}&t=${timeInSeconds}s`;
+        }
+
+        function renderTranscript(segments, youtubeUrl, filterIdentified = false) {
+            const container = document.getElementById('transcript');
+
+            if (!segments || segments.length === 0) {
+                container.innerHTML = '<p>Transcripción no disponible</p>';
+                return;
+            }
+
+            // Filter segments if needed
+            const displaySegments = filterIdentified
+                ? segments.filter(seg => seg.speaker && seg.speaker.id !== 'UNIDENTIFIED')
+                : segments;
+
+            if (displaySegments.length === 0) {
+                container.innerHTML = '<p>No hay segmentos con orador identificado</p>';
+                return;
+            }
+
+            // Group consecutive segments by speaker for better readability
+            const grouped = [];
+            let currentGroup = null;
+
+            displaySegments.forEach(segment => {
+                const speakerId = segment.speaker?.id || 'UNIDENTIFIED';
+
+                if (!currentGroup || currentGroup.speakerId !== speakerId) {
+                    if (currentGroup) {
+                        grouped.push(currentGroup);
+                    }
+                    currentGroup = {
+                        speakerId: speakerId,
+                        speakerName: segment.speaker?.name || 'No identificado',
+                        confidence: segment.speaker?.confidence || 0,
+                        start: segment.start,
+                        segments: [segment]
+                    };
+                } else {
+                    currentGroup.segments.push(segment);
+                }
+            });
+
+            if (currentGroup) {
+                grouped.push(currentGroup);
+            }
+
+            // Render grouped segments
+            let html = '';
+            grouped.forEach(group => {
+                const isIdentified = group.speakerId !== 'UNIDENTIFIED';
+                const speakerColor = isIdentified ? 'var(--primary-color)' : 'var(--text-light)';
+                const confidenceText = isIdentified ? ` (${Math.round(group.confidence * 100)}%)` : '';
+
+                const timeUrl = getYouTubeTimestampUrl(youtubeUrl, group.start);
+                const timeLabel = formatTime(group.start);
+
+                html += `
+                    <div style="margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #e0e0e0;">
+                        <div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
+                            <a href="${timeUrl}" target="_blank"
+                               style="color: var(--primary-color); text-decoration: none; font-weight: bold; font-size: 0.875rem; margin-right: 1rem;"
+                               title="Ir al minuto ${timeLabel} en YouTube">
+                                🕒 ${timeLabel}
+                            </a>
+                            <span style="color: ${speakerColor}; font-weight: bold;">
+                                ${group.speakerName}${confidenceText}
+                            </span>
+                        </div>
+                        <div style="line-height: 1.8; color: var(--text-dark);">
+                            ${group.segments.map(seg => seg.text).join(' ')}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
