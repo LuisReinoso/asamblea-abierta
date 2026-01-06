@@ -19,7 +19,7 @@ function setupEventListeners() {
 
 async function loadSessions() {
     try {
-        const response = await fetch('../data/catalog.json');
+        const response = await fetch('./data/catalog.json');
 
         if (!response.ok) {
             displayNoSessions('El catálogo de sesiones no está disponible aún.');

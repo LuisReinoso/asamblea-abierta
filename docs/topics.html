@@ -140,7 +140,7 @@
 
         async function loadTopics() {
             try {
-                const response = await fetch('../data/stats/all-time.json');
+                const response = await fetch('./data/stats/all-time.json');
 
                 if (!response.ok) {
                     document.getElementById('no-data').style.display = 'block';

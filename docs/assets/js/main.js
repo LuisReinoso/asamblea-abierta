@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
  */
 async function loadStatistics() {
     try {
-        const response = await fetch('../data/stats/all-time.json');
+        const response = await fetch('./data/stats/all-time.json');
 
         if (!response.ok) {
             console.warn('Statistics not yet available');
@@ -52,7 +52,7 @@ async function loadStatistics() {
  */
 async function loadRecentSessions() {
     try {
-        const response = await fetch('../data/catalog.json');
+        const response = await fetch('./data/catalog.json');
 
         if (!response.ok) {
             console.warn('Catalog not yet available');

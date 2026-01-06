@@ -71,7 +71,7 @@
                 <h3>Sin estadísticas disponibles</h3>
                 <p>Las estadísticas se generarán una vez que se procesen las sesiones.</p>
                 <p class="mt-2">Mientras tanto, puedes ver el
-                    <a href="../data/speakers/asambleistas.json" target="_blank">listado completo de asambleístas</a>.
+                    <a href="./data/speakers/asambleistas.json" target="_blank">listado completo de asambleístas</a>.
                 </p>
             </div>
         </div>
@@ -103,7 +103,7 @@
 
         async function loadSpeakers() {
             try {
-                const response = await fetch('../data/stats/all-time.json');
+                const response = await fetch('./data/stats/all-time.json');
 
                 if (!response.ok) {
                     document.getElementById('no-data').style.display = 'block';
