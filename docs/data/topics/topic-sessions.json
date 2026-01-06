@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-01-05T22:37:10.139992",
+  "total_topics": 3,
+  "topics": [
+    {
+      "topic": "Derechos Humanos y Participación Ciudadana",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    },
+    {
+      "topic": "Fiscalización y Control",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    },
+    {
+      "topic": "Justicia y Estructura del Estado",
+      "count": 1,
+      "sessions": [
+        {
+          "id": "ryDfRcIyOJI",
+          "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+          "date": "2026-01-05T19:12:45Z"
+        }
+      ]
+    }
+  ]
+}

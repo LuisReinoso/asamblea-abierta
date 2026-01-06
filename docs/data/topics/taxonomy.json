@@ -1,0 +1,96 @@
+{
+  "last_updated": "2026-01-05",
+  "source": "Aligned with Asamblea Nacional parliamentary committees",
+  "categories": [
+    {
+      "id": "derechos-humanos",
+      "name": "Derechos Humanos y Participación Ciudadana",
+      "keywords": ["derechos humanos", "participación", "ciudadanía", "igualdad"]
+    },
+    {
+      "id": "educacion-cultura",
+      "name": "Educación, Cultura y Deporte",
+      "keywords": ["educación", "cultura", "deporte", "universidad", "escuela"]
+    },
+    {
+      "id": "salud-publica",
+      "name": "Salud Pública",
+      "keywords": ["salud", "medicina", "hospital", "sanitario", "pandemia"]
+    },
+    {
+      "id": "desarrollo-economico",
+      "name": "Desarrollo Económico y Productivo",
+      "keywords": ["economía", "desarrollo", "producción", "comercio", "industria"]
+    },
+    {
+      "id": "regimen-tributario",
+      "name": "Régimen Tributario",
+      "keywords": ["impuestos", "tributario", "fiscal", "IVA", "renta"]
+    },
+    {
+      "id": "fiscalizacion",
+      "name": "Fiscalización y Control",
+      "keywords": ["fiscalización", "control", "auditoría", "corrupción", "transparencia"]
+    },
+    {
+      "id": "presupuesto",
+      "name": "Presupuesto General del Estado",
+      "keywords": ["presupuesto", "gasto público", "inversión", "finanzas públicas"]
+    },
+    {
+      "id": "justicia",
+      "name": "Justicia y Estructura del Estado",
+      "keywords": ["justicia", "judicial", "corte", "jueces", "leyes"]
+    },
+    {
+      "id": "soberania",
+      "name": "Soberanía e Integración",
+      "keywords": ["soberanía", "relaciones internacionales", "tratados", "integración"]
+    },
+    {
+      "id": "biodiversidad",
+      "name": "Biodiversidad y Recursos Naturales",
+      "keywords": ["ambiente", "biodiversidad", "recursos naturales", "minería", "petróleo"]
+    },
+    {
+      "id": "gobiernos-autonomos",
+      "name": "Gobiernos Autónomos Descentralizados",
+      "keywords": ["gobiernos locales", "municipios", "prefecturas", "autonomía"]
+    },
+    {
+      "id": "seguridad",
+      "name": "Seguridad Integral",
+      "keywords": ["seguridad", "policía", "fuerzas armadas", "defensa", "crimen"]
+    },
+    {
+      "id": "trabajo",
+      "name": "Derechos de los Trabajadores",
+      "keywords": ["trabajo", "empleo", "salario", "sindicatos", "laboral"]
+    },
+    {
+      "id": "agricultura",
+      "name": "Agricultura y Ganadería",
+      "keywords": ["agricultura", "ganadería", "rural", "campo", "agrario"]
+    },
+    {
+      "id": "comunicacion",
+      "name": "Comunicación e Información",
+      "keywords": ["comunicación", "medios", "prensa", "información", "telecomunicaciones"]
+    },
+    {
+      "id": "infraestructura",
+      "name": "Infraestructura y Transporte",
+      "keywords": ["infraestructura", "transporte", "carreteras", "puentes", "movilidad"]
+    },
+    {
+      "id": "grupos-atencion",
+      "name": "Grupos de Atención Prioritaria",
+      "keywords": ["niñez", "adultos mayores", "discapacidad", "grupos vulnerables"]
+    },
+    {
+      "id": "otros",
+      "name": "Otros Temas",
+      "keywords": ["otros", "varios", "general"]
+    }
+  ]
+}

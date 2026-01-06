@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-01-05T22:37:10.139778",
+  "total_sessions": 1,
+  "sessions": [
+    {
+      "id": "ryDfRcIyOJI",
+      "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+      "date": "2026-01-05T19:12:45Z",
+      "duration": 13946.958,
+      "url": "https://www.youtube.com/watch?v=ryDfRcIyOJI",
+      "file_path": "data/sessions/ryDfRcIyOJI_elevenlabs.json",
+      "speaker_count": 38,
+      "topics": [
+        "Justicia y Estructura del Estado",
+        "Fiscalización y Control",
+        "Derechos Humanos y Participación Ciudadana"
+      ],
+      "keywords": [
+        "Consejo de la Judicatura",
+        "Mario Godoy Naranjo",
+        "comparecencia",
+        "irregularidades judiciales",
+        "fiscalización",
+        "moción",
+        "Andrés Castillo",
+        "situación jurídica laboral",
+        "juez anticorrupción",
+        "responsabilidades institucionales"
+      ],
+      "summary": "En la sesión extraordinaria de la Asamblea Nacional del Ecuador, se llevó a cabo la comparecencia de Mario Godoy Naranjo, presidente del Consejo de la Judicatura, para informar sobre presuntas irregularidades en actuaciones judiciales. La convocatoria fue impulsada por la moción del legislador Andrés Castillo, quien destacó la importancia de la fiscalización y el cumplimiento de la misión constitucional de la Asamblea.",
+      "bills_mentioned": 0
+    }
+  ]
+}

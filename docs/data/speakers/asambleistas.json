@@ -1,0 +1,133 @@
+{
+  "last_updated": "2026-01-05T18:50:00",
+  "source": "Extracted from session transcripts",
+  "total_count": 14,
+  "asambleistas": [
+    {
+      "id": "AN-ADRIÁN-CASTRO",
+      "name": "Adrián Castro",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-ANA-BELÉN",
+      "name": "Ana Belén",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": ["Ana Belén Tapia"]
+    },
+    {
+      "id": "AN-ANDRÉS-CASTILLO",
+      "name": "Andrés Castillo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-FELIPE-RODRÍGUEZ",
+      "name": "Felipe Rodríguez",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-GERARDO-MACHADO",
+      "name": "Gerardo Machado",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-JANET-BUSTOS",
+      "name": "Janet Bustos",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-JAVIER-LAZO",
+      "name": "Javier Lazo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-KEVIN-GALLARDO",
+      "name": "Kevin Gallardo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-LUCÍA-JARAMILLO",
+      "name": "Lucía Jaramillo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": ["Lucía Lizbeth"]
+    },
+    {
+      "id": "AN-MARCO-OLMEDO",
+      "name": "Marco Olmedo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-MARIO-GODOY-NARANJO",
+      "name": "Mario Godoy Naranjo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Presidente del Consejo de la Judicatura",
+      "committee": "Unknown",
+      "alternate_names": ["Mario Godoy"]
+    },
+    {
+      "id": "AN-MARIO-ZAMBRANO",
+      "name": "Mario Zambrano",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-NILS-OLSEN",
+      "name": "Nils Olsen",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": ["Nils Olsen Pitt"]
+    },
+    {
+      "id": "AN-PAOLA-JARAMILLO",
+      "name": "Paola Jaramillo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    }
+  ]
+}
