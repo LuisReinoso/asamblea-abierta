@@ -41,49 +41,138 @@ def load_all_sessions():
     return sessions
 
 
+def _norm_name(s):
+    import unicodedata, re
+    nfkd = unicodedata.normalize('NFKD', s)
+    cleaned = ''.join(c for c in nfkd if not unicodedata.combining(c)).lower()
+    return re.sub(r'\s+', ' ', re.sub(r'[^\w\s]', ' ', cleaned)).strip()
+
+
+def _load_speakers_db():
+    """Load the canonical speakers DB and return a {normalized_name: entry} map."""
+    db_path = PROJECT_ROOT / 'data' / 'speakers' / 'asambleistas.json'
+    if not db_path.exists():
+        return {}
+    data = json.load(open(db_path, encoding='utf-8'))
+    lookup = {}
+    for entry in data.get('asambleistas', []):
+        keys = [entry.get('name', '')] + list(entry.get('alternate_names') or [])
+        for k in keys:
+            if k:
+                lookup[_norm_name(k)] = entry
+    return lookup
+
+
+def _match_speaker(name: str, db_lookup: dict) -> dict | None:
+    """Look up a speaker in the DB. Tries exact, then surname-token match.
+
+    Surname-token: a long OCR'd name like "Adrián Ernesto Castro Piedra" is
+    matched to the DB entry "Adrián Castro" if the *first and last* tokens
+    of the OCR name match the first and last of the DB entry (handles both
+    legal-name padding in the middle and family-name suffix dropping).
+    """
+    key = _norm_name(name)
+    if not key:
+        return None
+    if key in db_lookup:
+        return db_lookup[key]
+    cand_tokens = key.split()
+    if len(cand_tokens) < 2:
+        return None
+    cand_first, cand_last = cand_tokens[0], cand_tokens[-1]
+    best = None
+    for db_key, entry in db_lookup.items():
+        db_tokens = db_key.split()
+        if len(db_tokens) < 2:
+            continue
+        db_first, db_last = db_tokens[0], db_tokens[-1]
+        # Both first+last match, or both names contain the same first+last pair
+        if cand_first == db_first and (
+            cand_last == db_last
+            or db_last in cand_tokens
+            or cand_last in db_tokens
+        ):
+            best = entry
+            break
+    return best
+
+
+# Tokens that PaddleOCR sometimes picks up from the lower-third banner but
+# that are not personal names. They are *not* speakers and must not appear
+# in the aggregated stats.
+_BANNER_NOISE = {
+    'asambleista nacional', 'asamblea nacional',
+    'comision general', 'pleno asamblea',
+    'pichincha adn', 'guayas adn',
+    'comps cordova',  # consistent OCR garble — review separately
+}
+def _is_banner_noise(name: str) -> bool:
+    n = _norm_name(name)
+    if not n:
+        return True
+    if n in _BANNER_NOISE:
+        return True
+    # Province + " - " + party patterns ("Pichincha - ADN")
+    import re
+    if re.fullmatch(r'[a-z]+\s*[a-z]+', n) and any(prov in n for prov in [
+        'pichincha', 'guayas', 'azuay', 'manabi', 'tungurahua', 'imbabura', 'loja', 'cotopaxi'
+    ]):
+        return True
+    return False
+
+
 def generate_speaker_stats(sessions):
-    """Generate speaker participation statistics"""
+    """Generate per-speaker participation statistics.
+
+    Aggregates by NAME (not speaker_id) because diarization speaker_ids
+    are local to a session — speaker_0 in session A is not speaker_0 in
+    session B. Joins each aggregated entry with the canonical speakers DB
+    to surface `type` (asambleísta | comparecencia | prensa | otro), party,
+    province, and role.
+    """
+    db = _load_speakers_db()
     speaker_stats = defaultdict(lambda: {
         'total_time': 0,
         'total_interventions': 0,
         'sessions_attended': set(),
-        'topics_discussed': set()
+        'topics_discussed': set(),
     })
 
     for session in sessions:
         session_id = session.get('id', 'unknown')
-        speaker_list = session.get('speaker_stats', [])
-
-        for speaker in speaker_list:
-            speaker_id = speaker['id']
-            if speaker_id == 'UNIDENTIFIED':
+        for speaker in session.get('speaker_stats', []):
+            name = speaker.get('name')
+            if not name or name == 'No identificado':
                 continue
-
-            stats = speaker_stats[speaker_id]
-            stats['id'] = speaker_id
-            stats['name'] = speaker['name']
-            stats['party'] = speaker.get('party')
-            stats['province'] = speaker.get('province')
+            if _is_banner_noise(name):
+                continue
+            # Use the canonical DB name as aggregation key when we can match,
+            # so the long OCR name and the short DB name aggregate together.
+            canonical = _match_speaker(name, db)
+            key = _norm_name(canonical['name']) if canonical else _norm_name(name)
+            stats = speaker_stats[key]
+            stats['name'] = (canonical or {}).get('name') or stats.get('name') or name
+            stats['_canonical'] = canonical
             stats['total_time'] += speaker.get('total_time', 0)
             stats['total_interventions'] += speaker.get('interventions', 0)
             stats['sessions_attended'].add(session_id)
-
-            # Add topics from this session
             for topic in session.get('classification', {}).get('topics', []):
                 stats['topics_discussed'].add(topic)
 
-    # Convert sets to counts
     result = []
-    for speaker_id, stats in speaker_stats.items():
+    for key, stats in speaker_stats.items():
+        canonical = stats.get('_canonical')
         result.append({
-            'id': stats['id'],
-            'name': stats['name'],
-            'party': stats.get('party'),
-            'province': stats.get('province'),
+            'id': canonical['id'] if canonical else key.upper().replace(' ', '-'),
+            'name': canonical['name'] if canonical else stats['name'],
+            'type': (canonical or {}).get('type', 'desconocido'),
+            'role': (canonical or {}).get('role'),
+            'party': (canonical or {}).get('party'),
+            'province': (canonical or {}).get('province'),
             'total_time': stats['total_time'],
             'total_interventions': stats['total_interventions'],
             'sessions_attended': len(stats['sessions_attended']),
-            'topics_discussed': len(stats['topics_discussed'])
+            'topics_discussed': len(stats['topics_discussed']),
         })
 
     # Sort by total time (descending)

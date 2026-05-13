@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T15:30:00",
+  "last_updated": "2026-05-13T07:00:00",
   "source": "Extracted from session transcripts",
   "total_count": 18,
   "asambleistas": [
@@ -10,7 +10,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-ANA-BELÉN",
@@ -21,7 +22,8 @@
       "committee": "Unknown",
       "alternate_names": [
         "Ana Belén Tapia"
-      ]
+      ],
+      "type": "asambleísta"
     },
     {
       "id": "AN-ANDRÉS-CASTILLO",
@@ -30,7 +32,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-FELIPE-RODRÍGUEZ",
@@ -39,7 +42,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-GERARDO-MACHADO",
@@ -48,7 +52,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-JANET-BUSTOS",
@@ -57,7 +62,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-JAVIER-LAZO",
@@ -66,7 +72,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-KEVIN-GALLARDO",
@@ -75,7 +82,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-LUCÍA-JARAMILLO",
@@ -86,7 +94,8 @@
       "committee": "Unknown",
       "alternate_names": [
         "Lucía Lizbeth"
-      ]
+      ],
+      "type": "asambleísta"
     },
     {
       "id": "AN-MARCO-OLMEDO",
@@ -95,7 +104,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-MARIO-GODOY-NARANJO",
@@ -106,7 +116,8 @@
       "committee": "Unknown",
       "alternate_names": [
         "Mario Godoy"
-      ]
+      ],
+      "type": "comparecencia"
     },
     {
       "id": "AN-MARIO-ZAMBRANO",
@@ -115,7 +126,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-NILS-OLSEN",
@@ -126,7 +138,8 @@
       "committee": "Unknown",
       "alternate_names": [
         "Nils Olsen Pitt"
-      ]
+      ],
+      "type": "asambleísta"
     },
     {
       "id": "AN-PAOLA-JARAMILLO",
@@ -135,7 +148,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-ANDRES-CASTILLO-MALDONADO",
@@ -146,7 +160,8 @@
       "committee": "Unknown",
       "alternate_names": [
         "Andrés Castillo"
-      ]
+      ],
+      "type": "asambleísta"
     },
     {
       "id": "AN-XAVIER-LASSO",
@@ -155,7 +170,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-GIOVANNY-BRAVO",
@@ -164,7 +180,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     },
     {
       "id": "AN-ANDRES-GUSCHMER",
@@ -173,7 +190,8 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": []
+      "alternate_names": [],
+      "type": "asambleísta"
     }
   ]
 }
