@@ -38,7 +38,17 @@
             </div>
 
             <div class="mt-4">
-                <label for="filter-party">Filtrar por partido:</label>
+                <label for="filter-type">Tipo:</label>
+                <select id="filter-type" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="asambleísta">Solo asambleístas</option>
+                    <option value="">Todos los oradores</option>
+                    <option value="comparecencia">Comparecencias</option>
+                    <option value="prensa">Prensa</option>
+                    <option value="otro">Otros</option>
+                    <option value="desconocido">Sin clasificar</option>
+                </select>
+
+                <label for="filter-party" style="margin-left: 1rem;">Partido:</label>
                 <select id="filter-party" style="padding: 0.5rem; margin-left: 0.5rem;">
                     <option value="">Todos los partidos</option>
                 </select>
@@ -97,6 +107,7 @@
 
         function setupEventListeners() {
             document.getElementById('search-input').addEventListener('input', filterSpeakers);
+            document.getElementById('filter-type').addEventListener('change', filterSpeakers);
             document.getElementById('filter-party').addEventListener('change', filterSpeakers);
             document.getElementById('sort-by').addEventListener('change', sortAndDisplaySpeakers);
         }
@@ -150,12 +161,16 @@
 
         function filterSpeakers() {
             const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const selectedType = document.getElementById('filter-type').value;
             const selectedParty = document.getElementById('filter-party').value;
 
             filteredSpeakers = allSpeakers.filter(speaker => {
                 const matchesSearch = !searchTerm || speaker.name.toLowerCase().includes(searchTerm);
+                // Missing `type` defaults to 'asambleísta' for backward compat
+                const speakerType = speaker.type || 'asambleísta';
+                const matchesType = !selectedType || speakerType === selectedType;
                 const matchesParty = !selectedParty || speaker.party === selectedParty;
-                return matchesSearch && matchesParty;
+                return matchesSearch && matchesType && matchesParty;
             });
 
             sortAndDisplaySpeakers();
@@ -194,7 +209,11 @@
 
             container.style.display = 'grid';
             noResults.style.display = 'none';
-            countElement.textContent = `Mostrando ${filteredSpeakers.length} de ${allSpeakers.length} asambleístas`;
+            const selectedType = document.getElementById('filter-type').value;
+            const label = selectedType
+                ? (TYPE_LABEL[selectedType] || selectedType).toLowerCase() + 's'
+                : 'oradores';
+            countElement.textContent = `Mostrando ${filteredSpeakers.length} de ${allSpeakers.length} ${label}`;
 
             container.innerHTML = '';
 
@@ -204,18 +223,33 @@
             });
         }
 
+        const TYPE_LABEL = {
+            'asambleísta': 'Asambleísta',
+            'comparecencia': 'Comparecencia',
+            'prensa': 'Prensa',
+            'otro': 'Otro',
+            'desconocido': 'Sin clasificar',
+        };
+
         function createSpeakerCard(speaker) {
             const card = document.createElement('div');
             card.className = 'card';
 
             const totalMinutes = Math.round(speaker.total_time / 60);
             const totalHours = (totalMinutes / 60).toFixed(1);
+            const speakerType = speaker.type || 'asambleísta';
+            const typeBadge = TYPE_LABEL[speakerType] || speakerType;
+            const roleLine = speaker.role && speakerType !== 'asambleísta'
+                ? `<p class="card-meta"><em>${speaker.role}</em></p>` : '';
 
             card.innerHTML = `
                 <h3 class="card-title">${speaker.name}</h3>
                 <p class="card-meta">
-                    ${speaker.party || 'Sin partido'} • ${speaker.province || 'Sin provincia'}
+                    <span style="display:inline-block;padding:0.1rem 0.5rem;background:#eef;border-radius:0.3rem;font-size:0.8rem;">${typeBadge}</span>
+                    ${speaker.party && speaker.party !== 'Unknown' ? '• ' + speaker.party : ''}
+                    ${speaker.province && speaker.province !== 'Unknown' ? '• ' + speaker.province : ''}
                 </p>
+                ${roleLine}
                 <div class="card-content">
                     <p><strong>⏱️ Tiempo total:</strong> ${totalHours} horas</p>
                     <p><strong>🎤 Intervenciones:</strong> ${speaker.total_interventions}</p>
