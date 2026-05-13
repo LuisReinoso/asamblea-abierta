@@ -1,0 +1,142 @@
+{
+  "text": "la moción en ejercicio de sus atribuciones constitucionales y legales resuelve artículo 1  aceptar la solicitud de licencia presentada por el señor presidente constitucional de la república  del ecuador daniel nobo asin constante en oficio número t.2 tps-sgj-25-0228 de 18 de diciembre  2025 en atención a lo expuesto la licencia regirá desde el jueves primero de enero al domingo 18 de  enero de 2026 incluido de conformidad con lo establecido en el artículo 146 de la constitución  de la república y el artículo 42 de la ley orgánica de la función legislativa artículo 2 disponer a la  secretaría general de la asamblea nacional del ecuador notificar la presente resolución al señor  presidente de la república a la señora vicepresidenta de la república y al consejo nacional electoral para  los fines constitucionales y legales correspondientes dado y suscrito en la sede de la asamblea nacional  ubicada en el distrito metropolitano de quito provincia de pichincha a los 19 días del mes del  año de diciembre del año 2025 hasta aquí la lectura de la moción señor presidente procedo a tomar votación  señoras y señores asambleístas por favor registrar su participación en las curules electrónicas de  existir alguna novedad por favor informar a esta secretaría  y Cierre, registro. señor secretario Me permito informar, señor presidente, que contamos con 150 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Johnny Lavallén.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor Operador Presente los resultados. Señor presidente, me permito informar que de un total de 150 asambleístas  presentes contamos con 81 votos afirmativos, 63 negativos, 0 blancos, 6 abstenciones. Por  tanto, la moción presentada por el asambleísta Johnny Lavallén ha sido aprobada.",
+  "language": "es",
+  "duration": 550.78,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 74.45,
+      "text": "la moción en ejercicio de sus atribuciones constitucionales y legales resuelve artículo 1  aceptar la solicitud de licencia presentada por el señor presidente constitucional de la república  del ecuador daniel nobo asin constante en oficio número t.2 tps-sgj-25-0228 de 18 de diciembre  2025 en atención a lo expuesto la licencia regirá desde el jueves primero de enero al domingo 18 de  enero de 2026 incluido de conformidad con lo establecido en el artículo 146 de la constitución  de la república y el artículo 42 de la ley orgánica de la función legislativa artículo 2 disponer a la  secretaría general de la asamblea nacional del ecuador notificar la presente resolución al señor  presidente de la república a la señora vicepresidenta de la república y al consejo nacional electoral para  los fines constitucionales y legales correspondientes dado y suscrito en la sede de la asamblea nacional  ubicada en el distrito metropolitano de quito provincia de pichincha a los 19 días del mes del  año de diciembre del año 2025 hasta aquí la lectura de la moción señor presidente procedo a tomar votación  señoras y señores asambleístas por favor registrar su participación en las curules electrónicas de  existir alguna novedad por favor informar a esta secretaría  y",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 417.15,
+      "end": 418.02,
+      "text": "Cierre, registro.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 418.02,
+      "end": 418.92,
+      "text": "señor secretario",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 421.92,
+      "end": 437.01,
+      "text": "Me permito informar, señor presidente, que contamos con 150 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Johnny Lavallén.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 523.61,
+      "end": 525.43,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 530.51,
+      "end": 532.03,
+      "text": "Señor Operador Presente",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 532.03,
+      "end": 550.56,
+      "text": "los resultados. Señor presidente, me permito informar que de un total de 150 asambleístas  presentes contamos con 81 votos afirmativos, 63 negativos, 0 blancos, 6 abstenciones. Por  tanto, la moción presentada por el asambleísta Johnny Lavallén ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "79H_REo2aHo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asamblea Nacional": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Johnny Lavayén - Sesión 059",
+  "url": "https://www.youtube.com/watch?v=79H_REo2aHo",
+  "published_at": "2025-12-29T17:54:17Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "79H_REo2aHo",
+  "date": "2025-12-29T17:54:17Z",
+  "source_url": "https://www.youtube.com/watch?v=79H_REo2aHo",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 113.15,
+      "interventions": 7,
+      "word_count": 293
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Señor presidente, muchas gracias. Con pena debo indicar que eso no consta en el nuevo informe presentado al Pleno  y me parece que el asambleísta que me precede ha leído el informe previo al corregido.  Entonces sí sería oportuno y les invito a todos los colegas asambleístas a que estén siempre atentos  a leer la información enviada puntual. Esta no es el nuevo informe al asambleísta que me precedió.  Eso era todo, presidente. Muchas gracias.",
+  "language": "es",
+  "duration": 39.33,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.27,
+      "end": 38.78,
+      "text": "Señor presidente, muchas gracias. Con pena debo indicar que eso no consta en el nuevo informe presentado al Pleno  y me parece que el asambleísta que me precede ha leído el informe previo al corregido.  Entonces sí sería oportuno y les invito a todos los colegas asambleístas a que estén siempre atentos  a leer la información enviada puntual. Esta no es el nuevo informe al asambleísta que me precedió.  Eso era todo, presidente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "GjMweeXYgzk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Juan José Reyes Baquerizo": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Juan Reyes - Sesión 057 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=GjMweeXYgzk",
+  "published_at": "2025-12-29T17:41:53Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "GjMweeXYgzk",
+  "date": "2025-12-29T17:41:53Z",
+  "source_url": "https://www.youtube.com/watch?v=GjMweeXYgzk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 38.51,
+      "interventions": 1,
+      "word_count": 75
+    }
+  ]
+}
