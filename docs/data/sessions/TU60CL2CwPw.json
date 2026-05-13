@@ -1,0 +1,164 @@
+{
+  "text": "La reconsideración tiene la palabra. el asambleísta Reyes.  Gracias, presidente.  Por favor, quisiera pedir la reconsideración de la votación  de la moción del proyecto de lo que he presentado. Muchas gracias.  Señor secretario, tomé votación sobre la reconsideración planteada. A su disposición, señor presidente, señoras y señores asambleístas, por favor registrar  su participación en las curules electrónicas. De existir alguna novedad, por favor informar  a esta secretaría. Cierre el registro, señor secretario. Me permite informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Juan José Reyes.  Señoras y señores asambleístas, por favor, consigan. Proclame el resultado, señor secretario. Señor operador presente, los resultados. Señor presidente, me permite informar que de un total de 140 asambleístas presentes, contamos con 57 votos afirmativos, 81 votos negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por el asambleísta Juan José Reyes no ha sido aprobada.",
+  "language": "es",
+  "duration": 244.46,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.04,
+      "text": "La reconsideración tiene la palabra.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 2.04,
+      "end": 17.93,
+      "text": "el asambleísta Reyes.  Gracias, presidente.  Por favor, quisiera pedir la reconsideración de la votación  de la moción del proyecto de lo que he presentado.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 18.73,
+      "end": 23.64,
+      "text": "Muchas gracias.  Señor secretario, tomé votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 24.52,
+      "end": 35.01,
+      "text": "A su disposición, señor presidente, señoras y señores asambleístas, por favor registrar  su participación en las curules electrónicas. De existir alguna novedad, por favor informar  a esta secretaría.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 133.73,
+      "end": 142.81,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 142.81,
+      "end": 157.04,
+      "text": "Me permite informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Juan José Reyes.  Señoras y señores asambleístas, por favor, consigan.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 157.04,
+      "end": 219.86,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 224.11,
+      "end": 244.21,
+      "text": "Señor operador presente, los resultados. Señor presidente, me permite informar que de un total de 140 asambleístas presentes, contamos con 57 votos afirmativos, 81 votos negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por el asambleísta Juan José Reyes no ha sido aprobada.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "TU60CL2CwPw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Plenio": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_3": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Reconsideración de la votación de la moción del asambleísta Juan José Reyes - Sesión 057",
+  "url": "https://www.youtube.com/watch?v=TU60CL2CwPw",
+  "published_at": "2025-12-24T00:25:38Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "TU60CL2CwPw",
+  "date": "2025-12-24T00:25:38Z",
+  "source_url": "https://www.youtube.com/watch?v=TU60CL2CwPw",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 139.53,
+      "interventions": 8,
+      "word_count": 159
+    }
+  ]
+}

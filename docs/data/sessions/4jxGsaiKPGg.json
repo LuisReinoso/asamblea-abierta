@@ -1,0 +1,152 @@
+{
+  "text": "Señor presidente, solicito la reconsideración de lo votado. Señor secretario, tomé votación sobre la reconsideración planteada. A su disposición, señor presidente, señoras y señores asamblistas, por favor registrar  su participación en las curules electrónicas. De existir alguna novedad, por favor informar  a esta secretaría. Cierre registro, señor secretario.  Me permite informar, señor presidente, que contamos con 145. 5 asambleístas registrados. Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración  planteada por el asambleísta Johnny Lavallén. Señoras y señores asambleístas, por favor  consignar su voto. Señor Secretario, proclame resultados. Señor Operador, presente los resultados. Señor Presidente, me permito informar que de un total de 145 asamblistas presentes contamos con 60 votos afirmativos, 83 negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por el asamblista Johnny Lavallén no ha sido aprobada.",
+  "language": "es",
+  "duration": 212.79,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.06,
+      "end": 8.54,
+      "text": "Señor presidente, solicito la reconsideración de lo votado.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 12.4,
+      "end": 15.42,
+      "text": "Señor secretario, tomé votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 16.48,
+      "end": 26.25,
+      "text": "A su disposición, señor presidente, señoras y señores asamblistas, por favor registrar  su participación en las curules electrónicas. De existir alguna novedad, por favor informar  a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 130.05,
+      "end": 138.03,
+      "text": "Cierre registro, señor secretario.  Me permite informar, señor presidente, que contamos con 145.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 138.03,
+      "end": 150.88,
+      "text": "5 asambleístas registrados. Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración  planteada por el asambleísta Johnny Lavallén. Señoras y señores asambleístas, por favor  consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 187.6,
+      "end": 189.55,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 192.79,
+      "end": 212.35,
+      "text": "Señor Operador, presente los resultados. Señor Presidente, me permito informar que de un total de 145 asamblistas presentes contamos con 60 votos afirmativos, 83 negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por el asamblista Johnny Lavallén no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "4jxGsaiKPGg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asamblea Naciona": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_3": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 1,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Reconsideración de la votación del asambleísta Johnny Lavayén - Sesión 059",
+  "url": "https://www.youtube.com/watch?v=4jxGsaiKPGg",
+  "published_at": "2025-12-29T18:00:09Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "4jxGsaiKPGg",
+  "date": "2025-12-29T18:00:09Z",
+  "source_url": "https://www.youtube.com/watch?v=4jxGsaiKPGg",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 58.61,
+      "interventions": 7,
+      "word_count": 134
+    }
+  ]
+}

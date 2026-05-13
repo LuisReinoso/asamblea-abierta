@@ -1,0 +1,52 @@
+{
+  "text": "Asambleísta Javier Lazo. Gracias, presidente. Yo quisiera empezar diciendo, presidente, que ante la finura de la verdad se escoge la vulgaridad de los prejuicios y la mentira. ¿Hasta cuándo seguimos en estos ejercicios que pretenden distraernos?  Hoy no estamos ante un trámite informativo. Estamos, debemos estar ante una rendición de cuentas. Y si se ha hablado de que no tenemos que dar pasos a zainetes, yo quiero respaldar la moción con las observaciones que ha hecho el compañero Raúl Chávez.  Tiene que ser en un plazo de máximo 48 horas. Es decir, que usted nos convoque a un pleno presencial el día martes para dar paso a la rendición de cuentas que tiene que darnos el señor Mario Godoy.  Y para mí lo ideal sería que sea ante la Comisión de Justicia, en el salón, por ejemplo, Tránsito Amaguaña, para que quepan ahí todos los asambleístas, hombres y mujeres que quieran participar para exigir la rendición de cuentas del señor Mario Godoy.  Insisto, insisto, este órgano que disciplina a jueces y fiscales no puede seguir actuando como lo ha venido haciendo el Consejo de la Judicatura en estos tiempos.  No quiero yo recordar cómo llegó el señor Mario Godoy a presidir el Consejo de la Judicatura.  No quiero entrar en esas inútiles discusiones ante la gravedad del tema y no creo que debemos de convocarnos de manera presencial o que usted deba convocarnos de manera presencial para el próximo martes y no esperar tanto tiempo solo porque la ciudadanía tiene que vernos que estamos trabajando.  Sí, tiene que vernos que estamos trabajando, pero eso no es lo fundamental.  Lo fundamental es corregir todo lo que está mal en este país.  Con su venia, señor presidente, yo me voy a permitir leer el numeral 3 del artículo 180 referente a la sección quinta, Consejo de la Judicatura, Constitución de la República del Ecuador.  Ese numeral 3 dice haber ejercido con probidad e idoneidad notoria la profesión o la docencia universitaria en derecho o en las materias afines a las funciones propias del Consejo por un lapso mínimo de 10 años.  Y ante la probidad notoria que exige la Constitución de la República frente al señor Godoy tenemos dudas notorias que nos obligan a actuar inmediatamente.  Por eso me sumo al proceso de fiscalización que tenemos que iniciar lo más pronto posible en un plazo máximo de 48 horas.  Y la variante que yo también propongo es que sea ante la Comisión de Justicia para evitar los ainetes precisamente porque en el pleno nos podemos desviar hacia allá, al espectáculo, al show.  En la Comisión de Justicia la cosa podría ser más precisa y más técnica, no en el salón normal de la Comisión de Justicia, insisto, por ejemplo, en el salón tránsito a Maguaña.  Suspender este receso legislativo creo que es lo que cabe, señor presidente. Gracias.",
+  "language": "es",
+  "duration": 222.96,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 220.74,
+      "text": "Asambleísta Javier Lazo. Gracias, presidente. Yo quisiera empezar diciendo, presidente, que ante la finura de la verdad se escoge la vulgaridad de los prejuicios y la mentira. ¿Hasta cuándo seguimos en estos ejercicios que pretenden distraernos?  Hoy no estamos ante un trámite informativo. Estamos, debemos estar ante una rendición de cuentas. Y si se ha hablado de que no tenemos que dar pasos a zainetes, yo quiero respaldar la moción con las observaciones que ha hecho el compañero Raúl Chávez.  Tiene que ser en un plazo de máximo 48 horas. Es decir, que usted nos convoque a un pleno presencial el día martes para dar paso a la rendición de cuentas que tiene que darnos el señor Mario Godoy.  Y para mí lo ideal sería que sea ante la Comisión de Justicia, en el salón, por ejemplo, Tránsito Amaguaña, para que quepan ahí todos los asambleístas, hombres y mujeres que quieran participar para exigir la rendición de cuentas del señor Mario Godoy.  Insisto, insisto, este órgano que disciplina a jueces y fiscales no puede seguir actuando como lo ha venido haciendo el Consejo de la Judicatura en estos tiempos.  No quiero yo recordar cómo llegó el señor Mario Godoy a presidir el Consejo de la Judicatura.  No quiero entrar en esas inútiles discusiones ante la gravedad del tema y no creo que debemos de convocarnos de manera presencial o que usted deba convocarnos de manera presencial para el próximo martes y no esperar tanto tiempo solo porque la ciudadanía tiene que vernos que estamos trabajando.  Sí, tiene que vernos que estamos trabajando, pero eso no es lo fundamental.  Lo fundamental es corregir todo lo que está mal en este país.  Con su venia, señor presidente, yo me voy a permitir leer el numeral 3 del artículo 180 referente a la sección quinta, Consejo de la Judicatura, Constitución de la República del Ecuador.  Ese numeral 3 dice haber ejercido con probidad e idoneidad notoria la profesión o la docencia universitaria en derecho o en las materias afines a las funciones propias del Consejo por un lapso mínimo de 10 años.  Y ante la probidad notoria que exige la Constitución de la República frente al señor Godoy tenemos dudas notorias que nos obligan a actuar inmediatamente.  Por eso me sumo al proceso de fiscalización que tenemos que iniciar lo más pronto posible en un plazo máximo de 48 horas.  Y la variante que yo también propongo es que sea ante la Comisión de Justicia para evitar los ainetes precisamente porque en el pleno nos podemos desviar hacia allá, al espectáculo, al show.  En la Comisión de Justicia la cosa podría ser más precisa y más técnica, no en el salón normal de la Comisión de Justicia, insisto, por ejemplo, en el salón tránsito a Maguaña.  Suspender este receso legislativo creo que es lo que cabe, señor presidente. Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "soaMYDl2mHU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_1": {
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Julio Vicente Patricio Xavier Lasso Mendoza": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Xavier Lasso - Sesión 060",
+  "url": "https://www.youtube.com/watch?v=soaMYDl2mHU",
+  "published_at": "2025-12-29T18:30:38Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "soaMYDl2mHU",
+  "date": "2025-12-29T18:30:38Z",
+  "source_url": "https://www.youtube.com/watch?v=soaMYDl2mHU",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "party": null,
+      "province": null,
+      "total_time": 220.71,
+      "interventions": 1,
+      "word_count": 476
+    }
+  ]
+}
