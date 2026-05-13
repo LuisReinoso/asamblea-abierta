@@ -275,6 +275,22 @@ def main():
         extra = f" [{r['error']}]" if r.get("error") else ""
         log(f"  {status} {r['video_id']}  {r.get('total_time','?')}s{extra}")
 
+    # Rebuild site data + mirror to docs/data so GitHub Pages picks up the
+    # changes. Skipped if nothing succeeded — no point rebuilding an unchanged
+    # catalog and risking masking an upstream failure.
+    if successes > 0:
+        log("")
+        log("Rebuilding site data (stats, search index, catalog)…")
+        for script in ("06_generate_stats.py", "07_build_search_index.py", "08_update_catalog.py"):
+            rc = subprocess.call(
+                [sys.executable, "-u", str(PROJECT_ROOT / "scripts" / "pipeline" / script)],
+                stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT,
+            )
+            if rc != 0:
+                log(f"  ⚠ {script} exited with code {rc}")
+            else:
+                log(f"  ✓ {script}")
+
     return 0 if successes == len(results) else 1
 
 

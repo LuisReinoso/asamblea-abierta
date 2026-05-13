@@ -10,6 +10,8 @@ import os
 import sys
 import json
 import argparse
+import filecmp
+import shutil
 from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
@@ -17,6 +19,78 @@ from collections import defaultdict
 # Add project root to path
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 sys.path.append(str(PROJECT_ROOT))
+
+
+# ---------------------------------------------------------------------------
+# Static-site data sync
+# ---------------------------------------------------------------------------
+# GitHub Pages cannot follow symlinks, so docs/data is a real copy of data/.
+# Every time the site is rebuilt we mirror data/ → docs/data/, and we also
+# warn at the start if the two trees were out of sync (so manual edits to one
+# but not the other don't slip through).
+
+def _list_relative(root: Path) -> set:
+    return {p.relative_to(root) for p in root.rglob("*") if p.is_file()}
+
+
+def check_docs_data_sync(verbose: bool = True) -> tuple[bool, list[str]]:
+    """Return (in_sync, list_of_drift_paths). Compares data/ ↔ docs/data/."""
+    src = PROJECT_ROOT / "data"
+    dst = PROJECT_ROOT / "docs" / "data"
+    if not dst.exists():
+        return False, ["docs/data does not exist"]
+    drift: list[str] = []
+    src_files = _list_relative(src)
+    dst_files = _list_relative(dst)
+    for rel in sorted(src_files - dst_files):
+        drift.append(f"missing in docs/data: {rel}")
+    for rel in sorted(dst_files - src_files):
+        drift.append(f"stale in docs/data: {rel}")
+    for rel in sorted(src_files & dst_files):
+        if not filecmp.cmp(src / rel, dst / rel, shallow=False):
+            drift.append(f"differs: {rel}")
+    if drift and verbose:
+        print(f"⚠ docs/data is out of sync with data/ ({len(drift)} differences)")
+    return len(drift) == 0, drift
+
+
+def sync_docs_data() -> tuple[int, int, int]:
+    """Mirror data/ → docs/data/. Returns (copied, deleted, unchanged)."""
+    src = PROJECT_ROOT / "data"
+    dst = PROJECT_ROOT / "docs" / "data"
+    dst.mkdir(parents=True, exist_ok=True)
+    copied = deleted = unchanged = 0
+
+    src_files = _list_relative(src)
+    dst_files = _list_relative(dst)
+
+    # Copy new + changed
+    for rel in src_files:
+        s = src / rel
+        d = dst / rel
+        if d.exists() and filecmp.cmp(s, d, shallow=False):
+            unchanged += 1
+            continue
+        d.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(s, d)
+        copied += 1
+
+    # Remove orphan files in docs/data that no longer exist in data/
+    for rel in dst_files - src_files:
+        try:
+            (dst / rel).unlink()
+            deleted += 1
+        except OSError:
+            pass
+
+    # Clean up empty directories in docs/data
+    for d in sorted((p for p in dst.rglob("*") if p.is_dir()), reverse=True):
+        try:
+            d.rmdir()
+        except OSError:
+            pass
+
+    return copied, deleted, unchanged
 
 
 def load_all_sessions():
@@ -144,6 +218,15 @@ def main():
     print("08_UPDATE_CATALOG - Update Session Catalog")
     print("="*60)
 
+    # Sanity check: warn if data/ and docs/data/ have drifted (manual edits).
+    in_sync, drift = check_docs_data_sync(verbose=True)
+    if not in_sync:
+        for line in drift[:5]:
+            print(f"    {line}")
+        if len(drift) > 5:
+            print(f"    … and {len(drift) - 5} more")
+        print("  → will be reconciled by the final sync step below")
+
     # Load all sessions
     print("Loading session data...")
     sessions = load_all_sessions()
@@ -206,6 +289,11 @@ def main():
         print(f"\nTop 5 topics by session count:")
         for topic in topic_mapping[:5]:
             print(f"  • {topic['topic']}: {topic['count']} sessions")
+
+    # Mirror data/ → docs/data/ so GitHub Pages serves the fresh files.
+    print("\nSyncing docs/data/ from data/ for GitHub Pages…")
+    copied, deleted, unchanged = sync_docs_data()
+    print(f"  copied/updated: {copied}   deleted: {deleted}   unchanged: {unchanged}")
 
     print("\n" + "="*60)
     print(f"COMPLETE - Catalog updated successfully")
