@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-05T18:50:00",
+  "last_updated": "2026-05-12T15:30:00",
   "source": "Extracted from session transcripts",
-  "total_count": 14,
+  "total_count": 18,
   "asambleistas": [
     {
       "id": "AN-ADRIÁN-CASTRO",
@@ -19,7 +19,9 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": ["Ana Belén Tapia"]
+      "alternate_names": [
+        "Ana Belén Tapia"
+      ]
     },
     {
       "id": "AN-ANDRÉS-CASTILLO",
@@ -82,7 +84,9 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": ["Lucía Lizbeth"]
+      "alternate_names": [
+        "Lucía Lizbeth"
+      ]
     },
     {
       "id": "AN-MARCO-OLMEDO",
@@ -100,7 +104,9 @@
       "province": "Unknown",
       "role": "Presidente del Consejo de la Judicatura",
       "committee": "Unknown",
-      "alternate_names": ["Mario Godoy"]
+      "alternate_names": [
+        "Mario Godoy"
+      ]
     },
     {
       "id": "AN-MARIO-ZAMBRANO",
@@ -118,11 +124,51 @@
       "province": "Unknown",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": ["Nils Olsen Pitt"]
+      "alternate_names": [
+        "Nils Olsen Pitt"
+      ]
     },
     {
       "id": "AN-PAOLA-JARAMILLO",
       "name": "Paola Jaramillo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-ANDRES-CASTILLO-MALDONADO",
+      "name": "Andrés Castillo Maldonado",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Andrés Castillo"
+      ]
+    },
+    {
+      "id": "AN-XAVIER-LASSO",
+      "name": "Xavier Lasso",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-GIOVANNY-BRAVO",
+      "name": "Giovanny Bravo",
+      "party": "Unknown",
+      "province": "Unknown",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": []
+    },
+    {
+      "id": "AN-ANDRES-GUSCHMER",
+      "name": "Andrés Guschmer",
       "party": "Unknown",
       "province": "Unknown",
       "role": "Asambleísta",
