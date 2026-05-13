@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T22:25:20.974341",
-  "total_sessions": 1,
+  "generated_at": "2026-05-13T01:29:18.295467",
+  "total_sessions": 50,
   "speaker_stats": [
     {
       "id": "speaker_6",
@@ -10,6 +10,36 @@
       "total_time": 4514.2,
       "total_interventions": 49,
       "sessions_attended": 1,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_0",
+      "name": "Eliana Katherine Correa González",
+      "party": null,
+      "province": null,
+      "total_time": 2687.8799999999997,
+      "total_interventions": 17,
+      "sessions_attended": 11,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_1",
+      "name": "Mauricio Xavier Ordoñez Fuentes",
+      "party": null,
+      "province": null,
+      "total_time": 2044.94,
+      "total_interventions": 32,
+      "sessions_attended": 9,
+      "topics_discussed": 3
+    },
+    {
+      "id": "speaker_2",
+      "name": "Milton Javier Aguas Flores",
+      "party": null,
+      "province": null,
+      "total_time": 805.9000000000001,
+      "total_interventions": 18,
+      "sessions_attended": 4,
       "topics_discussed": 3
     },
     {
@@ -29,16 +59,6 @@
       "province": null,
       "total_time": 516.98,
       "total_interventions": 3,
-      "sessions_attended": 1,
-      "topics_discussed": 3
-    },
-    {
-      "id": "speaker_2",
-      "name": "Adrián Castro",
-      "party": null,
-      "province": null,
-      "total_time": 512.32,
-      "total_interventions": 13,
       "sessions_attended": 1,
       "topics_discussed": 3
     },
@@ -69,26 +89,6 @@
       "province": null,
       "total_time": 323.07,
       "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 3
-    },
-    {
-      "id": "speaker_1",
-      "name": "Andrés Castillo Maldonado",
-      "party": null,
-      "province": null,
-      "total_time": 320.99,
-      "total_interventions": 19,
-      "sessions_attended": 1,
-      "topics_discussed": 3
-    },
-    {
-      "id": "speaker_0",
-      "name": "Gerardo Machado",
-      "party": null,
-      "province": null,
-      "total_time": 318.53,
-      "total_interventions": 4,
       "sessions_attended": 1,
       "topics_discussed": 3
     },
@@ -163,6 +163,16 @@
       "topics_discussed": 3
     },
     {
+      "id": "speaker_13",
+      "name": "Pichincha - Adn",
+      "party": null,
+      "province": null,
+      "total_time": 101.17,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "speaker_20",
       "name": "Mario Godoy Naranjo",
       "party": null,
@@ -209,6 +219,13 @@
     }
   ],
   "monthly_stats": [
+    {
+      "month": "2025-12",
+      "sessions_count": 49,
+      "total_duration": 44482.53999999999,
+      "unique_speakers": 4,
+      "unique_topics": 0
+    },
     {
       "month": "2026-01",
       "sessions_count": 1,

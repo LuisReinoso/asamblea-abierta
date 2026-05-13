@@ -1,0 +1,50 @@
+{
+  "text": "...asambleísta Esteban Torres.  Gracias señora Presidenta.  Una vez que se ha presentado la moción,  solicito que se someta a votación.  Y lo or siempre a la patria de Andrés Bello y de Simón Bolívar.  Gracias.",
+  "language": "es",
+  "duration": 16.21,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 14.15,
+      "text": "...asambleísta Esteban Torres.  Gracias señora Presidenta.  Una vez que se ha presentado la moción,  solicito que se someta a votación.  Y lo or siempre a la patria de Andrés Bello y de Simón Bolívar.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "CyA24QL2vyU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 1,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Esteban Torres - Sesión 058 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=CyA24QL2vyU",
+  "published_at": "2025-12-17T18:04:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "CyA24QL2vyU",
+  "date": "2025-12-17T18:04:00Z",
+  "source_url": "https://www.youtube.com/watch?v=CyA24QL2vyU",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 14.12,
+      "interventions": 1,
+      "word_count": 35
+    }
+  ]
+}

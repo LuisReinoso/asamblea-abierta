@@ -425,10 +425,11 @@ def main():
     output_path = Path(args.output) if args.output else Path(args.session_file)
     apply_mapping_to_session(Path(args.session_file), mapping, output_path)
 
-    # Persist OOV proposals next to the session, ready for human review or
-    # automatic merging into the speakers DB.
+    # Persist OOV proposals to temp/ — these are review artifacts, not site data.
     if oov_proposals:
-        proposals_path = output_path.with_name(output_path.stem + "_oov_proposals.json")
+        proposals_dir = PROJECT_ROOT / "temp" / "oov_proposals"
+        proposals_dir.mkdir(parents=True, exist_ok=True)
+        proposals_path = proposals_dir / f"{output_path.stem}_oov_proposals.json"
         with open(proposals_path, "w", encoding="utf-8") as f:
             json.dump(oov_proposals, f, ensure_ascii=False, indent=2)
         print(f"✓ Wrote OOV proposals: {proposals_path}")

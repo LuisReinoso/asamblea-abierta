@@ -1,0 +1,53 @@
+{
+  "text": "Asambleísta Otto Vera.  Muy buenas tardes, compañeros legisladores, señor presidente, muchas gracias por permitirme el uso de la palabra  en esta sesión convocada para el día de hoy, en el marco de una incertidumbre jurídica  del sistema judicial que lamentablemente deja muchas dudas y mucho temor dentro del pueblo ecuatoriano  sabiendo que se han iniciado rumores de escándalos, de presiones en el mismo sistema judicial  para obligar a los tomadores de decisiones en el sistema de justicia en favor o en detrimento de alguna causa.  Hace meses atrás se escuchó un escándalo también bochornoso relacionado con presiones del Consejo de la Judicatura  a una jueza, si mal no me equivoco, apellido Vera, obligándola a que se tomen ciertas decisiones.  Caso que incluso se judicializó, pero que desde aquel entonces ya la Asamblea Nacional  tuvo que haber tomado las medidas para analizar y, como lo dice el asambleísta Castillo,  iniciar un proceso de fiscalización y de monitoreo, de control político que permita  estar a nosotros como legislatura a la altura de la situación.  Estos últimos escándalos lamentablemente lo único que hacen es agudizar  los temores de la ciudadanía respecto de la metida de la mano de la justicia  y corrobora lo que el Partido Social Cristiano ha venido diciendo hace muchos años atrás  que lamentablemente el Consejo de la Judicatura no ha dado la talla de manera institucional  para afrontar la crisis jurídica judicial que vive el Ecuador.  Por tanto, yo apoyo la moción del asambleísta Castillo y quisiera que me permita, como complemento  a su moción, el hecho de que ese proceso de fiscalización no solamente cubra los hechos  que son de dominio público en la actualidad, sino que incluso se haga un alcance  para analizar esos hechos que también se suscitaron hace meses atrás respecto de las presiones  que supuestamente pudieron haber de parte del Consejo de la Judicatura  a la jueza Vera, en un caso que también fue de conocimiento de todo el Ecuador.  Pienso yo que el Consejo de la Judicatura prácticamente con estos temas que se están manejando  ya la Asamblea Nacional debería tomar una postura distinta para no solamente luego de ejecutar  este proceso de fiscalización y que si pudieran o no identificar responsabilidades, sino también  ir más allá. Es decir, me refiero al hecho de que se empiece a reestructurar el Estado  y que a instituciones como estas no se les permita la metida de la mano en la justicia  a través de estos organismos. Así que pienso yo que es un momento más allá de que no creo  que haya sido, digamos, perdón, el momento correcto. Si es ahora, yo pienso que deberíamos  nosotros profundizar en este análisis y bueno, pues complemento o termino mi intervención  apoyando la moción del asambleísta Castillo y que me permita en esa misma moción el alcance  que mencioné respecto de los hechos que se suscitaron con respecto a la jueza Vera.  Nada más, señor presidente. Gracias.",
+  "language": "es",
+  "duration": 250.96,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 250.96,
+      "text": "Asambleísta Otto Vera.  Muy buenas tardes, compañeros legisladores, señor presidente, muchas gracias por permitirme el uso de la palabra  en esta sesión convocada para el día de hoy, en el marco de una incertidumbre jurídica  del sistema judicial que lamentablemente deja muchas dudas y mucho temor dentro del pueblo ecuatoriano  sabiendo que se han iniciado rumores de escándalos, de presiones en el mismo sistema judicial  para obligar a los tomadores de decisiones en el sistema de justicia en favor o en detrimento de alguna causa.  Hace meses atrás se escuchó un escándalo también bochornoso relacionado con presiones del Consejo de la Judicatura  a una jueza, si mal no me equivoco, apellido Vera, obligándola a que se tomen ciertas decisiones.  Caso que incluso se judicializó, pero que desde aquel entonces ya la Asamblea Nacional  tuvo que haber tomado las medidas para analizar y, como lo dice el asambleísta Castillo,  iniciar un proceso de fiscalización y de monitoreo, de control político que permita  estar a nosotros como legislatura a la altura de la situación.  Estos últimos escándalos lamentablemente lo único que hacen es agudizar  los temores de la ciudadanía respecto de la metida de la mano de la justicia  y corrobora lo que el Partido Social Cristiano ha venido diciendo hace muchos años atrás  que lamentablemente el Consejo de la Judicatura no ha dado la talla de manera institucional  para afrontar la crisis jurídica judicial que vive el Ecuador.  Por tanto, yo apoyo la moción del asambleísta Castillo y quisiera que me permita, como complemento  a su moción, el hecho de que ese proceso de fiscalización no solamente cubra los hechos  que son de dominio público en la actualidad, sino que incluso se haga un alcance  para analizar esos hechos que también se suscitaron hace meses atrás respecto de las presiones  que supuestamente pudieron haber de parte del Consejo de la Judicatura  a la jueza Vera, en un caso que también fue de conocimiento de todo el Ecuador.  Pienso yo que el Consejo de la Judicatura prácticamente con estos temas que se están manejando  ya la Asamblea Nacional debería tomar una postura distinta para no solamente luego de ejecutar  este proceso de fiscalización y que si pudieran o no identificar responsabilidades, sino también  ir más allá. Es decir, me refiero al hecho de que se empiece a reestructurar el Estado  y que a instituciones como estas no se les permita la metida de la mano en la justicia  a través de estos organismos. Así que pienso yo que es un momento más allá de que no creo  que haya sido, digamos, perdón, el momento correcto. Si es ahora, yo pienso que deberíamos  nosotros profundizar en este análisis y bueno, pues complemento o termino mi intervención  apoyando la moción del asambleísta Castillo y que me permita en esa misma moción el alcance  que mencioné respecto de los hechos que se suscitaron con respecto a la jueza Vera.  Nada más, señor presidente. Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "fMP8PFPxPqE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Otto Santiago Vera Palacios": 1,
+        "[OOV] Asambleísta Por Santa Elena": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Otto Vera - Sesión 060",
+  "url": "https://www.youtube.com/watch?v=fMP8PFPxPqE",
+  "published_at": "2025-12-29T18:04:02Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "fMP8PFPxPqE",
+  "date": "2025-12-29T18:04:02Z",
+  "source_url": "https://www.youtube.com/watch?v=fMP8PFPxPqE",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 250.93,
+      "interventions": 1,
+      "word_count": 489
+    }
+  ]
+}
