@@ -7,7 +7,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-**Asamblea Abierta** transforms National Assembly plenary sessions into full, searchable transcripts with automatic speaker identification using artificial intelligence.
+**Asamblea Abierta** transforms National Assembly plenary sessions into full, searchable transcripts with automatic speaker identification — running entirely on local infrastructure with open models.
 
 ## 🎯 Objective
 
@@ -15,249 +15,213 @@ Provide Ecuadorian citizens with easy access and quick searches about what topic
 
 ## ✨ Features
 
-- ✅ **Automatic transcription** with diarization of up to 38 speakers using ElevenLabs AI
-- ✅ **Speaker identification** through video analysis with OpenAI Vision API
-- ✅ **Automatic topic classification** of sessions
+- ✅ **Local transcription** with [faster-whisper large-v3-turbo](https://github.com/SYSTRAN/faster-whisper)
+- ✅ **Speaker diarization** with [pyannote community-1](https://huggingface.co/pyannote/speaker-diarization-community-1)
+- ✅ **Speaker identification** via overlay OCR with [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- ✅ **Fuzzy name matching** with Unicode normalization + surname-token fallback
+- ✅ **Auto-learning** of new speakers from OCR (proposes additions to the asambleístas DB)
 - ✅ **Static website** with search and navigation by speaker, topic and date
 - ✅ **YouTube links** with synchronized timestamps
 - ✅ **Open data** in JSON format under CC0 1.0 license
+- 💰 **Zero API costs** — all inference runs locally
 
 ## 🚀 How It Works
 
-### Processing Pipeline
-
 ```
-1. Video Download (YouTube) ──→ yt-dlp
+1. Video Download (YouTube)            → yt-dlp
    ↓
-2. Audio Extraction (ffmpeg) ──→ .m4a
+2. Audio Extraction                    → ffmpeg (16kHz mono wav)
    ↓
-3. Transcription + Diarization ──→ ElevenLabs Scribe v1
-   ↓                                (38 speakers, 10 hours, 3GB)
-4. Speaker Identification ──→ OpenAI Vision API
-   ↓                          (reads on-screen name overlays)
-5. Topic Classification ──→ OpenAI GPT-4o-mini
+3. Speaker Diarization                 → pyannote community-1 (GPU)
+   ↓                                     diarization-server :8001
+4. Per-segment Transcription           → faster-whisper large-v3-turbo (GPU)
+   ↓                                     whisper-server :8000
+5. Speaker Name Identification         → PaddleOCR (CPU) on N frames per speaker
+   ↓                                     + fuzzy match vs asambleistas.json
+6. Topic Classification (optional)     → local LLM via Ollama
    ↓
-6. Website Generation ──→ GitHub Pages
+7. Static Site Build                   → 06/07/08 scripts → docs/
+   ↓
+8. Publish                             → GitHub Pages
 ```
 
-### Key Technologies
+### Architecture
 
-- **ElevenLabs Scribe v1**: Transcription with speaker diarization (up to 32 speakers, 3GB files, 10 hours)
-- **OpenAI Vision API (gpt-4o-mini)**: Reads name overlays from video
-- **OpenAI GPT-4**: Topic classification and summary generation
-- **GitHub Pages**: Free website hosting
-- **Python 3.11+**: Processing scripts
-- **ffmpeg**: Video/audio processing
+The pipeline depends on two local HTTP services that run alongside the project:
+
+| Service | Port | Purpose | Repo |
+|---|---|---|---|
+| `whisper-server` | 8000 | ASR (faster-whisper large-v3-turbo) | sibling project, see below |
+| `diarization-server` | 8001 | Speaker diarization (pyannote community-1) | sibling project, see below |
+
+Both servers expose the same kind of clean HTTP API (`POST /transcribe`, `POST /diarize`) and can be reused by any other project that needs speech or diarization.
 
 ## 📊 Example Results
 
-**Session from January 5, 2026:**
-- ✅ 3.9 hours of video processed
-- ✅ 38 unique speakers detected by voice
-- ✅ 31 speakers identified by name (82% success rate)
-- ✅ 220 transcription segments
-- 💰 Total cost: ~$0.45 USD
+**Session from January 5, 2026 (3.9 hours):**
 
-## 💰 API Costs
+| Metric | Previous (API-based) | Current (local stack) |
+|---|---|---|
+| Unique speakers | 38 (fragmented) | **22** (-42%) |
+| Identified with real confidence | 0 (all faked 1.0) | **17/22 (77%)** |
+| Music/jingles flagged as speaker | Yes | ✅ No |
+| Unicode-equivalent duplicates | Yes ("Lucía" ≠ "Lucia") | ✅ Resolved |
+| Cost per session | ~$0.35 USD | **$0.00** |
 
-For a typical **4-hour session** with **30-40 speakers**:
-
-| Service | Usage | Cost |
-|---------|-------|------|
-| **ElevenLabs** (transcription) | 240 min × $0.001/min | **$0.24** |
-| **OpenAI Vision** (identification) | ~40 frames × $0.00255 | **$0.10** |
-| **OpenAI GPT** (classification) | ~1000 tokens | **$0.001** |
-| **Total per session** | | **~$0.35 USD** |
-
-### Implemented Optimizations
-
-1. ✅ **One frame per speaker**: Only extracts frames for unique appearances of each speaker_id
-2. ✅ **Smart retry**: Tries 5 different timestamps (+10s, +30s, +60s, +120s, +180s) only if needed
-3. ✅ **Frame caching**: Doesn't re-extract existing frames
-4. ✅ **Boundary detection**: Respects video duration to avoid errors
-
-## 🛠️ Installation
+## 🛠️ Setup
 
 ### Prerequisites
 
-- Python 3.11 or higher
-- ffmpeg (for video/audio processing)
-- yt-dlp (for downloading YouTube videos)
-- API Keys from ElevenLabs and OpenAI
+- Python 3.11+
+- CUDA-capable GPU (for whisper-server and diarization-server)
+- ffmpeg, yt-dlp
+- A [HuggingFace token](https://huggingface.co/settings/tokens) with access to `pyannote/speaker-diarization-community-1` (free, just accept the gated model terms)
 
-### Setup
+### 1. Bring up the local servers
 
-1. **Clone the repository:**
+These are independent sibling projects. Clone them next to this repo, set up their venvs, and start them:
+
 ```bash
-git clone https://github.com/your-username/asamblea-abierta.git
+# Whisper transcription server (GPU)
+cd ../whisper-server && ./run.sh           # listens on :8000
+
+# Diarization server (GPU)
+export HUGGINGFACE_TOKEN=hf_xxx
+cd ../diarization-server && ./run.sh       # listens on :8001
+```
+
+### 2. Set up this project
+
+```bash
+git clone https://github.com/luisreinoso/asamblea-abierta.git
 cd asamblea-abierta
-```
 
-2. **Create virtual environment:**
-```bash
 python3 -m venv .venv
-source .venv/bin/activate  # Linux/Mac
-# .venv\Scripts\activate   # Windows
-```
-
-3. **Install dependencies:**
-```bash
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. **Configure APIs:**
-Create a `config.yml` file in the project root:
+### 3. Configure (only for legacy 01_discover / 05_classify_topics)
+
+`config.yml` (optional — only needed if you use the legacy YouTube API discovery or OpenAI topic classification):
+
 ```yaml
+youtube:
+  api_key: "your-youtube-api-key"
+  channel_id: "UCiR_hqG93xvF0r5TKLhbhOg"
 openai:
   api_key: "your-openai-api-key"
-
-elevenlabs:
-  api_key: "your-elevenlabs-api-key"
 ```
 
-5. **Install system tools:**
-```bash
-# Ubuntu/Debian
-sudo apt install ffmpeg yt-dlp
-
-# macOS
-brew install ffmpeg yt-dlp
-
-# Windows (using Chocolatey)
-choco install ffmpeg yt-dlp
-```
+The local transcription + speaker identification pipeline does **not** need any API key.
 
 ## 📖 Usage
 
-### Process a Complete Session
+### Process a session end-to-end
 
 ```bash
-# 1. Download video from YouTube
+VIDEO_ID="ryDfRcIyOJI"
+
+# 1. Download video (audio + video)
 yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]' \
-  'https://www.youtube.com/watch?v=VIDEO_ID' \
-  -o 'data/video/VIDEO_ID.mp4'
+  "https://www.youtube.com/watch?v=$VIDEO_ID" \
+  -o "data/video/$VIDEO_ID.mp4"
 
-# 2. Extract audio
-ffmpeg -i data/video/VIDEO_ID.mp4 \
-  -vn -acodec copy temp/audio/VIDEO_ID.m4a
+# 2. Transcribe (diarization + ASR via local servers)
+python scripts/pipeline/03_transcribe_local.py \
+  --video-id $VIDEO_ID \
+  --audio-file data/video/$VIDEO_ID.mp4 \
+  --output data/sessions/$VIDEO_ID.json
 
-# 3. Transcribe with ElevenLabs
-python scripts/pipeline/03_transcribe_elevenlabs.py \
-  --audio-path temp/audio/VIDEO_ID.m4a
+# 3. Map speakers to real names (PaddleOCR + fuzzy match vs asambleistas.json)
+python scripts/pipeline/04_map_speakers_local.py \
+  --video-id $VIDEO_ID \
+  --video-file data/video/$VIDEO_ID.mp4 \
+  --session-file data/sessions/$VIDEO_ID.json
 
-# 4. Identify speakers with Vision API
-python scripts/pipeline/04_map_speakers_vision.py \
-  --video-id VIDEO_ID \
-  --session-file data/sessions/VIDEO_ID.json
+# 4. (optional) Topic classification
+python scripts/pipeline/05_classify_topics.py --session-file data/sessions/$VIDEO_ID.json
 
-# 5. Classify topics
-python scripts/pipeline/05_classify_session.py \
-  --session-file data/sessions/VIDEO_ID.json
-
-# 6. Generate statistics and catalog
+# 5. Rebuild site data
 python scripts/pipeline/06_generate_stats.py
+python scripts/pipeline/07_build_search_index.py
 python scripts/pipeline/08_update_catalog.py
 
-# 7. Serve site locally
+# 6. Preview locally
 cd docs && python3 -m http.server 8000
 ```
 
-### Pipeline Scripts
+### Pipeline scripts
 
-| Script | Description | Input | Output | Cost |
-|--------|-------------|-------|--------|------|
-| `01_discover_videos.py` | Download videos from YouTube | URL | `.mp4` | Free |
-| `02_download_audio.py` | Extract audio from video | `.mp4` | `.m4a` | Free |
-| `03_transcribe_elevenlabs.py` | Transcription + diarization | `.m4a` | `.json` | ~$0.06/min |
-| `04_map_speakers_vision.py` | Identify names | `.mp4` + `.json` | `.json` | ~$0.003/frame |
-| `05_classify_session.py` | Classify topics | `.json` | `.json` | ~$0.001 |
-| `06_generate_stats.py` | Generate statistics | All `.json` | `stats/*.json` | Free |
-| `08_update_catalog.py` | Update catalog | All `.json` | `catalog.json` | Free |
+| Script | Description | Backend |
+|---|---|---|
+| `01_discover_videos.py` | (legacy) List new videos via YouTube API | YouTube API |
+| `02_download_audio.py` | Extract audio | ffmpeg + yt-dlp |
+| `03_transcribe_local.py` | Diarization + per-segment ASR | pyannote + faster-whisper (local) |
+| `04_map_speakers_local.py` | Overlay OCR → fuzzy match → speaker names | PaddleOCR (local CPU) |
+| `05_classify_topics.py` | Topic classification | OpenAI (legacy, optional) |
+| `06_generate_stats.py` | Per-speaker, per-topic, per-month stats | pure Python |
+| `07_build_search_index.py` | FlexSearch index for the frontend | pure Python |
+| `08_update_catalog.py` | Master catalog of sessions | pure Python |
+
+### Speaker mapping improvements
+
+The OCR-based speaker mapper (`04_map_speakers_local.py`) has several quality safeguards:
+
+- **N frames per speaker** sampled at the midpoint of the longest segments (not a single frame at first appearance) — fixes the lock-in-wrong-name-forever bug.
+- **Lower-third overlay filter**: only reads text in the bottom band where Asamblea overlays live.
+- **Unicode normalization + fuzzy match** against `data/speakers/asambleistas.json` — handles tildes (`Lucía`/`Lucia`), OCR typos (`Olimedo`→`Olmedo`), and partial reads (`Mario Godoy`→`Mario Godoy Naranjo` via surname-token match).
+- **Per-frame majority vote** + agreement-ratio-based confidence (no hardcoded `1.0`).
+- **OOV proposals**: if OCR consistently reads a name not in the DB (≥2 reads, score ≥0.95), it is suggested for review in a `*_oov_proposals.json` file instead of silently failing.
 
 ## 🏗️ Project Structure
 
 ```
 asamblea-abierta/
 ├── data/
-│   ├── sessions/          # Processed session JSONs
+│   ├── sessions/          # Processed session JSONs (1 per video)
 │   ├── stats/             # Aggregated statistics
-│   ├── frames/            # Extracted frames for Vision API (not in git)
-│   ├── video/             # Downloaded videos (not in git)
-│   └── catalog.json       # Index of all sessions
-├── docs/                  # Static website (GitHub Pages)
-│   ├── index.html         # Home page
-│   ├── sessions.html      # Session list
-│   ├── session-detail.html # Session detail with transcript
-│   ├── speakers.html      # Speaker list
-│   ├── topics.html        # Topic list
-│   └── assets/            # CSS, JS, images
-├── scripts/
-│   └── pipeline/          # Processing scripts
-├── temp/
-│   └── audio/             # Extracted audio (temporary)
-├── config.yml             # API configuration (not in git)
-├── requirements.txt       # Python dependencies
-└── README.md             # This file
+│   ├── speakers/          # asambleistas.json (canonical name DB)
+│   ├── topics/            # Topic taxonomy
+│   ├── video/             # Downloaded videos (gitignored)
+│   └── catalog.json       # Master index of all sessions
+├── docs/                  # Static site published to GitHub Pages
+├── scripts/pipeline/      # Processing scripts
+├── temp/                  # Intermediate audio/frames (gitignored)
+├── config.yml             # Legacy config (gitignored, optional)
+├── requirements.txt
+└── README.md
 ```
 
-## 📐 Technical Architecture
+## 📐 Data Format
 
-### Speaker Identification - Hybrid Approach
-
-The system uses a unique technical innovation:
-
-1. **Voice-based diarization** (ElevenLabs):
-   - Identifies `speaker_0` to `speaker_N` **consistently** throughout the session
-   - `speaker_0` is ALWAYS the same person in the entire recording
-   - Up to 32 simultaneous speakers
-
-2. **Visual identification** (OpenAI Vision):
-   - Reads name overlays that appear on screen
-   - Maps each `speaker_id` to a real name
-   - Only needs to analyze **one frame per speaker** (not per segment)
-
-3. **Smart retry strategy**:
-   - Tries multiple timestamps: +10s, +30s, +60s, +120s, +180s
-   - Necessary because cameras take time to switch and show the overlay
-   - For a 4-hour session with 38 speakers: only ~86 frames analyzed (vs 220 segments)
-
-### Data Format
-
-Each session is stored as JSON with this structure:
+Each session in `data/sessions/<video_id>.json`:
 
 ```json
 {
   "id": "VIDEO_ID",
-  "title": "Extraordinary Plenary Session...",
+  "title": "Sesión Extraordinaria…",
   "date": "2026-01-05T19:12:45Z",
-  "duration": 13946.958,
+  "duration": 13947.16,
   "source_url": "https://youtube.com/watch?v=...",
+  "speakers_detected": 17,
   "segments": [
     {
-      "start": 10.5,
-      "end": 15.3,
-      "text": "Good morning everyone...",
-      "speaker_id": "speaker_0",
+      "start": 88.27,
+      "end": 111.74,
+      "text": "Esperamos que tengan un excelente año...",
+      "speaker_id": "speaker_1",
       "speaker": {
-        "id": "speaker_0",
-        "name": "Mariela Logroño",
+        "id": "speaker_1",
+        "name": "Adrián Castro",
         "confidence": 1.0
       }
     }
   ],
-  "speaker_stats": [
-    {
-      "id": "speaker_0",
-      "name": "Mariela Logroño",
-      "total_time": 1740.5,
-      "interventions": 31
-    }
-  ],
-  "classification": {
-    "summary": "...",
-    "topics": ["Justice and State Structure"],
-    "keywords": ["oversight", "transparency"]
-  }
+  "speaker_stats": {
+    "Adrián Castro": { "segments": 19, "duration": 612.4, "word_count": 1340 }
+  },
+  "classification": { "summary": "...", "topics": [...], "keywords": [...] }
 }
 ```
 
@@ -272,30 +236,26 @@ This project is **legally sound** according to:
 
 ## 🤝 Contributing
 
-Contributions are welcome! This is an open source project to improve democratic transparency.
-
-### Areas where you can help:
+Contributions are welcome! Areas where you can help:
 
 - 🎨 Improve website design
 - 📊 Add new data visualizations
-- 🔍 Improve speaker identification algorithms
+- 🔍 Improve speaker identification (more samples per speaker, better OCR prompts, multimodal verification)
 - 📝 Add more historical sessions
 - 🌐 Translate to other languages (Kichwa, English)
 - 🐛 Report bugs or improvements
 
-### Process:
+### Process
 
 1. Fork the repository
-2. Create a branch for your feature (`git checkout -b feature/amazing-feature`)
+2. Create a branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+4. Push to the branch
 5. Open a Pull Request
 
 ## 📜 License
 
-This project is dedicated to the public domain under the [CC0 1.0 Universal](LICENSE) license.
-
-All generated data (transcripts, statistics, etc.) is in the public domain and can be freely used for any purpose without restrictions.
+This project is dedicated to the public domain under the [CC0 1.0 Universal](LICENSE) license. All generated data (transcripts, statistics, etc.) is in the public domain.
 
 ## 🙏 Acknowledgments
 
@@ -305,29 +265,19 @@ Inspired by global parliamentary transparency projects:
 - [OpenParliament](https://openparliament.ca/) (Canada)
 - [Congreso Visible](https://congresovisible.uniandes.edu.co/) (Colombia)
 - [ParlaMint](https://www.clarin.eu/parlamint) (EU)
-- [Sinar Project](https://sinarproject.org/) (Malaysia)
 
-Technologies:
+Technologies & models:
+
 - **Ecuador's National Assembly** for publishing sessions on YouTube
-- **ElevenLabs** for their transcription API with speaker diarization
-- **OpenAI** for Vision and GPT APIs
-- Ecuador's open source community
+- **pyannote community-1** (Hervé Bredin et al.) for open speaker diarization
+- **faster-whisper / Whisper large-v3-turbo** (OpenAI + SYSTRAN) for ASR
+- **PaddleOCR** for offline text recognition
 
 ## 📞 Contact
 
-Questions? Suggestions? Want to collaborate?
-
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/asamblea-abierta/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/asamblea-abierta/discussions)
-
-## 🌟 Support the Project
-
-If you find this project useful:
-- ⭐ Star it on GitHub
-- 🐦 Share on social media with #AsambleaAbierta
-- 💬 Spread the word among civic organizations and journalists
-- 🤝 Contribute with code or improvements
+- 🐛 Issues: [GitHub Issues](https://github.com/luisreinoso/asamblea-abierta/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/luisreinoso/asamblea-abierta/discussions)
 
 ---
 
-*AI-generated transcripts from public legislative sessions*
+*AI-generated transcripts from public legislative sessions — produced entirely with open, locally-hosted models.*

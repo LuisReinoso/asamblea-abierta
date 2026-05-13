@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-01-05T22:37:10.139778",
+  "generated_at": "2026-05-12T22:25:21.015143",
   "total_sessions": 1,
   "sessions": [
     {
       "id": "ryDfRcIyOJI",
       "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
       "date": "2026-01-05T19:12:45Z",
-      "duration": 13946.958,
+      "duration": 13947.16,
       "url": "https://www.youtube.com/watch?v=ryDfRcIyOJI",
-      "file_path": "data/sessions/ryDfRcIyOJI_elevenlabs.json",
-      "speaker_count": 38,
+      "file_path": "data/sessions/ryDfRcIyOJI.json",
+      "speaker_count": 17,
       "topics": [
         "Justicia y Estructura del Estado",
         "Fiscalización y Control",
