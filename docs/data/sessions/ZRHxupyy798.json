@@ -1,0 +1,53 @@
+{
+  "text": "José Reyes.  Muchas gracias, señora Presidenta.  Luego de escuchar las intervenciones de mis colegas asambleístas  y de conformidad con lo dispuesto en el artículo 61, inciso 8, de la Ley Orgánica de la Función Legislativa,  como ponente del informe para segundo debate del proyecto de Ley Orgánica del Deporte, la Educación Física y la Recreación,  voy a solicitar, por favor, la suspensión de este punto del orden del día.  Con la finalidad de analizar la incorporación de los cambios sugeridos en el Pleno de la Comisión Especializada,  una vez realizado este análisis, esta Comisión y su Presidente se comprometen a remitir el informe final del proyecto de ley  acogiendo las observaciones en un plazo no mayor a ocho días.  Hasta aquí mi palabra, señora Presidenta. Gracias.",
+  "language": "es",
+  "duration": 57.82,
+  "speakers_detected": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 56.7,
+      "text": "José Reyes.  Muchas gracias, señora Presidenta.  Luego de escuchar las intervenciones de mis colegas asambleístas  y de conformidad con lo dispuesto en el artículo 61, inciso 8, de la Ley Orgánica de la Función Legislativa,  como ponente del informe para segundo debate del proyecto de Ley Orgánica del Deporte, la Educación Física y la Recreación,  voy a solicitar, por favor, la suspensión de este punto del orden del día.  Con la finalidad de analizar la incorporación de los cambios sugeridos en el Pleno de la Comisión Especializada,  una vez realizado este análisis, esta Comisión y su Presidente se comprometen a remitir el informe final del proyecto de ley  acogiendo las observaciones en un plazo no mayor a ocho días.  Hasta aquí mi palabra, señora Presidenta. Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "ZRHxupyy798",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Nacional": 1,
+        "[OOV] Juan José Reyes Baquerizo": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Juan José Reyes - Sesión 057 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=ZRHxupyy798",
+  "published_at": "2025-12-16T21:35:04Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ZRHxupyy798",
+  "date": "2025-12-16T21:35:04Z",
+  "source_url": "https://www.youtube.com/watch?v=ZRHxupyy798",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 56.67,
+      "interventions": 1,
+      "word_count": 126
+    }
+  ]
+}

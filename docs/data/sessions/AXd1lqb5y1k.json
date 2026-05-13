@@ -1,0 +1,83 @@
+{
+  "text": "Ahí está Raúl Chávez.  Gracias. Gracias, presidente. Un saludo a todos los compañeros asambleístas. Bueno, quiero ser concreto. Justicia que tarda no es justicia. A mi criterio concuerdo con la moción de traer al presidente del Consejo de la Judicatura, el señor Godoy, a la Asamblea Nacional, pero para mí ocho días es demasiado tiempo.  Para mí debe ser en cuarenta y ocho días. Creo que si es necesario suspender la vacancia que en este momento nos ha dispuesto el CAL, hay que hacerlo. El país está primero y considero que todos los asambleístas que hoy apuntan a tener un país de bienestar, a mejorar, a realmente buscar un nuevo Ecuador, van a apoyar esta moción.  Porque lo que el Ecuador necesita son respuestas rápidas, necesita celeridad y no necesita que demos más tiempo para después ver cómo responden. Las acusaciones han sido contundentes y creo que el Ecuador se merece saber la verdad y nosotros tenemos que darle una respuesta a los ciudadanos.  El accionar de la Asamblea en estos últimos meses no ha sido el que todos buscamos, el que todos los ecuatorianos buscan. Creo que esta sería una forma de terminar el año demostrándole a todos los ciudadanos que realmente los asambleístas que hemos sido elegidos en elección popular buscamos lo mejor, buscamos la justicia, pero sobre todo buscamos la verdad.  Esa es mi moción, presidente, que se lo convoque en no más de 48 días, perdón, 48 horas y la moción ya ha sido enviada de manera formal a la secretaría. Muchas gracias.",
+  "language": "es",
+  "duration": 112.15,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 11.98,
+      "text": "Ahí está Raúl Chávez.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 11.98,
+      "end": 111.62,
+      "text": "Gracias, presidente. Un saludo a todos los compañeros asambleístas. Bueno, quiero ser concreto. Justicia que tarda no es justicia. A mi criterio concuerdo con la moción de traer al presidente del Consejo de la Judicatura, el señor Godoy, a la Asamblea Nacional, pero para mí ocho días es demasiado tiempo.  Para mí debe ser en cuarenta y ocho días. Creo que si es necesario suspender la vacancia que en este momento nos ha dispuesto el CAL, hay que hacerlo. El país está primero y considero que todos los asambleístas que hoy apuntan a tener un país de bienestar, a mejorar, a realmente buscar un nuevo Ecuador, van a apoyar esta moción.  Porque lo que el Ecuador necesita son respuestas rápidas, necesita celeridad y no necesita que demos más tiempo para después ver cómo responden. Las acusaciones han sido contundentes y creo que el Ecuador se merece saber la verdad y nosotros tenemos que darle una respuesta a los ciudadanos.  El accionar de la Asamblea en estos últimos meses no ha sido el que todos buscamos, el que todos los ecuatorianos buscan. Creo que esta sería una forma de terminar el año demostrándole a todos los ciudadanos que realmente los asambleístas que hemos sido elegidos en elección popular buscamos lo mejor, buscamos la justicia, pero sobre todo buscamos la verdad.  Esa es mi moción, presidente, que se lo convoque en no más de 48 días, perdón, 48 horas y la moción ya ha sido enviada de manera formal a la secretaría. Muchas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Asambleísta Nacional",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "AXd1lqb5y1k",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Asambleísta Nacional",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Asambleísta Nacional": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Raúl Chávez - Sesión 060",
+  "url": "https://www.youtube.com/watch?v=AXd1lqb5y1k",
+  "published_at": "2025-12-29T18:09:05Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "AXd1lqb5y1k",
+  "date": "2025-12-29T18:09:05Z",
+  "source_url": "https://www.youtube.com/watch?v=AXd1lqb5y1k",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Asambleísta Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 99.64,
+      "interventions": 1,
+      "word_count": 252
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 11.95,
+      "interventions": 1,
+      "word_count": 5
+    }
+  ]
+}

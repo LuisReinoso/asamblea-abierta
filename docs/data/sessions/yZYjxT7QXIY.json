@@ -1,0 +1,52 @@
+{
+  "text": "Buenas tardes, ¿me escucha compañero presidente?  Sí, lo escuchamos, asambleísta.  Muy buenas tardes, compañero presidente, compañeros legisladores.  Quiero primeramente felicitarle a usted, compañero Nils, por convocarnos este día domingo.  En mi caso, he estado reunido con mi familia en un evento de solidaridad que acostumbramos a hacer cada año con los niños pobres de mi provincia.  Pero, sin embargo, pues hemos tenido que dejar todo para estar conectados y podernos sumar a esta valiosa propuesta efectuada por nuestro compañero asambleísta Andrés Castillo.  Es verdad, estamos de acuerdo.  Quienes somos de provincia, si tenemos que comparecer a la ciudad de Quito nuevamente de una manera presencial, estamos dispuestos a hacerlo, como esa es nuestra responsabilidad.  Pero también, compañero presidente, hago un llamado a que no pretendamos sacar réditos de carácter político por una circunstancia que tiene aún que investigarse.  Es verdad que es curioso, que es alarmante, de que un juez constitucional se le haya quitado el resguardo policial, que los jueces, yo también he sido jueces del tribunal penal de mi provincia,  a veces somos víctimas de amenazas, efectivamente que un acusado de un proceso haya hecho algún tipo de señas referentes hacia el juez sobre un tipo de amenaza,  es obviamente cosas que se está supeditado cuando se ejerce y se está en un tribunal de cualquier índole.  Claro que sí, si es que la esposa del señor presidente del Consejo de la Judicatura habría sido parte de algún consorcio de abogados que defendían algún procesado precisamente en esos casos delicados,  tiene que explicarse, pero esto no puede pues tratar de buscar culpables a quienes no lo son.  Tiene que investigarse, tiene que venir a la Comisión de Justicia y explicarse si se particular, todas las personas tenemos el legítimo derecho a la defensa  y sabrá dilucidarse la responsabilidad o no, porque recuerden que la Constitución de la República establece estas dos posiciones,  la existencia material de la infracción, pero también la responsabilidad penal del acusado.  Y si existe algún tipo de indicios de corrupción que la Asamblea Nacional tengamos que pronunciarnos oportunamente,  tenemos que hacerlo, porque esa es nuestra responsabilidad.  Por ello aplaudo, compañero presidente, el hecho de que usted también, dejando todo, un día domingo como hoy nos haya convocado  y que estemos la mayoría de asambleístas pendientes de esta noticia que ha salido a nivel nacional, pues tenemos que hacerlo.  Y de mi parte respaldo 100% la propuesta emitida por el compañero Andrés Castillo.  Devuelvo mi palabra, compañero presidente.",
+  "language": "es",
+  "duration": 228.07,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 227.69,
+      "text": "Buenas tardes, ¿me escucha compañero presidente?  Sí, lo escuchamos, asambleísta.  Muy buenas tardes, compañero presidente, compañeros legisladores.  Quiero primeramente felicitarle a usted, compañero Nils, por convocarnos este día domingo.  En mi caso, he estado reunido con mi familia en un evento de solidaridad que acostumbramos a hacer cada año con los niños pobres de mi provincia.  Pero, sin embargo, pues hemos tenido que dejar todo para estar conectados y podernos sumar a esta valiosa propuesta efectuada por nuestro compañero asambleísta Andrés Castillo.  Es verdad, estamos de acuerdo.  Quienes somos de provincia, si tenemos que comparecer a la ciudad de Quito nuevamente de una manera presencial, estamos dispuestos a hacerlo, como esa es nuestra responsabilidad.  Pero también, compañero presidente, hago un llamado a que no pretendamos sacar réditos de carácter político por una circunstancia que tiene aún que investigarse.  Es verdad que es curioso, que es alarmante, de que un juez constitucional se le haya quitado el resguardo policial, que los jueces, yo también he sido jueces del tribunal penal de mi provincia,  a veces somos víctimas de amenazas, efectivamente que un acusado de un proceso haya hecho algún tipo de señas referentes hacia el juez sobre un tipo de amenaza,  es obviamente cosas que se está supeditado cuando se ejerce y se está en un tribunal de cualquier índole.  Claro que sí, si es que la esposa del señor presidente del Consejo de la Judicatura habría sido parte de algún consorcio de abogados que defendían algún procesado precisamente en esos casos delicados,  tiene que explicarse, pero esto no puede pues tratar de buscar culpables a quienes no lo son.  Tiene que investigarse, tiene que venir a la Comisión de Justicia y explicarse si se particular, todas las personas tenemos el legítimo derecho a la defensa  y sabrá dilucidarse la responsabilidad o no, porque recuerden que la Constitución de la República establece estas dos posiciones,  la existencia material de la infracción, pero también la responsabilidad penal del acusado.  Y si existe algún tipo de indicios de corrupción que la Asamblea Nacional tengamos que pronunciarnos oportunamente,  tenemos que hacerlo, porque esa es nuestra responsabilidad.  Por ello aplaudo, compañero presidente, el hecho de que usted también, dejando todo, un día domingo como hoy nos haya convocado  y que estemos la mayoría de asambleístas pendientes de esta noticia que ha salido a nivel nacional, pues tenemos que hacerlo.  Y de mi parte respaldo 100% la propuesta emitida por el compañero Andrés Castillo.  Devuelvo mi palabra, compañero presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Edwin Estuardo Jarrín Rivadeneira",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "yZYjxT7QXIY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Edwin Estuardo Jarrín Rivadeneira": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Edwin Jarrín - Sesión 060",
+  "url": "https://www.youtube.com/watch?v=yZYjxT7QXIY",
+  "published_at": "2025-12-29T18:40:09Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "yZYjxT7QXIY",
+  "date": "2025-12-29T18:40:09Z",
+  "source_url": "https://www.youtube.com/watch?v=yZYjxT7QXIY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "party": null,
+      "province": null,
+      "total_time": 227.66,
+      "interventions": 1,
+      "word_count": 413
+    }
+  ]
+}

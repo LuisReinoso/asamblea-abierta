@@ -1,0 +1,164 @@
+{
+  "text": "Muchas gracias, señor presidente, colegas de Asamblea. Bueno, conforme a lo que dijo el colega Juan José Reyes, ciertamente tengo el proyecto de ley en mis manos, pero sí quisiera que por secretaría, salvo que haya leído otro artículo el colega Cristian Hernández, pero no encuentro lo que usted acaba de decir, colega Hernández, quisiera que por secretaría se nos certifique si los artículos, concretamente lo que acaba de mencionar con respecto a casinos y algo así,  consta en el nuevo proyecto. Eso, presidente, que por secretaría se nos informe aquello, porque no encuentro eso. Realmente estoy con el documento acá, pero no consta. señor secretario, proceda. Señor presidente de la revisión del informe de los artículos 217 y 218, lo mencionado por el asambleísta Cristian Hernández no consta en el texto del informe remitido por la Comisión de Salud. Gracias, señor secretario. Señor asambleísta Castro, desea continuar con su intervención. Gracias, señor presidente. Yo lamento, en verdad, podía hasta crearse un incidente.  Este tipo de sesiones son públicas y la Asamblea Nacional está actuando en virtud de un cuerpo colegiado.  Esto el día de mañana puede dar lugar a algún malentendimiento o alguna interpretación errada por parte de la ciudadanía.  Yo les ruego, y les ruego, colegas asambleístas, que tengamos mucho más tino en revisar el proyecto antes de hacer alguna intervención en ese sentido.  Pero, francamente, esto puede ser mal interpretado y visto de otra manera.  Y entiendo que lo haya hecho de buena fe, salvo que no sea así, colega Hernández.  Pero, en realidad, tengamos mucho más criterio y tino en la lectura de los proyectos que llegan a este debate.  Llegámoslo con la seriedad que este cuerpo colegiado, que es además el primer poder del Estado, se lo merece.  Nada más, señor presidente.  Gracias, asambleísta. Tiene la palabra el asambleísta. Hasta mayo.",
+  "language": "es",
+  "duration": 154.55,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.74,
+      "end": 11.03,
+      "text": "Muchas gracias, señor presidente, colegas de Asamblea.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 11.03,
+      "end": 51.3,
+      "text": "Bueno, conforme a lo que dijo el colega Juan José Reyes, ciertamente tengo el proyecto de ley en mis manos, pero sí quisiera que por secretaría, salvo que haya leído otro artículo el colega Cristian Hernández, pero no encuentro lo que usted acaba de decir, colega Hernández, quisiera que por secretaría se nos certifique si los artículos, concretamente lo que acaba de mencionar con respecto a casinos y algo así,  consta en el nuevo proyecto. Eso, presidente, que por secretaría se nos informe aquello, porque no encuentro eso. Realmente estoy con el documento acá, pero no consta.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 54.03,
+      "end": 55.63,
+      "text": "señor secretario, proceda.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 66.16,
+      "end": 80.95,
+      "text": "Señor presidente de la revisión del informe de los artículos 217 y 218, lo mencionado por el asambleísta Cristian Hernández no consta en el texto del informe remitido por la Comisión de Salud.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 83.38,
+      "end": 88.03,
+      "text": "Gracias, señor secretario. Señor asambleísta Castro, desea continuar con su intervención.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Adrián Ernesto Castro Piedra",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 97.33,
+      "end": 151.97,
+      "text": "Gracias, señor presidente. Yo lamento, en verdad, podía hasta crearse un incidente.  Este tipo de sesiones son públicas y la Asamblea Nacional está actuando en virtud de un cuerpo colegiado.  Esto el día de mañana puede dar lugar a algún malentendimiento o alguna interpretación errada por parte de la ciudadanía.  Yo les ruego, y les ruego, colegas asambleístas, que tengamos mucho más tino en revisar el proyecto antes de hacer alguna intervención en ese sentido.  Pero, francamente, esto puede ser mal interpretado y visto de otra manera.  Y entiendo que lo haya hecho de buena fe, salvo que no sea así, colega Hernández.  Pero, en realidad, tengamos mucho más criterio y tino en la lectura de los proyectos que llegan a este debate.  Llegámoslo con la seriedad que este cuerpo colegiado, que es además el primer poder del Estado, se lo merece.  Nada más, señor presidente.  Gracias, asambleísta. Tiene la palabra el asambleísta.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "UNIDENTIFIED",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 151.97,
+      "end": 152.62,
+      "text": "Hasta mayo.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Adrián Ernesto Castro Piedra",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "XMmGHyPwy6Y",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Por Azuay": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Asambleísta Por Azuay",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Asambleísta Por Azuay": 3,
+        "[OOV] Adrián Ernesto Castro Piedra": 1
+      },
+      "samples": 4,
+      "successful_reads": 4,
+      "source": "ocr-oov"
+    },
+    "speaker_2": {
+      "name": "Adrián Ernesto Castro Piedra",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Adrián Ernesto Castro Piedra": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    },
+    "speaker_3": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Adrián Ernesto Castro Piedra": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Adrián Castro - Sesión 057",
+  "url": "https://www.youtube.com/watch?v=XMmGHyPwy6Y",
+  "published_at": "2025-12-29T17:28:36Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "XMmGHyPwy6Y",
+  "date": "2025-12-29T17:28:36Z",
+  "source_url": "https://www.youtube.com/watch?v=XMmGHyPwy6Y",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 113.59,
+      "interventions": 5,
+      "word_count": 293
+    },
+    {
+      "id": "speaker_2",
+      "name": "Adrián Ernesto Castro Piedra",
+      "party": null,
+      "province": null,
+      "total_time": 5.3,
+      "interventions": 2,
+      "word_count": 13
+    }
+  ]
+}
