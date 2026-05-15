@@ -1,0 +1,53 @@
+{
+  "text": "Muy buenos días a todos los ecuatorianos, queridos compañeros asambleístas.  Con mucho orgullo quiero decirles bienvenidos a mi tierra, a mi hogar, a la capital bananera del mundo.  Hoy la asamblea llega a Machala a debatir un tema que impacta directamente en la vida de miles de familias ecuatorianas.  Agradezco, señor presidente, que se lo haga aquí, porque en territorio como el oro,  el acceso a una vivienda digna sigue siendo una necesidad presente en la vida de muchas familias.  Durante años que he recorrido mi provincia, soy testigo de las necesidades y adversidades que los oresen atraviesan por una vivienda.  Y esto, como consecuencia, atenta contra el bienestar social de la población entera,  porque incide en la salud, en la educación y en una seguridad de toda una sociedad.  Según el censo, en el 2022 de nuestra provincia registra un déficit habitacional superior al 13%.  Es decir, que el 13% de familias con esperanza y esfuerzo mantienen un hogar,  enfrentan la limitante más importante de bienestar, que no es tener un techo digno.  Esta situación se agrava en los eventos climáticos que incrementan en el problema de todo el país.  Porque, como sabemos, durante los últimos meses, las lluvias, inundaciones y deslizamientos han afectado a miles de viviendas.  Afectan estructuras, afectan pérdidas y dejando a muchas familias en estalo vulnerable.  Por esta urgencia, el proyecto de ley reformatoria, la ley de régimen tributario interno para incentivar la construcción de viviendas de interés social  y reducir el éficit habitacional, se alinea a esa necesidad, ya que plantea un mecanismo para incentivar la participación del sector privado  en la construcción de viviendas de interés social, a través de beneficios tributarios que permiten ampliar la oferta habitacional.  ¿Por qué es importante?  Porque frente a las restricciones fiscales actuales, el Estado necesita complementarse con inversión para dar solución a este problema.  Y así generar condiciones para que más viviendas de interés social lleguen a quienes más lo necesitan.  Además, este proyecto tendrá un efecto multiplicador, porque dinamizar el sector de construcción  es dinamizar también la economía local y nacional.  Compañeros asambleístas, hoy tenemos la oportunidad de tomar una decisión que le brindará condiciones de vida  a familias ecuatorianas que por muchos años han sostenido sus hogares enfrentando la adversidad,  pero que también merecen vivir con dignidad y estabilidad.  Por eso, desde mi tierra, mi linda provincia, el oro, le digo a todos los ecuatorianos  que hoy decidimos construir un país donde el acceso a la vivienda ya no será una aspiración,  sino se va a convertir en una realidad.  Muchísimas gracias, señor presidente.",
+  "language": "es",
+  "duration": 220.43,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.27,
+      "end": 217.08,
+      "text": "Muy buenos días a todos los ecuatorianos, queridos compañeros asambleístas.  Con mucho orgullo quiero decirles bienvenidos a mi tierra, a mi hogar, a la capital bananera del mundo.  Hoy la asamblea llega a Machala a debatir un tema que impacta directamente en la vida de miles de familias ecuatorianas.  Agradezco, señor presidente, que se lo haga aquí, porque en territorio como el oro,  el acceso a una vivienda digna sigue siendo una necesidad presente en la vida de muchas familias.  Durante años que he recorrido mi provincia, soy testigo de las necesidades y adversidades que los oresen atraviesan por una vivienda.  Y esto, como consecuencia, atenta contra el bienestar social de la población entera,  porque incide en la salud, en la educación y en una seguridad de toda una sociedad.  Según el censo, en el 2022 de nuestra provincia registra un déficit habitacional superior al 13%.  Es decir, que el 13% de familias con esperanza y esfuerzo mantienen un hogar,  enfrentan la limitante más importante de bienestar, que no es tener un techo digno.  Esta situación se agrava en los eventos climáticos que incrementan en el problema de todo el país.  Porque, como sabemos, durante los últimos meses, las lluvias, inundaciones y deslizamientos han afectado a miles de viviendas.  Afectan estructuras, afectan pérdidas y dejando a muchas familias en estalo vulnerable.  Por esta urgencia, el proyecto de ley reformatoria, la ley de régimen tributario interno para incentivar la construcción de viviendas de interés social  y reducir el éficit habitacional, se alinea a esa necesidad, ya que plantea un mecanismo para incentivar la participación del sector privado  en la construcción de viviendas de interés social, a través de beneficios tributarios que permiten ampliar la oferta habitacional.  ¿Por qué es importante?  Porque frente a las restricciones fiscales actuales, el Estado necesita complementarse con inversión para dar solución a este problema.  Y así generar condiciones para que más viviendas de interés social lleguen a quienes más lo necesitan.  Además, este proyecto tendrá un efecto multiplicador, porque dinamizar el sector de construcción  es dinamizar también la economía local y nacional.  Compañeros asambleístas, hoy tenemos la oportunidad de tomar una decisión que le brindará condiciones de vida  a familias ecuatorianas que por muchos años han sostenido sus hogares enfrentando la adversidad,  pero que también merecen vivir con dignidad y estabilidad.  Por eso, desde mi tierra, mi linda provincia, el oro, le digo a todos los ecuatorianos  que hoy decidimos construir un país donde el acceso a la vivienda ya no será una aspiración,  sino se va a convertir en una realidad.  Muchísimas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "m53xoD2e7Go",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Blacio Carrión": 1,
+        "[OOV] Asambleísta Nacional": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Diana Blacio - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=m53xoD2e7Go",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "m53xoD2e7Go",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=m53xoD2e7Go",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 212.81,
+      "interventions": 1,
+      "word_count": 430
+    }
+  ]
+}

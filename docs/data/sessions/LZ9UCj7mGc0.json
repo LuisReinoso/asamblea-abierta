@@ -1,0 +1,53 @@
+{
+  "text": "Réplica la asambleísta Ana Belén Yela.  Gracias, presidente.  Yo he solicitado la réplica porque en los dimes y diretes de esta asamblea  a veces la verdad queda tirada por el piso y yo creo que hay que hacer una aclaración.  El asambleísta Lara se ha permitido decir que la situación actual del país,  como lo dicen y lo insisten y lo repiten del lado derecho del hemiciclo,  es responsabilidad de la Revolución Ciudadana.  La Revolución Ciudadana no entregó, cuando abandonó el gobierno, el país que tenemos ahora.  Entregó el segundo país más seguro de la región.  Un país con vivienda, un país con educación, un país que caminaba.  Y se han tomado tres gobiernos, han hecho todo lo que está a su alcance  para destruir la institucionalidad de este país de la que no queda nada.  Y en tres años de gobierno que vamos, no lo han podido solucionar.  Nos vienen a vender esta ley como la panacea de la vivienda social, señores.  No lo es, no tiene claridad y es una ley más de la de uso de suelo,  la ley de la reforma para los gobiernos autónomos descentralizados,  que tiene como principal objetivo quitarle competencias a los GATS  y beneficiar a las inmobiliarias.  Entonces, seamos honestos con el país y dejemos de repetir falacias  y de engañar a los ecuatorianos.  Si quieren ser, que se olviden del gobierno de la Revolución Ciudadana,  sean mejores que la Revolución Ciudadana.  Muchas gracias.  Gracias.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 93.48,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 93.0,
+      "text": "Réplica la asambleísta Ana Belén Yela.  Gracias, presidente.  Yo he solicitado la réplica porque en los dimes y diretes de esta asamblea  a veces la verdad queda tirada por el piso y yo creo que hay que hacer una aclaración.  El asambleísta Lara se ha permitido decir que la situación actual del país,  como lo dicen y lo insisten y lo repiten del lado derecho del hemiciclo,  es responsabilidad de la Revolución Ciudadana.  La Revolución Ciudadana no entregó, cuando abandonó el gobierno, el país que tenemos ahora.  Entregó el segundo país más seguro de la región.  Un país con vivienda, un país con educación, un país que caminaba.  Y se han tomado tres gobiernos, han hecho todo lo que está a su alcance  para destruir la institucionalidad de este país de la que no queda nada.  Y en tres años de gobierno que vamos, no lo han podido solucionar.  Nos vienen a vender esta ley como la panacea de la vivienda social, señores.  No lo es, no tiene claridad y es una ley más de la de uso de suelo,  la ley de la reforma para los gobiernos autónomos descentralizados,  que tiene como principal objetivo quitarle competencias a los GATS  y beneficiar a las inmobiliarias.  Entonces, seamos honestos con el país y dejemos de repetir falacias  y de engañar a los ecuatorianos.  Si quieren ser, que se olviden del gobierno de la Revolución Ciudadana,  sean mejores que la Revolución Ciudadana.  Muchas gracias.  Gracias.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "LZ9UCj7mGc0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Por Guayas": 1,
+        "[OOV] En Pleno": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Ana Yela - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=LZ9UCj7mGc0",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "LZ9UCj7mGc0",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=LZ9UCj7mGc0",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 92.97,
+      "interventions": 1,
+      "word_count": 246
+    }
+  ]
+}

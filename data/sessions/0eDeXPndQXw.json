@@ -1,0 +1,53 @@
+{
+  "text": "Invitamos a la señora asambleísta Ana Cecilia Herrera Gómez.  El Cuerpo de Bomberos del Cantón La Maná, creado oficialmente el 12 de julio de 1983  mediante Acuerdo Ministerial número 000741, ha sido desde sus orígenes un pilar fundamental  en la protección de la vida, el medio ambiente y los bienes en la provincia de Cotopaxi,  consolidándose como una institución de primera respuesta ante emergencias.  Desde su fundación, la institución ha transitado de una compañía voluntaria,  un organismo autónomo y profesional con avances significativos en infraestructura,  equipamiento y talento humano, gracias al esfuerzo de sus autoridades, personal operativo y apoyo ciudadano.  La Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer y condecorar  al Cuerpo de Bomberos del Cantón La Maná, por sus más de cuatro décadas de servicio abnegado  en la protección de la vida, su constante modernización y profesionalización  y su compromiso ejemplar con la seguridad, el bienestar y el progreso de la ciudadanía  del Cantón La Maná y la provincia de Cotopaxi.  Hace entrega de la condecoración el señor asambleísta Nils Olsenpid,  presidente de la Asamblea Nacional.  Hace entrega del acuerdo legislativo la asambleístana Cecilia Herrera Gómez.  Agradecemos la participación del Cuerpo de Bomberos del Cantón La Maná, provincia de Cotopaxi.",
+  "language": "es",
+  "duration": 305.23,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.89,
+      "end": 305.0,
+      "text": "Invitamos a la señora asambleísta Ana Cecilia Herrera Gómez.  El Cuerpo de Bomberos del Cantón La Maná, creado oficialmente el 12 de julio de 1983  mediante Acuerdo Ministerial número 000741, ha sido desde sus orígenes un pilar fundamental  en la protección de la vida, el medio ambiente y los bienes en la provincia de Cotopaxi,  consolidándose como una institución de primera respuesta ante emergencias.  Desde su fundación, la institución ha transitado de una compañía voluntaria,  un organismo autónomo y profesional con avances significativos en infraestructura,  equipamiento y talento humano, gracias al esfuerzo de sus autoridades, personal operativo y apoyo ciudadano.  La Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer y condecorar  al Cuerpo de Bomberos del Cantón La Maná, por sus más de cuatro décadas de servicio abnegado  en la protección de la vida, su constante modernización y profesionalización  y su compromiso ejemplar con la seguridad, el bienestar y el progreso de la ciudadanía  del Cantón La Maná y la provincia de Cotopaxi.  Hace entrega de la condecoración el señor asambleísta Nils Olsenpid,  presidente de la Asamblea Nacional.  Hace entrega del acuerdo legislativo la asambleístana Cecilia Herrera Gómez.  Agradecemos la participación del Cuerpo de Bomberos del Cantón La Maná, provincia de Cotopaxi.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "0eDeXPndQXw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1,
+        "[OOV] Del Pleno De La Asamblea": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Condecoración - Sesión 081 - Comisión General",
+  "url": "https://www.youtube.com/watch?v=0eDeXPndQXw",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "0eDeXPndQXw",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=0eDeXPndQXw",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 304.11,
+      "interventions": 1,
+      "word_count": 203
+    }
+  ]
+}

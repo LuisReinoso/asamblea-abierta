@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, Presidente.  Bueno, uno de los grandes problemas que enfrenta el país  es precisamente el crecimiento desordenado en las ciudades,  por lo general en las grandes ciudades.  Esto genera presiones adicionales a los gobiernos autónomos  descentralizados para la provisión de servicios públicos,  además en el lugar en donde la gente termina sentándose,  en donde termina decidiendo a levantar su hogar,  genera muchas veces condiciones de vida que no son las adecuadas  y en algunas ocasiones estos espacios crecen de manera incontrolable,  justamente con condiciones debajo de lo mínimo que necesitaría  una familia.  Una de las principales causas es precisamente la desconexión  que existe entre la planificación local y la mirada  en la planificación nacional.  Por ello es deber de esta Asamblea, señor Presidente,  dotar de herramientas jurídicas y técnicas que permitan a los GATS  y al gobierno nacional tratar siempre el crecimiento  de cualquier tipo de población de manera articulada.  En este sentido propongo a la Comisión de Gobiernos Autónomos  descentralizados que se incluyan las disposiciones  para poder llevar de una manera mucho más armónica  el crecimiento y esta mirada que se le pueda dar  en el Plan Nacional de Desarrollo.  Por otro lado, la norma lo que tiene que lograr es un equilibrio,  buscar, intentar un equilibrio que tiene que ser efectivo  con una capacidad coercitiva, pero que también sea equitativa.  No puede ser que los municipios pequeños se vean desproporcionalmente  afectados por sanciones que representan una altísima carga  significativa para sus arcas, para sus finanzas,  mientras que los municipios grandes, esas mismas multas  resultan prácticamente insignificantes y por eso toman  las decisiones que toman. Esto no es solo injusto,  y lo conversaba con algunos otros asambleístas,  no es solamente injusto para los cantones pequeños,  sino que también deja en indefensión a sus ciudadanos,  a los ciudadanos de las comunidades pequeñas,  pero también a los ciudadanos de las ciudades grandes,  en donde algunos municipios impulsan la ley  porque pueden pagar las sanciones con menos recursos públicos  y sin tener prácticamente ninguna consecuencia de sus actos.  Ahora bien, es importante señalar que esta ley  también contempla procesos de repetición,  es decir, ya basta de la ineficiencia o de la negligencia  que pueda existir de las autoridades y terminen siendo pagados  por bolsillos de los ecuatorianos.  Esa es mi palabra, señor Presidente.",
+  "language": "es",
+  "duration": 166.67,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.02,
+      "end": 165.88,
+      "text": "Gracias, Presidente.  Bueno, uno de los grandes problemas que enfrenta el país  es precisamente el crecimiento desordenado en las ciudades,  por lo general en las grandes ciudades.  Esto genera presiones adicionales a los gobiernos autónomos  descentralizados para la provisión de servicios públicos,  además en el lugar en donde la gente termina sentándose,  en donde termina decidiendo a levantar su hogar,  genera muchas veces condiciones de vida que no son las adecuadas  y en algunas ocasiones estos espacios crecen de manera incontrolable,  justamente con condiciones debajo de lo mínimo que necesitaría  una familia.  Una de las principales causas es precisamente la desconexión  que existe entre la planificación local y la mirada  en la planificación nacional.  Por ello es deber de esta Asamblea, señor Presidente,  dotar de herramientas jurídicas y técnicas que permitan a los GATS  y al gobierno nacional tratar siempre el crecimiento  de cualquier tipo de población de manera articulada.  En este sentido propongo a la Comisión de Gobiernos Autónomos  descentralizados que se incluyan las disposiciones  para poder llevar de una manera mucho más armónica  el crecimiento y esta mirada que se le pueda dar  en el Plan Nacional de Desarrollo.  Por otro lado, la norma lo que tiene que lograr es un equilibrio,  buscar, intentar un equilibrio que tiene que ser efectivo  con una capacidad coercitiva, pero que también sea equitativa.  No puede ser que los municipios pequeños se vean desproporcionalmente  afectados por sanciones que representan una altísima carga  significativa para sus arcas, para sus finanzas,  mientras que los municipios grandes, esas mismas multas  resultan prácticamente insignificantes y por eso toman  las decisiones que toman. Esto no es solo injusto,  y lo conversaba con algunos otros asambleístas,  no es solamente injusto para los cantones pequeños,  sino que también deja en indefensión a sus ciudadanos,  a los ciudadanos de las comunidades pequeñas,  pero también a los ciudadanos de las ciudades grandes,  en donde algunos municipios impulsan la ley  porque pueden pagar las sanciones con menos recursos públicos  y sin tener prácticamente ninguna consecuencia de sus actos.  Ahora bien, es importante señalar que esta ley  también contempla procesos de repetición,  es decir, ya basta de la ineficiencia o de la negligencia  que pueda existir de las autoridades y terminen siendo pagados  por bolsillos de los ecuatorianos.  Esa es mi palabra, señor Presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Guschmer Tamariz",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "ZwAWTH36eeg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Guschmer Tamariz",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Guschmer Tamariz": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Andrés Guschmer - Sesión 080",
+  "url": "https://www.youtube.com/watch?v=ZwAWTH36eeg",
+  "published_at": "2026-03-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ZwAWTH36eeg",
+  "date": "2026-03-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ZwAWTH36eeg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Guschmer Tamariz",
+      "party": null,
+      "province": null,
+      "total_time": 158.86,
+      "interventions": 1,
+      "word_count": 381
+    }
+  ]
+}

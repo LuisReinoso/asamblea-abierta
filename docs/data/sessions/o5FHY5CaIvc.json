@@ -1,0 +1,52 @@
+{
+  "text": "Presidente, muy buenos días. Señores asambleístas, muy buenos días.  Quiero iniciar este punto de información saludando a la provincia de Loro y a esta querida ciudad Machala.  Bueno, quiero solamente aprovechar estos minutos para aclarar algo y veo que hay asambleístas que utilizan datos que realmente no son reales.  Aquí se está hablando del cantón Alausí de la provincia de Chimborazo y se dice que este gobierno le ha entregado viviendas.  Yo le aclaro al señor asambleísta que habló de Alausí, eso es mentira.  El presupuesto se hizo y se dio con el gobierno anterior, no es de este gobierno.  Y ya estuvo eso claramente establecido y se construyeron apenas 52 viviendas cuando en función o en base a lo que se dio el deslave del 26 de marzo del 2023,  se necesitaban 163 viviendas y apenas se le entregó a la ciudad de Alausí 52 viviendas.  Pero hay que entender también que el problema no es solamente la vivienda, nosotros necesitamos una respuesta estructural.  A la Alausí no tiene la vía, aún todavía no se le ha dado respuesta a la E35.  Tenemos un hospital que se cae a pedazos, que las paredes ya ni siquiera sirven, por Dios,  y aún así se sigue atendiendo en ese hospital.  ¿Y qué ha hecho este gobierno? No ha hecho absolutamente nada.  Y lo digo, lo digo, porque ese pueblo, que es un pueblo nuestro, está sufriendo, pero no hay respuesta.  Un tren que se le entregó, pero sin condiciones, y que ahora muchas veces se paraliza y que no puede funcionar.  Entonces, quiero que ahí sí hablemos con claridad sobre este tema.  El tema de la vivienda no es una cosa de entregar una casa, es un problema estructural.  Y eso tiene que verse desde ese punto de vista para, en función de eso, trabajar.  Solamente eso quería decir. Gracias, señor presidente.",
+  "language": "es",
+  "duration": 134.95,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.33,
+      "end": 133.82,
+      "text": "Presidente, muy buenos días. Señores asambleístas, muy buenos días.  Quiero iniciar este punto de información saludando a la provincia de Loro y a esta querida ciudad Machala.  Bueno, quiero solamente aprovechar estos minutos para aclarar algo y veo que hay asambleístas que utilizan datos que realmente no son reales.  Aquí se está hablando del cantón Alausí de la provincia de Chimborazo y se dice que este gobierno le ha entregado viviendas.  Yo le aclaro al señor asambleísta que habló de Alausí, eso es mentira.  El presupuesto se hizo y se dio con el gobierno anterior, no es de este gobierno.  Y ya estuvo eso claramente establecido y se construyeron apenas 52 viviendas cuando en función o en base a lo que se dio el deslave del 26 de marzo del 2023,  se necesitaban 163 viviendas y apenas se le entregó a la ciudad de Alausí 52 viviendas.  Pero hay que entender también que el problema no es solamente la vivienda, nosotros necesitamos una respuesta estructural.  A la Alausí no tiene la vía, aún todavía no se le ha dado respuesta a la E35.  Tenemos un hospital que se cae a pedazos, que las paredes ya ni siquiera sirven, por Dios,  y aún así se sigue atendiendo en ese hospital.  ¿Y qué ha hecho este gobierno? No ha hecho absolutamente nada.  Y lo digo, lo digo, porque ese pueblo, que es un pueblo nuestro, está sufriendo, pero no hay respuesta.  Un tren que se le entregó, pero sin condiciones, y que ahora muchas veces se paraliza y que no puede funcionar.  Entonces, quiero que ahí sí hablemos con claridad sobre este tema.  El tema de la vivienda no es una cosa de entregar una casa, es un problema estructural.  Y eso tiene que verse desde ese punto de vista para, en función de eso, trabajar.  Solamente eso quería decir. Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "o5FHY5CaIvc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Patricia Núñez - Sesión 081 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=o5FHY5CaIvc",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "o5FHY5CaIvc",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=o5FHY5CaIvc",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 129.49,
+      "interventions": 1,
+      "word_count": 311
+    }
+  ]
+}

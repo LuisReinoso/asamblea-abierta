@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, Presidente. Simplemente para solicitarle que emocionar la aprobación de la resolución antes indicada en vista de que ya se encuentra debidamente socializada a través del sistema informático de la Asamblea y pedirle a usted que tome votación como corresponda.  Decirle también que se ha hecho llegar esta moción a través del sistema DTS. Gracias, Presidente.",
+  "language": "es",
+  "duration": 29.49,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.44,
+      "end": 29.53,
+      "text": "Gracias, Presidente. Simplemente para solicitarle que emocionar la aprobación de la resolución antes indicada en vista de que ya se encuentra debidamente socializada a través del sistema informático de la Asamblea y pedirle a usted que tome votación como corresponda.  Decirle también que se ha hecho llegar esta moción a través del sistema DTS. Gracias, Presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "j8aDBZN4_-c",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Andrés Castillo - Sesión 080",
+  "url": "https://www.youtube.com/watch?v=j8aDBZN4_-c",
+  "published_at": "2026-03-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "j8aDBZN4_-c",
+  "date": "2026-03-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=j8aDBZN4_-c",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 27.09,
+      "interventions": 1,
+      "word_count": 56
+    }
+  ]
+}

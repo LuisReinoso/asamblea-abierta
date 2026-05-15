@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente, por darme el uso de la palabra.  Me voy a dirigir, como siempre lo hago, señor presidente, a mis colegas asambleístas,  con el respeto que cada uno de ellos se merece.  Pero a mí nadie me puede ser mentiroso.  Por favor, no hay el más mínimo respeto.  Aquí al país hay que decirle la verdad, presidente.  Cuando cumplió un año el desastre de Alaucí,  el alcalde de la ciudad de Alaucí, del cantón Alaucí,  llegó a mi comisión de control, transparencia y participación ciudadana,  de la cual todavía soy uno de sus miembros,  precisamente a quejarse que el presidente saliente  había ido al día siguiente del desastre de Alaucí  a ofrecerles el oro y el moro, y no les dejó un solo centavo.  Peor, va a dejar dinero para el presupuesto de las viviendas.  Al país hay que decirle la verdad.  Al presidente Daniel Novoa, sí le dejaron un déficit fiscal.  De casi 10 mil millones de dólares, le dejaron fe en problemas.  ¿Dónde está el dinero para la reconstrucción de Alaucí?  Nunca hubo un solo centavo, presidente.  Y hoy quieren mentirle al país.  Yo estuve en la colocación de la primera piedra  junto al señor subsecretario de la vivienda en Alaucí.  Los terrenos lo ponían exactamente quienes hacían en ese entonces,  y actualmente también, de alcaldes y concejales.  Los terrenos los ponía el municipio, y las obras las hacía este gobierno.  Este gobierno hizo las viviendas, viviendas decentes, viviendas dignas,  no cajas de fósforo que le hicieron engañando al pueblo ecuatoriano,  que son viviendas incómodas a las que vive la gente el día de hoy.  Yo tramité junto al ministro actual de Obras Públicas,  la competencia del tren turístico, que no lo tenía Alaucí.  Al país hay que decirle la verdad.  Este no es un tema de guerras políticas, porque se oponen a la vivienda.  Este es un tema eminentemente humanista, presidente.  Está bien que no estén de acuerdo con nosotros,  pero no hay que mentirle al país, al presidente Daniel Novoacín.  Le dejaron mil problemas en el campo de inseguridad,  en el campo social, en el campo económico, en el campo de la construcción.  Problemas que lo viene resolviendo valientemente este presidente.  Está bien que se opongan a todo,  y vamos a ver que hoy también se van a oponer con sus votos  a que este proyecto se califique y se perjudique a los pobres de la patria.  Pero aquí está la bancada valiente de ADN para decirle,  presidente Daniel Novoac, estamos con usted.  Los pobres de la patria están con usted.  Y hoy estaremos juntos en mi bancada votando positivamente por este proyecto.  Gracias, presidente.",
+  "language": "es",
+  "duration": 165.0,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.62,
+      "end": 164.97,
+      "text": "Gracias, señor presidente, por darme el uso de la palabra.  Me voy a dirigir, como siempre lo hago, señor presidente, a mis colegas asambleístas,  con el respeto que cada uno de ellos se merece.  Pero a mí nadie me puede ser mentiroso.  Por favor, no hay el más mínimo respeto.  Aquí al país hay que decirle la verdad, presidente.  Cuando cumplió un año el desastre de Alaucí,  el alcalde de la ciudad de Alaucí, del cantón Alaucí,  llegó a mi comisión de control, transparencia y participación ciudadana,  de la cual todavía soy uno de sus miembros,  precisamente a quejarse que el presidente saliente  había ido al día siguiente del desastre de Alaucí  a ofrecerles el oro y el moro, y no les dejó un solo centavo.  Peor, va a dejar dinero para el presupuesto de las viviendas.  Al país hay que decirle la verdad.  Al presidente Daniel Novoa, sí le dejaron un déficit fiscal.  De casi 10 mil millones de dólares, le dejaron fe en problemas.  ¿Dónde está el dinero para la reconstrucción de Alaucí?  Nunca hubo un solo centavo, presidente.  Y hoy quieren mentirle al país.  Yo estuve en la colocación de la primera piedra  junto al señor subsecretario de la vivienda en Alaucí.  Los terrenos lo ponían exactamente quienes hacían en ese entonces,  y actualmente también, de alcaldes y concejales.  Los terrenos los ponía el municipio, y las obras las hacía este gobierno.  Este gobierno hizo las viviendas, viviendas decentes, viviendas dignas,  no cajas de fósforo que le hicieron engañando al pueblo ecuatoriano,  que son viviendas incómodas a las que vive la gente el día de hoy.  Yo tramité junto al ministro actual de Obras Públicas,  la competencia del tren turístico, que no lo tenía Alaucí.  Al país hay que decirle la verdad.  Este no es un tema de guerras políticas, porque se oponen a la vivienda.  Este es un tema eminentemente humanista, presidente.  Está bien que no estén de acuerdo con nosotros,  pero no hay que mentirle al país, al presidente Daniel Novoacín.  Le dejaron mil problemas en el campo de inseguridad,  en el campo social, en el campo económico, en el campo de la construcción.  Problemas que lo viene resolviendo valientemente este presidente.  Está bien que se opongan a todo,  y vamos a ver que hoy también se van a oponer con sus votos  a que este proyecto se califique y se perjudique a los pobres de la patria.  Pero aquí está la bancada valiente de ADN para decirle,  presidente Daniel Novoac, estamos con usted.  Los pobres de la patria están con usted.  Y hoy estaremos juntos en mi bancada votando positivamente por este proyecto.  Gracias, presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "SUWAd8GqmcM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Jorge Chamba - Sesión 081 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=SUWAd8GqmcM",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "SUWAd8GqmcM",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=SUWAd8GqmcM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 164.35,
+      "interventions": 1,
+      "word_count": 441
+    }
+  ]
+}

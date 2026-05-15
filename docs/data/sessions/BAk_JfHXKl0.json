@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, colega presidenta.  Me voy a referir, mi querida presidenta, como siempre lo hago,  con altura y con respeto a todos mis colegas, aún en la diferencia política.  Quiero decirle a mi colega que me te sirvió la palabra,  que yo conozco verdaderamente los problemas de estos sectores.  Más de 30 años son posesionarios ilegales.  La ley del régimen municipal dice que si una persona está en ese estatus,  a los 10 años, todo municipio debe comenzar su estatus de legalidad,  comenzar su estatus de legalizar cada predio en la que están mis hermanos posesionados.  ¿Cuál es el problema aquí?  Que desgraciadamente los alcaldes de turno se olvidan de estos sectores  y se dedican a maquillar el centro de la ciudad,  a hacer la obra en los sectores donde ya está realizada  y quienes viven en estatus de legalidad abandonados.  Es que no les interesa que los legalicen. ¿Por qué?  Porque saben que al legalizarlos, tienen que hacerles aceras, bordillos,  llevarles el agua potable, el alcantarillado,  llevarles los servicios básicos de los cuales hoy adolecen.  Desgraciadamente los municipios se han descuidado.  Por eso que este gobierno ha tomado la decisión  de declararlos de utilidad pública para hacerles las viviendas gratuitas  a la gente que vive en otros sectores,  vive en estatus de pobreza y extrema pobreza, colega.  No son temas políticos, son temas humanos.  Aquí no hay que mentirle al pueblo, a la gente hay que decirle la verdad, colega.  Hoy por hoy debe unirnos el país, debe unirnos la patria,  debe unirnos la tricolor nacional.  Este no debe ser un problema político,  este debe ser un problema social que debemos solucionarlo de alguna u otra manera.  Gracias a Dios, el presidente Daniel Novozín tiene la buena voluntad  de que hayan personas que aporten económicamente y los hagan.  Aquí no hay compañías constructoras, ni mucho menos,  no le mienta al país, colega.  Son incentivos tributarios, son donaciones.  Antes, recuerdo tanto yo, cuando era más joven,  era un negociado la construcción.  Se formó el Banco Ecuatoriano de la Vivienda,  recuerdo tanto, y allí creció la ciudad.  Ahí se hicieron las acacias, los esteros, la saiba, la alborada,  cuando la construcción era un negociado.  Hoy es un servicio social y hay que entenderlo de esa manera.  Gracias a Dios hay un presidente humanista  que le está metiendo la mano al bolsillo a los ricos  para que hagan con ese dinero  las obras que le hacen falta a mis hermanos pobres de los sectores populares.  Solamente eso me quería presentar. Muchas gracias.",
+  "language": "es",
+  "duration": 158.55,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.42,
+      "end": 157.44,
+      "text": "Gracias, colega presidenta.  Me voy a referir, mi querida presidenta, como siempre lo hago,  con altura y con respeto a todos mis colegas, aún en la diferencia política.  Quiero decirle a mi colega que me te sirvió la palabra,  que yo conozco verdaderamente los problemas de estos sectores.  Más de 30 años son posesionarios ilegales.  La ley del régimen municipal dice que si una persona está en ese estatus,  a los 10 años, todo municipio debe comenzar su estatus de legalidad,  comenzar su estatus de legalizar cada predio en la que están mis hermanos posesionados.  ¿Cuál es el problema aquí?  Que desgraciadamente los alcaldes de turno se olvidan de estos sectores  y se dedican a maquillar el centro de la ciudad,  a hacer la obra en los sectores donde ya está realizada  y quienes viven en estatus de legalidad abandonados.  Es que no les interesa que los legalicen. ¿Por qué?  Porque saben que al legalizarlos, tienen que hacerles aceras, bordillos,  llevarles el agua potable, el alcantarillado,  llevarles los servicios básicos de los cuales hoy adolecen.  Desgraciadamente los municipios se han descuidado.  Por eso que este gobierno ha tomado la decisión  de declararlos de utilidad pública para hacerles las viviendas gratuitas  a la gente que vive en otros sectores,  vive en estatus de pobreza y extrema pobreza, colega.  No son temas políticos, son temas humanos.  Aquí no hay que mentirle al pueblo, a la gente hay que decirle la verdad, colega.  Hoy por hoy debe unirnos el país, debe unirnos la patria,  debe unirnos la tricolor nacional.  Este no debe ser un problema político,  este debe ser un problema social que debemos solucionarlo de alguna u otra manera.  Gracias a Dios, el presidente Daniel Novozín tiene la buena voluntad  de que hayan personas que aporten económicamente y los hagan.  Aquí no hay compañías constructoras, ni mucho menos,  no le mienta al país, colega.  Son incentivos tributarios, son donaciones.  Antes, recuerdo tanto yo, cuando era más joven,  era un negociado la construcción.  Se formó el Banco Ecuatoriano de la Vivienda,  recuerdo tanto, y allí creció la ciudad.  Ahí se hicieron las acacias, los esteros, la saiba, la alborada,  cuando la construcción era un negociado.  Hoy es un servicio social y hay que entenderlo de esa manera.  Gracias a Dios hay un presidente humanista  que le está metiendo la mano al bolsillo a los ricos  para que hagan con ese dinero  las obras que le hacen falta a mis hermanos pobres de los sectores populares.  Solamente eso me quería presentar. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "BAk_JfHXKl0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1,
+        "[OOV] Asambleísta Por": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Jorge Chamba - Sesión 079 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=BAk_JfHXKl0",
+  "published_at": "2026-03-18T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "BAk_JfHXKl0",
+  "date": "2026-03-18T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=BAk_JfHXKl0",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 157.02,
+      "interventions": 1,
+      "word_count": 419
+    }
+  ]
+}

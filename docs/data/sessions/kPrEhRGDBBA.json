@@ -1,0 +1,52 @@
+{
+  "text": "Buenos días. Gracias, colega presidente, por el uso de la palabra.  Gracias, colegas asambleístas, por escucharme esta mañana.  Dice el adagio popular que quien no hace nada te da palo porque bogas y palo porque no bogas.  Yo no acostumbro a leer, yo no acostumbro a decir lo que otros me dicen que diga.  Yo no leo, yo digo lo que siento, presidente. Digo lo que sé, por eso me preparo cada vez que tengo que actuar en el Pleno de la Asamblea Nacional.  Hay que decirles a los colegas que no están de acuerdo con este proyecto social urbanista  que en el año 2025, entrando al 2026, hay más de 20 mil viviendas afectadas por las fuertes lluvias que cayeron en el país.  El presidente Daniel Novoa, sin consciente de estas grandes necesidades y de estos grandes problemas,  nos envía estos proyectos humanistas, económicos urgentes en el campo de la construcción.  ¿Cuántos hermanos pobres de los sectores populares esperan con ansias que lleguen sus viviendas para que puedan tener una vida digna?  Solamente el que es insensato se opone a que un pobre tenga una casa en la que pueda vivir cobiado con su familia.  Mi querido presidente, solo aquellos que recorremos los sectores populares y vemos la miseria y la pobreza en la que vive la gente  de casa de caña, de techo plástico, vemos cómo la inclemencia del tiempo daña sus enseres, daña sus camas,  daña sus poquillas cosas que han obtenido.  ¿Cómo no llevarle esa felicidad, esa alegría?  ¿Cómo no aplaudir al presidente Daniel Novoa, sin por esas viviendas gratuitas,  para mis hermanos pobres de la Reinaldo Quiñones, Fundo del Triunfo, Ciudad de Dios,  la Carolina, los túmulos quemados, las pirámides, Limón, Limoncito, Chongón y Chongoncito.  Para ellos mi homenaje, para ellos esta lucha, para ellos esta vivienda de la voz del pueblo.  Yo que represento a los sectores populares.  No es posible que hayan personas inhumanas, no es posible que aquí, cobijados en este techo,  quienes no transitan los sectores populares no se dan cuenta la miseria en la que viven mis hermanos en estos sectores.  La semana pasada estuve recorriendo Guayaquil, presidente, y les dije a mis hermanos,  con qué alegría hoy ya no tendrán una casita de caña, hoy vivirán decentemente,  porque aprovechamos para apoyar en el Pleno este proyecto,  porque la bancada de ADN es una bancada justa,  y pondrá los votos para que este proyecto de ley que envía el presidente de la República,  hoy sea una verdad.  Gracias, presidente, por apoyar a los pobres de la patria.  Gracias, ADN, por votar en este proyecto.  Gracias, presidente, por uso de la palabra.  Gracias, colegas.",
+  "language": "es",
+  "duration": 198.23,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.77,
+      "end": 198.13,
+      "text": "Buenos días. Gracias, colega presidente, por el uso de la palabra.  Gracias, colegas asambleístas, por escucharme esta mañana.  Dice el adagio popular que quien no hace nada te da palo porque bogas y palo porque no bogas.  Yo no acostumbro a leer, yo no acostumbro a decir lo que otros me dicen que diga.  Yo no leo, yo digo lo que siento, presidente. Digo lo que sé, por eso me preparo cada vez que tengo que actuar en el Pleno de la Asamblea Nacional.  Hay que decirles a los colegas que no están de acuerdo con este proyecto social urbanista  que en el año 2025, entrando al 2026, hay más de 20 mil viviendas afectadas por las fuertes lluvias que cayeron en el país.  El presidente Daniel Novoa, sin consciente de estas grandes necesidades y de estos grandes problemas,  nos envía estos proyectos humanistas, económicos urgentes en el campo de la construcción.  ¿Cuántos hermanos pobres de los sectores populares esperan con ansias que lleguen sus viviendas para que puedan tener una vida digna?  Solamente el que es insensato se opone a que un pobre tenga una casa en la que pueda vivir cobiado con su familia.  Mi querido presidente, solo aquellos que recorremos los sectores populares y vemos la miseria y la pobreza en la que vive la gente  de casa de caña, de techo plástico, vemos cómo la inclemencia del tiempo daña sus enseres, daña sus camas,  daña sus poquillas cosas que han obtenido.  ¿Cómo no llevarle esa felicidad, esa alegría?  ¿Cómo no aplaudir al presidente Daniel Novoa, sin por esas viviendas gratuitas,  para mis hermanos pobres de la Reinaldo Quiñones, Fundo del Triunfo, Ciudad de Dios,  la Carolina, los túmulos quemados, las pirámides, Limón, Limoncito, Chongón y Chongoncito.  Para ellos mi homenaje, para ellos esta lucha, para ellos esta vivienda de la voz del pueblo.  Yo que represento a los sectores populares.  No es posible que hayan personas inhumanas, no es posible que aquí, cobijados en este techo,  quienes no transitan los sectores populares no se dan cuenta la miseria en la que viven mis hermanos en estos sectores.  La semana pasada estuve recorriendo Guayaquil, presidente, y les dije a mis hermanos,  con qué alegría hoy ya no tendrán una casita de caña, hoy vivirán decentemente,  porque aprovechamos para apoyar en el Pleno este proyecto,  porque la bancada de ADN es una bancada justa,  y pondrá los votos para que este proyecto de ley que envía el presidente de la República,  hoy sea una verdad.  Gracias, presidente, por apoyar a los pobres de la patria.  Gracias, ADN, por votar en este proyecto.  Gracias, presidente, por uso de la palabra.  Gracias, colegas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Asambleísta Por Guayas",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "kPrEhRGDBBA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Asambleísta Por Guayas",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Asambleísta Por Guayas": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Jorge Chamba - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=kPrEhRGDBBA",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "kPrEhRGDBBA",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=kPrEhRGDBBA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Asambleísta Por Guayas",
+      "party": null,
+      "province": null,
+      "total_time": 196.36,
+      "interventions": 1,
+      "word_count": 443
+    }
+  ]
+}
