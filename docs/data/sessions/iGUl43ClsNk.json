@@ -1,0 +1,132 @@
+{
+  "text": "una novedad, por favor informar a esta secretaría. Cierre registro, señor secretario. Me permite informar, señor presidente, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor Secretario. Señor Operador, presente los resultados.  Señor Presidente, me permite informar que de un total de 145 asambleístas presentes  contamos con 60 votos afirmativos, 82 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada. Señor Secretario, certifique si exista.",
+  "language": "es",
+  "duration": 442.69,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.85,
+      "text": "una novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 211.95,
+      "end": 213.5,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 214.55,
+      "end": 230.81,
+      "text": "Me permite informar, señor presidente, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 292.54,
+      "end": 294.67,
+      "text": "Proclame resultados, señor Secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 418.45,
+      "end": 439.29,
+      "text": "Señor Operador, presente los resultados.  Señor Presidente, me permite informar que de un total de 145 asambleístas presentes  contamos con 60 votos afirmativos, 82 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 440.79,
+      "end": 442.7,
+      "text": "Señor Secretario, certifique si exista.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "iGUl43ClsNk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Belén": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Ana Belén": 1,
+        "[OOV] En Pleno": 1
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de reconsideración  de la asambleísta Valentina Centeno - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=iGUl43ClsNk",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "iGUl43ClsNk",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=iGUl43ClsNk",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 39.92,
+      "interventions": 3,
+      "word_count": 89
+    },
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén",
+      "party": null,
+      "province": null,
+      "total_time": 5.59,
+      "interventions": 3,
+      "word_count": 13
+    }
+  ]
+}

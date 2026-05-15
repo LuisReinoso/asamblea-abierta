@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-05-13T02:44:17.528167",
-  "total_sessions": 50,
+  "generated_at": "2026-05-15T08:43:16.505548",
+  "total_sessions": 147,
   "speaker_stats": [
+    {
+      "id": "EN-PLENO",
+      "name": "En Pleno",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 10004.739999999998,
+      "total_interventions": 89,
+      "sessions_attended": 35,
+      "topics_discussed": 0
+    },
     {
       "id": "AN-MARIO-GODOY-NARANJO",
       "name": "Mario Godoy Naranjo",
@@ -51,6 +63,78 @@
       "topics_discussed": 3
     },
     {
+      "id": "ASAMBLEISTA-POR-LOS",
+      "name": "Asambleísta Por Los",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 706.38,
+      "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "EN-VIVO",
+      "name": "En Vivo",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 662.88,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ASAMBLEISTA-POR",
+      "name": "Asambleísta Por",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 660.1800000000001,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ASAMBLEISTA-POR-COTOPAXI",
+      "name": "Asambleísta Por Cotopaxi",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 629.58,
+      "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ANA-BELÉN",
+      "name": "Ana Belén",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Unknown",
+      "province": "Unknown",
+      "total_time": 585.41,
+      "total_interventions": 8,
+      "sessions_attended": 3,
+      "topics_discussed": 3
+    },
+    {
+      "id": "KEEVIN-FERNANDO",
+      "name": "Keevin Fernando",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 525.61,
+      "total_interventions": 4,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LUCÍA-JARAMILLO",
       "name": "Lucía Jaramillo",
       "type": "asambleísta",
@@ -63,6 +147,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "ALEJANDRO-LORENZO",
+      "name": "Alejandro Lorenzo",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 504.01,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "MAURICIO-XAVIER-ORDONEZ-FUENTES",
       "name": "Mauricio Xavier Ordoñez Fuentes",
       "type": "desconocido",
@@ -71,6 +167,30 @@
       "province": null,
       "total_time": 494.3,
       "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ASAMBLEISTA-POR-PASTAZA",
+      "name": "Asambleísta Por Pastaza",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 447.47,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ASAMBLEISTA-POR-IMBABURA",
+      "name": "Asambleísta Por Imbabura",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 411.21,
+      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -99,6 +219,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "MARCOS-HUMBERTO",
+      "name": "Marcos Humberto",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 379.42,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-XAVIER-LASSO",
       "name": "Xavier Lasso",
       "type": "asambleísta",
@@ -111,16 +243,16 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-ANA-BELÉN",
-      "name": "Ana Belén",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Unknown",
-      "province": "Unknown",
-      "total_time": 323.07,
+      "id": "DEL-CISNE",
+      "name": "Del Cisne",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 357.75,
       "total_interventions": 1,
       "sessions_attended": 1,
-      "topics_discussed": 3
+      "topics_discussed": 0
     },
     {
       "id": "AN-GERARDO-MACHADO",
@@ -243,6 +375,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "ASAMBLEISTA-POR-GUAYAS",
+      "name": "Asambleísta Por Guayas",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 196.36,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "MILTON-JAVIER-AGUAS-FLORES",
       "name": "Milton Javier Aguas Flores",
       "type": "desconocido",
@@ -265,6 +409,18 @@
       "total_interventions": 4,
       "sessions_attended": 1,
       "topics_discussed": 3
+    },
+    {
+      "id": "GUSCHMER-TAMARIZ",
+      "name": "Guschmer Tamariz",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 158.86,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
     },
     {
       "id": "MARIA-PAULA-VILLACRESES-HERRERA",
@@ -364,6 +520,20 @@
       "total_duration": 13947.16,
       "unique_speakers": 17,
       "unique_topics": 3
+    },
+    {
+      "month": "2026-03",
+      "sessions_count": 96,
+      "total_duration": 40990.35000000001,
+      "unique_speakers": 3,
+      "unique_topics": 0
+    },
+    {
+      "month": "2026-04",
+      "sessions_count": 1,
+      "total_duration": 342.33,
+      "unique_speakers": 0,
+      "unique_topics": 0
     }
   ]
 }

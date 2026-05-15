@@ -1,0 +1,88 @@
+{
+  "text": "Muchas gracias, presidenta.  Primero, resaltar y destacar que la ley urgente económica se debate en la ciudad de Cuenca  y eso para nosotros es realmente un orgullo y un honor por los casos que voy a comentar luego.  No sin antes referirme a los aplausos que hace un momento hicieron desde la otra bancada  cuando supuestamente atrapan estructuras criminales, pero ayer votan en contra  de la ley que fortalece el régimen penitenciario.  ¿Quién les entiende? Yo no entiendo nada.  Y le aplaudieron a Luis Manterán también hace un par de años. En fin.  Bueno, hace un momento le decía a uno de los colegas a sí mismo de la otra bancada  y le daba consejos de qué es lo que hay que hacer. Señor examinista, le interrumpo por favor. Señor secretario, constate el cuórum de esta sesión. Señoras y señores asambleístas, por favor, registrar su participación.",
+  "language": "es",
+  "duration": 57.42,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.21,
+      "end": 48.5,
+      "text": "Muchas gracias, presidenta.  Primero, resaltar y destacar que la ley urgente económica se debate en la ciudad de Cuenca  y eso para nosotros es realmente un orgullo y un honor por los casos que voy a comentar luego.  No sin antes referirme a los aplausos que hace un momento hicieron desde la otra bancada  cuando supuestamente atrapan estructuras criminales, pero ayer votan en contra  de la ley que fortalece el régimen penitenciario.  ¿Quién les entiende? Yo no entiendo nada.  Y le aplaudieron a Luis Manterán también hace un par de años. En fin.  Bueno, hace un momento le decía a uno de los colegas a sí mismo de la otra bancada  y le daba consejos de qué es lo que hay que hacer.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 48.5,
+      "end": 53.22,
+      "text": "Señor examinista, le interrumpo por favor. Señor secretario, constate el cuórum de esta sesión.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 54.1,
+      "end": 57.44,
+      "text": "Señoras y señores asambleístas, por favor, registrar su participación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "3ZxrSdnfSbU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1,
+        "[OOV] Asambleísta Por Azuay": 1,
+        "[OOV] Asambleísta Por": 1
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Adrian Castro - Sesión 079 - 1ra Parte",
+  "url": "https://www.youtube.com/watch?v=3ZxrSdnfSbU",
+  "published_at": "2026-03-18T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "3ZxrSdnfSbU",
+  "date": "2026-03-18T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=3ZxrSdnfSbU",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 50.35,
+      "interventions": 3,
+      "word_count": 146
+    }
+  ]
+}

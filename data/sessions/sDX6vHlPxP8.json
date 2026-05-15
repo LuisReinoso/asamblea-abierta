@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente. Por favor, solicito la reconsideración de la votación.",
+  "language": "es",
+  "duration": 9.43,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.71,
+      "end": 9.41,
+      "text": "Gracias, señor presidente. Por favor, solicito la reconsideración de la votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "sDX6vHlPxP8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Lucia Pozo - Sesión 080 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=sDX6vHlPxP8",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "sDX6vHlPxP8",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=sDX6vHlPxP8",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 5.7,
+      "interventions": 1,
+      "word_count": 11
+    }
+  ]
+}

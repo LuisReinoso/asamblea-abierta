@@ -1,0 +1,140 @@
+{
+  "text": "Alex Moran. colegas legisladores, hoy no es un día cualquiera,  hoy estamos aquí para devolver esa confianza  que miles de familias ecuatorianas depositaron en nosotros.  Esta ley no tiene una bandera política, no tiene una camiseta.  Esta ley se puede resumir en una simple palabra,  una palabra muy fuerte, una palabra de siete letras,  y esa palabra es familia.  Esta ley va para las familias ecuatorianas.  Es el momento de devolverles por fin ese sueño,  ese sueño que ellos tienen, de tener un techo al cual llamar hogar.  Para explicarlo de mejor manera, señor presidente,  solicito que se proyecte un video que envié  por los medios pertinentes, donde pude recetar  solamente tres sensibles madres de familia  que anhelan que este proyecto de ley se lleve a cabo.  Autorizado. Señor presidente, estamos descargando el video para proyectarlo. Hola, mi nombre es Andrea, vivo en Guasmo Sur, en la cooperativa Cristal.  Muchas mujeres como yo actualmente han vivido sin acceso a una vivienda digna.  Hemos vivido rejuntadas con nuestra familia, sin poder contar con beneficios para actualmente poder adquirir nuestra casa.  Me llamo María y vivo en el Cristo de Gonzalo.  Durante todo este tiempo hemos tenido la oportunidad de tener una casa digna para nosotros poder vivir.  No solamente se trata de construir casa, sino de construir seguridad, futuro, dignidad para quienes lo necesitan.  Hola, soy Erika, soy de El Subur.  Hemos salido adelante con mi familia en momentos difíciles.  No es solo una casa, es dignidad, seguridad para mi familia. Dignidad, seguridad, futuro.  Así ven las familias ecuatorianas este proyecto de ley.  Creo que es momento de volver a que las familias ecuatorianas vuelvan a confiar en nosotros.  Y la única manera de hacerlo es legislando por y para ellos.  Si gobiernos anteriores no quisieron resolver el problema habitacional muy extenso que tiene nuestro país,  más de 700 mil familias que no tienen un hogar, creo que no es excusa.  Nosotros estamos aquí para resolver esos problemas.  Nosotros llegamos aquí por votación popular.  Cada uno de los 151 asambleísticos que estamos en este pleno,  llegamos porque las familias ecuatorianas confiaron en nosotros, creyeron en nosotros.  Hoy es el momento de demostrarles que no se equivocaron.  Hoy es el momento de decirles que sí, estamos en el camino correcto.  Y con esta ley vamos a dar ese gran paso.  Colegas legisladores, los invito a despojarse de las camisetas políticas.  Los invito a despojarse de sus ideologías.  Hoy solamente tenemos una ideología en este pleno, las familias ecuatorianas.  Hoy vamos a decidir si vamos a darle sí a las familias ecuatorianas o vamos a volver a darle las espaldas.  Ustedes deciden.  Esta bancada ya decidió.  Esta bancada de Acción Democrática Nacional y el presidente Daniel Novoacín  vamos a estar siempre del lado de las familias ecuatorianas.  La pregunta es, ¿ustedes de qué lado van a estar?  Muchas gracias, señor presidente.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 258.18,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Alex Moran.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 15.54,
+      "end": 68.42,
+      "text": "colegas legisladores, hoy no es un día cualquiera,  hoy estamos aquí para devolver esa confianza  que miles de familias ecuatorianas depositaron en nosotros.  Esta ley no tiene una bandera política, no tiene una camiseta.  Esta ley se puede resumir en una simple palabra,  una palabra muy fuerte, una palabra de siete letras,  y esa palabra es familia.  Esta ley va para las familias ecuatorianas.  Es el momento de devolverles por fin ese sueño,  ese sueño que ellos tienen, de tener un techo al cual llamar hogar.  Para explicarlo de mejor manera, señor presidente,  solicito que se proyecte un video que envié  por los medios pertinentes, donde pude recetar  solamente tres sensibles madres de familia  que anhelan que este proyecto de ley se lleve a cabo.  Autorizado.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 2,
+      "start": 74.03,
+      "end": 77.39,
+      "text": "Señor presidente, estamos descargando el video para proyectarlo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 122.85,
+      "end": 169.74,
+      "text": "Hola, mi nombre es Andrea, vivo en Guasmo Sur, en la cooperativa Cristal.  Muchas mujeres como yo actualmente han vivido sin acceso a una vivienda digna.  Hemos vivido rejuntadas con nuestra familia, sin poder contar con beneficios para actualmente poder adquirir nuestra casa.  Me llamo María y vivo en el Cristo de Gonzalo.  Durante todo este tiempo hemos tenido la oportunidad de tener una casa digna para nosotros poder vivir.  No solamente se trata de construir casa, sino de construir seguridad, futuro, dignidad para quienes lo necesitan.  Hola, soy Erika, soy de El Subur.  Hemos salido adelante con mi familia en momentos difíciles.  No es solo una casa, es dignidad, seguridad para mi familia.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 173.19,
+      "end": 257.58,
+      "text": "Dignidad, seguridad, futuro.  Así ven las familias ecuatorianas este proyecto de ley.  Creo que es momento de volver a que las familias ecuatorianas vuelvan a confiar en nosotros.  Y la única manera de hacerlo es legislando por y para ellos.  Si gobiernos anteriores no quisieron resolver el problema habitacional muy extenso que tiene nuestro país,  más de 700 mil familias que no tienen un hogar, creo que no es excusa.  Nosotros estamos aquí para resolver esos problemas.  Nosotros llegamos aquí por votación popular.  Cada uno de los 151 asambleísticos que estamos en este pleno,  llegamos porque las familias ecuatorianas confiaron en nosotros, creyeron en nosotros.  Hoy es el momento de demostrarles que no se equivocaron.  Hoy es el momento de decirles que sí, estamos en el camino correcto.  Y con esta ley vamos a dar ese gran paso.  Colegas legisladores, los invito a despojarse de las camisetas políticas.  Los invito a despojarse de sus ideologías.  Hoy solamente tenemos una ideología en este pleno, las familias ecuatorianas.  Hoy vamos a decidir si vamos a darle sí a las familias ecuatorianas o vamos a volver a darle las espaldas.  Ustedes deciden.  Esta bancada ya decidió.  Esta bancada de Acción Democrática Nacional y el presidente Daniel Novoacín  vamos a estar siempre del lado de las familias ecuatorianas.  La pregunta es, ¿ustedes de qué lado van a estar?  Muchas gracias, señor presidente.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "WZ9l0ldoWIo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "En Pleno",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] En Pleno": 3,
+        "[OOV] Del Pleno": 1
+      },
+      "samples": 4,
+      "successful_reads": 4,
+      "source": "ocr-oov"
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Pleno De La": 1,
+        "[OOV] Del Pleno De La": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Alex Morán - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=WZ9l0ldoWIo",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "WZ9l0ldoWIo",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=WZ9l0ldoWIo",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 137.27,
+      "interventions": 2,
+      "word_count": 357
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 46.89,
+      "interventions": 1,
+      "word_count": 114
+    },
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 4.36,
+      "interventions": 2,
+      "word_count": 10
+    }
+  ]
+}

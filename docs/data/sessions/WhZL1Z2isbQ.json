@@ -1,0 +1,180 @@
+{
+  "text": "Un error. Le pido la ratificación del voto. por favor. Adelante, señor secretario. Procedo a tomar votación de la rectificación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre el registro, señor secretario. Me permite informar, señor presidente, que contamos con… ¿Me avisas? Me permite informar, señor presidente, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Rosa Cecilia Baltazar.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presenten los resultados.  Señor presidente, me permite informar que de un total de 145 asambleístas presentes  contamos con 144 votos afirmativos, cero negativos, cero blancos, una abstención.  Por tanto, la moción presentada por la asambleísta Rosa Cecilia Baltazar ha sido aprobada.",
+  "language": "es",
+  "duration": 280.87,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 3.04,
+      "text": "Un error. Le pido la ratificación del voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 3.04,
+      "end": 3.56,
+      "text": "por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.59,
+      "end": 8.0,
+      "text": "Adelante, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 9.33,
+      "end": 19.77,
+      "text": "Procedo a tomar votación de la rectificación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 104.28,
+      "end": 106.12,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 139.99,
+      "end": 151.91,
+      "text": "Me permite informar, señor presidente, que contamos con…",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 151.91,
+      "end": 153.66,
+      "text": "¿Me avisas?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 156.14,
+      "end": 172.63,
+      "text": "Me permite informar, señor presidente, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Rosa Cecilia Baltazar.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 230.58,
+      "end": 249.76,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 9,
+      "start": 251.2,
+      "end": 274.49,
+      "text": "Señor operador, presenten los resultados.  Señor presidente, me permite informar que de un total de 145 asambleístas presentes  contamos con 144 votos afirmativos, cero negativos, cero blancos, una abstención.  Por tanto, la moción presentada por la asambleísta Rosa Cecilia Baltazar ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "WhZL1Z2isbQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 5,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Ana Belén": 2,
+        "[OOV] En Pleno": 2
+      },
+      "samples": 6,
+      "successful_reads": 4,
+      "source": null
+    }
+  },
+  "title": "Votación de la Rectificación de la moción de la asambleísta Cecilia Baltazar - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=WhZL1Z2isbQ",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "WhZL1Z2isbQ",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=WhZL1Z2isbQ",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 62.66,
+      "interventions": 5,
+      "word_count": 122
+    },
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 27.19,
+      "interventions": 5,
+      "word_count": 22
+    }
+  ]
+}

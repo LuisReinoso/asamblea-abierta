@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente. Yo voy a ser muy breve y yo considero que este tema es muy delicado  y le agradezco, asambleísta veloz, esta comisión a las órdenes para recibir todas sus observaciones.  De igual forma, el asambleísta que me antecedió, pero debo puntualizar algo.  Este proyecto, que es por mandato... ¿Ahí me oye? ¿Ahí me oye? ¿Sí? Gracias.  Este proyecto, que es por mandato de la Corte Constitucional, con número 67-23-IN-24,  trata sobre la opción que tienen los ecuatorianos para, valga la redundancia, optar por este procedimiento.  El dictamen de la Corte legisla para los 18 millones de ecuatorianos e incluye la pluriculturalidad  dentro del territorio ecuatoriano y habla de los 18 millones de ecuatorianos,  para que no haya una distinción entre uno y otro. Se legisla para todo el Ecuador,  para los 18 millones de ecuatorianos.  Es importante, además, entender que este proyecto, lo que propone es,  revisado por un comité y aprobado por el ente rector, la opción a cualquier ciudadano ecuatoriano,  indiferentemente del territorio de donde venga, de su condición geográfica,  a optar por el procedimiento eutanásico para que el comité lo revise, el ente rector lo apruebe y se proceda.  No se hace distinción en ningún territorio del Ecuador, esta legislación o este proyecto pretende  darle facultades a los 18 millones de ecuatorianos para optar por ello.  Y como he escuchado, erróneos conceptos, yo sí quiero ofrecer a los 151 legisladores,  que cualquiera de ustedes que necesite, o la sentencia, o el proyecto emborrador,  con muchísimo gusto me lo pidan, yo se los paso,  y si necesitan tener una reunión con la Comisión de Salud,  encantado también los recibimos, pero siempre informados,  no con conceptos erróneos, porque no podemos en este momento  continuar pensando que es para uno o para otro.  Se legisla para todo el Ecuador, para los 18 millones de habitantes,  y eso es lo que propone este proyecto en cuanto a opciones se refiere.  Hasta aquí mi palabra, señor presidente, muchas gracias.  Ha solicitado punto de información la Asamblea.",
+  "language": "es",
+  "duration": 174.31,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.48,
+      "end": 174.42,
+      "text": "Gracias, señor presidente. Yo voy a ser muy breve y yo considero que este tema es muy delicado  y le agradezco, asambleísta veloz, esta comisión a las órdenes para recibir todas sus observaciones.  De igual forma, el asambleísta que me antecedió, pero debo puntualizar algo.  Este proyecto, que es por mandato... ¿Ahí me oye? ¿Ahí me oye? ¿Sí? Gracias.  Este proyecto, que es por mandato de la Corte Constitucional, con número 67-23-IN-24,  trata sobre la opción que tienen los ecuatorianos para, valga la redundancia, optar por este procedimiento.  El dictamen de la Corte legisla para los 18 millones de ecuatorianos e incluye la pluriculturalidad  dentro del territorio ecuatoriano y habla de los 18 millones de ecuatorianos,  para que no haya una distinción entre uno y otro. Se legisla para todo el Ecuador,  para los 18 millones de ecuatorianos.  Es importante, además, entender que este proyecto, lo que propone es,  revisado por un comité y aprobado por el ente rector, la opción a cualquier ciudadano ecuatoriano,  indiferentemente del territorio de donde venga, de su condición geográfica,  a optar por el procedimiento eutanásico para que el comité lo revise, el ente rector lo apruebe y se proceda.  No se hace distinción en ningún territorio del Ecuador, esta legislación o este proyecto pretende  darle facultades a los 18 millones de ecuatorianos para optar por ello.  Y como he escuchado, erróneos conceptos, yo sí quiero ofrecer a los 151 legisladores,  que cualquiera de ustedes que necesite, o la sentencia, o el proyecto emborrador,  con muchísimo gusto me lo pidan, yo se los paso,  y si necesitan tener una reunión con la Comisión de Salud,  encantado también los recibimos, pero siempre informados,  no con conceptos erróneos, porque no podemos en este momento  continuar pensando que es para uno o para otro.  Se legisla para todo el Ecuador, para los 18 millones de habitantes,  y eso es lo que propone este proyecto en cuanto a opciones se refiere.  Hasta aquí mi palabra, señor presidente, muchas gracias.  Ha solicitado punto de información la Asamblea.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "lPSciDVcdLY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Nacional": 1,
+        "[OOV] Reyes Baquerizo": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Juan Reyes - Sesión 080 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=lPSciDVcdLY",
+  "published_at": "2026-03-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "lPSciDVcdLY",
+  "date": "2026-03-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=lPSciDVcdLY",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 171.94,
+      "interventions": 1,
+      "word_count": 337
+    }
+  ]
+}

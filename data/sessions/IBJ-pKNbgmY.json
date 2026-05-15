@@ -1,0 +1,52 @@
+{
+  "text": "Gracias.  Bueno, de decir que hemos aprobado una ley para autorizar que los niños o las niñas de 14 años  tengan derecho sexual, palabra aprobar, ustedes aprobaron.  Eso no es correcto, eso es yuya, eso es mentir.  Sí, está en mano de la justicia el señor que fue, el señor que fue responsable,  ¿de dónde nació este problema?  Y hoy ustedes están ocupando como presa fácil para que diga, declare a favor de gobierno  y nosotros menoramos la pena, así que vayan, pregunten al señor Díaz.  Y no es ninguna aprobación de una ley, nosotros clarito dijimos, clarísimo,  porque cuando nosotros hablamos no hay para qué se trabe la lengua,  firmamos un documento, pero eso lo querían aprovechar, pero hacían narrativa,  cuando estaba en la bajada, cojamos de este insumo, vamos atacando a la revolución ciudadana.  Lo siempre lo han hecho.  Así es que reitero, por segunda, tercera vez, 70 veces 70 dijo,  no me hacen problema el que quiera ofender, porque aquí estamos para demostrar nuestro culto,  nuestra actitud positiva.  Que viva la democracia, que viva el respeto.",
+  "language": "es",
+  "duration": 89.72,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.42,
+      "end": 88.57,
+      "text": "Gracias.  Bueno, de decir que hemos aprobado una ley para autorizar que los niños o las niñas de 14 años  tengan derecho sexual, palabra aprobar, ustedes aprobaron.  Eso no es correcto, eso es yuya, eso es mentir.  Sí, está en mano de la justicia el señor que fue, el señor que fue responsable,  ¿de dónde nació este problema?  Y hoy ustedes están ocupando como presa fácil para que diga, declare a favor de gobierno  y nosotros menoramos la pena, así que vayan, pregunten al señor Díaz.  Y no es ninguna aprobación de una ley, nosotros clarito dijimos, clarísimo,  porque cuando nosotros hablamos no hay para qué se trabe la lengua,  firmamos un documento, pero eso lo querían aprovechar, pero hacían narrativa,  cuando estaba en la bajada, cojamos de este insumo, vamos atacando a la revolución ciudadana.  Lo siempre lo han hecho.  Así es que reitero, por segunda, tercera vez, 70 veces 70 dijo,  no me hacen problema el que quiera ofender, porque aquí estamos para demostrar nuestro culto,  nuestra actitud positiva.  Que viva la democracia, que viva el respeto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "IBJ-pKNbgmY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Eustaquio Tuala - Sesión 081 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=IBJ-pKNbgmY",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "IBJ-pKNbgmY",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=IBJ-pKNbgmY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 84.15,
+      "interventions": 1,
+      "word_count": 179
+    }
+  ]
+}

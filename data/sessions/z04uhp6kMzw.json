@@ -1,0 +1,74 @@
+{
+  "text": "Muchísimas gracias, colegas asambleístas y a todo el país que está muy pendiente de esta ley de vivienda social.  Mociono la reconsideración de la votación, por favor. Señor secretario, tome votación sobre la reconsideración planteada.  Señoras y señores asambleístas, por favor.",
+  "language": "es",
+  "duration": 20.83,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.43,
+      "end": 14.04,
+      "text": "Muchísimas gracias, colegas asambleístas y a todo el país que está muy pendiente de esta ley de vivienda social.  Mociono la reconsideración de la votación, por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 14.38,
+      "end": 20.79,
+      "text": "Señor secretario, tome votación sobre la reconsideración planteada.  Señoras y señores asambleístas, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "z04uhp6kMzw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Nacional": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Asambleísta Nacional": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Moción de reconsideración de la votación asambleísta Valentina Centeno - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=z04uhp6kMzw",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "z04uhp6kMzw",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=z04uhp6kMzw",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 16.02,
+      "interventions": 2,
+      "word_count": 41
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente.  Mociono la aprobación de la Ley de Régimen Tributario Interno  para incentivar la construcción de vivienda de interés social  y reducir el déficit habitacional.  Gracias.",
+  "language": "es",
+  "duration": 15.09,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.99,
+      "end": 15.07,
+      "text": "Gracias, señor presidente.  Mociono la aprobación de la Ley de Régimen Tributario Interno  para incentivar la construcción de vivienda de interés social  y reducir el déficit habitacional.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "0t5bg2NPeic",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Del Pleno De La Asamblea": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Moción de la asambleísta Valentina Centeno - Sesión 081",
+  "url": "https://www.youtube.com/watch?v=0t5bg2NPeic",
+  "published_at": "2026-03-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "0t5bg2NPeic",
+  "date": "2026-03-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=0t5bg2NPeic",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 13.08,
+      "interventions": 1,
+      "word_count": 28
+    }
+  ]
+}

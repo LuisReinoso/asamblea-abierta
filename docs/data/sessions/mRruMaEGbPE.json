@@ -1,0 +1,83 @@
+{
+  "text": "Quiero decir una cosa, la brecha habitacional en este país  es un problema que no se ha solucionado nunca, es más,  solo ha venido incrementando a partir del 2001.  Por otro lado, ha quedado claro que este no es un beneficio  para la empresa privada, este es un beneficio para las familias  ecuatorianas que van a poder aprovechar de más capital  que será inyectado directamente en vivienda social gratuita y digna.  Aquí el problema es que a pesar de que se entendió el contenido de la ley,  lamentablemente hay algunos legisladores que simplemente no les importa  legislar más a favor de las familias ecuatorianas.  Es más importante mantener y perpetuar la pobreza y la desigualdad en el Ecuador.  Casos como Chile, subsidios habitacionales y participación privada  para fomentar la construcción de vivienda social.  Colombia, beneficios de incentivos tributarios a la construcción  de vivienda social, vayan a ver sus programas.  Brasil, subsidios e incentivos fiscales focalizados a población vulnerable.  Por lo tanto, no pretendan justificar bajo su ideología  que se están oponiendo a que más familias ecuatorianas  tengan un techo digno, gratuito y seguro en donde vivir.  Esa es la realidad.  Señor Presidente, conforme a lo dispuesto en el artículo 62  de la Ley Orgánica de la Función Legislativa y en virtud de algunas observaciones  que permiten incrementar el número de beneficiarios y los segmentos  que van a poder ser incluidos para este incentivo tributario,  solicito que se suspenda el tratamiento de este punto a fin de que la Comisión  de Desarrollo Económico pueda analizar e incorporar algunos cambios sugeridos.  Gracias. Gracias, Asambleísta Centeno, y agradezco a todos los asambleístas.",
+  "language": "es",
+  "duration": 116.12,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 110.98,
+      "text": "Quiero decir una cosa, la brecha habitacional en este país  es un problema que no se ha solucionado nunca, es más,  solo ha venido incrementando a partir del 2001.  Por otro lado, ha quedado claro que este no es un beneficio  para la empresa privada, este es un beneficio para las familias  ecuatorianas que van a poder aprovechar de más capital  que será inyectado directamente en vivienda social gratuita y digna.  Aquí el problema es que a pesar de que se entendió el contenido de la ley,  lamentablemente hay algunos legisladores que simplemente no les importa  legislar más a favor de las familias ecuatorianas.  Es más importante mantener y perpetuar la pobreza y la desigualdad en el Ecuador.  Casos como Chile, subsidios habitacionales y participación privada  para fomentar la construcción de vivienda social.  Colombia, beneficios de incentivos tributarios a la construcción  de vivienda social, vayan a ver sus programas.  Brasil, subsidios e incentivos fiscales focalizados a población vulnerable.  Por lo tanto, no pretendan justificar bajo su ideología  que se están oponiendo a que más familias ecuatorianas  tengan un techo digno, gratuito y seguro en donde vivir.  Esa es la realidad.  Señor Presidente, conforme a lo dispuesto en el artículo 62  de la Ley Orgánica de la Función Legislativa y en virtud de algunas observaciones  que permiten incrementar el número de beneficiarios y los segmentos  que van a poder ser incluidos para este incentivo tributario,  solicito que se suspenda el tratamiento de este punto a fin de que la Comisión  de Desarrollo Económico pueda analizar e incorporar algunos cambios sugeridos.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 112.25,
+      "end": 116.1,
+      "text": "Gracias, Asambleísta Centeno, y agradezco a todos los asambleístas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "mRruMaEGbPE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "En Pleno",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] En Pleno": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Valentina Centeno - Sesión 081 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=mRruMaEGbPE",
+  "published_at": "2026-03-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "mRruMaEGbPE",
+  "date": "2026-03-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=mRruMaEGbPE",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 110.95,
+      "interventions": 1,
+      "word_count": 260
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 3.85,
+      "interventions": 1,
+      "word_count": 9
+    }
+  ]
+}
