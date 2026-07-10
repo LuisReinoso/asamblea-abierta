@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T18:14:41.684854",
+  "generated_at": "2026-07-10T18:53:39.718919",
   "total_sessions": 401,
   "speaker_stats": [
     {
@@ -1240,8 +1240,8 @@
     },
     {
       "month": "2026-07",
-      "sessions_count": 61,
-      "total_duration": 23316.169999999995,
+      "sessions_count": 62,
+      "total_duration": 30980.639999999996,
       "unique_speakers": 4,
       "unique_topics": 0
     }
