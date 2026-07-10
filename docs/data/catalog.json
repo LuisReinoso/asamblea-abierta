@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:10:31.454952",
-  "total_sessions": 336,
+  "generated_at": "2026-07-10T15:22:00.547694",
+  "total_sessions": 341,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2057,12 +2057,51 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Wk4glI5DJBQ",
+      "title": "Asambleísta Pablo Jurado - Sesión 101",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 338.41,
+      "url": "https://www.youtube.com/watch?v=Wk4glI5DJBQ",
+      "file_path": "data/sessions/Wk4glI5DJBQ.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Xrp5luODkKw",
       "title": "Votación de la moción del asambleísta Andrés Castillo - Sesión 101",
       "date": "2026-06-17T00:00:00Z",
       "duration": 704.05,
       "url": "https://www.youtube.com/watch?v=Xrp5luODkKw",
       "file_path": "data/sessions/Xrp5luODkKw.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "6idnYYu0yTc",
+      "title": "Asambleísta Alex Morán - Sesión 101",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 102.54,
+      "url": "https://www.youtube.com/watch?v=6idnYYu0yTc",
+      "file_path": "data/sessions/6idnYYu0yTc.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "OUpZdcwlovM",
+      "title": "Asambleísta Juan Reyes - Sesión 101",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 557.42,
+      "url": "https://www.youtube.com/watch?v=OUpZdcwlovM",
+      "file_path": "data/sessions/OUpZdcwlovM.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -2135,6 +2174,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Kv8wbiy0Hjw",
+      "title": "Votación de la moción del asambleísta Alex Morán - Sesión 101",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 594.06,
+      "url": "https://www.youtube.com/watch?v=Kv8wbiy0Hjw",
+      "file_path": "data/sessions/Kv8wbiy0Hjw.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Rj0QMFifFxU",
       "title": "Asambleísta Annabella Azín - Sesión 101",
       "date": "2026-06-17T00:00:00Z",
@@ -2167,6 +2219,19 @@
       "duration": 663.21,
       "url": "https://www.youtube.com/watch?v=Y55NoYUlfBk",
       "file_path": "data/sessions/Y55NoYUlfBk.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dOFpEgFQD8A",
+      "title": "Asambleísta Eliana Correa - Sesión 101 - Punto de información",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 104.51,
+      "url": "https://www.youtube.com/watch?v=dOFpEgFQD8A",
+      "file_path": "data/sessions/dOFpEgFQD8A.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],

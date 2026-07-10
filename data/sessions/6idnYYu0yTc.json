@@ -1,0 +1,79 @@
+{
+  "text": "Tiene la palabra el asambleísta Alex Brant. Buenos días, señora Presidenta, a todas las personas que lo siguen a través de los medios digitales.  Primero, felicitar la designación de mi compañero Esteban Torres como primer vicepresidente de la Asamblea Nacional.  Sé que estarás predispuesto al reto que se te avecina.  De igual manera, a la flamante Presidenta de la Asamblea Nacional, mi compañera Michelle Mancheno de Abelá,  estoy convencido de que llevarás el nombre de Chimborazo a los más altos  y que podrás estar predispuesta a volver a darle la credibilidad que esta Asamblea perdió por mucho tiempo atrás.  Conforme lo estipula el artículo 23 de la Ley Orgánica de la Función Legislativa,  que establece que quien ejerce la presidencia de la Asamblea Nacional no puede integrar una comisión especializada,  me permito moccionar para que integre la Comisión Especializada de Desarrollo Económico Productivo  y la Microempresa, a una colega representante también de mi provincia, de Guayas,  que cumple con todas las características para poder ejecutar de gran manera esta gran labor  que es pertenecer a la Comisión de Desarrollo Económico.  Una gran representante de San Borondón, mi compañera y colega Arianna Burgos Carrera.  Dicha moción la he presentado con los medios pertinentes para que tome votación  cuando usted crea pertinente, señora Presidenta. Muchas gracias.",
+  "language": "es",
+  "duration": 102.54,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 8.47,
+      "text": "Tiene la palabra el asambleísta Alex Brant.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 17.58,
+      "end": 100.98,
+      "text": "Buenos días, señora Presidenta, a todas las personas que lo siguen a través de los medios digitales.  Primero, felicitar la designación de mi compañero Esteban Torres como primer vicepresidente de la Asamblea Nacional.  Sé que estarás predispuesto al reto que se te avecina.  De igual manera, a la flamante Presidenta de la Asamblea Nacional, mi compañera Michelle Mancheno de Abelá,  estoy convencido de que llevarás el nombre de Chimborazo a los más altos  y que podrás estar predispuesta a volver a darle la credibilidad que esta Asamblea perdió por mucho tiempo atrás.  Conforme lo estipula el artículo 23 de la Ley Orgánica de la Función Legislativa,  que establece que quien ejerce la presidencia de la Asamblea Nacional no puede integrar una comisión especializada,  me permito moccionar para que integre la Comisión Especializada de Desarrollo Económico Productivo  y la Microempresa, a una colega representante también de mi provincia, de Guayas,  que cumple con todas las características para poder ejecutar de gran manera esta gran labor  que es pertenecer a la Comisión de Desarrollo Económico.  Una gran representante de San Borondón, mi compañera y colega Arianna Burgos Carrera.  Dicha moción la he presentado con los medios pertinentes para que tome votación  cuando usted crea pertinente, señora Presidenta. Muchas gracias.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Alex Moran Galarza",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "6idnYYu0yTc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "Alex Moran Galarza",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Alex Morán - Sesión 101",
+  "url": "https://www.youtube.com/watch?v=6idnYYu0yTc",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "6idnYYu0yTc",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=6idnYYu0yTc",
+  "speaker_stats": [
+    {
+      "id": "speaker_2",
+      "name": "Alex Moran Galarza",
+      "party": null,
+      "province": null,
+      "total_time": 83.4,
+      "interventions": 1,
+      "word_count": 207
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 8.44,
+      "interventions": 1,
+      "word_count": 7
+    }
+  ]
+}

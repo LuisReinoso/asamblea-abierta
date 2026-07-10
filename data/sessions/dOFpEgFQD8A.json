@@ -1,0 +1,56 @@
+{
+  "text": "Gracias, Presidenta. Muchas gracias, estimado Presidenta de la Comisión de Salud.  Evidentemente me había nombrado hace unos breves momentos y quiero decirle que para mí, para mi compañera Liliana, este proyecto es sumamente importante.  ¿Por qué? Porque ni el pobre es pobre porque quiere, ni el gordo es gordo porque quiere.  No estamos legislando sobre el peso, no estamos legislando sobre las tallas, estamos legislando sobre un verdadero problema de salud pública  que hoy por hoy hemos tomado en consideración o no se contempla entre las normativas que tenemos en las instituciones de salud.  Este proyecto con un amplio rigor científico, un proyecto sólido que ha sido trabajado desde la academia, con múltiples comparecientes,  llega hoy al Pleno de la Asamblea Nacional para un primer debate, y lamentablemente bastante desvirtuado podríamos decirlo,  porque se ha convertido en un proyecto meramente declarativo, cuando en esta institución nosotros deberíamos garantizar  las condiciones justas, adecuadas y de una legislación transparente, para que todos los problemas que derivan de la obesidad,  que sabemos que son multifactoriales, hoy no vayan a engrosar esas filas de los hospitales que ya hoy por hoy están colapsados.  Lamentablemente, este espacio no se ha convertido, o no se han escuchado todas las voces necesarias dentro de los primeros debates,  pero estamos en un primer momento, y nos da la oportunidad, colegas legisladores, de fortalecer un proyecto de ley  que es importante para el Ecuador, importante para la salud pública, y sobre todo que estaría dándole respuesta  a la situación de salud tan grave que vive hoy por hoy el Ecuador.  Muchas gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 104.51,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.36,
+      "end": 102.06,
+      "text": "Gracias, Presidenta. Muchas gracias, estimado Presidenta de la Comisión de Salud.  Evidentemente me había nombrado hace unos breves momentos y quiero decirle que para mí, para mi compañera Liliana, este proyecto es sumamente importante.  ¿Por qué? Porque ni el pobre es pobre porque quiere, ni el gordo es gordo porque quiere.  No estamos legislando sobre el peso, no estamos legislando sobre las tallas, estamos legislando sobre un verdadero problema de salud pública  que hoy por hoy hemos tomado en consideración o no se contempla entre las normativas que tenemos en las instituciones de salud.  Este proyecto con un amplio rigor científico, un proyecto sólido que ha sido trabajado desde la academia, con múltiples comparecientes,  llega hoy al Pleno de la Asamblea Nacional para un primer debate, y lamentablemente bastante desvirtuado podríamos decirlo,  porque se ha convertido en un proyecto meramente declarativo, cuando en esta institución nosotros deberíamos garantizar  las condiciones justas, adecuadas y de una legislación transparente, para que todos los problemas que derivan de la obesidad,  que sabemos que son multifactoriales, hoy no vayan a engrosar esas filas de los hospitales que ya hoy por hoy están colapsados.  Lamentablemente, este espacio no se ha convertido, o no se han escuchado todas las voces necesarias dentro de los primeros debates,  pero estamos en un primer momento, y nos da la oportunidad, colegas legisladores, de fortalecer un proyecto de ley  que es importante para el Ecuador, importante para la salud pública, y sobre todo que estaría dándole respuesta  a la situación de salud tan grave que vive hoy por hoy el Ecuador.  Muchas gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Eliana Katherine Correa González",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "dOFpEgFQD8A",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Eliana Katherine Correa González",
+      "confidence": 0.75,
+      "votes": {
+        "Eliana Katherine Correa González": 1,
+        "[OOV] , El Caribe": 1,
+        "[OOV] R Latinoamerica, El Caribe": 1,
+        "[OOV] El Caribe": 2,
+        "[OOV] Latinoamerica, El Caribe": 2
+      },
+      "samples": 10,
+      "successful_reads": 7,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Eliana Correa - Sesión 101 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=dOFpEgFQD8A",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "dOFpEgFQD8A",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=dOFpEgFQD8A",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Eliana Katherine Correa González",
+      "party": null,
+      "province": null,
+      "total_time": 99.7,
+      "interventions": 1,
+      "word_count": 265
+    }
+  ]
+}
