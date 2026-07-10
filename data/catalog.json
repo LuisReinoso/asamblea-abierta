@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:22:36.080060",
-  "total_sessions": 351,
+  "generated_at": "2026-07-10T16:32:18.597345",
+  "total_sessions": 356,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2317,6 +2317,58 @@
       "bills_mentioned": 0
     },
     {
+      "id": "KtyHwVdhhW0",
+      "title": "Asambleísta Andrés Castillo - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 573.77,
+      "url": "https://www.youtube.com/watch?v=KtyHwVdhhW0",
+      "file_path": "data/sessions/KtyHwVdhhW0.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "U_-kQwgZWcw",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 099 - II Intervención",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 119.3,
+      "url": "https://www.youtube.com/watch?v=U_-kQwgZWcw",
+      "file_path": "data/sessions/U_-kQwgZWcw.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "hK_n00QHveQ",
+      "title": "Asambleísta Inés Alarcón - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 392.7,
+      "url": "https://www.youtube.com/watch?v=hK_n00QHveQ",
+      "file_path": "data/sessions/hK_n00QHveQ.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "CUq8c-SBL3U",
+      "title": "Asambleísta Jahiren Noriega - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 241.09,
+      "url": "https://www.youtube.com/watch?v=CUq8c-SBL3U",
+      "file_path": "data/sessions/CUq8c-SBL3U.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7N7JjUx5rjc",
       "title": "Votación de la reconsideración de la moción de la asambleísta Jhajaira Urresta - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2337,6 +2389,19 @@
       "url": "https://www.youtube.com/watch?v=nrVC_31c7-I",
       "file_path": "data/sessions/nrVC_31c7-I.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "kIP2lqFMQjA",
+      "title": "Asambleísta Inés Alarcón - Sesión 099 - Réplica",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 174.92,
+      "url": "https://www.youtube.com/watch?v=kIP2lqFMQjA",
+      "file_path": "data/sessions/kIP2lqFMQjA.json",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
