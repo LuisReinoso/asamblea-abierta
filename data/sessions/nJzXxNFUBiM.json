@@ -1,0 +1,165 @@
+{
+  "text": "Cecilia Baltazar ha sido ingresada por escrito. Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación. Procedo a la lectura y tomar votación de la moción presentada.  Memorando número N-BYRC-2026-0094-M.  Asunto.  Moción de aprobación de archivo del proyecto de ley orgánica del uso responsable de redes sociales.  De mi consideración, en mi calidad de asambleísta y en ejercicio de las facultades que me confieren  los artículos 60 y 135 de la ley orgánica de la oficina legislativa,  respecto a la convocatoria a la sesión número 102 del Pleno de la Asamblea Nacional  a realizarse el día martes 23 de junio en los 2026 a las 10 horas,  en la sede de la oficina legislativa y en atención al punto del orden del día.  Conocer el informe para primer debate del proyecto de ley de uso responsable de redes sociales.  Me permito proponer la siguiente moción.  El archivo del proyecto de ley de uso responsable de redes sociales,  de acuerdo con las conclusiones y recomendaciones constantes del informe para primer debate,  aprobado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación  y Saberes Ancestrales en sesión ordinaria 056 de fecha 5 de mayo de 2025.  Con sentimientos de distinguida consideración, atentamente, Rosa Cecilia Baltazar,  Yucalia Asamblista.  Hasta aquí la lectura, señora Presidenta, señores asamblistas,  por favor registrar su participación en las curules electrónicas,  de existir alguna novedad y informar a esta secretaría.  ¡Gracias!  ¡Gracias! Cierre el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Cecilia Baltazar.  Señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 140 asambleístas presentes  contamos con 140 votos afirmativos, 139 votos afirmativos,  cero votos negativos, cero blancos y una abstención.  Por lo tanto, ha sido aprobada la moción presentada por la asambleísta Cecilia Baltazar. Señor Secretario.",
+  "language": "es",
+  "duration": 714.34,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.65,
+      "text": "Cecilia Baltazar ha sido ingresada por escrito.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 3.66,
+      "end": 7.98,
+      "text": "Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.64,
+      "end": 15.86,
+      "text": "Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.31,
+      "end": 107.47,
+      "text": "Procedo a la lectura y tomar votación de la moción presentada.  Memorando número N-BYRC-2026-0094-M.  Asunto.  Moción de aprobación de archivo del proyecto de ley orgánica del uso responsable de redes sociales.  De mi consideración, en mi calidad de asambleísta y en ejercicio de las facultades que me confieren  los artículos 60 y 135 de la ley orgánica de la oficina legislativa,  respecto a la convocatoria a la sesión número 102 del Pleno de la Asamblea Nacional  a realizarse el día martes 23 de junio en los 2026 a las 10 horas,  en la sede de la oficina legislativa y en atención al punto del orden del día.  Conocer el informe para primer debate del proyecto de ley de uso responsable de redes sociales.  Me permito proponer la siguiente moción.  El archivo del proyecto de ley de uso responsable de redes sociales,  de acuerdo con las conclusiones y recomendaciones constantes del informe para primer debate,  aprobado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación  y Saberes Ancestrales en sesión ordinaria 056 de fecha 5 de mayo de 2025.  Con sentimientos de distinguida consideración, atentamente, Rosa Cecilia Baltazar,  Yucalia Asamblista.  Hasta aquí la lectura, señora Presidenta, señores asamblistas,  por favor registrar su participación en las curules electrónicas,  de existir alguna novedad y informar a esta secretaría.  ¡Gracias!  ¡Gracias!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 531.39,
+      "end": 533.32,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 534.41,
+      "end": 548.82,
+      "text": "Me permito informar, señora Presidenta, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Cecilia Baltazar.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 676.6,
+      "end": 678.52,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 680.68,
+      "end": 705.62,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 140 asambleístas presentes  contamos con 140 votos afirmativos, 139 votos afirmativos,  cero votos negativos, cero blancos y una abstención.  Por lo tanto, ha sido aprobada la moción presentada por la asambleísta Cecilia Baltazar.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 712.51,
+      "end": 713.64,
+      "text": "Señor Secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "nJzXxNFUBiM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Camila León Cueva",
+      "confidence": 1.0,
+      "votes": {
+        "Camila León Cueva": 6
+      },
+      "samples": 25,
+      "successful_reads": 6,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la  moción de la asambleísta Cecilia Baltazar - Sesión 102",
+  "url": "https://www.youtube.com/watch?v=nJzXxNFUBiM",
+  "published_at": "2026-06-23T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "nJzXxNFUBiM",
+  "date": "2026-06-23T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=nJzXxNFUBiM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 133.83,
+      "interventions": 4,
+      "word_count": 316
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 14.82,
+      "interventions": 5,
+      "word_count": 35
+    }
+  ]
+}
