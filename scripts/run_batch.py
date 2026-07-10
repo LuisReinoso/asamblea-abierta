@@ -219,6 +219,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--keep-video", action="store_true", help="Keep downloaded videos after processing")
     parser.add_argument("--limit", type=int, default=0, help="Only process the first N pending videos (0=all)")
+    parser.add_argument("--since", help="Only process videos with published_at >= YYYY-MM-DD (entries with null date are kept)")
     args = parser.parse_args()
 
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -228,6 +229,9 @@ def main():
     sessions = index.get("sessions", [])
     existing = {f.stem for f in DATA_SESSIONS.iterdir() if f.suffix == ".json" and f.stem != "index"}
     pending = [s for s in sessions if s["video_id"] not in existing]
+
+    if args.since:
+        pending = [s for s in pending if not s.get("published_at") or s["published_at"][:10] >= args.since]
 
     if args.limit:
         pending = pending[: args.limit]
