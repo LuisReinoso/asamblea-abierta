@@ -260,9 +260,10 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     try:
         with open(out_session, encoding="utf-8") as f:
             session = json.load(f)
-        for key in ["title", "url", "published_at", "channel_title"]:
+        for key in ["title", "url", "published_at", "channel_title", "video_type"]:
             if key in session_meta and key not in session:
                 session[key] = session_meta[key]
+        session.setdefault("video_type", "clip")
         session["id"] = vid
         if not session.get("date") and session_meta.get("published_at"):
             session["date"] = session_meta["published_at"]

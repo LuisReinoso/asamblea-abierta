@@ -146,6 +146,7 @@ def build_session_catalog(sessions):
             'duration': session.get('duration', 0),
             'url': session.get('source_url', ''),
             'file_path': session_info['file_path'],
+            'video_type': session.get('video_type', 'clip'),
             'speaker_count': speaker_count,
             'topics': classification.get('topics', []),
             'keywords': classification.get('keywords', [])[:10],  # Limit keywords

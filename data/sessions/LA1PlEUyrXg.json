@@ -13,5 +13,6 @@
     }
   ],
   "video_id": "LA1PlEUyrXg",
-  "source": "local-pyannote-community-1+whisper-large-v3-turbo"
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "video_type": "clip"
 }
