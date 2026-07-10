@@ -1,0 +1,50 @@
+{
+  "text": "¿Por qué se llama caso Porsche? Dicen que debería llamarse caso Porsche. Dicen que no debería llamarse caso seguro de P. Dicen que filmamos a través del Porsche o están filmando a todo mundo como gran hermano en Guayaquil a todo el que se les ocurra.  Por eso se llama un caso seguro de P. Porque esos son los instrumentos que utilizaron para cometer el delito de espionaje.  Y claro, nervioso, nervioso, tembleque, tembleque, dice que nos rascamos las vestiduras. No, no nos rascamos las vestiduras, nos rasgamos.  Los que se están rascando por la paliza que les estamos dando ahora con argumentos son otros.  Porque decir que es fiscalizar, el pedir que se abra la Comisión de Garantías Constitucionales para difundir lo que está pasando,  comisión que ustedes controlan, que van a utilizar las cámaras de la empresa pública, empresa pública que ustedes controlan porque ustedes tenían el alcalde de Guayaquil, no es fiscalizar.  Utilizar la radio pichincha, que es de todos los pichinchanos, para sus protervos fines, no es fiscalizar.  Utilizar los asesores de la Asamblea Nacional para que les dejen investigando las cosas, no es fiscalizar.  Mandar a que se pongan cámaras a la puerta de la casa, les decía el economista.  Si está la cámara en la puerta de la casa, y Rangel le decía, sí, no se preocupe.  Entonces, no se olviden de buscar también las conexiones que tienen unos con otros.  ¿Eso es fiscalizar?  No, no es fiscalizar.  Están desnaturalizando el principio mismo de la fiscalización.  La fiscalización tiene tres fuentes.  Uno, el juicio político.  Dos, el convocar a funcionarios a las comisiones especializadas.  O tres, hacer requerimientos de información.  Bajo ninguna circunstancia, abrir las cámaras, abrir la radio, utilizar asesores o apuntar a las casas de nadie.  Eso no es fiscalizar.  Va a tener problemas con el economista, asambleísta González.  Va a tener problemas, en serio.  Irá a pedirle disculpas.  Usted habla de supuestos atentados cuando en el auto le dan la orden de que diga que es un atentado de nuevo.  Va a tener problemas.  Le van a analizar.  Y finalmente, finalmente, dice que no escoge los enemigos porque no están a la altura del conflicto.  Y ahora gracias a mi buena amiga, la asambleísta Urresta, me entero el por qué no me escoge de enemigo.  Porque yo no me pego los pelos, asambleísta.  Yo tengo la calvicie con dignidad.  Devuelvo la palabra, señora presidenta.  No sin antes pedir que se dame a votación sobre la resolución.  Gracias.",
+  "language": "es",
+  "duration": 184.23,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 9.85,
+      "end": 183.34,
+      "text": "¿Por qué se llama caso Porsche? Dicen que debería llamarse caso Porsche. Dicen que no debería llamarse caso seguro de P. Dicen que filmamos a través del Porsche o están filmando a todo mundo como gran hermano en Guayaquil a todo el que se les ocurra.  Por eso se llama un caso seguro de P. Porque esos son los instrumentos que utilizaron para cometer el delito de espionaje.  Y claro, nervioso, nervioso, tembleque, tembleque, dice que nos rascamos las vestiduras. No, no nos rascamos las vestiduras, nos rasgamos.  Los que se están rascando por la paliza que les estamos dando ahora con argumentos son otros.  Porque decir que es fiscalizar, el pedir que se abra la Comisión de Garantías Constitucionales para difundir lo que está pasando,  comisión que ustedes controlan, que van a utilizar las cámaras de la empresa pública, empresa pública que ustedes controlan porque ustedes tenían el alcalde de Guayaquil, no es fiscalizar.  Utilizar la radio pichincha, que es de todos los pichinchanos, para sus protervos fines, no es fiscalizar.  Utilizar los asesores de la Asamblea Nacional para que les dejen investigando las cosas, no es fiscalizar.  Mandar a que se pongan cámaras a la puerta de la casa, les decía el economista.  Si está la cámara en la puerta de la casa, y Rangel le decía, sí, no se preocupe.  Entonces, no se olviden de buscar también las conexiones que tienen unos con otros.  ¿Eso es fiscalizar?  No, no es fiscalizar.  Están desnaturalizando el principio mismo de la fiscalización.  La fiscalización tiene tres fuentes.  Uno, el juicio político.  Dos, el convocar a funcionarios a las comisiones especializadas.  O tres, hacer requerimientos de información.  Bajo ninguna circunstancia, abrir las cámaras, abrir la radio, utilizar asesores o apuntar a las casas de nadie.  Eso no es fiscalizar.  Va a tener problemas con el economista, asambleísta González.  Va a tener problemas, en serio.  Irá a pedirle disculpas.  Usted habla de supuestos atentados cuando en el auto le dan la orden de que diga que es un atentado de nuevo.  Va a tener problemas.  Le van a analizar.  Y finalmente, finalmente, dice que no escoge los enemigos porque no están a la altura del conflicto.  Y ahora gracias a mi buena amiga, la asambleísta Urresta, me entero el por qué no me escoge de enemigo.  Porque yo no me pego los pelos, asambleísta.  Yo tengo la calvicie con dignidad.  Devuelvo la palabra, señora presidenta.  No sin antes pedir que se dame a votación sobre la resolución.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "88TJ6y2X82g",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Andrés Felipe Castillo Maldonado",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Andrés Castillo - Sesión 101",
+  "url": "https://www.youtube.com/watch?v=88TJ6y2X82g",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "88TJ6y2X82g",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=88TJ6y2X82g",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 173.49,
+      "interventions": 1,
+      "word_count": 416
+    }
+  ]
+}
