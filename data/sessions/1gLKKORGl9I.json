@@ -1,0 +1,53 @@
+{
+  "text": "Buenos días, presidente, colegas asambleístas, ciudadanía en general.  Bueno, en este primer debate del proyecto de la ley orgánica para la atención integral para las personas con obesidad, hay que recalcar que este es un problema real.  El 65% de ecuatorianos padecen de obesidad y 35 de cada 100 de nuestros niños ya padecen esta enfermedad.  Nuestra responsabilidad como legisladores es analizar la viabilidad real de la normativa que debatimos para que no se quede en letra muerta, sino que se convierta en una verdadera política que responda a las necesidades de la ciudadanía.  He vivido muy de cerca esta enfermedad que no solo afecta a quien la padece, sino también a nuestro vínculo familiar.  Es por ello que este proyecto, tal como está redactado, es estrictamente declarativo y esto responde a que, por un lado, el artículo 10 establece el acceso a prestaciones complejas y de alto costo,  incluyendo cirugías bariátricas, tratamientos farmacológicos especializados y el seguimiento multidisciplinario continuo.  Hasta ahí todo marcha bien, pero en la disposición general tercera se establece de forma expresa que la cobertura, financiamiento y provisión de estas cirugías y medicamentos especializados  estarán estrictamente superitados a la disponibilidad presupuestaria, aclarando explícitamente que la ley no genera obligaciones automáticas de adquisición.  No podemos engañarnos ni engañar a los ciudadanos porque una ley que busca garantizar intervenciones quirúrgicas de alta complejidad,  pero aclara que el Estado solo proveerá si es que existe presupuesto, no es una norma operativa, generando además un problema más a los hospitales del Sistema Nacional de Salud.  Porque el personal sanitario es quien enfrenta las problemáticas que le genera el gobierno sin otorgarles el presupuesto necesario para su ejecución.  Colegas, estamos a tiempo de perfeccionar este proyecto de ley e ingresaré por ello las observaciones respectivas  para que no sea una normativa más, sino la herramienta legal que genere cambios significativos en la vida de las y los ecuatorianos.  Exigir que la ley sea operativa no es oponerse al derecho, es ejercer nuestra función legal y constitucional con responsabilidad.  Hasta aquí mi intervención. Muchas gracias, presidente.",
+  "language": "es",
+  "duration": 150.37,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.37,
+      "end": 148.94,
+      "text": "Buenos días, presidente, colegas asambleístas, ciudadanía en general.  Bueno, en este primer debate del proyecto de la ley orgánica para la atención integral para las personas con obesidad, hay que recalcar que este es un problema real.  El 65% de ecuatorianos padecen de obesidad y 35 de cada 100 de nuestros niños ya padecen esta enfermedad.  Nuestra responsabilidad como legisladores es analizar la viabilidad real de la normativa que debatimos para que no se quede en letra muerta, sino que se convierta en una verdadera política que responda a las necesidades de la ciudadanía.  He vivido muy de cerca esta enfermedad que no solo afecta a quien la padece, sino también a nuestro vínculo familiar.  Es por ello que este proyecto, tal como está redactado, es estrictamente declarativo y esto responde a que, por un lado, el artículo 10 establece el acceso a prestaciones complejas y de alto costo,  incluyendo cirugías bariátricas, tratamientos farmacológicos especializados y el seguimiento multidisciplinario continuo.  Hasta ahí todo marcha bien, pero en la disposición general tercera se establece de forma expresa que la cobertura, financiamiento y provisión de estas cirugías y medicamentos especializados  estarán estrictamente superitados a la disponibilidad presupuestaria, aclarando explícitamente que la ley no genera obligaciones automáticas de adquisición.  No podemos engañarnos ni engañar a los ciudadanos porque una ley que busca garantizar intervenciones quirúrgicas de alta complejidad,  pero aclara que el Estado solo proveerá si es que existe presupuesto, no es una norma operativa, generando además un problema más a los hospitales del Sistema Nacional de Salud.  Porque el personal sanitario es quien enfrenta las problemáticas que le genera el gobierno sin otorgarles el presupuesto necesario para su ejecución.  Colegas, estamos a tiempo de perfeccionar este proyecto de ley e ingresaré por ello las observaciones respectivas  para que no sea una normativa más, sino la herramienta legal que genere cambios significativos en la vida de las y los ecuatorianos.  Exigir que la ley sea operativa no es oponerse al derecho, es ejercer nuestra función legal y constitucional con responsabilidad.  Hasta aquí mi intervención. Muchas gracias, presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Hermel Andrés Campos Tobar",
+        "confidence": 0.88
+      }
+    }
+  ],
+  "video_id": "1gLKKORGl9I",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Hermel Andrés Campos Tobar",
+      "confidence": 0.88,
+      "votes": {
+        "Hermel Andrés Campos Tobar": 7,
+        "[OOV] Del Pleno": 1
+      },
+      "samples": 10,
+      "successful_reads": 8,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Andrés Campos - Sesión 101",
+  "url": "https://www.youtube.com/watch?v=1gLKKORGl9I",
+  "published_at": "2026-07-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "1gLKKORGl9I",
+  "date": "2026-07-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=1gLKKORGl9I",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Hermel Andrés Campos Tobar",
+      "party": null,
+      "province": null,
+      "total_time": 140.57,
+      "interventions": 1,
+      "word_count": 344
+    }
+  ]
+}
