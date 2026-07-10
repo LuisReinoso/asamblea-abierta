@@ -1,0 +1,166 @@
+{
+  "text": "La moción presentada por el asambleísta Alejandro Lara ha sido ingresada por escrito. Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría. Señoras asambleístas, ¿tiene apoyo a la moción?  Señor secretario, dé lectura a la moción presentada y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada.  Membrando número N-LPLA-2026-0186-M.  Asunto, moción de aprobación del archivo del proyecto de reformatoria a la Ley de Fomento Artesanal.  De mi consideración, en mi calidad de miembro de la Comisión de Desarrollo Económico Productivo de la Microempresa  y como asambleísta ponente, en uso de las facultades constitucionales y legales conforme a los artículos 60 y 135 de la Ley Orgánica de la Función Legislativa,  Dentro del tercer punto del orden del día de la sesión 103 del Pleno de la Asamblea Nacional,  convocada para el día miércoles 24 de junio de 2026 a las 10 horas,  elevo a usted la siguiente moción para que sea sometida a votación.  Archivar el proyecto de ley reformatoria a la Ley de Fomento Artesanal.  Consentimiento de distinguida consideración, atentamente, Lenin Alejandro Lara Pérez, asambleísta.  Señores asambleístas, por favor, registrar su participación en las currículas electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre el registro, señor secretario. Me permite informar, señor presidente, que contamos con 133 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleista Alejandro Lara.  Señores asambleistas, por favor consignar su voto. Proclame el resultado, señor Secretario. Señor operador, presidente de los resultados.  Señor presidente, me permite informar que de un total de 133 asambleístas presentes  contamos con 82 votos afirmativos, 51 votos negativos, 0 blancos y 0 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada por el asambleísta Alejandro Lara. Señor Secretario, siguiente punto.",
+  "language": "es",
+  "duration": 560.58,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 3.42,
+      "text": "La moción presentada por el asambleísta Alejandro Lara ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.52,
+      "end": 8.96,
+      "text": "Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.97,
+      "end": 16.15,
+      "text": "Señoras asambleístas, ¿tiene apoyo a la moción?  Señor secretario, dé lectura a la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.28,
+      "end": 84.29,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada.  Membrando número N-LPLA-2026-0186-M.  Asunto, moción de aprobación del archivo del proyecto de reformatoria a la Ley de Fomento Artesanal.  De mi consideración, en mi calidad de miembro de la Comisión de Desarrollo Económico Productivo de la Microempresa  y como asambleísta ponente, en uso de las facultades constitucionales y legales conforme a los artículos 60 y 135 de la Ley Orgánica de la Función Legislativa,  Dentro del tercer punto del orden del día de la sesión 103 del Pleno de la Asamblea Nacional,  convocada para el día miércoles 24 de junio de 2026 a las 10 horas,  elevo a usted la siguiente moción para que sea sometida a votación.  Archivar el proyecto de ley reformatoria a la Ley de Fomento Artesanal.  Consentimiento de distinguida consideración, atentamente, Lenin Alejandro Lara Pérez, asambleísta.  Señores asambleístas, por favor, registrar su participación en las currículas electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 4,
+      "start": 434.43,
+      "end": 435.81,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 436.62,
+      "end": 451.69,
+      "text": "Me permite informar, señor presidente, que contamos con 133 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleista Alejandro Lara.  Señores asambleistas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 6,
+      "start": 529.72,
+      "end": 531.31,
+      "text": "Proclame el resultado, señor Secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 532.27,
+      "end": 554.44,
+      "text": "Señor operador, presidente de los resultados.  Señor presidente, me permite informar que de un total de 133 asambleístas presentes  contamos con 82 votos afirmativos, 51 votos negativos, 0 blancos y 0 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada por el asambleísta Alejandro Lara.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 8,
+      "start": 558.53,
+      "end": 560.67,
+      "text": "Señor Secretario, siguiente punto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "Vzk3LJ3ebWw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.67,
+      "votes": {
+        "del Cisne Rogel Esperanza": 2,
+        "Juan José Reyes Baquerizo": 4
+      },
+      "samples": 25,
+      "successful_reads": 6,
+      "source": "db"
+    }
+  },
+  "title": "Votación de la moción de archivo del asambleísta Alejandro Lara - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=Vzk3LJ3ebWw",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "Vzk3LJ3ebWw",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Vzk3LJ3ebWw",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 108.69,
+      "interventions": 4,
+      "word_count": 257
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 14.68,
+      "interventions": 5,
+      "word_count": 47
+    }
+  ]
+}
