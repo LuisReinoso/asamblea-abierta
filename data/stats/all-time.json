@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T11:08:40.895134",
-  "total_sessions": 303,
+  "generated_at": "2026-07-10T11:23:17.564734",
+  "total_sessions": 308,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -183,6 +183,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 999.81,
+      "total_interventions": 33,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -231,6 +243,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 950.8299999999999,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-INES-MARGARITA-ALARCON-BUENO",
       "name": "Inés Margarita Alarcón Bueno",
       "type": "asambleísta",
@@ -240,6 +264,18 @@
       "total_time": 940.88,
       "total_interventions": 9,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Imbabura",
+      "total_time": 934.06,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -264,30 +300,6 @@
       "total_time": 892.75,
       "total_interventions": 9,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 873.04,
-      "total_interventions": 29,
-      "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 858.3699999999999,
-      "total_interventions": 2,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -348,18 +360,6 @@
       "total_time": 712.79,
       "total_interventions": 3,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
-      "name": "Roberto Fernando Jaramillo Martínez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Imbabura",
-      "total_time": 710.81,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -591,6 +591,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 413.53,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "ASAMBLEISTA-POR-IMBABURA",
       "name": "Asambleísta Por Imbabura",
       "type": "desconocido",
@@ -723,6 +735,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-DEL-CISNE-MOLINA-CORO",
+      "name": "María del Cisne Molina Coro",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 249.48,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
       "name": "Pamela Alejandra Aguirre Zambonino",
       "type": "asambleísta",
@@ -759,14 +783,14 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ALEX-MORAN-GALARZA",
-      "name": "Alex Moran Galarza",
+      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
+      "name": "Milena Cristina Jácome Benítez",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "ADN",
+      "party": "RC",
       "province": "Guayas",
-      "total_time": 213.71,
-      "total_interventions": 1,
+      "total_time": 207.55,
+      "total_interventions": 2,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -879,6 +903,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "DEL-PLENO",
+      "name": "Del Pleno",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 30.81,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JUAN-PABLO-MOLINA-SALDANA",
       "name": "Juan Pablo Molina Saldaña",
       "type": "asambleísta",
@@ -969,15 +1005,15 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 92,
-      "total_duration": 37268.63000000001,
+      "sessions_count": 94,
+      "total_duration": 38186.24000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },
     {
       "month": "2026-07",
-      "sessions_count": 43,
-      "total_duration": 17761.629999999997,
+      "sessions_count": 46,
+      "total_duration": 18466.359999999997,
       "unique_speakers": 4,
       "unique_topics": 0
     }
