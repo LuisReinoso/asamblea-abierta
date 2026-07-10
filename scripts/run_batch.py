@@ -43,6 +43,8 @@ DATA_SESSIONS = PROJECT_ROOT / "data" / "sessions"
 DATA_VIDEO = PROJECT_ROOT / "data" / "video"
 STATUS_FILE = PROJECT_ROOT / "temp" / "batch_status.json"
 LOG_FILE = PROJECT_ROOT / "temp" / "batch.log"
+QA_SAMPLES_DIR = PROJECT_ROOT / "temp" / "qa_samples"  # local-only, temp/ is gitignored
+QA_FRAGMENT_SECONDS = 20
 
 
 def log(msg: str):
@@ -115,6 +117,32 @@ def download_video(video_id: str) -> Path | None:
     except OSError:
         pass
     return out_path
+
+
+def extract_qa_fragment(video_path: Path, video_id: str, duration_hint: float | None) -> None:
+    """Save a short clip (temp/qa_samples/<id>.mp4, local-only — temp/ is
+    gitignored) before the full video gets deleted, so a person can spot-
+    check "does the transcript actually match what's on screen" without
+    re-downloading multi-GB files. Stream-copied (no re-encode), so it's
+    fast and near-free in CPU. Sampled from ~40% into the video — long
+    enough past the intro/procedural opening to likely show real content,
+    short of the ending where sessions sometimes trail into silence."""
+    QA_SAMPLES_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = QA_SAMPLES_DIR / f"{video_id}.mp4"
+    if out_path.exists():
+        return
+    duration = duration_hint or 60.0
+    start = max(0.0, duration * 0.4)
+    cmd = [
+        "ffmpeg", "-y", "-ss", f"{start:.1f}", "-i", str(video_path),
+        "-t", str(QA_FRAGMENT_SECONDS), "-c", "copy", str(out_path),
+    ]
+    try:
+        subprocess.run(cmd, capture_output=True, timeout=60)
+    except (subprocess.TimeoutExpired, OSError):
+        pass
+    if not out_path.exists() or out_path.stat().st_size < 1000:
+        out_path.unlink(missing_ok=True)
 
 
 def run_script(script: str, *args: str, timeout: int = 7200) -> bool:
@@ -268,8 +296,10 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
         log(f"  metadata merge failed: {e}")
         traceback.print_exc()
 
-    # Stage 5: cleanup video to save disk (unless --keep-video)
+    # Stage 5: keep a short spot-check fragment, then drop the full video —
+    # full-session recordings run multi-GB and storage isn't infinite.
     if not keep_video:
+        extract_qa_fragment(video_path, vid, session_meta.get("duration"))
         try:
             video_path.unlink()
         except OSError:
@@ -287,6 +317,7 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="Only process the first N pending videos (0=all)")
     parser.add_argument("--since", help="Only process videos with published_at >= YYYY-MM-DD (entries with null date are kept)")
     parser.add_argument("--oldest-first", action="store_true", help="Process in index order instead of newest-published-first (the default)")
+    parser.add_argument("--video-type", choices=["clip", "full_session"], help="Only process this video_type (default: both)")
     args = parser.parse_args()
 
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -296,6 +327,9 @@ def main():
     sessions = index.get("sessions", [])
     existing = {f.stem for f in DATA_SESSIONS.iterdir() if f.suffix == ".json" and f.stem != "index"}
     pending = [s for s in sessions if s["video_id"] not in existing]
+
+    if args.video_type:
+        pending = [s for s in pending if s.get("video_type", "clip") == args.video_type]
 
     if args.since:
         pending = [s for s in pending if not s.get("published_at") or s["published_at"][:10] >= args.since]

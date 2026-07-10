@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente. Voy a ser muy breve. Creo que es importante decirle al país la verdad, porque siempre aquí escuchamos que se trata de tergiversar lo que se debate.  En primer lugar, voy a empezar por el tema de que, y ahora escuchándoles a los compañeros de la Revolución Ciudadana, aún más queremos saber la ruta del dinero y los rostros,  porque realmente llama la atención con esa euforia que defienden el hecho de que no veamos quiénes están detrás de las empresas o de las personas jurídicas.  Capaz nos llevamos alguna sorpresa ahí, pueblo ecuatoriano, y yo creo que eso sería bueno.  De hecho, en la Comisión de Fiscalización vamos a tomar en cuenta lo que han manifestado los colegas asambleístas.  Por otro lado, han dicho que la Comisión de Fiscalización del periodo legislativo anterior ha iniciado investigación.  Ha iniciado investigación, pero también sería bueno, porque por ahí también ha hablado otro asambleísta de los juicios políticos.  Acordémonos, pues, también los juicios políticos del exministro de Finanzas del gobierno de Guillermo Lazo,  que también fue archivado en la Comisión de Fiscalización, del exsecretario de la Administración Pública, de Senecir.  ¿Cómo le salvaron a Wilma Terán también, al diablo Terán, después de que acabó con la justicia de nuestro país?  Acordémonos, si vamos a hablar de juicios políticos, hablemos, pues, de juicios políticos,  porque acá lo que nosotros estamos haciendo es tener una postura firme respecto del hecho.  Y por ahí dijeron que hemos votado en abstención.  Sí, votamos en abstención. ¿Por qué no vamos a caer en la agenda politiquera de ustedes?  Porque acá lo que se necesita es de una fiscalización técnica.  Primero la Fiscalía, como ahora, que tenemos nombres de personas naturales y jurídicas,  podemos iniciar un proceso de fiscalización.  Pero ustedes, a toda costa, quieren ya crucificar a una persona sin que ni siquiera haya sido llamado ante la Fiscalía.  Eso no vamos a permitir tampoco, compañeros, porque ustedes lo único que quieren es tratar de tapar  los casos de Sobornos, Odebrecht, Petrochina, Arroz Verde, Sucre, más de 2 mil millones de dólares.  Ahí, ¿por qué el asambleísta Blasco no dijo que con su vida en contra de la corrupción?  Ya pues, ahí tienen casos para que pueda con su vida también fiscalizar y darle respuestas a los ecuatorianos.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 137.88,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.14,
+      "end": 137.07,
+      "text": "Gracias, señor presidente. Voy a ser muy breve. Creo que es importante decirle al país la verdad, porque siempre aquí escuchamos que se trata de tergiversar lo que se debate.  En primer lugar, voy a empezar por el tema de que, y ahora escuchándoles a los compañeros de la Revolución Ciudadana, aún más queremos saber la ruta del dinero y los rostros,  porque realmente llama la atención con esa euforia que defienden el hecho de que no veamos quiénes están detrás de las empresas o de las personas jurídicas.  Capaz nos llevamos alguna sorpresa ahí, pueblo ecuatoriano, y yo creo que eso sería bueno.  De hecho, en la Comisión de Fiscalización vamos a tomar en cuenta lo que han manifestado los colegas asambleístas.  Por otro lado, han dicho que la Comisión de Fiscalización del periodo legislativo anterior ha iniciado investigación.  Ha iniciado investigación, pero también sería bueno, porque por ahí también ha hablado otro asambleísta de los juicios políticos.  Acordémonos, pues, también los juicios políticos del exministro de Finanzas del gobierno de Guillermo Lazo,  que también fue archivado en la Comisión de Fiscalización, del exsecretario de la Administración Pública, de Senecir.  ¿Cómo le salvaron a Wilma Terán también, al diablo Terán, después de que acabó con la justicia de nuestro país?  Acordémonos, si vamos a hablar de juicios políticos, hablemos, pues, de juicios políticos,  porque acá lo que nosotros estamos haciendo es tener una postura firme respecto del hecho.  Y por ahí dijeron que hemos votado en abstención.  Sí, votamos en abstención. ¿Por qué no vamos a caer en la agenda politiquera de ustedes?  Porque acá lo que se necesita es de una fiscalización técnica.  Primero la Fiscalía, como ahora, que tenemos nombres de personas naturales y jurídicas,  podemos iniciar un proceso de fiscalización.  Pero ustedes, a toda costa, quieren ya crucificar a una persona sin que ni siquiera haya sido llamado ante la Fiscalía.  Eso no vamos a permitir tampoco, compañeros, porque ustedes lo único que quieren es tratar de tapar  los casos de Sobornos, Odebrecht, Petrochina, Arroz Verde, Sucre, más de 2 mil millones de dólares.  Ahí, ¿por qué el asambleísta Blasco no dijo que con su vida en contra de la corrupción?  Ya pues, ahí tienen casos para que pueda con su vida también fiscalizar y darle respuestas a los ecuatorianos.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "ZJ9yOCiyhzA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] A Por Napo": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Ana Tapia - Sesión 103 - Réplica",
+  "url": "https://www.youtube.com/watch?v=ZJ9yOCiyhzA",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ZJ9yOCiyhzA",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ZJ9yOCiyhzA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 133.93,
+      "interventions": 1,
+      "word_count": 388
+    }
+  ]
+}

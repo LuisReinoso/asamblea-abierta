@@ -1,0 +1,50 @@
+{
+  "text": "la asambleísta Anayela. Gracias, señor presidente. Yo quiero empezar mi intervención,  señores asambleístas, preguntándoles si alguien en el pleno de esta Asamblea Nacional  realmente se piensa que el pueblo ecuatoriano es este nivel de ingenuo. Yo no creo que  haya una sola persona que se haya pasado los últimos dos años mirando las noticias que  pueda comerse la narrativa que están tratando de implantar el día de hoy. La realidad es  que Progen, como dijo Pamela, lleva dos años en la discusión pública. Dos años desde  que se empezaron fiscalizaciones. Dos años desde que se pidió información. Más de un  año desde que se empezaron con los pedidos de juicio político. Años desde que la Comisión  de Transparencia tenía la información y sacó un informe escuálido que no dice nada y que  todavía no lo hemos visto en el pleno de esta Asamblea Nacional. Un juicio político que quedó  en el limbo y que debía decidirlo este pleno según el artículo 142 de la ley orgánica de  la sanción legislativa, que no lo hemos visto. Y otro juicio político adicional que está  pendiente. Y nos van a decir que entonces ustedes hoy se inventaron la fiscalización de  Progen. No, señores. Esto es una consecuencia que, como han dicho los quienes me antecedieron  en la palabra, una vez que se hizo una bola de nieve y se les salió de las manos y no había para  dónde más mirar sino que tener que tratar el tema de Progen. Después de que el expresidente de esta  Asamblea se permitió decir que no se lo iba a tratar en el pleno, se han visto en la obligación  de tratarlo porque no hay a dónde más correr. Entonces, no, por favor, no podemos nosotros, como el  primer poder del Estado, pararnos aquí, mirar a los ojos a los ecuatorianos y decirles que esta  asamblea les ha cumplido con la fiscalización de Progen. Porque esta asamblea, en su colectivo  y principalmente con los votos de ADN, le ha fallado al país y nunca le ha dado respuestas.  Hoy cuando no les queda de otra, entonces vienen aquí a pretender que van a dar respuestas.  No, señores. No le mintamos al país. Y está perfecto que se trate, que es la ruta de dinero,  pero aquí tiene que ser con todos y con los responsables políticos, señores.  Presidente, mi palabra. Muchas gracias.  Gracias, asambleísta. Tiene la palabra la asambleísta.",
+  "language": "es",
+  "duration": 144.27,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 144.29,
+      "text": "la asambleísta Anayela. Gracias, señor presidente. Yo quiero empezar mi intervención,  señores asambleístas, preguntándoles si alguien en el pleno de esta Asamblea Nacional  realmente se piensa que el pueblo ecuatoriano es este nivel de ingenuo. Yo no creo que  haya una sola persona que se haya pasado los últimos dos años mirando las noticias que  pueda comerse la narrativa que están tratando de implantar el día de hoy. La realidad es  que Progen, como dijo Pamela, lleva dos años en la discusión pública. Dos años desde  que se empezaron fiscalizaciones. Dos años desde que se pidió información. Más de un  año desde que se empezaron con los pedidos de juicio político. Años desde que la Comisión  de Transparencia tenía la información y sacó un informe escuálido que no dice nada y que  todavía no lo hemos visto en el pleno de esta Asamblea Nacional. Un juicio político que quedó  en el limbo y que debía decidirlo este pleno según el artículo 142 de la ley orgánica de  la sanción legislativa, que no lo hemos visto. Y otro juicio político adicional que está  pendiente. Y nos van a decir que entonces ustedes hoy se inventaron la fiscalización de  Progen. No, señores. Esto es una consecuencia que, como han dicho los quienes me antecedieron  en la palabra, una vez que se hizo una bola de nieve y se les salió de las manos y no había para  dónde más mirar sino que tener que tratar el tema de Progen. Después de que el expresidente de esta  Asamblea se permitió decir que no se lo iba a tratar en el pleno, se han visto en la obligación  de tratarlo porque no hay a dónde más correr. Entonces, no, por favor, no podemos nosotros, como el  primer poder del Estado, pararnos aquí, mirar a los ojos a los ecuatorianos y decirles que esta  asamblea les ha cumplido con la fiscalización de Progen. Porque esta asamblea, en su colectivo  y principalmente con los votos de ADN, le ha fallado al país y nunca le ha dado respuestas.  Hoy cuando no les queda de otra, entonces vienen aquí a pretender que van a dar respuestas.  No, señores. No le mintamos al país. Y está perfecto que se trate, que es la ruta de dinero,  pero aquí tiene que ser con todos y con los responsables políticos, señores.  Presidente, mi palabra. Muchas gracias.  Gracias, asambleísta. Tiene la palabra la asambleísta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Yela Duarte",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "L9g8hYp3ccw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Yela Duarte",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Ana Belén Yela - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=L9g8hYp3ccw",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "L9g8hYp3ccw",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=L9g8hYp3ccw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Yela Duarte",
+      "party": null,
+      "province": null,
+      "total_time": 144.26,
+      "interventions": 1,
+      "word_count": 403
+    }
+  ]
+}

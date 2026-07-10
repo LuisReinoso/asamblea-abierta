@@ -1,0 +1,117 @@
+{
+  "text": "Gracias, presidente. Lamentablemente en el tratamiento del punto anterior usted no me dio el derecho a la réplica. Le estoy dando la palabra, asambleísta, como he dado a todos los que han pedido. y le agradezco su atención.  A ver, pongamos un ejemplo, porque se está intentando confundir  este tema con que nosotros sí fiscalizamos.  Resulta que hacemos una cooperativa,  integramos 20, 30 personas, hacemos un negocio de un restaurante  y le encargamos a algunas personas que asuman la gerencia de esa... de esa institución, de ese restaurante. Gracias, asambleísta. Tiene la palabra el asambleísta Andrés Castillo.",
+  "language": "es",
+  "duration": 370.06,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.25,
+      "end": 12.8,
+      "text": "Gracias, presidente. Lamentablemente en el tratamiento del punto anterior usted no me dio el derecho a la réplica.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 14.22,
+      "end": 16.97,
+      "text": "Le estoy dando la palabra, asambleísta, como he dado a todos los que han pedido.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 16.97,
+      "end": 44.23,
+      "text": "y le agradezco su atención.  A ver, pongamos un ejemplo, porque se está intentando confundir  este tema con que nosotros sí fiscalizamos.  Resulta que hacemos una cooperativa,  integramos 20, 30 personas, hacemos un negocio de un restaurante  y le encargamos a algunas personas que asuman la gerencia de esa...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 44.88,
+      "end": 46.99,
+      "text": "de esa institución, de ese restaurante.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 367.37,
+      "end": 370.03,
+      "text": "Gracias, asambleísta. Tiene la palabra el asambleísta Andrés Castillo.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "Tj05V3VGbBI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ricardo Armando Patiño Aroca",
+      "confidence": 1.0,
+      "votes": {
+        "Ricardo Armando Patiño Aroca": 3
+      },
+      "samples": 14,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Ricardo Patiño - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=Tj05V3VGbBI",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "Tj05V3VGbBI",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Tj05V3VGbBI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ricardo Armando Patiño Aroca",
+      "party": null,
+      "province": null,
+      "total_time": 36.81,
+      "interventions": 2,
+      "word_count": 67
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 7.52,
+      "interventions": 3,
+      "word_count": 30
+    }
+  ]
+}
