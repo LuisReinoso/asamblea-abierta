@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T00:11:47.502743",
-  "total_sessions": 228,
+  "generated_at": "2026-07-10T00:27:20.586053",
+  "total_sessions": 239,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,15 +39,27 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
+      "name": "Janeth Paola Cabezas Castillo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 2102.44,
+      "total_interventions": 5,
+      "sessions_attended": 5,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
       "name": "Torre de la Torre Fernando de la",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "RC",
       "province": "Imbabura",
-      "total_time": 1894.1900000000003,
-      "total_interventions": 32,
-      "sessions_attended": 8,
+      "total_time": 1912.3000000000002,
+      "total_interventions": 39,
+      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -63,13 +75,25 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
-      "name": "Janeth Paola Cabezas Castillo",
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 1365.6100000000001,
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "total_time": 1447.17,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JOSE-LUIS-NANGO-CUJI",
+      "name": "José Luis Nango Cuji",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pastaza",
+      "total_time": 1344.8600000000001,
       "total_interventions": 3,
       "sessions_attended": 3,
       "topics_discussed": 0
@@ -87,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 1026.85,
+      "total_interventions": 5,
+      "sessions_attended": 3,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-FERNANDO-ENRIQUE-CEDENO-RIVADENEIRA",
       "name": "Fernando Enrique Cedeño Rivadeneira",
       "type": "asambleísta",
@@ -99,18 +135,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
-      "name": "Carmen Yolanda Tiupul Urquizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Chimborazo",
-      "total_time": 900.3,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
       "name": "Alejandro Lorenzo Vanegas Cortazar",
       "type": "asambleísta",
@@ -118,18 +142,6 @@
       "party": "RC",
       "province": "Guayas",
       "total_time": 777.8399999999999,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOSE-LUIS-NANGO-CUJI",
-      "name": "José Luis Nango Cuji",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pastaza",
-      "total_time": 752.9200000000001,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -240,18 +252,6 @@
       "total_time": 585.41,
       "total_interventions": 8,
       "sessions_attended": 3,
-      "topics_discussed": 3
-    },
-    {
-      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
-      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 585.23,
-      "total_interventions": 4,
-      "sessions_attended": 2,
       "topics_discussed": 3
     },
     {
@@ -387,6 +387,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-LUIS-FERNANDO-JACOME-MEJIA",
+      "name": "Luis Fernando Jácome Mejía",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 267.27000000000004,
+      "total_interventions": 12,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
       "name": "Brígida Lucía Pozo Moreta",
       "type": "asambleísta",
@@ -519,18 +531,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-LUIS-FERNANDO-JACOME-MEJIA",
-      "name": "Luis Fernando Jácome Mejía",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 12.97,
-      "total_interventions": 5,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "POR-NAPO",
       "name": "Por Napo",
       "type": "desconocido",
@@ -609,8 +609,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 18,
-      "total_duration": 5410.9400000000005,
+      "sessions_count": 29,
+      "total_duration": 10156.16,
       "unique_speakers": 3,
       "unique_topics": 0
     },

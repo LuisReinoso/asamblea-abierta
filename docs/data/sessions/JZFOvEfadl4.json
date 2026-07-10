@@ -1,0 +1,50 @@
+{
+  "text": "La palabra al asambleísta Juan José Reyes.  La palabra al asambleísta Juan José Reyes.  En el año 2005, una construcción otorgada por la alcaldesa está creando huecos donde el resto de las casas se están cayendo.  Estoy de acuerdo con la asambleísta Putiña. La ciudadanía es la que sufre.  Recordemos de quién es María del Carmen Aquino, de qué movimiento es, ¿no es cierto?  Además de esos escándalos, hay otras denuncias de la que en paz descanse Mónica Silva,  que utilizaba recursos públicos para atacarla a ella, porque exponía todos los escándalos de corrupción.  Recordemos lo que mi colega también, Javier Ordóñez, ha presentado de Pavel Muñoz.  En fin, yo sí estoy de acuerdo en que sufre la ciudadanía, pero claramente esta autonomía no está funcionando como debería.  Claramente esta autonomía de libertad se ha convertido en libertinaje y claramente quien sufre es el pueblo ecuatoriano.  Bueno, estas normas fueron creadas por ecuatorianos, para ecuatorianos, y si no funcionan, tienen que adecuarse.  Y tienen que adecuarse para que no siga sufriendo el pueblo ecuatoriano.  Solo quería hacer esa precisión. Muchas gracias por el tiempo, señor presidente.",
+  "language": "es",
+  "duration": 141.39,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 140.23,
+      "text": "La palabra al asambleísta Juan José Reyes.  La palabra al asambleísta Juan José Reyes.  En el año 2005, una construcción otorgada por la alcaldesa está creando huecos donde el resto de las casas se están cayendo.  Estoy de acuerdo con la asambleísta Putiña. La ciudadanía es la que sufre.  Recordemos de quién es María del Carmen Aquino, de qué movimiento es, ¿no es cierto?  Además de esos escándalos, hay otras denuncias de la que en paz descanse Mónica Silva,  que utilizaba recursos públicos para atacarla a ella, porque exponía todos los escándalos de corrupción.  Recordemos lo que mi colega también, Javier Ordóñez, ha presentado de Pavel Muñoz.  En fin, yo sí estoy de acuerdo en que sufre la ciudadanía, pero claramente esta autonomía no está funcionando como debería.  Claramente esta autonomía de libertad se ha convertido en libertinaje y claramente quien sufre es el pueblo ecuatoriano.  Bueno, estas normas fueron creadas por ecuatorianos, para ecuatorianos, y si no funcionan, tienen que adecuarse.  Y tienen que adecuarse para que no siga sufriendo el pueblo ecuatoriano.  Solo quería hacer esa precisión. Muchas gracias por el tiempo, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "JZFOvEfadl4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Juan Reyes - Sesión 104",
+  "url": "https://www.youtube.com/watch?v=JZFOvEfadl4",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "JZFOvEfadl4",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=JZFOvEfadl4",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 140.2,
+      "interventions": 1,
+      "word_count": 186
+    }
+  ]
+}

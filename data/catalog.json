@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T00:12:04.114119",
-  "total_sessions": 228,
+  "generated_at": "2026-07-10T00:27:36.883182",
+  "total_sessions": 239,
   "sessions": [
     {
       "id": "ckRR9AtsSaU",
@@ -562,6 +562,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "JZFOvEfadl4",
+      "title": "Asambleísta Juan Reyes - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 141.39,
+      "url": "https://www.youtube.com/watch?v=JZFOvEfadl4",
+      "file_path": "data/sessions/JZFOvEfadl4.json",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "I9ipxBQBc_I",
       "title": "Asambleísta Inés Alarcón - Sesión 104 - II Intervención",
       "date": "2026-06-30T00:00:00Z",
@@ -614,6 +627,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "6ewpnqgQY2o",
+      "title": "Asambleísta Cristián Benavides - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 477.73,
+      "url": "https://www.youtube.com/watch?v=6ewpnqgQY2o",
+      "file_path": "data/sessions/6ewpnqgQY2o.json",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "aDU1x7Nb7qg",
       "title": "Asambleísta Inés Alarcón - Sesión 104",
       "date": "2026-06-30T00:00:00Z",
@@ -653,6 +679,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "w7-3DvAxfEA",
+      "title": "Asambleísta Pablo Jurado - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 452.02,
+      "url": "https://www.youtube.com/watch?v=w7-3DvAxfEA",
+      "file_path": "data/sessions/w7-3DvAxfEA.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7fW658IgAC0",
       "title": "Asambleísta Xavier Ordoñez - Sesión 104",
       "date": "2026-06-30T00:00:00Z",
@@ -660,6 +699,19 @@
       "url": "https://www.youtube.com/watch?v=7fW658IgAC0",
       "file_path": "data/sessions/7fW658IgAC0.json",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "KY3X39YESI0",
+      "title": "Asambleísta Xavier Lasso - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 441.57,
+      "url": "https://www.youtube.com/watch?v=KY3X39YESI0",
+      "file_path": "data/sessions/KY3X39YESI0.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -686,6 +738,19 @@
       "url": "https://www.youtube.com/watch?v=INN85kh6oU0",
       "file_path": "data/sessions/INN85kh6oU0.json",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "rh693Co8x-M",
+      "title": "Asambleísta Lucía Pozo - Sesión 104 - II Intervención",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 266.33,
+      "url": "https://www.youtube.com/watch?v=rh693Co8x-M",
+      "file_path": "data/sessions/rh693Co8x-M.json",
+      "speaker_count": 0,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -731,12 +796,51 @@
       "bills_mentioned": 0
     },
     {
+      "id": "EjJmP12NZMY",
+      "title": "Asambleísta Nuria Butiña - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 549.08,
+      "url": "https://www.youtube.com/watch?v=EjJmP12NZMY",
+      "file_path": "data/sessions/EjJmP12NZMY.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Up-xZbeamGI",
+      "title": "Asambleísta Paola Cabezas - Sesión 104 - Punto de información",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 217.69,
+      "url": "https://www.youtube.com/watch?v=Up-xZbeamGI",
+      "file_path": "data/sessions/Up-xZbeamGI.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "ifEpMpnYOew",
       "title": "Asambleísta Franklin Samaniego - Sesión 104",
       "date": "2026-06-30T00:00:00Z",
       "duration": 362.42,
       "url": "https://www.youtube.com/watch?v=ifEpMpnYOew",
       "file_path": "data/sessions/ifEpMpnYOew.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "tyGOVsp_ois",
+      "title": "Asambleísta Paola Cabezas - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 522.12,
+      "url": "https://www.youtube.com/watch?v=tyGOVsp_ois",
+      "file_path": "data/sessions/tyGOVsp_ois.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -777,6 +881,45 @@
       "url": "https://www.youtube.com/watch?v=VAbn62EvrOA",
       "file_path": "data/sessions/VAbn62EvrOA.json",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EqhTq6dz4_A",
+      "title": "Asambleísta John Polanco - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 591.97,
+      "url": "https://www.youtube.com/watch?v=EqhTq6dz4_A",
+      "file_path": "data/sessions/EqhTq6dz4_A.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "gYuM-eQtij0",
+      "title": "Asambleísta Karolina Dueñas - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 213.41,
+      "url": "https://www.youtube.com/watch?v=gYuM-eQtij0",
+      "file_path": "data/sessions/gYuM-eQtij0.json",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "6v-TCbBBzjU",
+      "title": "Votaciones de Mociones de la asambleísta Lucía Pozo - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 871.91,
+      "url": "https://www.youtube.com/watch?v=6v-TCbBBzjU",
+      "file_path": "data/sessions/6v-TCbBBzjU.json",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
