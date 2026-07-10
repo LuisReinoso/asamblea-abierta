@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:10:31.343821",
-  "total_sessions": 336,
+  "generated_at": "2026-07-10T15:22:00.445892",
+  "total_sessions": 341,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 1762.27,
+      "total_interventions": 11,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
       "name": "Jhajaira Estefanía Urresta Guzmán",
       "type": "asambleísta",
@@ -108,6 +120,18 @@
       "total_time": 1446.58,
       "total_interventions": 6,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 1416.2,
+      "total_interventions": 41,
+      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -147,6 +171,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 1288.87,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -171,18 +207,6 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 1250.26,
-      "total_interventions": 37,
-      "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
       "name": "Liliana Elizabeth Durán Aguilar",
       "type": "asambleísta",
@@ -192,18 +216,6 @@
       "total_time": 1244.78,
       "total_interventions": 5,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 1205.78,
-      "total_interventions": 10,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -291,18 +303,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 950.8299999999999,
-      "total_interventions": 3,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
       "name": "Roberto Fernando Jaramillo Martínez",
       "type": "asambleísta",
@@ -348,6 +348,18 @@
       "total_time": 811.5699999999999,
       "total_interventions": 3,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
+      "name": "Eliana Katherine Correa González",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "América Latina, Caribe y África",
+      "total_time": 809.1500000000001,
+      "total_interventions": 4,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -423,15 +435,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
-      "name": "Eliana Katherine Correa González",
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "América Latina, Caribe y África",
-      "total_time": 709.45,
-      "total_interventions": 3,
-      "sessions_attended": 3,
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 707.14,
+      "total_interventions": 4,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -516,18 +528,6 @@
       "total_time": 629.58,
       "total_interventions": 2,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ALEX-MORAN-GALARZA",
-      "name": "Alex Moran Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 623.74,
-      "total_interventions": 3,
-      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -1113,8 +1113,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 106,
-      "total_duration": 43577.69,
+      "sessions_count": 111,
+      "total_duration": 45274.63000000002,
       "unique_speakers": 5,
       "unique_topics": 0
     },
