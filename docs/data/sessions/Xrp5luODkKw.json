@@ -1,0 +1,159 @@
+{
+  "text": "Señor secretario, certifique si la moción presentada por el asambleísta Andrés Castillo ha sido ingresada por escrito. Señora Presidenta, estamos verificando el ingreso de la moción.  En este momento ha sido ingresada por escrito a esta Secretaría. Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación. Con su autorización, señora Presidenta, procedo a dar lectura y tomar la votación de la moción presentada.  Memorando número N-CMAF-2026-0113-M.  Asunto.  Moción para la sesión del Pleno de la Asamblea Nacional 101-AN-2025-2029.  De mi consideración.  En mi calidad de asambleísta de la República del Ecuador por la provincia de Pichincha,  en ejercicio de las facultades que me confiere al artículo 135 de la Ley Orgánica de la Acción Legislativa,  respecto a la convocatoria del Pleno de la Asamblea Nacional 101-AN-2025-2029,  convocada para el día 17 de junio de los 206 y en atención el punto de orden del día.  Conocer y resolver sobre las presuntas vulneraciones a los protocolos de seguridad y control de acceso  a los sistemas de biovigilancia administrados por Segurepe en la ciudad de Guayaquil,  así como los posibles riesgos de implicaciones que estos hechos podrían generar  para la seguridad ciudadana, la seguridad pública, la protección de información estratégica  y la integridad de los sistemas tecnológicos destinados a la prevención del delito  y la gestión de emergencias, tengo a bien proponer la siguiente moción  y aprobar el texto íntegro de la resolución que en su parte resolutiva señala.  Primero, iniciar un proceso de fiscalización por parte de la Comisión Especializada Permanente  de Soberanía, Integración y Seguridad Integral, con el objeto de conocer, analizar y dar seguimiento  a los hechos relacionados con las juntas vulneraciones a los protocolos de seguridad y control de acceso  a los temas de biovigilancia administrados por Segurepe en la ciudad de Guayaquil,  así como las posibles implicaciones para la seguridad ciudadana, la seguridad pública  y la protección de información estratégica.  Segundo, en el marco del proceso de fiscalización, la Comisión podrá requerir información, documentación  y informe técnico y disponer la comparecencia de autoridades, servidores públicos, representantes  institucionales, expertos y demás personas que considere pertinentes para el esclarecimiento  de los hechos objeto de la presente resolución.  Tercero, disponer que la Comisión Especializada Permanente de Soberanía, Integración y Seguridad  Integral presente al pleno de la Asamblea Nacional en el plazo máximo de 60 días contados  a partir de la notificación de la presente resolución, un informe que contenga las conclusiones,  observaciones y recomendaciones derivadas del proceso de fiscalización dispuesto en este  instrumento.  Cuarto, disponer a la Secretaría General de la Asamblea Nacional, remitir la presente  resolución a la Comisión Especializada Permanente de Soberanía, Integración y Seguridad  Integral, al Ministerio del Interior, a la Policía Nacional, al Servicio Integrado de  Seguridad EQ912, a SeguraEP, a la Contraloría General del Estado y a la Fiscalía General del  Estado para su conocimiento y fines pertinentes.  Se adjunta al presente memorando la propuesta de resolución para que sea puesta en consideración  del pleno de la Asamblea Nacional.  Con sentimientos de distinguida consideración, atentamente, Andrés Felipe Castillo Maldonado,  asambleísta.  Hasta aquí la lectura de lo solicitado, señora Presidenta.  Señores asambleístas, por favor, registrar su participación en las curvas de electrónicas.  Si existe alguna novedad, por favor, informar a esta Secretaría. Cierre el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 144 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la moción presentada por el asambleista Andrés Castillo.  Señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador, presentes los resultados.  Señora presidenta, me permite informar que un total de 144 asambleístas presentes  contamos con 143 votos afirmativos, 0 negativos, 0 blancos y 1 abstención.  Por lo tanto, ha sido aprobada la moción presentada por el asambleísta Andrés Castillo.",
+  "language": "es",
+  "duration": 704.05,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 7.47,
+      "text": "Señor secretario, certifique si la moción presentada por el asambleísta Andrés Castillo ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.9,
+      "end": 17.85,
+      "text": "Señora Presidenta, estamos verificando el ingreso de la moción.  En este momento ha sido ingresada por escrito a esta Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9393,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 21.36,
+      "end": 28.14,
+      "text": "Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 29.48,
+      "end": 237.26,
+      "text": "Con su autorización, señora Presidenta, procedo a dar lectura y tomar la votación de la moción presentada.  Memorando número N-CMAF-2026-0113-M.  Asunto.  Moción para la sesión del Pleno de la Asamblea Nacional 101-AN-2025-2029.  De mi consideración.  En mi calidad de asambleísta de la República del Ecuador por la provincia de Pichincha,  en ejercicio de las facultades que me confiere al artículo 135 de la Ley Orgánica de la Acción Legislativa,  respecto a la convocatoria del Pleno de la Asamblea Nacional 101-AN-2025-2029,  convocada para el día 17 de junio de los 206 y en atención el punto de orden del día.  Conocer y resolver sobre las presuntas vulneraciones a los protocolos de seguridad y control de acceso  a los sistemas de biovigilancia administrados por Segurepe en la ciudad de Guayaquil,  así como los posibles riesgos de implicaciones que estos hechos podrían generar  para la seguridad ciudadana, la seguridad pública, la protección de información estratégica  y la integridad de los sistemas tecnológicos destinados a la prevención del delito  y la gestión de emergencias, tengo a bien proponer la siguiente moción  y aprobar el texto íntegro de la resolución que en su parte resolutiva señala.  Primero, iniciar un proceso de fiscalización por parte de la Comisión Especializada Permanente  de Soberanía, Integración y Seguridad Integral, con el objeto de conocer, analizar y dar seguimiento  a los hechos relacionados con las juntas vulneraciones a los protocolos de seguridad y control de acceso  a los temas de biovigilancia administrados por Segurepe en la ciudad de Guayaquil,  así como las posibles implicaciones para la seguridad ciudadana, la seguridad pública  y la protección de información estratégica.  Segundo, en el marco del proceso de fiscalización, la Comisión podrá requerir información, documentación  y informe técnico y disponer la comparecencia de autoridades, servidores públicos, representantes  institucionales, expertos y demás personas que considere pertinentes para el esclarecimiento  de los hechos objeto de la presente resolución.  Tercero, disponer que la Comisión Especializada Permanente de Soberanía, Integración y Seguridad  Integral presente al pleno de la Asamblea Nacional en el plazo máximo de 60 días contados  a partir de la notificación de la presente resolución, un informe que contenga las conclusiones,  observaciones y recomendaciones derivadas del proceso de fiscalización dispuesto en este  instrumento.  Cuarto, disponer a la Secretaría General de la Asamblea Nacional, remitir la presente  resolución a la Comisión Especializada Permanente de Soberanía, Integración y Seguridad  Integral, al Ministerio del Interior, a la Policía Nacional, al Servicio Integrado de  Seguridad EQ912, a SeguraEP, a la Contraloría General del Estado y a la Fiscalía General del  Estado para su conocimiento y fines pertinentes.  Se adjunta al presente memorando la propuesta de resolución para que sea puesta en consideración  del pleno de la Asamblea Nacional.  Con sentimientos de distinguida consideración, atentamente, Andrés Felipe Castillo Maldonado,  asambleísta.  Hasta aquí la lectura de lo solicitado, señora Presidenta.  Señores asambleístas, por favor, registrar su participación en las curvas de electrónicas.  Si existe alguna novedad, por favor, informar a esta Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9393,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 525.0,
+      "end": 526.94,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 528.02,
+      "end": 542.54,
+      "text": "Me permito informar, señora Presidenta, que contamos con 144 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la moción presentada por el asambleista Andrés Castillo.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9393,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 675.61,
+      "end": 677.39,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 678.42,
+      "end": 698.62,
+      "text": "Señor operador, presentes los resultados.  Señora presidenta, me permite informar que un total de 144 asambleístas presentes  contamos con 143 votos afirmativos, 0 negativos, 0 blancos y 1 abstención.  Por lo tanto, ha sido aprobada la moción presentada por el asambleísta Andrés Castillo.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9393,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "Xrp5luODkKw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 7,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Camila León Cueva": 3,
+        "Juan Pablo Molina Saldaña": 3,
+        "[OOV] O Ricardo": 1
+      },
+      "samples": 24,
+      "successful_reads": 7,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Andrés Castillo - Sesión 101",
+  "url": "https://www.youtube.com/watch?v=Xrp5luODkKw",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "Xrp5luODkKw",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Xrp5luODkKw",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 250.45,
+      "interventions": 4,
+      "word_count": 589
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 17.94,
+      "interventions": 4,
+      "word_count": 44
+    }
+  ]
+}
