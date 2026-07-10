@@ -32,6 +32,9 @@ config.yml
 .env.local
 secrets.yml
 
+# Voice embeddings — internal matching artifact, not for the public repo
+internal/
+
 # Audio/Video files (never commit these)
 *.mp3
 *.mp4
