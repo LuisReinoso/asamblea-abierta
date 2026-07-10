@@ -193,12 +193,15 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
 
     # Stage 3: map speakers
     t0 = time.time()
-    ok = run_script(
+    map_args = [
         "04_map_speakers_local.py",
         "--video-id", vid,
         "--video-file", str(video_path),
         "--session-file", str(out_session),
-    )
+    ]
+    if session_meta.get("title"):
+        map_args += ["--title", session_meta["title"]]
+    ok = run_script(*map_args)
     result["stages"]["map"] = round(time.time() - t0, 1)
     if not ok:
         result["error"] = "speaker mapping failed (transcript saved without names)"

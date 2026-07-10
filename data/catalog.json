@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T00:27:36.883182",
-  "total_sessions": 239,
+  "generated_at": "2026-07-10T06:38:12.000851",
+  "total_sessions": 240,
   "sessions": [
     {
       "id": "ckRR9AtsSaU",
@@ -725,6 +725,19 @@
       "url": "https://www.youtube.com/watch?v=14G2_vWXaBU",
       "file_path": "data/sessions/14G2_vWXaBU.json",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "QjfLB6MdMFQ",
+      "title": "Asambleísta Manuel Casanova - Sesión 104",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 414.92,
+      "url": "https://www.youtube.com/watch?v=QjfLB6MdMFQ",
+      "file_path": "data/sessions/QjfLB6MdMFQ.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",

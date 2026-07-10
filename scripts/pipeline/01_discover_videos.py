@@ -30,7 +30,20 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).parent.parent.parent
 INDEX_PATH = PROJECT_ROOT / "data" / "sessions" / "index.json"
 DATA_SESSIONS = PROJECT_ROOT / "data" / "sessions"
-CHANNEL_URL = "https://www.youtube.com/@AsambleaNacionalEC/videos"
+# /videos = short per-speaker intervention clips (minutes). /streams = the
+# real un-cut plenary session recordings (hours) — a completely separate
+# YouTube tab, not reachable by scraping /videos. Discovered 2026-07-10:
+# short clips are training/enrollment data for voice ID; full sessions are
+# the primary content the site should feature.
+CHANNEL_TABS = {
+    "clip": "https://www.youtube.com/@AsambleaNacionalEC/videos",
+    "full_session": "https://www.youtube.com/@AsambleaNacionalEC/streams",
+}
+# Belt-and-suspenders: even within a tab, classify by duration too (a few
+# short "trailer"-style videos on the channel share near-identical titles
+# with the real multi-hour streams, e.g. "Sesión 104 del Pleno..." at 63s vs
+# "Sesión No. 104-AN-2025-2029 del pleno..." at 17087s — title alone lies).
+FULL_SESSION_MIN_SECONDS = 1800  # 30 min
 COOKIES_FILE = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
 
 
@@ -52,46 +65,52 @@ def save_index(data: dict) -> None:
     print(f"✓ Wrote {INDEX_PATH} ({len(data['sessions'])} sessions total)")
 
 
-def list_channel_videos() -> list[tuple[str, str]]:
-    """Return all (video_id, title) in the channel, newest first.
+def list_channel_videos(channel_url: str) -> list[tuple[str, str, float | None]]:
+    """Return all (video_id, title, duration_seconds) in a channel tab, newest first.
 
     Uses flat-playlist mode: fast, no per-video calls, no YouTube bot
-    challenges. Returns title from the playlist but no upload_date — date
-    is fetched lazily later via fetch_metadata().
+    challenges. Duration comes for free from the flat listing; upload_date
+    does not — that's fetched lazily later via fetch_metadata().
     """
-    print(f"Listing videos from {CHANNEL_URL} …")
+    print(f"Listing videos from {channel_url} …")
     cmd = [
         "yt-dlp",
         *_cookie_args(),
         "--flat-playlist",
-        "--print", "%(id)s\t%(title)s",
-        CHANNEL_URL,
+        "--print", "%(id)s\t%(title)s\t%(duration)s",
+        channel_url,
     ]
     r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if r.returncode != 0:
         print(f"  yt-dlp failed: {r.stderr[-300:]}", file=sys.stderr)
         sys.exit(1)
-    videos: list[tuple[str, str]] = []
+    videos: list[tuple[str, str, float | None]] = []
     for line in r.stdout.splitlines():
         if "\t" not in line:
             continue
-        vid, title = line.split("\t", 1)
-        vid, title = vid.strip(), title.strip()
+        parts = line.split("\t")
+        vid, title = parts[0].strip(), parts[1].strip()
+        duration = None
+        if len(parts) > 2:
+            try:
+                duration = float(parts[2])
+            except ValueError:
+                duration = None
         if vid:
-            videos.append((vid, title))
-    print(f"  channel has {len(videos)} videos")
+            videos.append((vid, title, duration))
+    print(f"  tab has {len(videos)} videos")
     return videos
 
 
 def fetch_metadata(video_id: str) -> dict | None:
-    """Fetch title + upload_date for a single video. Returns None on failure."""
+    """Fetch title + upload_date + duration for a single video. None on failure."""
     url = f"https://www.youtube.com/watch?v={video_id}"
     cmd = [
         "yt-dlp",
         *_cookie_args(),
         "--extractor-args", "youtube:player_client=android_vr,ios,web",
         "--no-warnings", "--skip-download",
-        "--print", "%(id)s\t%(title)s\t%(upload_date)s\t%(channel)s",
+        "--print", "%(id)s\t%(title)s\t%(upload_date)s\t%(channel)s\t%(duration)s",
         url,
     ]
     try:
@@ -108,6 +127,12 @@ def fetch_metadata(video_id: str) -> dict | None:
         return None
     vid, title, upload_date, *rest = parts
     channel = rest[0] if rest else "Asamblea Ecuador"
+    duration = None
+    if len(rest) > 1:
+        try:
+            duration = float(rest[1])
+        except ValueError:
+            duration = None
     # YYYYMMDD → RFC3339-ish
     try:
         published_at = datetime.strptime(upload_date, "%Y%m%d").strftime("%Y-%m-%dT00:00:00Z")
@@ -119,9 +144,18 @@ def fetch_metadata(video_id: str) -> dict | None:
         "description": "",
         "published_at": published_at,
         "channel_title": channel,
+        "duration": duration,
         "url": url,
         "discovered_at": datetime.now().isoformat(),
     }
+
+
+def classify_video_type(tab: str, duration: float | None) -> str:
+    """Duration wins over title/tab — some short trailer clips share
+    near-identical titles with the real multi-hour streams."""
+    if duration is not None:
+        return "full_session" if duration >= FULL_SESSION_MIN_SECONDS else "clip"
+    return tab
 
 
 def main() -> int:
@@ -139,16 +173,20 @@ def main() -> int:
     known: dict[str, dict] = {s["video_id"]: s for s in index.get("sessions", [])}
     processed = {f.stem for f in DATA_SESSIONS.iterdir() if f.suffix == ".json" and f.stem != "index"}
 
-    channel_videos = list_channel_videos()
-
-    # Candidate = in channel, not in index (or --rebuild)
-    candidates: list[tuple[str, str]] = []
-    for vid, title in channel_videos:
-        if not args.rebuild and vid in known:
-            continue
-        candidates.append((vid, title))
-        if len(candidates) >= args.limit:
-            break
+    # Candidate = in channel, not in index (or --rebuild). Collected from
+    # BOTH tabs; each candidate carries which tab it came from so we can
+    # classify video_type even if the later per-video metadata fetch (which
+    # also returns duration) gets bot-rate-limited.
+    candidates: list[tuple[str, str, float | None, str]] = []
+    for tab, channel_url in CHANNEL_TABS.items():
+        for vid, title, duration in list_channel_videos(channel_url):
+            if not args.rebuild and vid in known:
+                continue
+            if any(c[0] == vid for c in candidates):
+                continue
+            candidates.append((vid, title, duration, tab))
+            if len(candidates) >= args.limit:
+                break
 
     print(f"Candidates to inspect: {len(candidates)} (limit={args.limit})")
     if not candidates:
@@ -159,14 +197,14 @@ def main() -> int:
     if args.since:
         since_dt = datetime.strptime(args.since, "%Y-%m-%d")
 
-    # Try fetching per-video metadata (title + date). YouTube sometimes
-    # rate-limits this with "Sign in to confirm you're not a bot"; in that
-    # case we fall back to the flat-playlist title and leave published_at
-    # empty so the entry can still be queued for processing.
+    # Try fetching per-video metadata (title + date + duration). YouTube
+    # sometimes rate-limits this with "Sign in to confirm you're not a bot";
+    # in that case we fall back to the flat-playlist title/duration and
+    # leave published_at empty so the entry can still be queued.
     added: list[dict] = []
     skipped_old = 0
     fallback_used = 0
-    for i, (vid, flat_title) in enumerate(candidates, 1):
+    for i, (vid, flat_title, flat_duration, tab) in enumerate(candidates, 1):
         meta = fetch_metadata(vid)
         if not meta:
             fallback_used += 1
@@ -176,9 +214,11 @@ def main() -> int:
                 "description": "",
                 "published_at": None,
                 "channel_title": "Asamblea Nacional del Ecuador",
+                "duration": flat_duration,
                 "url": f"https://www.youtube.com/watch?v={vid}",
                 "discovered_at": datetime.now().isoformat(),
             }
+        meta["video_type"] = classify_video_type(tab, meta.get("duration") or flat_duration)
         if since_dt and meta.get("published_at"):
             try:
                 pub = datetime.strptime(meta["published_at"], "%Y-%m-%dT00:00:00Z")
@@ -190,7 +230,8 @@ def main() -> int:
         added.append(meta)
         flag = " (already processed)" if vid in processed else ""
         pub_label = meta["published_at"] or "(date unknown)"
-        print(f"  [{i}/{len(candidates)}] {vid}  {pub_label}  {meta['title'][:70]}{flag}")
+        dur_label = f"{meta.get('duration'):.0f}s" if meta.get("duration") else "?s"
+        print(f"  [{i}/{len(candidates)}] {vid}  {pub_label}  [{meta['video_type']:12s} {dur_label:>8s}]  {meta['title'][:60]}{flag}")
 
     if not added:
         print("\nNo new sessions matching the filters.")
