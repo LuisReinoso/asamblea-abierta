@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:47:55.313668",
-  "total_sessions": 294,
+  "generated_at": "2026-07-10T11:08:41.193859",
+  "total_sessions": 303,
   "sessions": [
     {
       "id": "ckRR9AtsSaU",
@@ -1550,6 +1550,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "eSuQ9gGuoK4",
+      "title": "Asambleísta Johnny Lavayen - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 328.91,
+      "url": "https://www.youtube.com/watch?v=eSuQ9gGuoK4",
+      "file_path": "data/sessions/eSuQ9gGuoK4.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "nJzXxNFUBiM",
       "title": "Votación de la  moción de la asambleísta Cecilia Baltazar - Sesión 102",
       "date": "2026-06-23T00:00:00Z",
@@ -1557,6 +1570,32 @@
       "url": "https://www.youtube.com/watch?v=nJzXxNFUBiM",
       "file_path": "data/sessions/nJzXxNFUBiM.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "SNJZiG6APUk",
+      "title": "Asambleísta Sergio Peña - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 186.15,
+      "url": "https://www.youtube.com/watch?v=SNJZiG6APUk",
+      "file_path": "data/sessions/SNJZiG6APUk.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "l7PXsbSEpuY",
+      "title": "Votación de la moción del asambleísta  Xavier Ordoñez - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 568.52,
+      "url": "https://www.youtube.com/watch?v=l7PXsbSEpuY",
+      "file_path": "data/sessions/l7PXsbSEpuY.json",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -1589,6 +1628,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "zhthOOnVMLw",
+      "title": "Asambleísta Liliana Durán - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 481.09,
+      "url": "https://www.youtube.com/watch?v=zhthOOnVMLw",
+      "file_path": "data/sessions/zhthOOnVMLw.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FM58tWb-kGA",
       "title": "Asambleísta Edwin Jarrín - Sesión 102",
       "date": "2026-06-23T00:00:00Z",
@@ -1602,12 +1654,77 @@
       "bills_mentioned": 0
     },
     {
+      "id": "bzJ0ZEBeWsE",
+      "title": "Asambleísta Franklin Samaniego - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 471.62,
+      "url": "https://www.youtube.com/watch?v=bzJ0ZEBeWsE",
+      "file_path": "data/sessions/bzJ0ZEBeWsE.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "JhL59U5D0Ks",
+      "title": "Asambleísta Mauricio Ordoñez - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 981.9,
+      "url": "https://www.youtube.com/watch?v=JhL59U5D0Ks",
+      "file_path": "data/sessions/JhL59U5D0Ks.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "WjbPUpTtE80",
+      "title": "Asambleísta Arisdely Parrales - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 564.64,
+      "url": "https://www.youtube.com/watch?v=WjbPUpTtE80",
+      "file_path": "data/sessions/WjbPUpTtE80.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "x1Vdg40IxOA",
       "title": "Asambleísta Juan José Reyes - Sesión 102",
       "date": "2026-06-23T00:00:00Z",
       "duration": 418.59,
       "url": "https://www.youtube.com/watch?v=x1Vdg40IxOA",
       "file_path": "data/sessions/x1Vdg40IxOA.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "p8YGm9_p8XA",
+      "title": "Asambleísta Adrián Castro - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 330.49,
+      "url": "https://www.youtube.com/watch?v=p8YGm9_p8XA",
+      "file_path": "data/sessions/p8YGm9_p8XA.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "z8RN0fNBkn8",
+      "title": "Asambleísta Edwin Jarrín - Sesión 102",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 351.5,
+      "url": "https://www.youtube.com/watch?v=z8RN0fNBkn8",
+      "file_path": "data/sessions/z8RN0fNBkn8.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
