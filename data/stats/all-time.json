@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:56:59.435149",
-  "total_sessions": 400,
+  "generated_at": "2026-07-10T18:14:41.684854",
+  "total_sessions": 401,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 3134.09,
-      "total_interventions": 94,
-      "sessions_attended": 22,
+      "total_time": 3855.94,
+      "total_interventions": 98,
+      "sessions_attended": 23,
       "topics_discussed": 0
     },
     {
@@ -1233,8 +1233,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 152,
-      "total_duration": 63766.36000000001,
+      "sessions_count": 153,
+      "total_duration": 64668.66,
       "unique_speakers": 5,
       "unique_topics": 0
     },
