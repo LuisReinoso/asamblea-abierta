@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:54:57.374610",
-  "total_sessions": 366,
+  "generated_at": "2026-07-10T17:02:21.647210",
+  "total_sessions": 372,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2343,6 +2343,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "M3Ptktwk6kE",
+      "title": "Asambleísta Arisdely Parrales - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 748.1,
+      "url": "https://www.youtube.com/watch?v=M3Ptktwk6kE",
+      "file_path": "data/sessions/M3Ptktwk6kE.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "U_-kQwgZWcw",
       "title": "Asambleísta Jhajaira Urresta - Sesión 099 - II Intervención",
       "date": "2026-06-09T00:00:00Z",
@@ -2447,6 +2460,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Fc2_LAFjcjY",
+      "title": "Asambleísta Johnny Lavayén - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 266.57,
+      "url": "https://www.youtube.com/watch?v=Fc2_LAFjcjY",
+      "file_path": "data/sessions/Fc2_LAFjcjY.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "lQrOYjF52Nk",
       "title": "Votación de la moción de la asambleísta Lucía Jaramillo - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2473,6 +2499,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "y68lIDK-_I4",
+      "title": "Asambleísta Lucía Jaramillo - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 302.63,
+      "url": "https://www.youtube.com/watch?v=y68lIDK-_I4",
+      "file_path": "data/sessions/y68lIDK-_I4.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7N7JjUx5rjc",
       "title": "Votación de la reconsideración de la moción de la asambleísta Jhajaira Urresta - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2492,6 +2531,32 @@
       "duration": 683.99,
       "url": "https://www.youtube.com/watch?v=PxZ_mfLdPGc",
       "file_path": "data/sessions/PxZ_mfLdPGc.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "H6TmS-Dm7s8",
+      "title": "Asambleísta Keevin Gallardo - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 338.06,
+      "url": "https://www.youtube.com/watch?v=H6TmS-Dm7s8",
+      "file_path": "data/sessions/H6TmS-Dm7s8.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "GvJKitYVlKQ",
+      "title": "Asambleísta Bertha Vélez - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 687.03,
+      "url": "https://www.youtube.com/watch?v=GvJKitYVlKQ",
+      "file_path": "data/sessions/GvJKitYVlKQ.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -2532,6 +2597,19 @@
       "url": "https://www.youtube.com/watch?v=kIP2lqFMQjA",
       "file_path": "data/sessions/kIP2lqFMQjA.json",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "s9J3OGUSksw",
+      "title": "Asambleísta Alfredo Serrano - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 202.06,
+      "url": "https://www.youtube.com/watch?v=s9J3OGUSksw",
+      "file_path": "data/sessions/s9J3OGUSksw.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",

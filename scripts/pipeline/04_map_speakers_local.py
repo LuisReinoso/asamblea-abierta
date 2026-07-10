@@ -67,6 +67,10 @@ SPANISH_STOPWORDS = {
     "de", "la", "el", "los", "las", "y", "del", "en", "por", "para",
 }
 
+# How many unanimous (no-disagreement) DB-name reads before build_speaker_mapping
+# stops sampling more frames for a speaker — see the early-stop comment there.
+EARLY_STOP_MIN_VOTES = 3
+
 
 def normalize_name(name: str) -> str:
     """Strip accents, lowercase, collapse whitespace, drop punctuation."""
@@ -426,6 +430,7 @@ def build_speaker_mapping(
         # multiple overlay regions in the same frame.
         # Tuple: (ts, db_name, db_score, oov_name, oov_score)
         frame_votes: list[tuple[float, str | None, float, str | None, float]] = []
+        running_db_votes: Counter[str] = Counter()
 
         for ts in timestamps:
             frame_path = frames_dir / f"{spk_id}_{int(ts):06d}.jpg"
@@ -446,6 +451,19 @@ def build_speaker_mapping(
                     best_oov_name = _canonicalize_oov(text)
                     best_oov_score = score
             frame_votes.append((ts, best_db_name, best_db_score, best_oov_name, best_oov_score))
+
+            # Early stop: once a single DB name has EARLY_STOP_MIN_VOTES
+            # unanimous reads (no other DB name seen yet for this speaker),
+            # further frames are very unlikely to change the outcome — skip
+            # the rest of the budget. This is the common case for short
+            # clips with one dominant speaker; saves ~1.9s/frame of OCR for
+            # every frame skipped. Full budget still runs when reads
+            # disagree or nothing's found (genuinely ambiguous cases).
+            if best_db_name:
+                running_db_votes[best_db_name] += 1
+                if len(running_db_votes) == 1 and running_db_votes[best_db_name] >= EARLY_STOP_MIN_VOTES:
+                    print(f"  early stop: {best_db_name!r} confirmed by {running_db_votes[best_db_name]} unanimous reads")
+                    break
 
         # Aggregate one vote per frame. DB match takes priority; if no DB match,
         # accept OOV if its OCR score is high enough.
@@ -497,7 +515,7 @@ def build_speaker_mapping(
                 "name": chosen_name,
                 "confidence": round(chosen_conf, 2),
                 "votes": {**dict(db_votes), **{f"[OOV] {k}": v for k, v in oov_votes.items()}},
-                "samples": len(timestamps),
+                "samples": len(frame_votes),
                 "successful_reads": sum(db_votes.values()) + sum(oov_votes.values()),
                 "source": source,
             }
@@ -508,14 +526,14 @@ def build_speaker_mapping(
                 "name": "No identificado",
                 "confidence": 0.0,
                 "votes": {**dict(db_votes), **{f"[OOV] {k}": v for k, v in oov_votes.items()}},
-                "samples": len(timestamps),
+                "samples": len(frame_votes),
                 "successful_reads": sum(db_votes.values()) + sum(oov_votes.values()),
                 "source": None,
             }
             if db_votes or oov_votes:
                 print(f"  → No identificado (votes={dict(db_votes)}, oov={dict(oov_votes)})")
             else:
-                print(f"  → No identificado (no overlay detected in {len(timestamps)} frames)")
+                print(f"  → No identificado (no overlay detected in {len(frame_votes)} frames)")
 
         # Debug log
         for ts, text, score, canonical, sim in raw_detections[:3]:

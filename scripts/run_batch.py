@@ -108,7 +108,10 @@ def download_video(video_id: str) -> Path | None:
             log("  yt-dlp timed out (3600s)")
             return None
     if rc != 0 or not out_path.exists() or out_path.stat().st_size < 100_000:
-        tail = yt_log.read_text(errors="ignore").splitlines()[-3:]
+        try:
+            tail = yt_log.read_text(errors="ignore").splitlines()[-3:]
+        except OSError:
+            tail = ["(log file missing)"]
         log(f"  yt-dlp failed (rc={rc}): {' | '.join(tail)}")
         return None
     # Remove the per-video yt-dlp log on success
