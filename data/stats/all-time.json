@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:22:00.445892",
-  "total_sessions": 341,
+  "generated_at": "2026-07-10T15:52:04.949016",
+  "total_sessions": 346,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 3399.7200000000003,
-      "total_interventions": 51,
-      "sessions_attended": 8,
+      "total_time": 3587.0000000000005,
+      "total_interventions": 52,
+      "sessions_attended": 9,
       "topics_discussed": 3
     },
     {
@@ -60,6 +60,18 @@
       "total_time": 2102.44,
       "total_interventions": 5,
       "sessions_attended": 5,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 2010.0300000000002,
+      "total_interventions": 68,
+      "sessions_attended": 14,
       "topics_discussed": 0
     },
     {
@@ -120,18 +132,6 @@
       "total_time": 1446.58,
       "total_interventions": 6,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 1416.2,
-      "total_interventions": 41,
-      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -603,6 +603,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CAMILA-ANAHI-CUEVA-TARCO",
+      "name": "Camila Anahi Cueva Tarco",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Cotopaxi",
+      "total_time": 486.01,
+      "total_interventions": 3,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-CHRISTOPHER-MANUEL-JARAMILLO-GOMEZ",
       "name": "Christopher Manuel Jaramillo Gómez",
       "type": "asambleísta",
@@ -783,18 +795,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-CAMILA-ANAHI-CUEVA-TARCO",
-      "name": "Camila Anahi Cueva Tarco",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Cotopaxi",
-      "total_time": 286.79,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
       "name": "Katherine Alexandra Pacheco Machuca",
       "type": "asambleísta",
@@ -887,6 +887,18 @@
       "province": "Imbabura",
       "total_time": 241.82,
       "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MONICA-DE-JESUS-SALAZAR-HIDALGO",
+      "name": "Mónica de Jesús Salazar Hidalgo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Los Ríos",
+      "total_time": 241.16,
+      "total_interventions": 3,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -1113,8 +1125,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 111,
-      "total_duration": 45274.63000000002,
+      "sessions_count": 116,
+      "total_duration": 47779.250000000015,
       "unique_speakers": 5,
       "unique_topics": 0
     },
