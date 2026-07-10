@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:11:47.863355",
-  "total_sessions": 377,
+  "generated_at": "2026-07-10T17:26:53.048019",
+  "total_sessions": 382,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2694,12 +2694,77 @@
       "bills_mentioned": 0
     },
     {
+      "id": "zF45odH-HA8",
+      "title": "Asambleísta Edwin Jarrín - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 488.76,
+      "url": "https://www.youtube.com/watch?v=zF45odH-HA8",
+      "file_path": "data/sessions/zF45odH-HA8.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "2zozkc1BHOs",
+      "title": "Asambleísta Marco Olmedo - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 507.1,
+      "url": "https://www.youtube.com/watch?v=2zozkc1BHOs",
+      "file_path": "data/sessions/2zozkc1BHOs.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "yfaJqE8hemc",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 519.36,
+      "url": "https://www.youtube.com/watch?v=yfaJqE8hemc",
+      "file_path": "data/sessions/yfaJqE8hemc.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "am-Z95tCTtU",
       "title": "Asambleísta Andrés Castillo - Sesión 098",
       "date": "2026-06-08T00:00:00Z",
       "duration": 649.55,
       "url": "https://www.youtube.com/watch?v=am-Z95tCTtU",
       "file_path": "data/sessions/am-Z95tCTtU.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "bnp6fF7NBGU",
+      "title": "Asambleísta Keevin Gallardo - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 546.09,
+      "url": "https://www.youtube.com/watch?v=bnp6fF7NBGU",
+      "file_path": "data/sessions/bnp6fF7NBGU.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "zIwhu4CTrYA",
+      "title": "Asambleístas Adrián Castro - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 423.97,
+      "url": "https://www.youtube.com/watch?v=zIwhu4CTrYA",
+      "file_path": "data/sessions/zIwhu4CTrYA.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
