@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T06:38:12.000851",
-  "total_sessions": 240,
+  "generated_at": "2026-07-10T08:24:43.087870",
+  "total_sessions": 241,
   "sessions": [
     {
       "id": "ckRR9AtsSaU",
@@ -3131,6 +3131,19 @@
       "duration": 57.82,
       "url": "https://www.youtube.com/watch?v=ZRHxupyy798",
       "file_path": "data/sessions/ZRHxupyy798.json",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 7664.47,
+      "url": "",
+      "file_path": "data/sessions/h0-KqqCsxWU.json",
       "speaker_count": 0,
       "topics": [],
       "keywords": [],

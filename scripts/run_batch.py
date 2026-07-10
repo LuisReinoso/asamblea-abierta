@@ -99,9 +99,11 @@ def download_video(video_id: str) -> Path | None:
     # and can deadlock when yt-dlp + ffmpeg merge produce a lot of progress output.
     with open(yt_log, "w") as logf:
         try:
-            rc = subprocess.call(cmd, stdout=logf, stderr=subprocess.STDOUT, timeout=1800)
+            # 1h ceiling — file size (not video duration) drives download
+            # time, and multi-GB full-session downloads need real headroom.
+            rc = subprocess.call(cmd, stdout=logf, stderr=subprocess.STDOUT, timeout=3600)
         except subprocess.TimeoutExpired:
-            log("  yt-dlp timed out (1800s)")
+            log("  yt-dlp timed out (3600s)")
             return None
     if rc != 0 or not out_path.exists() or out_path.stat().st_size < 100_000:
         tail = yt_log.read_text(errors="ignore").splitlines()[-3:]
@@ -115,7 +117,7 @@ def download_video(video_id: str) -> Path | None:
     return out_path
 
 
-def run_script(script: str, *args: str) -> bool:
+def run_script(script: str, *args: str, timeout: int = 7200) -> bool:
     # Join --flag and value with '=' so video_ids that start with '-' do not
     # confuse argparse into reading them as flags.
     joined: list[str] = []
@@ -130,7 +132,7 @@ def run_script(script: str, *args: str) -> bool:
         else:
             joined.append(a)
     cmd = [sys.executable, "-u", str(PROJECT_ROOT / "scripts" / "pipeline" / script), *joined]
-    r = subprocess.run(cmd, capture_output=True, text=True, timeout=7200)
+    r = subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
     if r.returncode != 0:
         log(f"  {script} failed (exit {r.returncode})")
         log(f"  stderr tail: {r.stderr[-500:]}")
@@ -170,13 +172,18 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
         result["error"] = "download failed"
         return result
 
-    # Stage 2: transcribe (diarize + ASR)
+    # Stage 2: transcribe (diarize + ASR). Full plenary sessions run hours
+    # long — give those runs a lot more headroom than the 2h default (which
+    # is already generous for a short per-speaker clip).
+    is_full_session = session_meta.get("video_type") == "full_session"
+    stage_timeout = 21600 if is_full_session else 7200  # 6h vs 2h
     t0 = time.time()
     ok = run_script(
         "03_transcribe_local.py",
         "--video-id", vid,
         "--audio-file", str(video_path),
         "--output", str(out_session),
+        timeout=stage_timeout,
     )
     result["stages"]["transcribe"] = round(time.time() - t0, 1)
     if not ok:
@@ -201,7 +208,7 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     ]
     if session_meta.get("title"):
         map_args += ["--title", session_meta["title"]]
-    ok = run_script(*map_args)
+    ok = run_script(*map_args, timeout=stage_timeout)
     result["stages"]["map"] = round(time.time() - t0, 1)
     if not ok:
         result["error"] = "speaker mapping failed (transcript saved without names)"
