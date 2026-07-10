@@ -1,0 +1,52 @@
+{
+  "text": "Jairo Resta. Gracias, señora presidenta. Gracias, señora presidenta. Realmente, señores  asambleístas, voy a repetir algo que siempre he dicho. Cuando la memoria es corta, realmente  es complejo seguir debatiendo. Artículo 20, integrado en cuanto a normativa de seguridad  nacional desde el año 2009. Estamos siendo responsables en cuanto a lo dictaminado por  la norma desde el año 2009. Y obviamente que aquí hay algunos ex ministros de defensa  y de gobierno de aquel entonces que podrían dar fe de ello. Primero. Segundo, han dicho  de que no nos tomen como tontos vivos. Sería muy bueno, asambleísta noriega, de que deje  de estar viajando tanto y se priorice el trabajo de la comisión porque usted no ha presentado  ni una sola observación. Y tercero, señores asambleístas, ¿cuánto es fundamental que  los temas que para nosotros son fundamentales de servicio nacional, de seguridad nacional,  tenga la priorización de los tiempos y los espacios de los señores y señoras asambleístas?  Pero si pasamos viajando, pero si priorizamos el hecho de otras agendas y no de la construcción  de esta valiosa ley, pues muy poco su debate o sus adjetivos calificativos negativos podrá  ser parte también y nos afectará a quienes sí trabajamos todos los días.  Señora Presidenta encargada, he presentado ya la moción bajo la normativa vigente de  este pleno de la asamblea para que por favor lo someta a votación de quienes sí trabajamos  y no de quienes hacen show político.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 119.3,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 118.86,
+      "text": "Jairo Resta. Gracias, señora presidenta. Gracias, señora presidenta. Realmente, señores  asambleístas, voy a repetir algo que siempre he dicho. Cuando la memoria es corta, realmente  es complejo seguir debatiendo. Artículo 20, integrado en cuanto a normativa de seguridad  nacional desde el año 2009. Estamos siendo responsables en cuanto a lo dictaminado por  la norma desde el año 2009. Y obviamente que aquí hay algunos ex ministros de defensa  y de gobierno de aquel entonces que podrían dar fe de ello. Primero. Segundo, han dicho  de que no nos tomen como tontos vivos. Sería muy bueno, asambleísta noriega, de que deje  de estar viajando tanto y se priorice el trabajo de la comisión porque usted no ha presentado  ni una sola observación. Y tercero, señores asambleístas, ¿cuánto es fundamental que  los temas que para nosotros son fundamentales de servicio nacional, de seguridad nacional,  tenga la priorización de los tiempos y los espacios de los señores y señoras asambleístas?  Pero si pasamos viajando, pero si priorizamos el hecho de otras agendas y no de la construcción  de esta valiosa ley, pues muy poco su debate o sus adjetivos calificativos negativos podrá  ser parte también y nos afectará a quienes sí trabajamos todos los días.  Señora Presidenta encargada, he presentado ya la moción bajo la normativa vigente de  este pleno de la asamblea para que por favor lo someta a votación de quienes sí trabajamos  y no de quienes hacen show político.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jhajaira Estefanía Urresta Guzmán",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "U_-kQwgZWcw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "confidence": 1.0,
+      "votes": {
+        "Jhajaira Estefanía Urresta Guzmán": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Jhajaira Urresta - Sesión 099 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=U_-kQwgZWcw",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "U_-kQwgZWcw",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=U_-kQwgZWcw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "party": null,
+      "province": null,
+      "total_time": 118.83,
+      "interventions": 1,
+      "word_count": 242
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:22:35.967529",
-  "total_sessions": 351,
+  "generated_at": "2026-07-10T16:32:18.489569",
+  "total_sessions": 356,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 3587.0000000000005,
-      "total_interventions": 52,
-      "sessions_attended": 9,
+      "total_time": 4149.370000000001,
+      "total_interventions": 53,
+      "sessions_attended": 10,
       "topics_discussed": 3
     },
     {
@@ -87,6 +87,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 1909.6300000000003,
+      "total_interventions": 15,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
       "name": "Juan José Reyes Baquerizo",
       "type": "asambleísta",
@@ -99,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 1577.27,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
       "name": "Pablo Aníbal Jurado Moreno",
       "type": "asambleísta",
@@ -108,18 +132,6 @@
       "total_time": 1474.86,
       "total_interventions": 5,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 1458.44,
-      "total_interventions": 3,
-      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -144,18 +156,6 @@
       "total_time": 1446.58,
       "total_interventions": 6,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 1370.13,
-      "total_interventions": 10,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -903,6 +903,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "total_time": 241.03,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "MARTHA-MERCEDES-CHAVEZ",
       "name": "Martha Mercedes Chavez",
       "type": "desconocido",
@@ -1137,8 +1149,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 121,
-      "total_duration": 49737.24000000001,
+      "sessions_count": 126,
+      "total_duration": 51239.02000000002,
       "unique_speakers": 5,
       "unique_topics": 0
     },

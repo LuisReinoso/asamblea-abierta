@@ -1,0 +1,136 @@
+{
+  "text": "Néza Alarcón. Gracias señora Presidenta, encargada.  Cuando se solicita una réplica es porque algún legislador me nombró.  Yo no escuché que nadie le ha nombrado a la legisladora Noriega  y usted le procedió a dar la réplica.  No estoy en contra de que hable legisladora porque usted en la Comisión de Seguridad  le doy la palabra tres, cuatro, cinco, las veces que quiera hablar.  Lo que estoy en contra es de que no se respete el procedimiento legislativo  que es lo que corresponde, nada más.  Porque si a mí me nombró la legisladora Noriega, he pedido el punto de réplica  únicamente para aclararle lo que entiendo claramente es lo único que leyó de la ley  porque si usted le pregunta ahorita a la legisladora Noriega  hábleme sobre qué reformas estamos aplicando hoy en el COVID,  cuál es el nuevo delito, qué estamos reformando, seguramente no va a saber.  Porque lo único que le interesa es montar el show político,  lo único que le interesa es deslegitimar el trabajo que se viene haciendo  aquí en la Comisión de Seguridad.  Quisiera, señora Presidenta, he mandado un video para que se pueda procesar, por favor.  Autorizado. Si el gobierno nos va al día de hoy a proponer un proyecto de esas características, ¿ustedes, como bancada votaría por ese proyecto, sea beneficioso? lo que sea, nuestra postura es oposición  y los votos de la bancada es  no todo, no vamos  a apoyar a nada que venga del gobierno  de Daniel Ovo, sea lo que sea, nuestra  postura es oposición y los votos  de la bancada es no todo  ahí está la respuesta  señor Ahí está la réplica a la legisladora que me nombró, el no.  ¿Por qué? Porque les gusta inventarse cualquier leguleyada.  No entienden que estamos hablando de una ley de seguridad nacional.  Y esa es la verdad, ecuatorianos.  Ese no a todo no le hace daño al gobierno, no le hace daño a ADN, le hace daño al país.  Y ojalá un día, algún día ustedes dejen de venderse como humanistas o pro-derecho.  Porque en realidad son unos hipócritas que solo vendan por su agenda política.  Ustedes, política, con una sola consigna, ¿saben cuál?  Gracias, señora presidenta.",
+  "language": "es",
+  "duration": 174.92,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Néza Alarcón.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.5651,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 7.71,
+      "end": 76.04,
+      "text": "Gracias señora Presidenta, encargada.  Cuando se solicita una réplica es porque algún legislador me nombró.  Yo no escuché que nadie le ha nombrado a la legisladora Noriega  y usted le procedió a dar la réplica.  No estoy en contra de que hable legisladora porque usted en la Comisión de Seguridad  le doy la palabra tres, cuatro, cinco, las veces que quiera hablar.  Lo que estoy en contra es de que no se respete el procedimiento legislativo  que es lo que corresponde, nada más.  Porque si a mí me nombró la legisladora Noriega, he pedido el punto de réplica  únicamente para aclararle lo que entiendo claramente es lo único que leyó de la ley  porque si usted le pregunta ahorita a la legisladora Noriega  hábleme sobre qué reformas estamos aplicando hoy en el COVID,  cuál es el nuevo delito, qué estamos reformando, seguramente no va a saber.  Porque lo único que le interesa es montar el show político,  lo único que le interesa es deslegitimar el trabajo que se viene haciendo  aquí en la Comisión de Seguridad.  Quisiera, señora Presidenta, he mandado un video para que se pueda procesar, por favor.  Autorizado.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 81.77,
+      "end": 89.13,
+      "text": "Si el gobierno nos va al día de hoy a proponer un proyecto de esas características, ¿ustedes, como bancada votaría por ese proyecto, sea beneficioso?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 89.13,
+      "end": 106.02,
+      "text": "lo que sea, nuestra postura es oposición  y los votos de la bancada es  no todo, no vamos  a apoyar a nada que venga del gobierno  de Daniel Ovo, sea lo que sea, nuestra  postura es oposición y los votos  de la bancada es no todo  ahí está la respuesta  señor",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.5651,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 106.02,
+      "end": 173.81,
+      "text": "Ahí está la réplica a la legisladora que me nombró, el no.  ¿Por qué? Porque les gusta inventarse cualquier leguleyada.  No entienden que estamos hablando de una ley de seguridad nacional.  Y esa es la verdad, ecuatorianos.  Ese no a todo no le hace daño al gobierno, no le hace daño a ADN, le hace daño al país.  Y ojalá un día, algún día ustedes dejen de venderse como humanistas o pro-derecho.  Porque en realidad son unos hipócritas que solo vendan por su agenda política.  Ustedes, política, con una sola consigna, ¿saben cuál?  Gracias, señora presidenta.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "kIP2lqFMQjA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 1.0,
+      "votes": {
+        "Inés Margarita Alarcón Bueno": 2
+      },
+      "samples": 20,
+      "successful_reads": 2,
+      "source": "db"
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 7,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 099 - Réplica",
+  "url": "https://www.youtube.com/watch?v=kIP2lqFMQjA",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "kIP2lqFMQjA",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=kIP2lqFMQjA",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 136.12,
+      "interventions": 2,
+      "word_count": 287
+    },
+    {
+      "id": "speaker_2",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 17.89,
+      "interventions": 2,
+      "word_count": 53
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 7.36,
+      "interventions": 1,
+      "word_count": 25
+    }
+  ]
+}
