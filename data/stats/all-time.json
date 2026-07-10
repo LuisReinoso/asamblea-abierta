@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:11:47.755524",
-  "total_sessions": 377,
+  "generated_at": "2026-07-10T17:26:52.929996",
+  "total_sessions": 382,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,6 +39,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 2708.87,
+      "total_interventions": 22,
+      "sessions_attended": 9,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-CAMILA-LEON-CUEVA",
       "name": "Camila León Cueva",
       "type": "asambleísta",
@@ -63,15 +75,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
-      "name": "Adrián Ernesto Castro Piedra",
+      "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
+      "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
-      "province": "Azuay",
-      "total_time": 2287.5099999999998,
-      "total_interventions": 21,
-      "sessions_attended": 8,
+      "province": "Chimborazo",
+      "total_time": 2157.48,
+      "total_interventions": 12,
+      "sessions_attended": 7,
       "topics_discussed": 3
     },
     {
@@ -135,18 +147,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
-      "name": "Keevin Fernando Gallardo Ruiz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Chimborazo",
-      "total_time": 1611.9299999999998,
-      "total_interventions": 11,
-      "sessions_attended": 6,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
@@ -192,6 +192,18 @@
       "total_time": 1344.8600000000001,
       "total_interventions": 3,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "total_time": 1315.24,
+      "total_interventions": 4,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -351,6 +363,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Bolívar",
+      "total_time": 935.8900000000001,
+      "total_interventions": 6,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
       "name": "Roberto Fernando Jaramillo Martínez",
       "type": "asambleísta",
@@ -394,18 +418,6 @@
       "party": "ADN",
       "province": "EE.UU. y Canadá",
       "total_time": 854.45,
-      "total_interventions": 3,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
-      "name": "Edwin Estuardo Jarrín Rivadeneira",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "PSP",
-      "province": "Morona Santiago",
-      "total_time": 826.88,
       "total_interventions": 3,
       "sessions_attended": 3,
       "topics_discussed": 0
@@ -615,6 +627,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
+      "name": "Marco Patricio Olmedo Arias",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Cotopaxi",
+      "total_time": 607.9399999999999,
+      "total_interventions": 5,
+      "sessions_attended": 2,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-ANNABELLA-EMMA-AZIN-ARCE",
       "name": "Annabella Emma Azín Arce",
       "type": "asambleísta",
@@ -719,18 +743,6 @@
       "province": "Galápagos",
       "total_time": 435.57,
       "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
-      "name": "Mireya Katerine Pazmiño Arregui",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Bolívar",
-      "total_time": 416.56,
-      "total_interventions": 5,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -1071,18 +1083,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
-      "name": "Marco Patricio Olmedo Arias",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Cotopaxi",
-      "total_time": 126.92,
-      "total_interventions": 4,
-      "sessions_attended": 1,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-LUIS-ESTEBAN-TORRES-COBO",
       "name": "Luis Esteban Torres Cobo",
       "type": "asambleísta",
@@ -1197,8 +1197,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 147,
-      "total_duration": 61281.08000000001,
+      "sessions_count": 152,
+      "total_duration": 63766.36000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },
