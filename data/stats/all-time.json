@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:40:44.429643",
-  "total_sessions": 392,
+  "generated_at": "2026-07-10T17:47:47.212319",
+  "total_sessions": 397,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 2767.35,
-      "total_interventions": 83,
-      "sessions_attended": 18,
+      "total_time": 2788.69,
+      "total_interventions": 86,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -81,9 +81,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 2410.7200000000003,
-      "total_interventions": 16,
-      "sessions_attended": 7,
+      "total_time": 2445.55,
+      "total_interventions": 17,
+      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -96,6 +96,18 @@
       "total_time": 2157.48,
       "total_interventions": 12,
       "sessions_attended": 7,
+      "topics_discussed": 3
+    },
+    {
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Napo",
+      "total_time": 2154.86,
+      "total_interventions": 18,
+      "sessions_attended": 8,
       "topics_discussed": 3
     },
     {
@@ -267,18 +279,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 1267.9,
-      "total_interventions": 11,
-      "sessions_attended": 6,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
       "name": "Gerardo Eugenio Machado Clavijo",
       "type": "asambleísta",
@@ -312,6 +312,18 @@
       "total_time": 1171.04,
       "total_interventions": 2,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Bolívar",
+      "total_time": 1158.6000000000001,
+      "total_interventions": 12,
+      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -396,18 +408,6 @@
       "total_time": 958.3700000000001,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
-      "name": "Mireya Katerine Pazmiño Arregui",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Bolívar",
-      "total_time": 953.7900000000001,
-      "total_interventions": 10,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -635,6 +635,18 @@
       "province": null,
       "total_time": 629.58,
       "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-HECTOR-EDUARDO-RODRIGUEZ-CHAVEZ",
+      "name": "Héctor Eduardo Rodríguez Chávez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 624.68,
+      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },

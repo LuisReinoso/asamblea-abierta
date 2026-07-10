@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:40:44.543275",
-  "total_sessions": 392,
+  "generated_at": "2026-07-10T17:47:47.343816",
+  "total_sessions": 397,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -4958,6 +4958,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "YupHrSzZY_k",
+      "title": "Assemblywoman Ana Belén Tapia - Session 098",
+      "date": "",
+      "duration": 808.5,
+      "url": "https://www.youtube.com/watch?v=YupHrSzZY_k",
+      "file_path": "data/sessions/YupHrSzZY_k.json",
+      "speaker_count": 4,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "p06QMyuqSdM",
       "title": "Assemblyman Juan José Reyes - Session 098",
       "date": "",
@@ -4991,6 +5004,19 @@
       "url": "https://www.youtube.com/watch?v=WmREmOBcVL4",
       "file_path": "data/sessions/WmREmOBcVL4.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "oiY6SGuWOJo",
+      "title": "Niels Olsen resigns as President of the National Assembly - Session 098",
+      "date": "",
+      "duration": 867.1,
+      "url": "https://www.youtube.com/watch?v=oiY6SGuWOJo",
+      "file_path": "data/sessions/oiY6SGuWOJo.json",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5049,12 +5075,38 @@
       "bills_mentioned": 0
     },
     {
+      "id": "roQrPGbEbeI",
+      "title": "Assemblywoman Ana Belén Tapia - Session 098 - Point of Information",
+      "date": "",
+      "duration": 87.63,
+      "url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
+      "file_path": "data/sessions/roQrPGbEbeI.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "E8Idptu6sxc",
       "title": "Assemblyman Adrián Castro - Session 098",
       "date": "",
       "duration": 418.38,
       "url": "https://www.youtube.com/watch?v=E8Idptu6sxc",
       "file_path": "data/sessions/E8Idptu6sxc.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "JPxhzMLnMKk",
+      "title": "Assemblyman Héctor Rodríguez - Session 098",
+      "date": "",
+      "duration": 627.64,
+      "url": "https://www.youtube.com/watch?v=JPxhzMLnMKk",
+      "file_path": "data/sessions/JPxhzMLnMKk.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -5082,6 +5134,19 @@
       "url": "https://www.youtube.com/watch?v=c1eIY0MwPFE",
       "file_path": "data/sessions/c1eIY0MwPFE.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "yM-5EVGnieo",
+      "title": "President of the National Assembly Mishel Mancheno - Session 098",
+      "date": "",
+      "duration": 278.08,
+      "url": "https://www.youtube.com/watch?v=yM-5EVGnieo",
+      "file_path": "data/sessions/yM-5EVGnieo.json",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",

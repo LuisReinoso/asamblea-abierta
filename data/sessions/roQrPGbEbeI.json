@@ -1,0 +1,51 @@
+{
+  "text": "Dado a punto de información la asambleísta, Abelén Tapia.  Gracias, señora presidenta.  Con su autorización, porque como estamos hablando aquí de los amiguitos de algunos,  entonces, las fotitos que también son necesarias que el público no vean  para que vean quiénes son los amigos de quién.  Por favor, señora presidenta, si me permite que se proyecten las imágenes  que ha enviado a la Secretaría General.  Ahí pueden ver al señor Jaime El Chambo Sánchez Llanes.  ¿Saben quién es? Si le sigue pasando, por favor, mientras voy hablando.  Es la persona de confianza de Hugo Chávez y el asesor de seguridad de Rafael Correa.  Fue el vínculo de los negocios entre ambos y Alex Zap, ¿no?  Entendiendo que fue uno de los que estuvo en la creación de la filial  entre Álvaro Pulido y Luis Eduardo Sánchez Llanes, que por supuesto es familia.  Ahí están las fotos.  Acá no venimos de hablar solamente por hablar.  Ahí están las evidencias.  Ahora es de cargo.  Ahí está el excandidato a la presidencia del Ecuador,  que también era funcionario del Banco Central.  Le utilizó el robo más grande que ha tenido ese país.  Teníamos la cara de tujada, compañeritos.  Muchas gracias, señora presidenta.  Tiene la palabra la asambleguita Adriana.",
+  "language": "es",
+  "duration": 87.63,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 87.56,
+      "text": "Dado a punto de información la asambleísta, Abelén Tapia.  Gracias, señora presidenta.  Con su autorización, porque como estamos hablando aquí de los amiguitos de algunos,  entonces, las fotitos que también son necesarias que el público no vean  para que vean quiénes son los amigos de quién.  Por favor, señora presidenta, si me permite que se proyecten las imágenes  que ha enviado a la Secretaría General.  Ahí pueden ver al señor Jaime El Chambo Sánchez Llanes.  ¿Saben quién es? Si le sigue pasando, por favor, mientras voy hablando.  Es la persona de confianza de Hugo Chávez y el asesor de seguridad de Rafael Correa.  Fue el vínculo de los negocios entre ambos y Alex Zap, ¿no?  Entendiendo que fue uno de los que estuvo en la creación de la filial  entre Álvaro Pulido y Luis Eduardo Sánchez Llanes, que por supuesto es familia.  Ahí están las fotos.  Acá no venimos de hablar solamente por hablar.  Ahí están las evidencias.  Ahora es de cargo.  Ahí está el excandidato a la presidencia del Ecuador,  que también era funcionario del Banco Central.  Le utilizó el robo más grande que ha tenido ese país.  Teníamos la cara de tujada, compañeritos.  Muchas gracias, señora presidenta.  Tiene la palabra la asambleguita Adriana.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "roQrPGbEbeI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Ana Belén Tapia - Session 098 - Point of Information",
+  "url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "roQrPGbEbeI",
+  "source_url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 87.53,
+      "interventions": 1,
+      "word_count": 205
+    }
+  ]
+}
