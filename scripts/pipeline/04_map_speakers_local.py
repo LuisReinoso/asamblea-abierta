@@ -122,6 +122,78 @@ def match_name(candidate: str, lookup: dict[str, dict], threshold: float = 0.80)
 
 
 # ---------------------------------------------------------------------------
+# Title-derived name fallback
+# ---------------------------------------------------------------------------
+# Many of these videos are single-intervention clips whose YouTube title
+# already names the speaker (e.g. "Asambleísta Adrián Castro - Sesión 106",
+# "Assemblywoman Ana Belén - Session 105"). That's a free, high-value signal
+# the OCR-only pipeline wasn't using at all. Applied ONLY to the single
+# speaker who dominates the video's runtime, and NEVER overrides a confident
+# OCR ("db") match — it's a fallback for videos the overlay never caught.
+TITLE_NAME_RE = re.compile(
+    r"^(?:Asambleísta|Asambleista|Assemblyman|Assemblywoman)\s+(.+)$",
+    re.IGNORECASE,
+)
+
+
+def extract_name_from_title(title: str) -> str | None:
+    if not title:
+        return None
+    m = TITLE_NAME_RE.match(title.strip())
+    if not m:
+        return None
+    # Cut off everything from " - " onward (session number, "II Intervención",
+    # "Punto de información", "Cambio del orden del día", etc).
+    name = re.split(r"\s+-\s+", m.group(1))[0].strip()
+    return name or None
+
+
+def apply_title_fallback(
+    mapping: dict[str, dict],
+    segments: list[dict],
+    title: str | None,
+    lookup: dict[str, dict],
+    min_dominance: float = 0.5,
+    fallback_confidence: float = 0.75,
+) -> None:
+    """Mutates `mapping` in place: if the title names a real asambleísta and
+    that person isn't already confidently OCR-identified, assign the name to
+    whichever speaker_id accounts for most of the video's talk time."""
+    candidate = extract_name_from_title(title or "")
+    if not candidate:
+        return
+    canonical, _sim = match_name(candidate, lookup)
+    if not canonical:
+        return
+
+    durations: dict[str | None, float] = defaultdict(float)
+    total = 0.0
+    for seg in segments:
+        d = seg.get("end", 0) - seg.get("start", 0)
+        durations[seg.get("speaker_id")] += d
+        total += d
+    if total <= 0 or not durations:
+        return
+    dominant_id, dominant_dur = max(durations.items(), key=lambda kv: kv[1])
+    if dominant_id is None or dominant_dur / total < min_dominance:
+        return
+
+    existing = mapping.get(dominant_id)
+    if existing and existing.get("source") == "db":
+        return  # a confident OCR read wins, always
+
+    mapping[dominant_id] = {
+        "name": canonical,
+        "confidence": fallback_confidence,
+        "votes": (existing or {}).get("votes", {}),
+        "samples": (existing or {}).get("samples", 0),
+        "successful_reads": (existing or {}).get("successful_reads", 0),
+        "source": "title",
+    }
+    print(f"  → title fallback: {dominant_id} = {canonical!r} (from title {title!r})")
+
+
+# ---------------------------------------------------------------------------
 # OCR
 # ---------------------------------------------------------------------------
 class OverlayReader:
@@ -197,34 +269,58 @@ def looks_like_person_name(text: str) -> bool:
 # Sampling timestamps per speaker
 # ---------------------------------------------------------------------------
 def sample_timestamps_for_speaker(
-    segments: list[dict], speaker_id: str, n_samples: int, video_duration: float,
+    segments: list[dict],
+    speaker_id: str,
+    n_segments: int,
+    video_duration: float,
+    frames_per_segment: int = 10,
+    min_spacing: float = 2.5,
+    max_total_frames: int = 25,
 ) -> list[float]:
-    """Pick N timestamps from the speaker's longest segments.
+    """Pick many evenly-spaced timestamps from the speaker's longest segments.
 
-    Sampling strategy:
-      - Pick the longest segments (overlay most likely to appear/stay).
-      - Sample at the MIDPOINT of each segment — by then the broadcast has
-        switched cameras and the overlay reflects the current speaker.
-      - For segments long enough (>20s), also sample at 60% to get a second
-        independent reading from the same segment.
+    Sampling strategy (rewritten 2026-07 — the old version sampled only 2
+    fixed points, 50% and 75% into a segment. That misses the overlay
+    whenever it only appears briefly right after a camera cut, which is the
+    common case — the name graphic fades in for a few seconds near the
+    START of a speaker's turn, not throughout it. Fix: cover the WHOLE
+    segment with evenly-spaced samples instead of guessing when the overlay
+    is up):
+      - Pick the N longest segments for this speaker (still the best odds of
+        containing a stable overlay window).
+      - Within each, sample evenly from just after the start to just before
+        the end (a small margin avoids the camera-cut transition frame
+        itself), spaced at least `min_spacing` seconds apart, capped at
+        `frames_per_segment` per segment.
+      - Stop once `max_total_frames` is reached across all segments, to keep
+        OCR (CPU-bound) runtime bounded.
     """
     spk_segs = [s for s in segments if s.get("speaker_id") == speaker_id]
     if not spk_segs:
         return []
 
     spk_segs.sort(key=lambda s: s["end"] - s["start"], reverse=True)
-    chosen = spk_segs[:n_samples]
+    chosen = spk_segs[:n_segments]
 
-    timestamps = []
+    timestamps: list[float] = []
     for seg in chosen:
-        seg_dur = seg["end"] - seg["start"]
-        # Midpoint of the segment
-        t_mid = seg["start"] + 0.5 * seg_dur
-        timestamps.append(min(t_mid, video_duration - 1.0))
-        # Extra sample at 75% for long segments (>20s)
-        if seg_dur > 20 and len(timestamps) < n_samples * 2:
-            t_late = seg["start"] + 0.75 * seg_dur
-            timestamps.append(min(t_late, video_duration - 1.0))
+        start, end = seg["start"], seg["end"]
+        margin = min(1.0, (end - start) * 0.1)
+        span_start, span_end = start + margin, end - margin
+        if span_end <= span_start:
+            span_start, span_end = start, end
+
+        n_points = max(1, min(frames_per_segment, int((span_end - span_start) / min_spacing) + 1))
+        if n_points == 1:
+            points = [(span_start + span_end) / 2]
+        else:
+            step = (span_end - span_start) / (n_points - 1)
+            points = [span_start + i * step for i in range(n_points)]
+
+        for t in points:
+            timestamps.append(min(max(t, 0.0), video_duration - 1.0))
+            if len(timestamps) >= max_total_frames:
+                return timestamps
 
     return timestamps
 
@@ -246,7 +342,7 @@ def build_speaker_mapping(
     reader: OverlayReader,
     lookup: dict[str, dict],
     frames_dir: Path,
-    samples_per_speaker: int = 7,
+    samples_per_speaker: int = 3,
     confidence_threshold: float = 0.60,
     oov_min_reads: int = 2,
     oov_min_ocr_score: float = 0.95,
@@ -406,7 +502,8 @@ def main():
     parser.add_argument("--session-file", required=True, help="Session JSON (output of 03_transcribe_local.py)")
     parser.add_argument("--video-file", help="Path to video (default: data/video/<id>.mp4)")
     parser.add_argument("--output", help="Output JSON path (default: overwrites --session-file)")
-    parser.add_argument("--samples", type=int, default=7, help="Frames sampled per speaker")
+    parser.add_argument("--samples", type=int, default=3, help="Longest segments inspected per speaker (each densely sampled — see sample_timestamps_for_speaker)")
+    parser.add_argument("--title", default=None, help="Video title, used as a name-detection fallback for the dominant speaker (e.g. 'Asambleísta X - Sesión N')")
     parser.add_argument("--threshold", type=float, default=0.60, help="Min agreement ratio to accept a name")
     args = parser.parse_args()
 
@@ -437,6 +534,7 @@ def main():
         samples_per_speaker=args.samples,
         confidence_threshold=args.threshold,
     )
+    apply_title_fallback(mapping, segments, args.title, lookup)
 
     output_path = Path(args.output) if args.output else Path(args.session_file)
     apply_mapping_to_session(Path(args.session_file), mapping, output_path)

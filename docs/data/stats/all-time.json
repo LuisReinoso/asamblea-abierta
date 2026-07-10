@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T00:27:20.586053",
-  "total_sessions": 239,
+  "generated_at": "2026-07-10T06:37:49.105375",
+  "total_sessions": 240,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -298,6 +298,18 @@
       "party": null,
       "province": null,
       "total_time": 447.47,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
+      "name": "Lizardo Manuel Casanova Montesino",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Esmeraldas",
+      "total_time": 414.25,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -609,8 +621,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 29,
-      "total_duration": 10156.16,
+      "sessions_count": 30,
+      "total_duration": 10571.08,
       "unique_speakers": 3,
       "unique_topics": 0
     },
