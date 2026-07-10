@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:40:14.881630",
-  "total_sessions": 361,
+  "generated_at": "2026-07-10T16:54:57.374610",
+  "total_sessions": 366,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2330,6 +2330,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "2dGr0C2zmrs",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 303.3,
+      "url": "https://www.youtube.com/watch?v=2dGr0C2zmrs",
+      "file_path": "data/sessions/2dGr0C2zmrs.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "U_-kQwgZWcw",
       "title": "Asambleísta Jhajaira Urresta - Sesión 099 - II Intervención",
       "date": "2026-06-09T00:00:00Z",
@@ -2395,6 +2408,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "hhX7FpJGiq8",
+      "title": "Asambleísta Domenica Escobar - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 329.75,
+      "url": "https://www.youtube.com/watch?v=hhX7FpJGiq8",
+      "file_path": "data/sessions/hhX7FpJGiq8.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "CUq8c-SBL3U",
       "title": "Asambleísta Jahiren Noriega - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2414,6 +2440,32 @@
       "duration": 564.41,
       "url": "https://www.youtube.com/watch?v=646P-rAxhA0",
       "file_path": "data/sessions/646P-rAxhA0.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "lQrOYjF52Nk",
+      "title": "Votación de la moción de la asambleísta Lucía Jaramillo - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 565.31,
+      "url": "https://www.youtube.com/watch?v=lQrOYjF52Nk",
+      "file_path": "data/sessions/lQrOYjF52Nk.json",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "15QCwsFr8gU",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 99",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 896.73,
+      "url": "https://www.youtube.com/watch?v=15QCwsFr8gU",
+      "file_path": "data/sessions/15QCwsFr8gU.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -2453,6 +2505,19 @@
       "duration": 716.1,
       "url": "https://www.youtube.com/watch?v=nrVC_31c7-I",
       "file_path": "data/sessions/nrVC_31c7-I.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "FBGSGnIywlk",
+      "title": "Votación de la reconsideración de la asambleísta Lucía Jaramillo - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 294.89,
+      "url": "https://www.youtube.com/watch?v=FBGSGnIywlk",
+      "file_path": "data/sessions/FBGSGnIywlk.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],

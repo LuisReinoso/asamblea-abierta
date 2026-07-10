@@ -1,0 +1,166 @@
+{
+  "text": "Muchísimas gracias, Presidenta. Gracias al Pleno de la Asamblea Nacional porque por fin hoy damos por terminado este mecanismo que solo sirvió para golpear las economías de las familias ecuatorianas.  Presidenta, pido la reconsideración de lo votado. Gracias. Señor secretario, tome votación sobre la reconsideración planteada. Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  Si existiera alguna novedad, por favor, informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 135 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleista Lucia Jarmillo.  Señoras asambleistas, por favor consignar su voto. Señor Secretario, proclame resultados. Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 135 asambristas presentes  contamos con 49 votos afirmativos, 84 votos negativos, cero blancos y dos abstenciones.  Por lo tanto, no ha sido aprobada la reconsideración planteada por la asambrista Lucía Jaramillo. Señor Secretario.",
+  "language": "es",
+  "duration": 294.89,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.24,
+      "end": 17.55,
+      "text": "Muchísimas gracias, Presidenta. Gracias al Pleno de la Asamblea Nacional porque por fin hoy damos por terminado este mecanismo que solo sirvió para golpear las economías de las familias ecuatorianas.  Presidenta, pido la reconsideración de lo votado. Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 18.48,
+      "end": 22.36,
+      "text": "Señor secretario, tome votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 23.32,
+      "end": 31.69,
+      "text": "Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  Si existiera alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.939,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 152.06,
+      "end": 153.85,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 155.4,
+      "end": 169.93,
+      "text": "Me permito informar, señora Presidenta, que contamos con 135 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleista Lucia Jarmillo.  Señoras asambleistas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.939,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 262.56,
+      "end": 264.56,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 265.91,
+      "end": 288.07,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 135 asambristas presentes  contamos con 49 votos afirmativos, 84 votos negativos, cero blancos y dos abstenciones.  Por lo tanto, no ha sido aprobada la reconsideración planteada por la asambrista Lucía Jaramillo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.939,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 294.08,
+      "end": 294.97,
+      "text": "Señor Secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "FBGSGnIywlk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "María Gabriela Molina Menéndez": 4,
+        "Torre de la Torre Fernando de la": 2,
+        "Luis Fernando Jácome Mejía": 1
+      },
+      "samples": 18,
+      "successful_reads": 7,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 6,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la reconsideración de la asambleísta Lucía Jaramillo - Sesión 099",
+  "url": "https://www.youtube.com/watch?v=FBGSGnIywlk",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "FBGSGnIywlk",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=FBGSGnIywlk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María Gabriela Molina Menéndez",
+      "party": null,
+      "province": null,
+      "total_time": 45.06,
+      "interventions": 3,
+      "word_count": 103
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 23.87,
+      "interventions": 5,
+      "word_count": 57
+    }
+  ]
+}
