@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:26:53.048019",
-  "total_sessions": 382,
+  "generated_at": "2026-07-10T17:33:45.450589",
+  "total_sessions": 387,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -4958,6 +4958,58 @@
       "bills_mentioned": 0
     },
     {
+      "id": "OfRxk3vdsDw",
+      "title": "Assemblyman Sergio Peña - Session 098",
+      "date": "",
+      "duration": 483.88,
+      "url": "https://www.youtube.com/watch?v=OfRxk3vdsDw",
+      "file_path": "data/sessions/OfRxk3vdsDw.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "WmREmOBcVL4",
+      "title": "Assemblywoman Liliana Durán - Session 098",
+      "date": "",
+      "duration": 729.45,
+      "url": "https://www.youtube.com/watch?v=WmREmOBcVL4",
+      "file_path": "data/sessions/WmREmOBcVL4.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "LreP7J2isV0",
+      "title": "Assemblyman Alfredo Serrano - Session 098",
+      "date": "",
+      "duration": 616.63,
+      "url": "https://www.youtube.com/watch?v=LreP7J2isV0",
+      "file_path": "data/sessions/LreP7J2isV0.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "wi-rBP5Bz38",
+      "title": "Assemblywoman Mariana Yumbay - Session 098",
+      "date": "",
+      "duration": 653.13,
+      "url": "https://www.youtube.com/watch?v=wi-rBP5Bz38",
+      "file_path": "data/sessions/wi-rBP5Bz38.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -4978,6 +5030,19 @@
       "url": "",
       "file_path": "data/sessions/LA1PlEUyrXg.json",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "-vRufGiuNf8",
+      "title": "Assemblywoman Inés Alarcón - Session 098",
+      "date": "",
+      "duration": 502.43,
+      "url": "https://www.youtube.com/watch?v=-vRufGiuNf8",
+      "file_path": "data/sessions/-vRufGiuNf8.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:26:52.929996",
-  "total_sessions": 382,
+  "generated_at": "2026-07-10T17:33:45.335055",
+  "total_sessions": 387,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 2410.7200000000003,
+      "total_interventions": 16,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -111,15 +123,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
+      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
+      "name": "Liliana Elizabeth Durán Aguilar",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 1909.6300000000003,
-      "total_interventions": 15,
-      "sessions_attended": 6,
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 1972.41,
+      "total_interventions": 6,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -135,6 +147,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
+      "name": "Saadin Alfredo Serrano Valladares",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSC",
+      "province": "Nacional",
+      "total_time": 1775.8600000000001,
+      "total_interventions": 5,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
       "name": "Juan José Reyes Baquerizo",
       "type": "asambleísta",
@@ -144,6 +168,18 @@
       "total_time": 1762.27,
       "total_interventions": 11,
       "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 1556.2600000000002,
+      "total_interventions": 5,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -181,6 +217,18 @@
       "total_interventions": 6,
       "sessions_attended": 4,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-MARIANA-YUMBAY-YALLICO",
+      "name": "Mariana Yumbay Yallico",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "MUPP",
+      "province": "Bolívar",
+      "total_time": 1345.8200000000002,
+      "total_interventions": 4,
+      "sessions_attended": 3,
+      "topics_discussed": 0
     },
     {
       "id": "AN-JOSE-LUIS-NANGO-CUJI",
@@ -231,18 +279,6 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
-      "name": "Liliana Elizabeth Durán Aguilar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 1244.78,
-      "total_interventions": 5,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
       "name": "Gerardo Eugenio Machado Clavijo",
       "type": "asambleísta",
@@ -263,18 +299,6 @@
       "province": "Carchi",
       "total_time": 1174.64,
       "total_interventions": 6,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
-      "name": "Saadin Alfredo Serrano Valladares",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "PSC",
-      "province": "Nacional",
-      "total_time": 1168.96,
-      "total_interventions": 4,
       "sessions_attended": 3,
       "topics_discussed": 0
     },
@@ -300,18 +324,6 @@
       "total_time": 1125.96,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
-      "name": "Sergio Jesús Peña Veloz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 1084.7200000000003,
-      "total_interventions": 4,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -528,18 +540,6 @@
       "total_time": 706.38,
       "total_interventions": 5,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIANA-YUMBAY-YALLICO",
-      "name": "Mariana Yumbay Yallico",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "MUPP",
-      "province": "Bolívar",
-      "total_time": 693.47,
-      "total_interventions": 3,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
