@@ -1,0 +1,49 @@
+{
+  "text": "Hola, colegas. Disculpenme la voz, estoy un poco afoico.  Saludos a toda la ciudadanía que nos viera de la red oficial de la Secretaría Nacional.  Es importante que el género de los problemas que enfrentamos actualmente  datan del crimen organizado y consolidado dentro y fuera de las cárceles.  Además, la exorción y el cicliato.  De esas estructuras surgieron además, posteriormente, quienes hoy se dictó criminales que evolucionaron  y ahora usan técnico, incluso los tratos como cuáles, el robo y la comercialización ilegal.  Es fundamental que nuestra legislación, la reforma propuesta de las delictivas,  fortalece la percepción de conductas vinculadas al uso indebido de información personal  y actualizamientos legales que facultan a los que hacen apenas alguna regulación específica,  como bien lo mencionó Garosa Torres.  Esta reforma también hace énfasis en ámbitos del crimen, las apuestas deportivas.  Nosotros en este pleno de febrero, el proyecto que hemos dado en la comisión  y la que abordamos de manera exhaustiva, van impulsionando competencias deportivas.  Ahora, esta reforma compite este trabajo incorporando consecuencias criminales  para quienes participen en estas conductas, para seguir quienes ejecuten estos actos.  Las estructuras criminales, este proyecto incorpora además disposiciones para fortalecer  la protección ambiental a los bosques ecuatorianos, que ha sucedido en las últimas mil hectáreas,  fueron consumidas por incendios, fuentes de distintas zonas del país,  traen consigo ecosistemas destruidos, fuentes de agua afectadas,  pérdida de fauna afectada y daños ambientales que pueden tardar,  por eso sancionar a quienes provocan zonas de bien del país.  a los patrimonios naturales del país.  Esta reforma debe entenderse también como apoyo al esfuerzo que realiza el Estado ecuatoriano  para recuperar espacios que duran.  El gobierno organizado no depende únicamente de la identidad de la ciudad,  nuestras fuerzas del oro, requiere también, requiere realmente ese esfuerzo.",
+  "language": "es",
+  "duration": 335.37,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 334.02,
+      "text": "Hola, colegas. Disculpenme la voz, estoy un poco afoico.  Saludos a toda la ciudadanía que nos viera de la red oficial de la Secretaría Nacional.  Es importante que el género de los problemas que enfrentamos actualmente  datan del crimen organizado y consolidado dentro y fuera de las cárceles.  Además, la exorción y el cicliato.  De esas estructuras surgieron además, posteriormente, quienes hoy se dictó criminales que evolucionaron  y ahora usan técnico, incluso los tratos como cuáles, el robo y la comercialización ilegal.  Es fundamental que nuestra legislación, la reforma propuesta de las delictivas,  fortalece la percepción de conductas vinculadas al uso indebido de información personal  y actualizamientos legales que facultan a los que hacen apenas alguna regulación específica,  como bien lo mencionó Garosa Torres.  Esta reforma también hace énfasis en ámbitos del crimen, las apuestas deportivas.  Nosotros en este pleno de febrero, el proyecto que hemos dado en la comisión  y la que abordamos de manera exhaustiva, van impulsionando competencias deportivas.  Ahora, esta reforma compite este trabajo incorporando consecuencias criminales  para quienes participen en estas conductas, para seguir quienes ejecuten estos actos.  Las estructuras criminales, este proyecto incorpora además disposiciones para fortalecer  la protección ambiental a los bosques ecuatorianos, que ha sucedido en las últimas mil hectáreas,  fueron consumidas por incendios, fuentes de distintas zonas del país,  traen consigo ecosistemas destruidos, fuentes de agua afectadas,  pérdida de fauna afectada y daños ambientales que pueden tardar,  por eso sancionar a quienes provocan zonas de bien del país.  a los patrimonios naturales del país.  Esta reforma debe entenderse también como apoyo al esfuerzo que realiza el Estado ecuatoriano  para recuperar espacios que duran.  El gobierno organizado no depende únicamente de la identidad de la ciudad,  nuestras fuerzas del oro, requiere también, requiere realmente ese esfuerzo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "p06QMyuqSdM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 098",
+  "url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "p06QMyuqSdM",
+  "source_url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 333.99,
+      "interventions": 1,
+      "word_count": 293
+    }
+  ]
+}

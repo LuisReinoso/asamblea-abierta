@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:33:45.335055",
-  "total_sessions": 387,
+  "generated_at": "2026-07-10T17:40:44.429643",
+  "total_sessions": 392,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 2708.87,
-      "total_interventions": 22,
-      "sessions_attended": 9,
+      "total_time": 3127.2500000000005,
+      "total_interventions": 23,
+      "sessions_attended": 10,
       "topics_discussed": 3
     },
     {
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 2531.8700000000003,
-      "total_interventions": 78,
-      "sessions_attended": 17,
+      "total_time": 2767.35,
+      "total_interventions": 83,
+      "sessions_attended": 18,
       "topics_discussed": 0
     },
     {
@@ -111,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 2096.26,
+      "total_interventions": 12,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
       "name": "Torre de la Torre Fernando de la",
       "type": "asambleísta",
@@ -156,18 +168,6 @@
       "total_time": 1775.8600000000001,
       "total_interventions": 5,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 1762.27,
-      "total_interventions": 11,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -303,6 +303,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
+      "name": "Rosa Alegría Torres Cadena",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Los Ríos",
+      "total_time": 1171.04,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ECKENNER-READER-RECALDE-ALAVA",
       "name": "Eckenner Reader Recalde Álava",
       "type": "asambleísta",
@@ -324,6 +336,18 @@
       "total_time": 1125.96,
       "total_interventions": 3,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-CRISTIAN-BENAVIDES-FUENTES",
+      "name": "Cristian Benavides Fuentes",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Carchi",
+      "total_time": 1101.43,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -381,9 +405,9 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Bolívar",
-      "total_time": 935.8900000000001,
-      "total_interventions": 6,
-      "sessions_attended": 3,
+      "total_time": 953.7900000000001,
+      "total_interventions": 10,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -615,18 +639,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-CRISTIAN-BENAVIDES-FUENTES",
-      "name": "Cristian Benavides Fuentes",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Carchi",
-      "total_time": 616.33,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
       "name": "Marco Patricio Olmedo Arias",
       "type": "asambleísta",
@@ -790,18 +802,6 @@
       "party": "ADN",
       "province": "Zamora Chinchipe",
       "total_time": 357.75,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
-      "name": "Rosa Alegría Torres Cadena",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Los Ríos",
-      "total_time": 343.95,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
