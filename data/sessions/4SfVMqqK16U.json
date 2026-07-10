@@ -1,0 +1,154 @@
+{
+  "text": "Señora Presidenta, solicito por favor la reconsideración. Señor secretario, tome votación sobre la reconsideración planteada. Señores asambleístas, por favor registrar su participación en las corules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Pablo Jurado.  Señores asambleístas, por favor, consignar su... Señor Secretario, proclame resultados. Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 142 asambleístas presentes  contamos con 58 votos afirmativos, 84 votos negativos, 0 blancos y 0 abstenciones.  Por lo tanto, no ha sido aprobada la solicitud de reconsideración  planteada por la asambleísta Pablo Jurado. Se solicita.",
+  "language": "es",
+  "duration": 249.57,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.82,
+      "end": 4.3,
+      "text": "Señora Presidenta, solicito por favor la reconsideración.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 1,
+      "start": 5.72,
+      "end": 9.35,
+      "text": "Señor secretario, tome votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.83,
+      "end": 19.29,
+      "text": "Señores asambleístas, por favor registrar su participación en las corules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 3,
+      "start": 139.23,
+      "end": 141.09,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 142.51,
+      "end": 158.56,
+      "text": "Me permito informar, señora Presidenta, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Pablo Jurado.  Señores asambleístas, por favor, consignar su...",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 5,
+      "start": 218.19,
+      "end": 220.3,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 221.43,
+      "end": 240.63,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 142 asambleístas presentes  contamos con 58 votos afirmativos, 84 votos negativos, 0 blancos y 0 abstenciones.  Por lo tanto, no ha sido aprobada la solicitud de reconsideración  planteada por la asambleísta Pablo Jurado.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 7,
+      "start": 248.3,
+      "end": 249.66,
+      "text": "Se solicita.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "4SfVMqqK16U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Camila León Cueva",
+      "confidence": 0.67,
+      "votes": {
+        "Torre de la Torre Fernando de la": 2,
+        "Camila León Cueva": 4
+      },
+      "samples": 16,
+      "successful_reads": 6,
+      "source": "db"
+    }
+  },
+  "title": "Reconsideración de la votación de la moción del asambleísta Pablo Jurado - Sesión 100",
+  "url": "https://www.youtube.com/watch?v=4SfVMqqK16U",
+  "published_at": "2026-06-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "4SfVMqqK16U",
+  "date": "2026-06-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=4SfVMqqK16U",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 47.19,
+      "interventions": 4,
+      "word_count": 111
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 8.96,
+      "interventions": 4,
+      "word_count": 19
+    }
+  ]
+}

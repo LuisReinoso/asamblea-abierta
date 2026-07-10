@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:22:00.547694",
-  "total_sessions": 341,
+  "generated_at": "2026-07-10T15:52:05.050011",
+  "total_sessions": 346,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2057,6 +2057,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "GYuZT0Gv_DI",
+      "title": "Asambleísta Camila Cueva - Sesión 101 - Cambio del orden del día",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 610.17,
+      "url": "https://www.youtube.com/watch?v=GYuZT0Gv_DI",
+      "file_path": "data/sessions/GYuZT0Gv_DI.json",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Wk4glI5DJBQ",
       "title": "Asambleísta Pablo Jurado - Sesión 101",
       "date": "2026-06-17T00:00:00Z",
@@ -2213,6 +2226,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "otv4S1ogUbI",
+      "title": "Asambleísta Andrés Castillo - Sesión 101 - Cambio del orden del día",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 597.36,
+      "url": "https://www.youtube.com/watch?v=otv4S1ogUbI",
+      "file_path": "data/sessions/otv4S1ogUbI.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Y55NoYUlfBk",
       "title": "Asambleísta Andrés Castillo - Sesión 101",
       "date": "2026-06-17T00:00:00Z",
@@ -2232,6 +2258,45 @@
       "duration": 104.51,
       "url": "https://www.youtube.com/watch?v=dOFpEgFQD8A",
       "file_path": "data/sessions/dOFpEgFQD8A.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Luf_gWOI-6s",
+      "title": "Asambleísta Mónica Salazar - Sesión 101 - Cambio del orden del día",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 675.47,
+      "url": "https://www.youtube.com/watch?v=Luf_gWOI-6s",
+      "file_path": "data/sessions/Luf_gWOI-6s.json",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "4SfVMqqK16U",
+      "title": "Reconsideración de la votación de la moción del asambleísta Pablo Jurado - Sesión 100",
+      "date": "2026-06-10T00:00:00Z",
+      "duration": 249.57,
+      "url": "https://www.youtube.com/watch?v=4SfVMqqK16U",
+      "file_path": "data/sessions/4SfVMqqK16U.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "T6ElLfQHr8E",
+      "title": "Votación de la moción del asambleísta Pablo Jurado - Sesión 100",
+      "date": "2026-06-10T00:00:00Z",
+      "duration": 372.05,
+      "url": "https://www.youtube.com/watch?v=T6ElLfQHr8E",
+      "file_path": "data/sessions/T6ElLfQHr8E.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
