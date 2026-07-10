@@ -1,0 +1,54 @@
+{
+  "text": "Gracias, Presidente.  ¿Tiene que existir una cobertura integral por parte del Estado? Sí, debe existir. Pero existen criterios de elegibilidad rigurosos, es decir, que primero, mediante la aplicación de este proyecto de ley, se deben priorizar siempre las medidas preventivas y no farmacológicas como la primera línea de intervención.  Luego de que si todas estas medidas fallan o si las condiciones del paciente no son las adecuadas para permanecer en una primera línea de tratamiento, evidentemente el Estado debe estar en la obligación de garantizarle una cobertura integral con la cirugía bariátrica.  Debe estar esta cobertura, este tratamiento y este aval debe estar realizado a través de cirujanos certificados que tengan un control riguroso de los títulos de quienes están realizando estas intervenciones.  Debe haber responsabilidad y seguimiento posquirúrgico porque no solamente es el hecho de que un paciente con una obesidad mórbida, un paciente que es elegible para una cirugía bariátrica, se maneje con la cirugía y se deje a la deriva.  Debe haber un seguimiento a nivel de los centros especializados que deben integrar esta red de tratamiento especializado.  También, evidentemente, se hacen observaciones para los seguros privados porque habrán, en algunos de los casos de los seguros privados, también tendrán que cumplir con la cobertura de esta patología cuando fue adquirida dentro de la cobertura como tal del seguro.  Es decir, que no solamente se le endilga al estado la responsabilidad, sino parte del tratamiento integral de la obesidad conlleva el estar integrado en un sistema que haga promoción, prevención, seguimiento y curación.  Gracias, presidente.",
+  "language": "es",
+  "duration": 142.08,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 139.4,
+      "text": "Gracias, Presidente.  ¿Tiene que existir una cobertura integral por parte del Estado? Sí, debe existir. Pero existen criterios de elegibilidad rigurosos, es decir, que primero, mediante la aplicación de este proyecto de ley, se deben priorizar siempre las medidas preventivas y no farmacológicas como la primera línea de intervención.  Luego de que si todas estas medidas fallan o si las condiciones del paciente no son las adecuadas para permanecer en una primera línea de tratamiento, evidentemente el Estado debe estar en la obligación de garantizarle una cobertura integral con la cirugía bariátrica.  Debe estar esta cobertura, este tratamiento y este aval debe estar realizado a través de cirujanos certificados que tengan un control riguroso de los títulos de quienes están realizando estas intervenciones.  Debe haber responsabilidad y seguimiento posquirúrgico porque no solamente es el hecho de que un paciente con una obesidad mórbida, un paciente que es elegible para una cirugía bariátrica, se maneje con la cirugía y se deje a la deriva.  Debe haber un seguimiento a nivel de los centros especializados que deben integrar esta red de tratamiento especializado.  También, evidentemente, se hacen observaciones para los seguros privados porque habrán, en algunos de los casos de los seguros privados, también tendrán que cumplir con la cobertura de esta patología cuando fue adquirida dentro de la cobertura como tal del seguro.  Es decir, que no solamente se le endilga al estado la responsabilidad, sino parte del tratamiento integral de la obesidad conlleva el estar integrado en un sistema que haga promoción, prevención, seguimiento y curación.  Gracias, presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Eliana Katherine Correa González",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "nrZFn__7JIU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Eliana Katherine Correa González",
+      "confidence": 0.67,
+      "votes": {
+        "Eliana Katherine Correa González": 6,
+        "Juan Andrés González Alvear": 1,
+        "[OOV] Asamblea Nacion": 2
+      },
+      "samples": 10,
+      "successful_reads": 9,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Eliana Correa - Sesión 101 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=nrZFn__7JIU",
+  "published_at": "2026-07-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "nrZFn__7JIU",
+  "date": "2026-07-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=nrZFn__7JIU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Eliana Katherine Correa González",
+      "party": null,
+      "province": null,
+      "total_time": 139.37,
+      "interventions": 1,
+      "word_count": 258
+    }
+  ]
+}
