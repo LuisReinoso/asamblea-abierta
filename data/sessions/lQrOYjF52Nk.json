@@ -1,0 +1,183 @@
+{
+  "text": "Notifique si la moción presentada por la asambleísta Lucía Jaramillo ha sido ingresada por escrito. Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor. Con su autorización, señor presidente, procedo a dar lectura y tomar votación de la moción presentada.  Memorando número AN-CRIM-2026-0277-M, Quito, Distrito Metropolitano, 9 de junio de 2026.  Asunto. Moción para la aprobación de denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre.  De mi consideración. Un ratito, señor secretario, señor asambleísta Patiño,  le di corresponsablemente a cada una de las bancadas,  inclusive la suya, por favor. En ejercicio de las atribuciones conferidas por el artículo 135 de la Ley Orgánica de la Asociación Legislativa  en el marco de la sesión número 099-AN-2025-2029 del Pleno de la Asamblea Nacional  convocada para el martes 9 de junio de 2026 en modalidad presencial  dentro del segundo punto del orden del DIDA relativo a la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  formulo la siguiente moción que el Pleno de la Asamblea Nacional apruebe la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  conforme a las conclusiones y recomendación contenidas en el informe de la Comisión Especializada Permanente  de Relaciones Internacionales y Movilidad Humana aprobada en la sesión número 087-CEPRI-MH-2025-2027 del 3 de junio de 2026  y acorde al proyecto de resolución que se adjunta  con sentimientos de distinguida consideración atentamente  Lucía Lisbeth Jaramillo Zurita, Presidenta de la Comisión Especializada Permanente de Relaciones Internacionales y Movilidad Humana  me permito dar lectura a la parte resolutiva  en ejercicio de sus atribuciones constitucionales y legales resuelve  Artículo 1. Aprobar la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  suscrito el 16 de octubre de 2029 en la ciudad de Cochabamba, Estado Plurinacional de Bolivia  y ratificado mediante el Ejército Ejecutivo número 395 de 17 de junio de 2010  Artículo 2. Disponer a la Secretaría General de la Asamblea Nacional del Ecuador  realizar todos los trámites necesarios para las notificaciones de la presente resolución  al señor Presidente de la República para los fines constitucionales, convencionales y legales correspondientes  Hasta aquí la lectura, señor Presidente  Señores asambleístas, por favor, registrar su participación en las curules electrónicas  de existir alguna novedad, por favor, informar a esta Secretaría Cierre el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Lucía Jaramillo.  Señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 140 asambristas presentes  contamos con 86 votos afirmativos, 53 votos negativos, 0 blancos y 1 abstención.  Por lo tanto, ha sido aprobada la moción presentada por la asambrista Lucia Jaramillo.",
+  "language": "es",
+  "duration": 565.31,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 5.8,
+      "text": "Notifique si la moción presentada por la asambleísta Lucía Jaramillo ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 0.5069,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 7.25,
+      "end": 12.03,
+      "text": "Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 2,
+      "start": 17.43,
+      "end": 28.79,
+      "text": "Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 0.5069,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 28.79,
+      "end": 58.3,
+      "text": "Con su autorización, señor presidente, procedo a dar lectura y tomar votación de la moción presentada.  Memorando número AN-CRIM-2026-0277-M, Quito, Distrito Metropolitano, 9 de junio de 2026.  Asunto. Moción para la aprobación de denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre.  De mi consideración.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 4,
+      "start": 58.3,
+      "end": 66.57,
+      "text": "Un ratito, señor secretario, señor asambleísta Patiño,  le di corresponsablemente a cada una de las bancadas,  inclusive la suya, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 0.5069,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 71.28,
+      "end": 200.39,
+      "text": "En ejercicio de las atribuciones conferidas por el artículo 135 de la Ley Orgánica de la Asociación Legislativa  en el marco de la sesión número 099-AN-2025-2029 del Pleno de la Asamblea Nacional  convocada para el martes 9 de junio de 2026 en modalidad presencial  dentro del segundo punto del orden del DIDA relativo a la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  formulo la siguiente moción que el Pleno de la Asamblea Nacional apruebe la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  conforme a las conclusiones y recomendación contenidas en el informe de la Comisión Especializada Permanente  de Relaciones Internacionales y Movilidad Humana aprobada en la sesión número 087-CEPRI-MH-2025-2027 del 3 de junio de 2026  y acorde al proyecto de resolución que se adjunta  con sentimientos de distinguida consideración atentamente  Lucía Lisbeth Jaramillo Zurita, Presidenta de la Comisión Especializada Permanente de Relaciones Internacionales y Movilidad Humana  me permito dar lectura a la parte resolutiva  en ejercicio de sus atribuciones constitucionales y legales resuelve  Artículo 1. Aprobar la denuncia del Tratado Constitutivo del Sistema Unitario de Compensación Regional de Pago Sucre  suscrito el 16 de octubre de 2029 en la ciudad de Cochabamba, Estado Plurinacional de Bolivia  y ratificado mediante el Ejército Ejecutivo número 395 de 17 de junio de 2010  Artículo 2. Disponer a la Secretaría General de la Asamblea Nacional del Ecuador  realizar todos los trámites necesarios para las notificaciones de la presente resolución  al señor Presidente de la República para los fines constitucionales, convencionales y legales correspondientes  Hasta aquí la lectura, señor Presidente  Señores asambleístas, por favor, registrar su participación en las curules electrónicas  de existir alguna novedad, por favor, informar a esta Secretaría",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 6,
+      "start": 442.41,
+      "end": 444.11,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 0.5069,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 446.22,
+      "end": 461.21,
+      "text": "Me permito informar, señora presidenta, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Lucía Jaramillo.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 8,
+      "start": 533.06,
+      "end": 534.9,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ricardo Armando Patiño Aroca",
+        "confidence": 0.5069,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 9,
+      "start": 538.06,
+      "end": 557.46,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 140 asambristas presentes  contamos con 86 votos afirmativos, 53 votos negativos, 0 blancos y 1 abstención.  Por lo tanto, ha sido aprobada la moción presentada por la asambrista Lucia Jaramillo.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "lQrOYjF52Nk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 9,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "María Gabriela Molina Menéndez",
+      "confidence": 0.67,
+      "votes": {
+        "María Gabriela Molina Menéndez": 2,
+        "[OOV] Del Pleno De La Asamblea": 1
+      },
+      "samples": 25,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Lucía Jaramillo - Sesión 099",
+  "url": "https://www.youtube.com/watch?v=lQrOYjF52Nk",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "lQrOYjF52Nk",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=lQrOYjF52Nk",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "María Gabriela Molina Menéndez",
+      "party": null,
+      "province": null,
+      "total_time": 197.79,
+      "interventions": 5,
+      "word_count": 431
+    },
+    {
+      "id": "speaker_0",
+      "name": "Ricardo Armando Patiño Aroca",
+      "party": null,
+      "province": null,
+      "total_time": 28.94,
+      "interventions": 5,
+      "word_count": 64
+    }
+  ]
+}

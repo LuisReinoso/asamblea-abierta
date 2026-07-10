@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:40:14.743851",
-  "total_sessions": 361,
+  "generated_at": "2026-07-10T16:54:57.264450",
+  "total_sessions": 366,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -48,6 +48,18 @@
       "total_time": 2531.8700000000003,
       "total_interventions": 78,
       "sessions_attended": 17,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 2473.71,
+      "total_interventions": 5,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -99,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 1777.08,
+      "total_interventions": 6,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
       "name": "Juan José Reyes Baquerizo",
       "type": "asambleísta",
@@ -108,30 +132,6 @@
       "total_time": 1762.27,
       "total_interventions": 11,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 1577.27,
-      "total_interventions": 4,
-      "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 1474.86,
-      "total_interventions": 5,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -423,6 +423,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-RICARDO-ARMANDO-PATINO-AROCA",
+      "name": "Ricardo Armando Patiño Aroca",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 741.73,
+      "total_interventions": 8,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-GIOVANNY-BRAVO",
       "name": "Giovanny Bravo",
       "type": "asambleísta",
@@ -433,18 +445,6 @@
       "total_interventions": 24,
       "sessions_attended": 1,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-RICARDO-ARMANDO-PATINO-AROCA",
-      "name": "Ricardo Armando Patiño Aroca",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 712.79,
-      "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
     },
     {
       "id": "AN-ALEX-MORAN-GALARZA",
@@ -687,6 +687,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
+      "name": "María Gabriela Molina Menéndez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Manabí",
+      "total_time": 429.09,
+      "total_interventions": 15,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
       "name": "Mireya Katerine Pazmiño Arregui",
       "type": "asambleísta",
@@ -790,6 +802,18 @@
       "party": "RC",
       "province": "Santa Elena",
       "total_time": 322.5,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
+      "name": "Doménica Carolina Escobar Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Tungurahua",
+      "total_time": 320.39,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -972,18 +996,6 @@
       "total_time": 196.36,
       "total_interventions": 1,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
-      "name": "María Gabriela Molina Menéndez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Manabí",
-      "total_time": 186.24,
-      "total_interventions": 7,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -1173,8 +1185,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 131,
-      "total_duration": 53535.41000000001,
+      "sessions_count": 136,
+      "total_duration": 55925.390000000014,
       "unique_speakers": 5,
       "unique_topics": 0
     },

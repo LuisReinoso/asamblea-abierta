@@ -28,6 +28,8 @@ from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 from pathlib import Path
 
+import numpy as np
+from PIL import Image
 from paddleocr import PaddleOCR
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
@@ -216,13 +218,30 @@ class OverlayReader:
     """PaddleOCR wrapper that returns names found in the lower-third overlay."""
 
     def __init__(self, lang: str = "es", overlay_band: tuple[float, float] = (0.70, 0.98)):
-        self.ocr = PaddleOCR(lang=lang, enable_mkldnn=False)
+        # use_doc_orientation_classify/unwarping/textline_orientation are for
+        # scanned-document photos (rotated pages, warped paper) — irrelevant
+        # for a clean video frame, and skipping them avoids loading 3 unused
+        # models. The real win is cropping to the overlay band BEFORE OCR
+        # (below) rather than running full-frame detection and filtering
+        # after: measured 2026-07-10 at 3.9s -> 1.6s per frame (2.4x), since
+        # PaddleOCR's detector cost scales with image area and we only ever
+        # care about the bottom ~28% of the frame.
+        self.ocr = PaddleOCR(
+            lang=lang, enable_mkldnn=False,
+            use_doc_orientation_classify=False,
+            use_doc_unwarping=False,
+            use_textline_orientation=False,
+        )
         self.overlay_top, self.overlay_bottom = overlay_band
 
     def read(self, image_path: Path) -> list[tuple[str, float]]:
         """Return list of (text, score) found inside the overlay band."""
         try:
-            results = self.ocr.predict(str(image_path))
+            with Image.open(image_path) as img:
+                w, h = img.size
+                crop = img.crop((0, int(h * self.overlay_top), w, int(h * self.overlay_bottom)))
+                arr = np.array(crop.convert("RGB"))
+            results = self.ocr.predict(arr)
         except Exception as e:
             print(f"    OCR error on {image_path.name}: {e}", file=sys.stderr)
             return []
@@ -230,18 +249,8 @@ class OverlayReader:
         for r in results:
             txts = r.get("rec_texts", [])
             scores = r.get("rec_scores", [])
-            polys = r.get("rec_polys", [])
-            # Detect image height from polygon coords
-            all_ys = [pt[1] for p in polys for pt in p]
-            if not all_ys:
-                continue
-            img_height = max(max(all_ys), 1)
-            y_min = img_height * self.overlay_top
-            y_max = img_height * self.overlay_bottom
-            for text, score, poly in zip(txts, scores, polys):
-                ys = [pt[1] for pt in poly]
-                y_mid = sum(ys) / len(ys)
-                if y_min <= y_mid <= y_max and score >= 0.6:
+            for text, score in zip(txts, scores):
+                if score >= 0.6:
                     out.append((text.strip(), float(score)))
         return out
 
