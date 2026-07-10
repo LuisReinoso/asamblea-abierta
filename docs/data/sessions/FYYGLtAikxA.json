@@ -1,0 +1,52 @@
+{
+  "text": "Muchas gracias, colega presidente. Muchas gracias, colegas asambleístas que me escuchan esta tarde.  Primero, felicitar a mi colega ponente de este proyecto de la ruta del dinero entregado por la empresa Compañía Progen.  Nunca es tarde, colega, cerrarnos para fiscalizar. Esa es una de nuestras funciones.  Yo he trabajado políticamente con varios presidentes de la República.  Pero Recorderos, usted que no conoce, Luzo Gutiérrez y otros, hubo muchos casos de corrupción, pero yo jamás escuché decir a uno, vamos a recuperar la plata que se robaron, jamás.  Yo no he escuchado decir al presidente Correa, vamos a recuperar la plata que se robaron del terremoto de Maravit.  Yo no he escuchado decir al presidente Correa, vamos a recuperar el dinero que se perdió en la refinería del Pacífico, que hoy por hoy es un fantasma que me existe.  Este presidente valiente le ha dicho al país, va a mostrar la ruta del dinero para devolverle a la patria lo que a estas empresas fantasma que se le robaron.  Yo no he escuchado decir a un presidente como este presidente valiente le dice al país, caiga quien caiga, por supuesto.  Ese es el proyecto que estamos analizando el día de hoy, para que todos los culpables paguen las consecuencias de sus errores cometidos.  Eso ha dicho el presidente.  Él no va a solapar sin reconocerías de ninguno, sea quien fuere.  Por ello, la Comisión de Control, Transparencia y Participación Ciudadana a la cual pertenezco, hizo por la fiscalización correspondiente.  Y fueron todos los que tenían que haber ido, pero aquí tampoco vamos a poner al antojo a quienes la oposición se le ocurre que vayan, pues, mételo a este, sácalo a este y ponlo a este.  Tienen que ir los que deben ir, eso es verdad.  Y qué bueno, presidente y colega asamblegista ponente de este proyecto, que hoy debatamos con altura y con respeto,  porque el país debe saber quiénes se le robaron la plata en un momento crítico en el que estábamos viviendo.  Alabo la postura del debate en el campo del respeto y la consideración.  Este debate tiene que concluir positivamente, porque eso espera el país en nosotros,  para que paguen todos los que cometieron el error, las consecuencias de los errores cometidos.  Gracias, señor presidente. Gracias, colegas asamblegistas.",
+  "language": "es",
+  "duration": 156.71,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.74,
+      "end": 156.24,
+      "text": "Muchas gracias, colega presidente. Muchas gracias, colegas asambleístas que me escuchan esta tarde.  Primero, felicitar a mi colega ponente de este proyecto de la ruta del dinero entregado por la empresa Compañía Progen.  Nunca es tarde, colega, cerrarnos para fiscalizar. Esa es una de nuestras funciones.  Yo he trabajado políticamente con varios presidentes de la República.  Pero Recorderos, usted que no conoce, Luzo Gutiérrez y otros, hubo muchos casos de corrupción, pero yo jamás escuché decir a uno, vamos a recuperar la plata que se robaron, jamás.  Yo no he escuchado decir al presidente Correa, vamos a recuperar la plata que se robaron del terremoto de Maravit.  Yo no he escuchado decir al presidente Correa, vamos a recuperar el dinero que se perdió en la refinería del Pacífico, que hoy por hoy es un fantasma que me existe.  Este presidente valiente le ha dicho al país, va a mostrar la ruta del dinero para devolverle a la patria lo que a estas empresas fantasma que se le robaron.  Yo no he escuchado decir a un presidente como este presidente valiente le dice al país, caiga quien caiga, por supuesto.  Ese es el proyecto que estamos analizando el día de hoy, para que todos los culpables paguen las consecuencias de sus errores cometidos.  Eso ha dicho el presidente.  Él no va a solapar sin reconocerías de ninguno, sea quien fuere.  Por ello, la Comisión de Control, Transparencia y Participación Ciudadana a la cual pertenezco, hizo por la fiscalización correspondiente.  Y fueron todos los que tenían que haber ido, pero aquí tampoco vamos a poner al antojo a quienes la oposición se le ocurre que vayan, pues, mételo a este, sácalo a este y ponlo a este.  Tienen que ir los que deben ir, eso es verdad.  Y qué bueno, presidente y colega asamblegista ponente de este proyecto, que hoy debatamos con altura y con respeto,  porque el país debe saber quiénes se le robaron la plata en un momento crítico en el que estábamos viviendo.  Alabo la postura del debate en el campo del respeto y la consideración.  Este debate tiene que concluir positivamente, porque eso espera el país en nosotros,  para que paguen todos los que cometieron el error, las consecuencias de los errores cometidos.  Gracias, señor presidente. Gracias, colegas asamblegistas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jorge Enrique Chamba Cabanilla",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "FYYGLtAikxA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jorge Enrique Chamba Cabanilla",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] A Por": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Jorge Chamba - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=FYYGLtAikxA",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "FYYGLtAikxA",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=FYYGLtAikxA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jorge Enrique Chamba Cabanilla",
+      "party": null,
+      "province": null,
+      "total_time": 152.5,
+      "interventions": 1,
+      "word_count": 381
+    }
+  ]
+}

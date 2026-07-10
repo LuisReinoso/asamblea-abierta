@@ -1,0 +1,50 @@
+{
+  "text": "Gracias, señor presidente. Es muy importante tratar este tema en el pleno de la Asamblea Nacional.  Justamente defender que como bancada estamos defendiendo la postura de que sí,  debemos cuidar los recursos de los ecuatorianos y debemos seguir y fiscalizar  a aquellos responsables de semejante desfalco en un tiempo de crisis  como lo era la crisis energética en aquel tiempo.  Hay que reconocer el arduo trabajo que ha realizado el gobierno nacional.  El secretario de Integridad Pública, José Julio Neria, en conjunto con la UAFE,  se ha pronunciado y ha identificado a aquellos responsables, ahora sí,  con nombres incluidos de aquel desfalco.  Y hablemos con los hechos técnicos y financieros que arrojan las investigaciones  y no con la retórica vacía que algunos sectores intentan posicionar.  Gracias a esa cooperación internacional que tiene el Ecuador con los Estados Unidos  y con la ley antimafia rico, hoy se ha podido identificar la ruta del dinero  que ha perjudicado al Estado.  Estos fondos fueron inmediatamente dispersados hacia 29 personas jurídicas.  Y aquí radica el corazón de esta trama de corrupción.  La principal beneficiaria de esta red de transferencias no fue la matriz estadounidense,  asesinó a la subcontratista Astrobixa, una empresa que embolsó 15 millones de dólares  y que fueron posteriormente repartidos estratégicamente en varias entidades jurídicas y naturales.  Hay algo que toca recalcar, colegas legisladores,  y es que Astrobixa y de esta red de intermediarios no solo existía un esquema de enriquecimiento ilícito,  sino también existía una estructura criminal diseñada para financiar una campaña sistemática  de ataques y de difamación contra el gobierno nacional,  buscando implementar un relato falso en la opinión pública.  Colegas legisladores, nuestro deber es fiscalizar y lo estamos haciendo responsablemente en este Pleno.  Por lo tanto, esta bancada, la bancada de ADN, busca transparentar esta información.  Que el Pleno y el país entero vean con claridad meridiana  quiénes son los intermediarios corruptos que juzgaron con la crisis energética del país  y quiénes son hoy los que están llevando ante la justicia internacional.  Hay que recalcar, este gobierno, el gobierno del presidente Daniel Novoa,  no pacta con las mafias, las expone, las persigue y las condena.  Muchísimas gracias.  Gracias, asambleísta.  Gracias.",
+  "language": "es",
+  "duration": 176.82,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 176.97,
+      "text": "Gracias, señor presidente. Es muy importante tratar este tema en el pleno de la Asamblea Nacional.  Justamente defender que como bancada estamos defendiendo la postura de que sí,  debemos cuidar los recursos de los ecuatorianos y debemos seguir y fiscalizar  a aquellos responsables de semejante desfalco en un tiempo de crisis  como lo era la crisis energética en aquel tiempo.  Hay que reconocer el arduo trabajo que ha realizado el gobierno nacional.  El secretario de Integridad Pública, José Julio Neria, en conjunto con la UAFE,  se ha pronunciado y ha identificado a aquellos responsables, ahora sí,  con nombres incluidos de aquel desfalco.  Y hablemos con los hechos técnicos y financieros que arrojan las investigaciones  y no con la retórica vacía que algunos sectores intentan posicionar.  Gracias a esa cooperación internacional que tiene el Ecuador con los Estados Unidos  y con la ley antimafia rico, hoy se ha podido identificar la ruta del dinero  que ha perjudicado al Estado.  Estos fondos fueron inmediatamente dispersados hacia 29 personas jurídicas.  Y aquí radica el corazón de esta trama de corrupción.  La principal beneficiaria de esta red de transferencias no fue la matriz estadounidense,  asesinó a la subcontratista Astrobixa, una empresa que embolsó 15 millones de dólares  y que fueron posteriormente repartidos estratégicamente en varias entidades jurídicas y naturales.  Hay algo que toca recalcar, colegas legisladores,  y es que Astrobixa y de esta red de intermediarios no solo existía un esquema de enriquecimiento ilícito,  sino también existía una estructura criminal diseñada para financiar una campaña sistemática  de ataques y de difamación contra el gobierno nacional,  buscando implementar un relato falso en la opinión pública.  Colegas legisladores, nuestro deber es fiscalizar y lo estamos haciendo responsablemente en este Pleno.  Por lo tanto, esta bancada, la bancada de ADN, busca transparentar esta información.  Que el Pleno y el país entero vean con claridad meridiana  quiénes son los intermediarios corruptos que juzgaron con la crisis energética del país  y quiénes son hoy los que están llevando ante la justicia internacional.  Hay que recalcar, este gobierno, el gobierno del presidente Daniel Novoa,  no pacta con las mafias, las expone, las persigue y las condena.  Muchísimas gracias.  Gracias, asambleísta.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Christopher Manuel Jaramillo Gómez",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "P8kOsMevhsA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Christopher Jaramillo - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=P8kOsMevhsA",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "P8kOsMevhsA",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=P8kOsMevhsA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 176.94,
+      "interventions": 1,
+      "word_count": 361
+    }
+  ]
+}

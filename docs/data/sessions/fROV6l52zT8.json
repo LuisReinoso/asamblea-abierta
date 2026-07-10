@@ -1,0 +1,50 @@
+{
+  "text": "Gracias, señor presidente.  Escuché a un legislador que mencionaba que la cuenta no se puede pasar de un ministerio a otro o algo así.  Todas las cuentas están en una misma cuenta, que es las arcas del Estado.  Y ahí es donde llega toda la plata cuando no ejecutan el presupuesto de cada una de las instituciones  y solamente utilizan para pagar sueldos y no para hacer obra pública.  Esas son las nuevas políticas de este gobierno.  Empobrecer al Estado ecuatoriano, debilitarle al Estado ecuatoriano.  Y quieren encontrar la ruta del dinero. Les digo dónde está la ruta del dinero.  ¿Quién conforma el directorio de las empresas públicas?  El presidente de la República, de acuerdo al decreto 503.  El ministro del ramo y el de planificación.  Las tres personas conforman el directorio de las empresas públicas.  ¿Y ustedes creen que ellos no sabían en dónde se va a invertir el dinero de las empresas públicas?  ¿Por qué no comenzamos a investigar ahí?  ¿Por qué no comenzamos a hacer un proceso de fiscalización ahí en ese directorio?  No les escucho hasta este momento hablar sobre llevar a cabo un proceso de fiscalización  con los responsables de tomar decisiones políticas, que son los ministerios.  Las cabezas de esos ministerios.  Ahí está la ruta del dinero, si quieren descubrir la ruta del dinero.  Lo que estamos haciendo en este momento es atribuirnos funciones de la Fiscalía General del Estado  y pretendiendo tapar todos estos casos posibles de corrupción que se están dando en todas estas empresas públicas.  Compañeros, ¿quieren hacer un verdadero proceso de fiscalización?  Comiencen ahí, llevando a cabo el proceso de fiscalización en quien conforma el directorio de las empresas públicas.  El presidente de la República, el Ministerio del Ramo y el representante de Planificación.  Ahí está la ruta del dinero hasta el país.  Y lo demás, déjele a Fiscalía que haga la investigación.  Nosotros nos llevamos a cabo investigaciones penales, pero sí responsabilidades políticas.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 138.0,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.67,
+      "end": 137.54,
+      "text": "Gracias, señor presidente.  Escuché a un legislador que mencionaba que la cuenta no se puede pasar de un ministerio a otro o algo así.  Todas las cuentas están en una misma cuenta, que es las arcas del Estado.  Y ahí es donde llega toda la plata cuando no ejecutan el presupuesto de cada una de las instituciones  y solamente utilizan para pagar sueldos y no para hacer obra pública.  Esas son las nuevas políticas de este gobierno.  Empobrecer al Estado ecuatoriano, debilitarle al Estado ecuatoriano.  Y quieren encontrar la ruta del dinero. Les digo dónde está la ruta del dinero.  ¿Quién conforma el directorio de las empresas públicas?  El presidente de la República, de acuerdo al decreto 503.  El ministro del ramo y el de planificación.  Las tres personas conforman el directorio de las empresas públicas.  ¿Y ustedes creen que ellos no sabían en dónde se va a invertir el dinero de las empresas públicas?  ¿Por qué no comenzamos a investigar ahí?  ¿Por qué no comenzamos a hacer un proceso de fiscalización ahí en ese directorio?  No les escucho hasta este momento hablar sobre llevar a cabo un proceso de fiscalización  con los responsables de tomar decisiones políticas, que son los ministerios.  Las cabezas de esos ministerios.  Ahí está la ruta del dinero, si quieren descubrir la ruta del dinero.  Lo que estamos haciendo en este momento es atribuirnos funciones de la Fiscalía General del Estado  y pretendiendo tapar todos estos casos posibles de corrupción que se están dando en todas estas empresas públicas.  Compañeros, ¿quieren hacer un verdadero proceso de fiscalización?  Comiencen ahí, llevando a cabo el proceso de fiscalización en quien conforma el directorio de las empresas públicas.  El presidente de la República, el Ministerio del Ramo y el representante de Planificación.  Ahí está la ruta del dinero hasta el país.  Y lo demás, déjele a Fiscalía que haga la investigación.  Nosotros nos llevamos a cabo investigaciones penales, pero sí responsabilidades políticas.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "fROV6l52zT8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Mireya Pazmiño - Sesión 103 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=fROV6l52zT8",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "fROV6l52zT8",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=fROV6l52zT8",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 136.87,
+      "interventions": 1,
+      "word_count": 328
+    }
+  ]
+}

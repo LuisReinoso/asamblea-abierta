@@ -1,0 +1,52 @@
+{
+  "text": "Muy buenas tardes, señor presidente, colegas asambleístas.  El día de hoy discutimos un tema que quisieron ponerle en la palestra política desde hace mucho tiempo.  Sin embargo, hoy responsablemente, después de hechos comprobados a través de una cooperación internacional realizada de manera eficaz, se lo puede hacer.  Y sí, nosotros sí tenemos la decencia y tenemos la capacidad de estar con la frente en alto,  mirarle de frente a los ecuatorianos y decir, ecuatorianos, estamos cumpliendo.  Porque sí, nosotros no encubrimos casos como sobornos, caso Odebrecht, reconstrucción de Manaví, refinería del Pacífico.  Los que encubrieron esos casos, esos sí no tienen la cara de verles a los ojos a los ecuatorianos.  Nosotros estamos de frente.  Y de acuerdo a la normativa ecuatoriana, cada uno de los asambleístas tenemos la función de legislar  y de fiscalizar.  No vengamos a decir que solo mediante un juicio político, que solo mediante una comisión podemos hacer nuestras funciones.  Cada uno de nosotros está en la capacidad de legislar, fiscalizar y responder a los ecuatorianos.  Porque para eso estamos aquí.  No para dormir, no para venir a estar afuera tomándose cafés.  Para eso los ecuatorianos nos están pagando, para que estemos acá sentados trabajando.  Y hoy los hechos lo comprueban.  Gracias a la cooperación internacional y a la ruta del dinero que se ha establecido,  y gracias al presidente Daniel Novoa y a su gobierno, se lo puede decir.  Más de 700 transferencias que estafaron al pueblo ecuatoriano en un momento de crisis.  En un momento que los ecuatorianos necesitábamos energía para poder trabajar,  para poder ir a nuestras instituciones, para poder llevar el sustento a sus familias,  fuimos estafados.  Y por eso el día de hoy en esta asamblea responsablemente demostramos que estamos haciendo nuestro trabajo  y que vamos a garantizar que cada una de las personas que obtuvieron ese dinero de manera ilegal,  estafando a los ecuatorianos, van a caer.  Y sí, que caiga el que tenga que caer y que responda el que tenga que responder.  Porque aquí no hay encubrimiento, pero tampoco hay una persecución sin sustento como ustedes lo quisieron implantar.  Nosotros respaldamos la investigación, respaldamos la transparencia  y respaldamos que este proceso llegue hasta el final.  Porque sí, les miramos de frente a los ecuatorianos y les decimos que estamos aquí para trabajar y para fiscalizar.  Muchas gracias.",
+  "language": "es",
+  "duration": 152.23,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.79,
+      "end": 150.61,
+      "text": "Muy buenas tardes, señor presidente, colegas asambleístas.  El día de hoy discutimos un tema que quisieron ponerle en la palestra política desde hace mucho tiempo.  Sin embargo, hoy responsablemente, después de hechos comprobados a través de una cooperación internacional realizada de manera eficaz, se lo puede hacer.  Y sí, nosotros sí tenemos la decencia y tenemos la capacidad de estar con la frente en alto,  mirarle de frente a los ecuatorianos y decir, ecuatorianos, estamos cumpliendo.  Porque sí, nosotros no encubrimos casos como sobornos, caso Odebrecht, reconstrucción de Manaví, refinería del Pacífico.  Los que encubrieron esos casos, esos sí no tienen la cara de verles a los ojos a los ecuatorianos.  Nosotros estamos de frente.  Y de acuerdo a la normativa ecuatoriana, cada uno de los asambleístas tenemos la función de legislar  y de fiscalizar.  No vengamos a decir que solo mediante un juicio político, que solo mediante una comisión podemos hacer nuestras funciones.  Cada uno de nosotros está en la capacidad de legislar, fiscalizar y responder a los ecuatorianos.  Porque para eso estamos aquí.  No para dormir, no para venir a estar afuera tomándose cafés.  Para eso los ecuatorianos nos están pagando, para que estemos acá sentados trabajando.  Y hoy los hechos lo comprueban.  Gracias a la cooperación internacional y a la ruta del dinero que se ha establecido,  y gracias al presidente Daniel Novoa y a su gobierno, se lo puede decir.  Más de 700 transferencias que estafaron al pueblo ecuatoriano en un momento de crisis.  En un momento que los ecuatorianos necesitábamos energía para poder trabajar,  para poder ir a nuestras instituciones, para poder llevar el sustento a sus familias,  fuimos estafados.  Y por eso el día de hoy en esta asamblea responsablemente demostramos que estamos haciendo nuestro trabajo  y que vamos a garantizar que cada una de las personas que obtuvieron ese dinero de manera ilegal,  estafando a los ecuatorianos, van a caer.  Y sí, que caiga el que tenga que caer y que responda el que tenga que responder.  Porque aquí no hay encubrimiento, pero tampoco hay una persecución sin sustento como ustedes lo quisieron implantar.  Nosotros respaldamos la investigación, respaldamos la transparencia  y respaldamos que este proceso llegue hasta el final.  Porque sí, les miramos de frente a los ecuatorianos y les decimos que estamos aquí para trabajar y para fiscalizar.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Paula Villacreses Herrera",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "nE_PPZhk2mM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "María Paula Villacreses Herrera",
+      "confidence": 1.0,
+      "votes": {
+        "María Paula Villacreses Herrera": 3
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta María Paula Villacreses - Sesión 103",
+  "url": "https://www.youtube.com/watch?v=nE_PPZhk2mM",
+  "published_at": "2026-06-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "nE_PPZhk2mM",
+  "date": "2026-06-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=nE_PPZhk2mM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María Paula Villacreses Herrera",
+      "party": null,
+      "province": null,
+      "total_time": 146.82,
+      "interventions": 1,
+      "word_count": 389
+    }
+  ]
+}
