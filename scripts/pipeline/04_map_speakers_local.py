@@ -58,6 +58,14 @@ def get_video_duration(video_path: Path) -> float:
 # ---------------------------------------------------------------------------
 # Speakers DB + fuzzy matching
 # ---------------------------------------------------------------------------
+# Spanish function words that show up constantly as OCR fragments of overlay
+# banners ("... DE LA ...", "Y OCEANÍA") but are never distinguishing on
+# their own — must not count as a "surname" for tail-overlap matching.
+SPANISH_STOPWORDS = {
+    "de", "la", "el", "los", "las", "y", "del", "en", "por", "para",
+}
+
+
 def normalize_name(name: str) -> str:
     """Strip accents, lowercase, collapse whitespace, drop punctuation."""
     nfkd = unicodedata.normalize("NFKD", name)
@@ -107,14 +115,22 @@ def match_name(candidate: str, lookup: dict[str, dict], threshold: float = 0.80)
             best_name = speaker["name"]
 
     # Surname-token overlap: if last 1-2 words of the candidate match last 1-2
-    # of any DB entry, boost. Handles partial OCR reads.
+    # of any DB entry, boost. Handles partial OCR reads — but ONLY when both
+    # tail words are substantial (>=3 chars, not a bare function word like
+    # "de"/"la"). Without this guard, a fragment like "DE LA" false-matched
+    # any roster entry ending in "... de la" (e.g. "Torre de la Torre
+    # Fernando de la") with 0.95 confidence — found 2026-07-10 on a full
+    # session where that exact fragment got assigned to 7 different
+    # speakers.
     cand_words = norm.split()
     if len(cand_words) >= 2:
-        cand_tail = " ".join(cand_words[-2:])
-        for key, speaker in lookup.items():
-            key_words = key.split()
-            if len(key_words) >= 2 and " ".join(key_words[-2:]) == cand_tail:
-                return speaker["name"], max(best_score, 0.95)
+        cand_tail_words = cand_words[-2:]
+        if all(len(w) >= 3 and w not in SPANISH_STOPWORDS for w in cand_tail_words):
+            cand_tail = " ".join(cand_tail_words)
+            for key, speaker in lookup.items():
+                key_words = key.split()
+                if len(key_words) >= 2 and " ".join(key_words[-2:]) == cand_tail:
+                    return speaker["name"], max(best_score, 0.95)
 
     if best_score >= threshold:
         return best_name, best_score
@@ -237,9 +253,19 @@ class OverlayReader:
 NON_NAME_PHRASES = {
     "en pleno", "en vivo", "pleno", "comision general", "comisión general",
     "asamblea nacional", "asamblea nacional del ecuador", "del cisne",
+    "samblea nacional", "isamblea nacional", "amblea naciona",
 }
 NON_NAME_PREFIXES = (
     "asambleísta por", "asambleista por", "asambleísta nacional", "asambleista nacional",
+    # OCR often only catches the province half of "Asambleísta Por <X>" —
+    # no real Spanish name starts with "por", safe to blanket-reject.
+    "por ",
+    # Recurring full-session broadcast chrome (title card, social handle
+    # lower-third) that isn't tied to any one speaker — found 2026-07-10 on
+    # a 2h+ plenary recording, attributed to 5 different diarization
+    # clusters because it's on-screen for large stretches regardless of
+    # who's talking.
+    "continuacion de la", "continuación de la", "asambleanacional",
 )
 
 
@@ -252,8 +278,19 @@ def looks_like_person_name(text: str) -> bool:
         return False
     if any(ch.isdigit() for ch in t):
         return False
+    # A bare "-" (with or without surrounding space) means this is a
+    # fragment of a "Name - Provincia - Partido" banner where only the
+    # province/party half got read cleanly (e.g. "- RC", "Cotopaxi -",
+    # "Nacional - Rc") — not a name. Found 2026-07-10 on a full session
+    # where several of these got accepted as OOV "speaker" proposals.
+    if re.search(r"(^|\s)-(\s|$)", t):
+        return False
     words = [w for w in re.split(r"\s+", t) if w]
     if len(words) < 2:
+        return False
+    # Real Spanish names are essentially never two bare 1-2 letter tokens
+    # ("DE LA", "Y A") — that's a mid-sentence fragment, not a name.
+    if all(len(w) <= 2 for w in words):
         return False
     upper_words = sum(1 for w in words if w.isupper())
     if upper_words == len(words) and len(t) > 25:
@@ -261,6 +298,10 @@ def looks_like_person_name(text: str) -> bool:
         return False
     norm = normalize_name(t)
     if norm in NON_NAME_PHRASES or norm.startswith(NON_NAME_PREFIXES):
+        return False
+    # Fragment is mostly Spanish function words ("de la", "y del") — reject.
+    norm_words = norm.split()
+    if norm_words and all(w in SPANISH_STOPWORDS for w in norm_words):
         return False
     return True
 
@@ -346,6 +387,7 @@ def build_speaker_mapping(
     confidence_threshold: float = 0.60,
     oov_min_reads: int = 2,
     oov_min_ocr_score: float = 0.95,
+    max_frames_per_speaker: int = 25,
 ) -> tuple[dict[str, dict], dict[str, dict]]:
     """Build speaker→name mapping plus a list of OOV name candidates.
 
@@ -363,7 +405,10 @@ def build_speaker_mapping(
 
     for spk_id in speaker_ids:
         print(f"\nSpeaker {spk_id}")
-        timestamps = sample_timestamps_for_speaker(segments, spk_id, samples_per_speaker, duration)
+        timestamps = sample_timestamps_for_speaker(
+            segments, spk_id, samples_per_speaker, duration,
+            max_total_frames=max_frames_per_speaker,
+        )
         print(f"  sampling {len(timestamps)} frames")
 
         # Each detection from each frame: (ts, raw_text, score, matched_canonical, similarity)
@@ -528,11 +573,23 @@ def main():
     lookup = build_name_lookup(speakers_db)
     print(f"Speakers DB: {len(speakers_db)} known asambleístas, {len(lookup)} lookup keys")
 
+    # Scale the per-speaker OCR frame budget by how many distinct speakers
+    # are in this video. A short clip with 1-3 speakers can afford up to 25
+    # dense frames each; a full plenary session with 20-80 speakers cannot
+    # (found the hard way 2026-07-10: 23 speakers x 25 frames took ~90min of
+    # CPU-bound OCR alone). Total budget is shared across speakers, clamped
+    # to a sane per-speaker floor/ceiling.
+    n_speakers = len({s["speaker_id"] for s in segments if s.get("speaker_id")}) or 1
+    total_frame_budget = 150
+    max_frames_per_speaker = max(5, min(25, total_frame_budget // n_speakers))
+    print(f"{n_speakers} distinct speakers → up to {max_frames_per_speaker} OCR frames each")
+
     frames_dir = PROJECT_ROOT / "temp" / "frames" / args.video_id
     mapping, oov_proposals = build_speaker_mapping(
         video_path, segments, reader, lookup, frames_dir,
         samples_per_speaker=args.samples,
         confidence_threshold=args.threshold,
+        max_frames_per_speaker=max_frames_per_speaker,
     )
     apply_title_fallback(mapping, segments, args.title, lookup)
 
