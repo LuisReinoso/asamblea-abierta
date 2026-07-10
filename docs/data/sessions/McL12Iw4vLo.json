@@ -1,0 +1,51 @@
+{
+  "text": "Andrés Castillo. Hay un viejo  adagio, presidente, que dice  que en boca de mentiroso lo cierto  se hace dudoso. Y si la  misma bancada que aquí se desgañita  hablan dos o tres  para cumplir el zafo, como se dice en el  40, en la comisión  votaron en contra, ¿cómo se les cree?  Yo no entiendo.  Es decir, ya les dejaron solos a los que  están en la comisión de justicia.  Ya les dejaron solos. Ya les desautorizaron.  Segundo,  ¿se acordarán ustedes  del caso FIFA Gate? ¿Se acuerdan o es  muy alto? No sé si es que se  acuerdan. Les voy a hacer acuerdo.  El caso FIFA Gate  estuvieron involucrados un sinnúmero  de presidentes de las federaciones de  fútbol de  la Comebol.  ¿Por qué fueron a los Estados Unidos  muchos de ellos presos? ¿Por qué se  pedía la extradición?  Porque existen reglas claras que cuando  existen delitos que tienen que ver  con otros países, aun cuando no hayan  sido cometidos en el territorio nacional,  si surten efectos dentro  de ese país, por supuesto que se los  tiene que extraditar. ¿O será que el señor  Fito estaba traficando droga desde  Nueva York?  ¿O será que el señor Fito  estaba lavando activos desde  Washington? No, pues estaba ahí  escondido. Inclusive estaba en la  cárcel. Pero los efectos son para  allá. Entonces ahí yo les invito a leer  un poco más. Porque cuando  no se lee la ignorancia prohibida.  Y además,  yo me alegro. ¡Qué bueno! Y con esto  concluyo. Me alegro que  se vaya a exigir  que a todos los delincuentes se los  extradite. Me alegro. ¡Qué bueno!  Al fin coincidimos. Dejaron de mandarles  besos volados a la mafia. ¡Qué bueno que  ustedes también quieran que se vayan todos!  Así lo vamos a hacer. Pero así mismo  espero que con la misma energía nos  exijan que nos traigamos un fulano  que está por allá, por Bélgica. Le devuelvo la  palabra, señor presidente.  Gracias.",
+  "language": "es",
+  "duration": 124.64,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 122.69,
+      "text": "Andrés Castillo. Hay un viejo  adagio, presidente, que dice  que en boca de mentiroso lo cierto  se hace dudoso. Y si la  misma bancada que aquí se desgañita  hablan dos o tres  para cumplir el zafo, como se dice en el  40, en la comisión  votaron en contra, ¿cómo se les cree?  Yo no entiendo.  Es decir, ya les dejaron solos a los que  están en la comisión de justicia.  Ya les dejaron solos. Ya les desautorizaron.  Segundo,  ¿se acordarán ustedes  del caso FIFA Gate? ¿Se acuerdan o es  muy alto? No sé si es que se  acuerdan. Les voy a hacer acuerdo.  El caso FIFA Gate  estuvieron involucrados un sinnúmero  de presidentes de las federaciones de  fútbol de  la Comebol.  ¿Por qué fueron a los Estados Unidos  muchos de ellos presos? ¿Por qué se  pedía la extradición?  Porque existen reglas claras que cuando  existen delitos que tienen que ver  con otros países, aun cuando no hayan  sido cometidos en el territorio nacional,  si surten efectos dentro  de ese país, por supuesto que se los  tiene que extraditar. ¿O será que el señor  Fito estaba traficando droga desde  Nueva York?  ¿O será que el señor Fito  estaba lavando activos desde  Washington? No, pues estaba ahí  escondido. Inclusive estaba en la  cárcel. Pero los efectos son para  allá. Entonces ahí yo les invito a leer  un poco más. Porque cuando  no se lee la ignorancia prohibida.  Y además,  yo me alegro. ¡Qué bueno! Y con esto  concluyo. Me alegro que  se vaya a exigir  que a todos los delincuentes se los  extradite. Me alegro. ¡Qué bueno!  Al fin coincidimos. Dejaron de mandarles  besos volados a la mafia. ¡Qué bueno que  ustedes también quieran que se vayan todos!  Así lo vamos a hacer. Pero así mismo  espero que con la misma energía nos  exijan que nos traigamos un fulano  que está por allá, por Bélgica. Le devuelvo la  palabra, señor presidente.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.8968,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "McL12Iw4vLo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Andrés Castillo - Sesión 106 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=McL12Iw4vLo",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "McL12Iw4vLo",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=McL12Iw4vLo",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 122.66,
+      "interventions": 1,
+      "word_count": 320
+    }
+  ]
+}

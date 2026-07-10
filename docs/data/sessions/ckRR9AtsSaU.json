@@ -1,0 +1,50 @@
+{
+  "text": "Gracias, señor Presidente. Buenos días a todos los colegas legisladores,  a todo el pueblo ecuatoriano que nos mira a través de los diferentes medios de comunicación.  De acuerdo a lo establecido en la reconstitución y la ley,  he presentado una resolución vía DTS para que sea sometida a votación por este pleno,  por lo que emociono, aprobar la resolución que designa a Inés María Mogrovejo Ceballos  como la nueva delegada de la función legislativa para integrar la comisión ciudadana de selección encargada  para llevar a cabo el concurso público de méritos y exposición para la designación de la primera autoridad  de la Fiscalía General del Estado, respetando el principio de equidad de género correspondiente a una delegada mujer.  En el cumplimiento de lo solicitado en los artículos 2 y 3 de la resolución 198 del Consejo de Participación  Sudán y Control Social. Dicha moción fue presentada, señor Presidente, para que tome votación  cuando usted quiera pertinente. Muchas gracias.",
+  "language": "es",
+  "duration": 63.02,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.5,
+      "end": 60.98,
+      "text": "Gracias, señor Presidente. Buenos días a todos los colegas legisladores,  a todo el pueblo ecuatoriano que nos mira a través de los diferentes medios de comunicación.  De acuerdo a lo establecido en la reconstitución y la ley,  he presentado una resolución vía DTS para que sea sometida a votación por este pleno,  por lo que emociono, aprobar la resolución que designa a Inés María Mogrovejo Ceballos  como la nueva delegada de la función legislativa para integrar la comisión ciudadana de selección encargada  para llevar a cabo el concurso público de méritos y exposición para la designación de la primera autoridad  de la Fiscalía General del Estado, respetando el principio de equidad de género correspondiente a una delegada mujer.  En el cumplimiento de lo solicitado en los artículos 2 y 3 de la resolución 198 del Consejo de Participación  Sudán y Control Social. Dicha moción fue presentada, señor Presidente, para que tome votación  cuando usted quiera pertinente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "ckRR9AtsSaU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Alex Morán - Sesión 106",
+  "url": "https://www.youtube.com/watch?v=ckRR9AtsSaU",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ckRR9AtsSaU",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ckRR9AtsSaU",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 58.48,
+      "interventions": 1,
+      "word_count": 158
+    }
+  ]
+}

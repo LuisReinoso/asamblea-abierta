@@ -1,63 +1,2516 @@
 {
-  "last_updated": "2026-05-13T07:00:00",
-  "source": "Extracted from session transcripts",
-  "total_count": 18,
   "asambleistas": [
     {
-      "id": "AN-ADRIÁN-CASTRO",
-      "name": "Adrián Castro",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-ANA-BELÉN",
-      "name": "Ana Belén",
-      "party": "Unknown",
-      "province": "Unknown",
+      "id": "AN-ANNABELLA-EMMA-AZIN-ARCE",
+      "name": "Annabella Emma Azín Arce",
+      "party": "ADN",
+      "province": "Nacional",
       "role": "Asambleísta",
       "committee": "Unknown",
       "alternate_names": [
-        "Ana Belén Tapia"
+        "Annabella Azín",
+        "Annabella Azín Arce",
+        "Annabella Emma",
+        "Annabella Emma Azín",
+        "Azín Arce Annabella Emma"
       ],
       "type": "asambleísta"
     },
     {
-      "id": "AN-ANDRÉS-CASTILLO",
-      "name": "Andrés Castillo",
-      "party": "Unknown",
-      "province": "Unknown",
+      "id": "AN-NIELS-ANTHONEZ-OLSEN-PEET",
+      "name": "Niels Anthonez Olsen Peet",
+      "party": "ADN",
+      "province": "Nacional",
       "role": "Asambleísta",
       "committee": "Unknown",
-      "alternate_names": [],
+      "alternate_names": [
+        "Niels Anthonez",
+        "Niels Anthonez Olsen",
+        "Niels Olsen",
+        "Niels Olsen Peet",
+        "Nils Olsen",
+        "Olsen Peet Niels Anthonez"
+      ],
       "type": "asambleísta"
     },
     {
-      "id": "AN-FELIPE-RODRÍGUEZ",
+      "id": "AN-ARIANNA-STEPHANY-BURGOS-CARRERA",
+      "name": "Arianna Stephany Burgos Carrera",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Arianna Burgos",
+        "Arianna Burgos Carrera",
+        "Arianna Stephany",
+        "Arianna Stephany Burgos",
+        "Burgos Carrera Arianna Stephany"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
+      "name": "Diana Angélica Jácome Silva",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Diana Angélica",
+        "Diana Angélica Jácome",
+        "Diana Jácome",
+        "Diana Jácome Silva",
+        "Jácome Silva Diana Angélica"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LUIS-ESTEBAN-TORRES-COBO",
+      "name": "Luis Esteban Torres Cobo",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Luis Esteban",
+        "Luis Esteban Torres",
+        "Luis Torres",
+        "Luis Torres Cobo",
+        "Torres Cobo Luis Esteban"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SADE-RASHEL-FRITSCHI-NARANJO",
+      "name": "Sade Rashel Fritschi Naranjo",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Fritschi Naranjo Sade Rashel",
+        "Sade Fritschi",
+        "Sade Fritschi Naranjo",
+        "Sade Rashel",
+        "Sade Rashel Fritschi"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Juan José",
+        "Juan José Reyes",
+        "Juan Reyes",
+        "Juan Reyes Baquerizo",
+        "Reyes Baquerizo Juan José"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DIANA-PATRICIA-BLACIO-CARRION",
+      "name": "Diana Patricia Blacio Carrión",
+      "party": "ADN",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Blacio Carrión Diana Patricia",
+        "Diana Blacio",
+        "Diana Blacio Carrión",
+        "Diana Patricia",
+        "Diana Patricia Blacio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DEL-ARCO-RAUL-ARTURO-CHAVEZ-NUNEZ",
+      "name": "del Arco Raúl Arturo Chávez Núñez",
+      "party": "RETO",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Chávez Núñez del Arco Raúl Arturo",
+        "del Arco Raúl Arturo",
+        "del Arco Raúl Arturo Chávez",
+        "del Chávez",
+        "del Chávez Núñez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
+      "name": "Janeth Paola Cabezas Castillo",
+      "party": "RC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cabezas Castillo Janeth Paola",
+        "Janeth Cabezas",
+        "Janeth Cabezas Castillo",
+        "Janeth Paola",
+        "Janeth Paola Cabezas"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "party": "RC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Julio Lasso",
+        "Julio Lasso Mendoza",
+        "Julio Vicente Patricio Xavier",
+        "Julio Vicente Patricio Xavier Lasso",
+        "Lasso Mendoza Julio Vicente Patricio Xavier",
+        "Xavier Lasso"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NELLY-PRISCILA-SCHETTINI-CASTILLO",
+      "name": "Nelly Priscila Schettini Castillo",
+      "party": "RC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Nelly Priscila",
+        "Nelly Priscila Schettini",
+        "Nelly Schettini",
+        "Nelly Schettini Castillo",
+        "Schettini Castillo Nelly Priscila"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOSEPH-SANTIAGO-DIAZ-ASQUE",
+      "name": "Joseph Santiago Díaz Asque",
+      "party": "Ind.",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Díaz Asque Joseph Santiago",
+        "Joseph Díaz",
+        "Joseph Díaz Asque",
+        "Joseph Santiago",
+        "Joseph Santiago Díaz"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANNIE-CHRISTINA-MUNOZ-AROCA",
+      "name": "Annie Christina Muñoz Aroca",
+      "party": "Ind.",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Annie Christina",
+        "Annie Christina Muñoz",
+        "Annie Muñoz",
+        "Annie Muñoz Aroca",
+        "Muñoz Aroca Annie Christina"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
+      "name": "Franklin Omar Samaniego Maigua",
+      "party": "RC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Franklin Omar",
+        "Franklin Omar Samaniego",
+        "Franklin Samaniego",
+        "Franklin Samaniego Maigua",
+        "Samaniego Maigua Franklin Omar"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
+      "name": "Liliana Elizabeth Durán Aguilar",
+      "party": "RC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Durán Aguilar Liliana Elizabeth",
+        "Liliana Durán",
+        "Liliana Durán Aguilar",
+        "Liliana Elizabeth",
+        "Liliana Elizabeth Durán"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "party": "Ind.",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Peña Veloz Sergio Jesús",
+        "Sergio Jesús",
+        "Sergio Jesús Peña",
+        "Sergio Peña",
+        "Sergio Peña Veloz"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
+      "name": "Saadin Alfredo Serrano Valladares",
+      "party": "PSC",
+      "province": "Nacional",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Saadin Alfredo",
+        "Saadin Alfredo Serrano",
+        "Saadin Serrano",
+        "Saadin Serrano Valladares",
+        "Serrano Valladares Saadin Alfredo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
+      "name": "Jorge Enrique Chamba Cabanilla",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Chamba Cabanilla Jorge Enrique",
+        "Jorge Chamba",
+        "Jorge Chamba Cabanilla",
+        "Jorge Enrique",
+        "Jorge Enrique Chamba"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-PAOLA-MICHAEL-JARAMILLO-ZURITA",
+      "name": "Paola Michael Jaramillo Zurita",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jaramillo Zurita Paola Michael",
+        "Paola Jaramillo",
+        "Paola Jaramillo Zurita",
+        "Paola Michael",
+        "Paola Michael Jaramillo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
+      "name": "Isaac Vladimir Solano Calle",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Isaac Solano",
+        "Isaac Solano Calle",
+        "Isaac Vladimir",
+        "Isaac Vladimir Solano",
+        "Solano Calle Isaac Vladimir"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-RICARDO-ARMANDO-PATINO-AROCA",
+      "name": "Ricardo Armando Patiño Aroca",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Patiño Aroca Ricardo Armando",
+        "Ricardo Armando",
+        "Ricardo Armando Patiño",
+        "Ricardo Patiño",
+        "Ricardo Patiño Aroca"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANA-BELEN-YELA-DUARTE",
+      "name": "Ana Belén Yela Duarte",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ana Belén",
+        "Ana Belén Yela",
+        "Ana Yela",
+        "Ana Yela Duarte",
+        "Yela Duarte Ana Belén"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ROBERTO-EMILIO-CUERO-MEDINA",
+      "name": "Roberto Emilio Cuero Medina",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cuero Medina Roberto Emilio",
+        "Roberto Cuero",
+        "Roberto Cuero Medina",
+        "Roberto Emilio",
+        "Roberto Emilio Cuero"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-VICTORIA-TATIANA-DESINTONIO-MALAVE",
+      "name": "Victoria Tatiana Desintonio Malave",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Desintonio Malave Victoria Tatiana",
+        "Victoria Desintonio",
+        "Victoria Desintonio Malave",
+        "Victoria Tatiana",
+        "Victoria Tatiana Desintonio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JUAN-PABLO-MOLINA-SALDANA",
+      "name": "Juan Pablo Molina Saldaña",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Juan Molina",
+        "Juan Molina Saldaña",
+        "Juan Pablo",
+        "Juan Pablo Molina",
+        "Molina Saldaña Juan Pablo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
+      "name": "Milena Cristina Jácome Benítez",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jácome Benítez Milena Cristina",
+        "Milena Cristina",
+        "Milena Cristina Jácome",
+        "Milena Jácome",
+        "Milena Jácome Benítez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARCELO-ANDRES-GUSCHMER-TAMARIZ",
+      "name": "Marcelo Andrés Guschmer Tamariz",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Andrés Guschmer",
+        "Guschmer Tamariz Marcelo Andrés",
+        "Marcelo Andrés",
+        "Marcelo Andrés Guschmer",
+        "Marcelo Guschmer",
+        "Marcelo Guschmer Tamariz"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JANINA-JADIRA-RIZZO-ALVEAR",
+      "name": "Janina Jadira Rizzo Alvear",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Janina Jadira",
+        "Janina Jadira Rizzo",
+        "Janina Rizzo",
+        "Janina Rizzo Alvear",
+        "Rizzo Alvear Janina Jadira"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alex",
+        "Alex Moran",
+        "Moran Galarza Alex"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LUCIA-LIZBETH-JARAMILLO-ZURITA",
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jaramillo Zurita Lucía Lizbeth",
+        "Lucía Jaramillo",
+        "Lucía Jaramillo Zurita",
+        "Lucía Lizbeth",
+        "Lucía Lizbeth Jaramillo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FERDINAN-ARTURO-ALVAREZ-ZAMBRANO",
+      "name": "Ferdinan Arturo Álvarez Zambrano",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ferdinan Arturo",
+        "Ferdinan Arturo Álvarez",
+        "Ferdinan Álvarez",
+        "Ferdinan Álvarez Zambrano",
+        "Álvarez Zambrano Ferdinan Arturo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NAILA-VICTORIA-QUINTANA-TAPIA",
+      "name": "Naila Victoria Quintana Tapia",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Naila Quintana",
+        "Naila Quintana Tapia",
+        "Naila Victoria",
+        "Naila Victoria Quintana",
+        "Quintana Tapia Naila Victoria"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NURIA-SUSANA-BUTINA-MARTINEZ",
+      "name": "Nuria Susana Butiñá Martínez",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Butiñá Martínez Nuria Susana",
+        "Nuria Butiñá",
+        "Nuria Butiñá Martínez",
+        "Nuria Susana",
+        "Nuria Susana Butiñá"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alejandro Lorenzo",
+        "Alejandro Lorenzo Vanegas",
+        "Alejandro Vanegas",
+        "Alejandro Vanegas Cortazar",
+        "Vanegas Cortazar Alejandro Lorenzo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
+      "name": "Sandra Elizabeth Figueroa Aguilar",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Figueroa Aguilar Sandra Elizabeth",
+        "Sandra Elizabeth",
+        "Sandra Elizabeth Figueroa",
+        "Sandra Figueroa",
+        "Sandra Figueroa Aguilar"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANA-MARIA-RAFFO-GUEVARA",
+      "name": "Ana María Raffo Guevara",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ana María",
+        "Ana María Raffo",
+        "Ana Raffo",
+        "Ana Raffo Guevara",
+        "Raffo Guevara Ana María"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FRICSON-VINICIO-GEORGE-TENORIO",
+      "name": "Fricson Vinicio George Tenorio",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Fricson George",
+        "Fricson George Tenorio",
+        "Fricson Vinicio",
+        "Fricson Vinicio George",
+        "George Tenorio Fricson Vinicio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOSEFINA-GERMANIA-ROMERO-PONGUILLO",
+      "name": "Josefina Germania Romero Ponguillo",
+      "party": "RC",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Josefina Germania",
+        "Josefina Germania Romero",
+        "Josefina Romero",
+        "Josefina Romero Ponguillo",
+        "Romero Ponguillo Josefina Germania"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CARLOS-ENRIQUE-VARGAS-QUIJANO",
+      "name": "Carlos Enrique Vargas Quijano",
+      "party": "Ind.",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Carlos Enrique",
+        "Carlos Enrique Vargas",
+        "Carlos Vargas",
+        "Carlos Vargas Quijano",
+        "Vargas Quijano Carlos Enrique"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FRANCISCO-ANDRES-CEVALLOS-MACIAS",
+      "name": "Francisco Andrés Cevallos Macías",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cevallos Macías Francisco Andrés",
+        "Francisco Andrés",
+        "Francisco Andrés Cevallos",
+        "Francisco Cevallos",
+        "Francisco Cevallos Macías"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARJORIE-LORENA-ROSADO-SANCHEZ",
+      "name": "Marjorie Lorena Rosado Sánchez",
+      "party": "ADN",
+      "province": "Guayas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Marjorie Lorena",
+        "Marjorie Lorena Rosado",
+        "Marjorie Rosado",
+        "Marjorie Rosado Sánchez",
+        "Rosado Sánchez Marjorie Lorena"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GUIDO-ANDRES-MENDOZA-ANDRADE",
+      "name": "Guido Andrés Mendoza Andrade",
+      "party": "RC",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Guido Andrés",
+        "Guido Andrés Mendoza",
+        "Guido Mendoza",
+        "Guido Mendoza Andrade",
+        "Mendoza Andrade Guido Andrés"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-BERTHA-BETSABE-VELEZ-VELEZ",
+      "name": "Bertha Betsabe Vélez Vélez",
+      "party": "RC",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Bertha Betsabe",
+        "Bertha Betsabe Vélez",
+        "Bertha Vélez",
+        "Bertha Vélez Vélez",
+        "Vélez Vélez Bertha Betsabe"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LENIN-DANIEL-BARRETO-ZAMBRANO",
+      "name": "Lenin Daniel Barreto Zambrano",
+      "party": "RC",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Barreto Zambrano Lenin Daniel",
+        "Lenin Barreto",
+        "Lenin Barreto Zambrano",
+        "Lenin Daniel",
+        "Lenin Daniel Barreto"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-BESIBELL-MENDOZA-IBARRA",
+      "name": "María Besibell Mendoza Ibarra",
+      "party": "ADN",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "María Besibell",
+        "María Besibell Mendoza",
+        "María Mendoza",
+        "María Mendoza Ibarra",
+        "Mendoza Ibarra María Besibell"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
+      "name": "Mario Amado Zambrano Vera",
+      "party": "ADN",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mario Amado",
+        "Mario Amado Zambrano",
+        "Mario Godoy Naranjo",
+        "Mario Zambrano",
+        "Mario Zambrano Vera",
+        "Zambrano Vera Mario Amado"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FERNANDO-ENRIQUE-CEDENO-RIVADENEIRA",
+      "name": "Fernando Enrique Cedeño Rivadeneira",
+      "party": "RC",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cedeño Rivadeneira Fernando Enrique",
+        "Fernando Cedeño",
+        "Fernando Cedeño Rivadeneira",
+        "Fernando Enrique",
+        "Fernando Enrique Cedeño"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
+      "name": "María Gabriela Molina Menéndez",
+      "party": "RC",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "María Gabriela",
+        "María Gabriela Molina",
+        "María Molina",
+        "María Molina Menéndez",
+        "Molina Menéndez María Gabriela"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JAIME-DAVID-ESTRADA-MEDRANDA",
+      "name": "Jaime David Estrada Medranda",
+      "party": "Sí Podemos",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Estrada Medranda Jaime David",
+        "Jaime David",
+        "Jaime David Estrada",
+        "Jaime Estrada",
+        "Jaime Estrada Medranda"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-VALENTINA-CENTENO-ARTEAGA",
+      "name": "Valentina Centeno Arteaga",
+      "party": "ADN",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Centeno Arteaga Valentina",
+        "Valentina",
+        "Valentina Centeno"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DIEGO-MARTIN-FRANCO-HANZE",
+      "name": "Diego Martín Franco Hanze",
+      "party": "ADN",
+      "province": "Manabí",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Diego Franco",
+        "Diego Franco Hanze",
+        "Diego Martín",
+        "Diego Martín Franco",
+        "Franco Hanze Diego Martín"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alarcón Bueno Inés Margarita",
+        "Inés Alarcón",
+        "Inés Alarcón Bueno",
+        "Inés Margarita",
+        "Inés Margarita Alarcón"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Andrés Castillo",
+        "Andrés Castillo Maldonado",
+        "Andrés Felipe",
+        "Andrés Felipe Castillo",
+        "Castillo Maldonado Andrés Felipe"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-DEL-CISNE-MOLINA-CORO",
+      "name": "María del Cisne Molina Coro",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "María Molina",
+        "María Molina Coro",
+        "María del Cisne",
+        "María del Cisne Molina",
+        "Molina Coro María del Cisne"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-HECTOR-EDUARDO-RODRIGUEZ-CHAVEZ",
+      "name": "Héctor Eduardo Rodríguez Chávez",
+      "party": "RC",
+      "province": "Pichincha Centro-Norte",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Héctor Eduardo",
+        "Héctor Eduardo Rodríguez",
+        "Héctor Rodríguez",
+        "Héctor Rodríguez Chávez",
+        "Rodríguez Chávez Héctor Eduardo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LEDY-ANDREA-ZUNIGA-ROCHA",
+      "name": "Ledy Andrea Zúñiga Rocha",
+      "party": "RC",
+      "province": "Pichincha Centro-Norte",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ledy Andrea",
+        "Ledy Andrea Zúñiga",
+        "Ledy Zúñiga",
+        "Ledy Zúñiga Rocha",
+        "Zúñiga Rocha Ledy Andrea"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ECKENNER-READER-RECALDE-ALAVA",
+      "name": "Eckenner Reader Recalde Álava",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Eckenner Reader",
+        "Eckenner Reader Recalde",
+        "Eckenner Recalde",
+        "Eckenner Recalde Álava",
+        "Recalde Álava Eckenner Reader"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LOURDES-NATALY-MORILLO-SOLORZANO",
+      "name": "Lourdes Nataly Morillo Solórzano",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Lourdes Morillo",
+        "Lourdes Morillo Solórzano",
+        "Lourdes Nataly",
+        "Lourdes Nataly Morillo",
+        "Morillo Solórzano Lourdes Nataly"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
+      "name": "Luigi Edu Garcia Velasquez",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Garcia Velasquez Luigi Edu",
+        "Luigi Edu",
+        "Luigi Edu Garcia",
+        "Luigi Garcia",
+        "Luigi Garcia Velasquez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DOMINIQUE-ELIAN-SERRANO-MOLINA",
+      "name": "Dominique Elian Serrano Molina",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Dominique Elian",
+        "Dominique Elian Serrano",
+        "Dominique Serrano",
+        "Dominique Serrano Molina",
+        "Serrano Molina Dominique Elian"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CHRISTIAN-ALBERTO-HERNANDEZ-YUNDA",
+      "name": "Christian Alberto Hernández Yunda",
+      "party": "RC",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Christian Alberto",
+        "Christian Alberto Hernández",
+        "Christian Hernández",
+        "Christian Hernández Yunda",
+        "Hernández Yunda Christian Alberto"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jhajaira Estefanía",
+        "Jhajaira Estefanía Urresta",
+        "Jhajaira Urresta",
+        "Jhajaira Urresta Guzmán",
+        "Urresta Guzmán Jhajaira Estefanía"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Farinango Delgado Nathaly Estefanía",
+        "Nathaly Estefanía",
+        "Nathaly Estefanía Farinango",
+        "Nathaly Farinango",
+        "Nathaly Farinango Delgado"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LUIS-FERNANDO-JACOME-MEJIA",
+      "name": "Luis Fernando Jácome Mejía",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jácome Mejía Luis Fernando",
+        "Luis Fernando",
+        "Luis Fernando Jácome",
+        "Luis Jácome",
+        "Luis Jácome Mejía"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ELIZABETH-JULIETTE-VEGA-SEGURA",
+      "name": "Elizabeth Juliette Vega Segura",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Elizabeth Juliette",
+        "Elizabeth Juliette Vega",
+        "Elizabeth Vega",
+        "Elizabeth Vega Segura",
+        "Vega Segura Elizabeth Juliette"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jahiren Elizabeth",
+        "Jahiren Elizabeth Noriega",
+        "Jahiren Noriega",
+        "Jahiren Noriega Donoso",
+        "Noriega Donoso Jahiren Elizabeth"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-PATRICIO-ALBERTO-CHAVEZ-ZAVALA",
+      "name": "Patricio Alberto Chávez Zavala",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Chávez Zavala Patricio Alberto",
+        "Patricio Alberto",
+        "Patricio Alberto Chávez",
+        "Patricio Chávez",
+        "Patricio Chávez Zavala"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MONICA-ROCIO-ALEMAN-MARMOL",
+      "name": "Mónica Rocío Alemán Mármol",
+      "party": "RC",
+      "province": "Pichincha Resto",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alemán Mármol Mónica Rocío",
+        "Mónica Alemán",
+        "Mónica Alemán Mármol",
+        "Mónica Rocío",
+        "Mónica Rocío Alemán"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LUIS-FERNANDO-MOLINA-ONOFA",
+      "name": "Luis Fernando Molina Onofa",
+      "party": "RC",
+      "province": "Pichincha Resto",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Luis Fernando",
+        "Luis Fernando Molina",
+        "Luis Molina",
+        "Luis Molina Onofa",
+        "Molina Onofa Luis Fernando"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-HERNAN-PATRICIO-ZAPATA-ROJAS",
+      "name": "Hernán Patricio Zapata Rojas",
+      "party": "ADN",
+      "province": "Pichincha Resto",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Hernán Patricio",
+        "Hernán Patricio Zapata",
+        "Hernán Zapata",
+        "Hernán Zapata Rojas",
+        "Zapata Rojas Hernán Patricio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DINA-MARIBEL-FARINANGO-QUILUMBAQUIN",
+      "name": "Dina Maribel Farinango Quilumbaquín",
+      "party": "MUPP",
+      "province": "Pichincha Resto",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Dina Farinango",
+        "Dina Farinango Quilumbaquín",
+        "Dina Maribel",
+        "Dina Maribel Farinango",
+        "Farinango Quilumbaquín Dina Maribel"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "party": "ADN",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Adrián Castro",
+        "Adrián Castro Piedra",
+        "Adrián Ernesto",
+        "Adrián Ernesto Castro",
+        "Castro Piedra Adrián Ernesto"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "party": "ADN",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Camila",
+        "Camila León",
+        "León Cueva Camila"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANTHONY-SEBASTIAN-BECERRA-CONTRERAS",
+      "name": "Anthony Sebastián Becerra Contreras",
+      "party": "ADN",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Anthony Becerra",
+        "Anthony Becerra Contreras",
+        "Anthony Sebastián",
+        "Anthony Sebastián Becerra",
+        "Becerra Contreras Anthony Sebastián"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ROQUE-MARTIN-ORDONEZ-QUEZADA",
+      "name": "Roque Martín Ordóñez Quezada",
+      "party": "RC",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ordóñez Quezada Roque Martín",
+        "Roque Martín",
+        "Roque Martín Ordóñez",
+        "Roque Ordóñez",
+        "Roque Ordóñez Quezada"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FERNANDA-MABEL-MENDEZ-ROJAS",
+      "name": "Fernanda Mabel Méndez Rojas",
+      "party": "RC",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Fernanda Mabel",
+        "Fernanda Mabel Méndez",
+        "Fernanda Méndez",
+        "Fernanda Méndez Rojas",
+        "Méndez Rojas Fernanda Mabel"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "party": "RC",
+      "province": "Azuay",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Gerardo Eugenio",
+        "Gerardo Eugenio Machado",
+        "Gerardo Machado",
+        "Gerardo Machado Clavijo",
+        "Machado Clavijo Gerardo Eugenio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-HENRY-SAUL-BOSQUEZ-VILLENA",
+      "name": "Henry Saúl Bósquez Villena",
+      "party": "ADN",
+      "province": "Bolívar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Bósquez Villena Henry Saúl",
+        "Henry Bósquez",
+        "Henry Bósquez Villena",
+        "Henry Saúl",
+        "Henry Saúl Bósquez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIANA-YUMBAY-YALLICO",
+      "name": "Mariana Yumbay Yallico",
+      "party": "MUPP",
+      "province": "Bolívar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mariana",
+        "Mariana Yumbay",
+        "Yumbay Yallico Mariana"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": "RC",
+      "province": "Bolívar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mireya Katerine",
+        "Mireya Katerine Pazmiño",
+        "Mireya Pazmiño",
+        "Mireya Pazmiño Arregui",
+        "Pazmiño Arregui Mireya Katerine"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "party": "ADN",
+      "province": "Cañar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Fabiola Maribel",
+        "Fabiola Maribel Sanmartín",
+        "Fabiola Sanmartín",
+        "Fabiola Sanmartín Parra",
+        "Sanmartín Parra Fabiola Maribel"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-BLASCO-REMIGIO-LUNA-AREVALO",
+      "name": "Blasco Remigio Luna Arévalo",
+      "party": "RC",
+      "province": "Cañar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Blasco Luna",
+        "Blasco Luna Arévalo",
+        "Blasco Remigio",
+        "Blasco Remigio Luna",
+        "Luna Arévalo Blasco Remigio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SEGUNDO-MANUEL-CHORO-DUCHI",
+      "name": "Segundo Manuel Choro Duchi",
+      "party": "Ind.",
+      "province": "Cañar",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Choro Duchi Segundo Manuel",
+        "Segundo Choro",
+        "Segundo Choro Duchi",
+        "Segundo Manuel",
+        "Segundo Manuel Choro"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
+      "name": "Brígida Lucía Pozo Moreta",
+      "party": "ADN",
+      "province": "Carchi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Brígida Lucía",
+        "Brígida Lucía Pozo",
+        "Brígida Pozo",
+        "Brígida Pozo Moreta",
+        "Pozo Moreta Brígida Lucía"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOSE-LUIS-VALLEJO-AYALA",
+      "name": "José Luis Vallejo Ayala",
+      "party": "RC",
+      "province": "Carchi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "José Luis",
+        "José Luis Vallejo",
+        "José Vallejo",
+        "José Vallejo Ayala",
+        "Vallejo Ayala José Luis"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CRISTIAN-BENAVIDES-FUENTES",
+      "name": "Cristian Benavides Fuentes",
+      "party": "Ind.",
+      "province": "Carchi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Benavides Fuentes Cristian",
+        "Cristian",
+        "Cristian Benavides"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MISHEL-ANDREA-MANCHENO-DAVILA",
+      "name": "Mishel Andrea Mancheno Dávila",
+      "party": "ADN",
+      "province": "Chimborazo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mancheno Dávila Mishel Andrea",
+        "Mishel Andrea",
+        "Mishel Andrea Mancheno",
+        "Mishel Mancheno",
+        "Mishel Mancheno Dávila"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": "ADN",
+      "province": "Chimborazo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Gallardo Ruiz Keevin Fernando",
+        "Keevin Fernando",
+        "Keevin Fernando Gallardo",
+        "Keevin Gallardo",
+        "Keevin Gallardo Ruiz",
+        "Kevin Gallardo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
+      "name": "Silvia Patricia Nuñez Ramos",
+      "party": "RC",
+      "province": "Chimborazo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Nuñez Ramos Silvia Patricia",
+        "Silvia Nuñez",
+        "Silvia Nuñez Ramos",
+        "Silvia Patricia",
+        "Silvia Patricia Nuñez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Carmen Tiupul",
+        "Carmen Tiupul Urquizo",
+        "Carmen Yolanda",
+        "Carmen Yolanda Tiupul",
+        "Tiupul Urquizo Carmen Yolanda"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
+      "name": "Marco Patricio Olmedo Arias",
+      "party": "ADN",
+      "province": "Cotopaxi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Marco Olmedo",
+        "Marco Olmedo Arias",
+        "Marco Patricio",
+        "Marco Patricio Olmedo",
+        "Olmedo Arias Marco Patricio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CAMILA-ANAHI-CUEVA-TARCO",
+      "name": "Camila Anahi Cueva Tarco",
+      "party": "ADN",
+      "province": "Cotopaxi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Camila Anahi",
+        "Camila Anahi Cueva",
+        "Camila Cueva",
+        "Camila Cueva Tarco",
+        "Cueva Tarco Camila Anahi"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ALEX-FABRICIO-TOAPANTA-JAMI",
+      "name": "Alex Fabricio Toapanta Jami",
+      "party": "MUPP",
+      "province": "Cotopaxi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alex Fabricio",
+        "Alex Fabricio Toapanta",
+        "Alex Toapanta",
+        "Alex Toapanta Jami",
+        "Toapanta Jami Alex Fabricio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANA-CECILIA-HERRERA-GOMEZ",
+      "name": "Ana Cecilia Herrera Gómez",
+      "party": "RC",
+      "province": "Cotopaxi",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ana Cecilia",
+        "Ana Cecilia Herrera",
+        "Ana Herrera",
+        "Ana Herrera Gómez",
+        "Herrera Gómez Ana Cecilia"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DIEGO-ENRIQUE-SALAS-BARRIGA",
+      "name": "Diego Enrique Salas Barriga",
+      "party": "RC",
+      "province": "El Oro",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Diego Enrique",
+        "Diego Enrique Salas",
+        "Diego Salas",
+        "Diego Salas Barriga",
+        "Salas Barriga Diego Enrique"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SARA-NOEMI-CABRERA-CHACON",
+      "name": "Sara Noemi Cabrera Chacón",
+      "party": "RC",
+      "province": "El Oro",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cabrera Chacón Sara Noemi",
+        "Sara Cabrera",
+        "Sara Cabrera Chacón",
+        "Sara Noemi",
+        "Sara Noemi Cabrera"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MANUEL-DE-JESUS-BLACIO-CASTILLO",
+      "name": "Manuel de Jesús Blacio Castillo",
+      "party": "ADN",
+      "province": "El Oro",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Blacio Castillo Manuel de Jesús",
+        "Manuel Blacio",
+        "Manuel Blacio Castillo",
+        "Manuel de Jesús",
+        "Manuel de Jesús Blacio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
+      "name": "Katherine Alexandra Pacheco Machuca",
+      "party": "ADN",
+      "province": "El Oro",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Katherine Alexandra",
+        "Katherine Alexandra Pacheco",
+        "Katherine Pacheco",
+        "Katherine Pacheco Machuca",
+        "Pacheco Machuca Katherine Alexandra"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-STEVEN-LEONARDO-ORDONEZ-BRAVO",
+      "name": "Steven Leonardo Ordóñez Bravo",
+      "party": "SUR",
+      "province": "El Oro",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ordóñez Bravo Steven Leonardo",
+        "Steven Leonardo",
+        "Steven Leonardo Ordóñez",
+        "Steven Ordóñez",
+        "Steven Ordóñez Bravo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JANETH-KATHERINE-BUSTOS-SALAZAR",
+      "name": "Janeth Katherine Bustos Salazar",
+      "party": "RC",
+      "province": "Esmeraldas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Bustos Salazar Janeth Katherine",
+        "Janet Bustos",
+        "Janeth Bustos",
+        "Janeth Bustos Salazar",
+        "Janeth Katherine",
+        "Janeth Katherine Bustos"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
+      "name": "Lizardo Manuel Casanova Montesino",
+      "party": "RC",
+      "province": "Esmeraldas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Casanova Montesino Lizardo Manuel",
+        "Lizardo Casanova",
+        "Lizardo Casanova Montesino",
+        "Lizardo Manuel",
+        "Lizardo Manuel Casanova"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOHN-EDISON-POLANCO-LARA",
+      "name": "John Edison Polanco Lara",
+      "party": "ADN",
+      "province": "Esmeraldas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "John Edison",
+        "John Edison Polanco",
+        "John Polanco",
+        "John Polanco Lara",
+        "Polanco Lara John Edison"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GEMA-KAROLINA-DUENAS-PALMA",
+      "name": "Gema Karolina Dueñas Palma",
+      "party": "ADN",
+      "province": "Esmeraldas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Dueñas Palma Gema Karolina",
+        "Gema Dueñas",
+        "Gema Dueñas Palma",
+        "Gema Karolina",
+        "Gema Karolina Dueñas"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SAMUEL-ELIAS-CELLERI-GOMEZ",
+      "name": "Samuel Elías Celleri Gómez",
+      "party": "Ind.",
+      "province": "Esmeraldas",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Celleri Gómez Samuel Elías",
+        "Samuel Celleri",
+        "Samuel Celleri Gómez",
+        "Samuel Elías",
+        "Samuel Elías Celleri"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
+      "name": "Milton Javier Aguas Flores",
+      "party": "ADN",
+      "province": "Galápagos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Aguas Flores Milton Javier",
+        "Milton Aguas",
+        "Milton Aguas Flores",
+        "Milton Javier",
+        "Milton Javier Aguas"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JESUS-DAVID-ARIAS-MONTALVO",
+      "name": "Jesús David Arias Montalvo",
+      "party": "Ind.",
+      "province": "Galápagos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Arias Montalvo Jesús David",
+        "Jesús Arias",
+        "Jesús Arias Montalvo",
+        "Jesús David",
+        "Jesús David Arias"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
+      "name": "Pamela Alejandra Aguirre Zambonino",
+      "party": "RC",
+      "province": "Imbabura",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Aguirre Zambonino Pamela Alejandra",
+        "Pamela Aguirre",
+        "Pamela Aguirre Zambonino",
+        "Pamela Alejandra",
+        "Pamela Alejandra Aguirre"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
+      "name": "Torre de la Torre Fernando de la",
+      "party": "RC",
+      "province": "Imbabura",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Torre de",
+        "Torre de la",
+        "Torre de la Torre Fernando",
+        "Torre de la Torre Fernando de",
+        "de la Torre de la Torre Fernando"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "party": "ADN",
+      "province": "Imbabura",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jaramillo Martínez Roberto Fernando",
+        "Roberto Fernando",
+        "Roberto Fernando Jaramillo",
+        "Roberto Jaramillo",
+        "Roberto Jaramillo Martínez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jurado Moreno Pablo Aníbal",
+        "Pablo Aníbal",
+        "Pablo Aníbal Jurado",
+        "Pablo Jurado",
+        "Pablo Jurado Moreno"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JORGE-LUIS-GUEVARA-BENAVIDEZ",
+      "name": "Jorge Luis Guevara Benavidez",
+      "party": "ADN",
+      "province": "Loja",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Guevara Benavidez Jorge Luis",
+        "Jorge Guevara",
+        "Jorge Guevara Benavidez",
+        "Jorge Luis",
+        "Jorge Luis Guevara"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANELISSE-JOSEBETH-JARAMILLO-RODRIGUEZ",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "party": "ADN",
+      "province": "Loja",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Anelisse Jaramillo",
+        "Anelisse Jaramillo Rodríguez",
+        "Anelisse Josebeth",
+        "Anelisse Josebeth Jaramillo",
+        "Jaramillo Rodríguez Anelisse Josebeth"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
+      "name": "María Verónica Iñiguez Gallardo",
+      "party": "RC",
+      "province": "Loja",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Iñiguez Gallardo María Verónica",
+        "María Iñiguez",
+        "María Iñiguez Gallardo",
+        "María Verónica",
+        "María Verónica Iñiguez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JUAN-ANDRES-GONZALEZ-ALVEAR",
+      "name": "Juan Andrés González Alvear",
+      "party": "RC",
+      "province": "Loja",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "González Alvear Juan Andrés",
+        "Juan Andrés",
+        "Juan Andrés González",
+        "Juan González",
+        "Juan González Alvear"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARCOS-HUMBERTO-ALVARADO-ESPINEL",
+      "name": "Marcos Humberto Alvarado Espinel",
+      "party": "RC",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Alvarado Espinel Marcos Humberto",
+        "Marcos Alvarado",
+        "Marcos Alvarado Espinel",
+        "Marcos Humberto",
+        "Marcos Humberto Alvarado"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MONICA-DE-JESUS-SALAZAR-HIDALGO",
+      "name": "Mónica de Jesús Salazar Hidalgo",
+      "party": "Ind.",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mónica Salazar",
+        "Mónica Salazar Hidalgo",
+        "Mónica de Jesús",
+        "Mónica de Jesús Salazar",
+        "Salazar Hidalgo Mónica de Jesús"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-RONAL-EDUARDO-GONZALEZ-VALERO",
+      "name": "Ronal Eduardo González Valero",
+      "party": "RC",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "González Valero Ronal Eduardo",
+        "Ronal Eduardo",
+        "Ronal Eduardo González",
+        "Ronal González",
+        "Ronal González Valero"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-EDUARDO-ERWIN-MENDOZA-PALMA",
+      "name": "Eduardo Erwin Mendoza Palma",
+      "party": "ADN",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Eduardo Erwin",
+        "Eduardo Erwin Mendoza",
+        "Eduardo Mendoza",
+        "Eduardo Mendoza Palma",
+        "Mendoza Palma Eduardo Erwin"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
+      "name": "Rosa Alegría Torres Cadena",
+      "party": "ADN",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Rosa Alegría",
+        "Rosa Alegría Torres",
+        "Rosa Torres",
+        "Rosa Torres Cadena",
+        "Torres Cadena Rosa Alegría"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOHNNY-ENRIQUE-TERAN-BARRAGAN",
+      "name": "Johnny Enrique Terán Barragán",
+      "party": "PSC",
+      "province": "Los Ríos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Johnny Enrique",
+        "Johnny Enrique Terán",
+        "Johnny Terán",
+        "Johnny Terán Barragán",
+        "Terán Barragán Johnny Enrique"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
+      "name": "José Fernando Nantipia Chumpi",
+      "party": "Ind.",
+      "province": "Morona Santiago",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "José Fernando",
+        "José Fernando Nantipia",
+        "José Nantipia",
+        "José Nantipia Chumpi",
+        "Nantipia Chumpi José Fernando"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NANKI-LAURO-SAANT-JUANK",
+      "name": "Nanki Lauro Saant Juank",
+      "party": "RC",
+      "province": "Morona Santiago",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Nanki Lauro",
+        "Nanki Lauro Saant",
+        "Nanki Saant",
+        "Nanki Saant Juank",
+        "Saant Juank Nanki Lauro"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Edwin Estuardo",
+        "Edwin Estuardo Jarrín",
+        "Edwin Jarrín",
+        "Edwin Jarrín Rivadeneira",
+        "Jarrín Rivadeneira Edwin Estuardo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": "ADN",
+      "province": "Napo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Ana Belén",
+        "Ana Belén Tapia",
+        "Ana Tapia",
+        "Ana Tapia Vallejo",
+        "Tapia Vallejo Ana Belén"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JORGE-EDMUNDO-CERDA-TAPUY",
+      "name": "Jorge Edmundo Cerda Tapuy",
+      "party": "Ind.",
+      "province": "Napo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Cerda Tapuy Jorge Edmundo",
+        "Jorge Cerda",
+        "Jorge Cerda Tapuy",
+        "Jorge Edmundo",
+        "Jorge Edmundo Cerda"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIUXI-CLEOPATRA-SANCHEZ-SARANGO",
+      "name": "Mariuxi Cleopatra Sánchez Sarango",
+      "party": "RC",
+      "province": "Orellana",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mariuxi Cleopatra",
+        "Mariuxi Cleopatra Sánchez",
+        "Mariuxi Sánchez",
+        "Mariuxi Sánchez Sarango",
+        "Sánchez Sarango Mariuxi Cleopatra"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JUAN-KLEINER-GUZMAN-CRUZ",
+      "name": "Juan Kleiner Guzmán Cruz",
+      "party": "RC",
+      "province": "Orellana",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Guzmán Cruz Juan Kleiner",
+        "Juan Guzmán",
+        "Juan Guzmán Cruz",
+        "Juan Kleiner",
+        "Juan Kleiner Guzmán"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GUILLERMO-VICENTE-BAEZ-MERA",
+      "name": "Guillermo Vicente Báez Mera",
+      "party": "RC",
+      "province": "Orellana",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Báez Mera Guillermo Vicente",
+        "Guillermo Báez",
+        "Guillermo Báez Mera",
+        "Guillermo Vicente",
+        "Guillermo Vicente Báez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-NUVIA-ROCIO-VEGA-MORILLO",
+      "name": "Nuvia Rocío Vega Morillo",
+      "party": "ADN",
+      "province": "Orellana",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Nuvia Rocío",
+        "Nuvia Rocío Vega",
+        "Nuvia Vega",
+        "Nuvia Vega Morillo",
+        "Vega Morillo Nuvia Rocío"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-CRISTINA-ACUNA-VACA",
+      "name": "María Cristina Acuña Vaca",
+      "party": "Semilla",
+      "province": "Pastaza",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Acuña Vaca María Cristina",
+        "María Acuña",
+        "María Acuña Vaca",
+        "María Cristina",
+        "María Cristina Acuña"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOSE-LUIS-NANGO-CUJI",
+      "name": "José Luis Nango Cuji",
+      "party": "Ind.",
+      "province": "Pastaza",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "José Luis",
+        "José Luis Nango",
+        "José Nango",
+        "José Nango Cuji",
+        "Nango Cuji José Luis"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
+      "name": "César Gustavo Palacios Alejandro",
+      "party": "RC",
+      "province": "Santa Elena",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "César Gustavo",
+        "César Gustavo Palacios",
+        "César Palacios",
+        "César Palacios Alejandro",
+        "Palacios Alejandro César Gustavo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ARISDELY-PAOLA-PARRALES-YAGUAL",
+      "name": "Arisdely Paola Parrales Yagual",
+      "party": "RC",
+      "province": "Santa Elena",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Arisdely Paola",
+        "Arisdely Paola Parrales",
+        "Arisdely Parrales",
+        "Arisdely Parrales Yagual",
+        "Parrales Yagual Arisdely Paola"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JORGE-FABRICIO-TAMAYO-TRIVINO",
+      "name": "Jorge Fabricio Tamayo Triviño",
+      "party": "ADN",
+      "province": "Santa Elena",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Jorge Fabricio",
+        "Jorge Fabricio Tamayo",
+        "Jorge Tamayo",
+        "Jorge Tamayo Triviño",
+        "Tamayo Triviño Jorge Fabricio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
+      "name": "Otto Santiago Vera Palacios",
+      "party": "Únete",
+      "province": "Santa Elena",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Otto Santiago",
+        "Otto Santiago Vera",
+        "Otto Vera",
+        "Otto Vera Palacios",
+        "Vera Palacios Otto Santiago"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-REBECA-VIVIANA-VELOZ-RAMIREZ",
+      "name": "Rebeca Viviana Veloz Ramírez",
+      "party": "RC",
+      "province": "Santo Domingo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Rebeca Veloz",
+        "Rebeca Veloz Ramírez",
+        "Rebeca Viviana",
+        "Rebeca Viviana Veloz",
+        "Veloz Ramírez Rebeca Viviana"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-HERMEL-ANDRES-CAMPOS-TOBAR",
+      "name": "Hermel Andrés Campos Tobar",
+      "party": "RC",
+      "province": "Santo Domingo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Campos Tobar Hermel Andrés",
+        "Hermel Andrés",
+        "Hermel Andrés Campos",
+        "Hermel Campos",
+        "Hermel Campos Tobar"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JADIRA-DEL-ROSARIO-BAYAS-URIARTE",
+      "name": "Jadira del Rosario Bayas Uriarte",
+      "party": "ADN",
+      "province": "Santo Domingo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Bayas Uriarte Jadira del Rosario",
+        "Jadira Bayas",
+        "Jadira Bayas Uriarte",
+        "Jadira del Rosario",
+        "Jadira del Rosario Bayas"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CHRISTOPHER-MANUEL-JARAMILLO-GOMEZ",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "party": "ADN",
+      "province": "Santo Domingo",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Christopher Jaramillo",
+        "Christopher Jaramillo Gómez",
+        "Christopher Manuel",
+        "Christopher Manuel Jaramillo",
+        "Jaramillo Gómez Christopher Manuel"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-COMPS-PASCACIO-CORDOVA-DIAZ",
+      "name": "Comps Pascacio Córdova Díaz",
+      "party": "RC",
+      "province": "Sucumbíos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Comps Córdova",
+        "Comps Córdova Díaz",
+        "Comps Pascacio",
+        "Comps Pascacio Córdova",
+        "Córdova Díaz Comps Pascacio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-CARLOS-STEVE-VILLACRES-SALAZAR",
+      "name": "Carlos Steve Villacres Salazar",
+      "party": "ADN",
+      "province": "Sucumbíos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Carlos Steve",
+        "Carlos Steve Villacres",
+        "Carlos Villacres",
+        "Carlos Villacres Salazar",
+        "Villacres Salazar Carlos Steve"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JUAN-MARCO-GONZAGA-SALAZAR",
+      "name": "Juan Marco Gonzaga Salazar",
+      "party": "AC",
+      "province": "Sucumbíos",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Gonzaga Salazar Juan Marco",
+        "Juan Gonzaga",
+        "Juan Gonzaga Salazar",
+        "Juan Marco",
+        "Juan Marco Gonzaga"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-PAULA-VILLACRESES-HERRERA",
+      "name": "María Paula Villacreses Herrera",
+      "party": "ADN",
+      "province": "Tungurahua",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "María Paula",
+        "María Paula Villacreses",
+        "María Villacreses",
+        "María Villacreses Herrera",
+        "Villacreses Herrera María Paula"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-LENIN-ALEJANDRO-LARA-PEREZ",
+      "name": "Lenin Alejandro Lara Pérez",
+      "party": "ADN",
+      "province": "Tungurahua",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Lara Pérez Lenin Alejandro",
+        "Lenin Alejandro",
+        "Lenin Alejandro Lara",
+        "Lenin Lara",
+        "Lenin Lara Pérez"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
+      "name": "Doménica Carolina Escobar Galarza",
+      "party": "ADN",
+      "province": "Tungurahua",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Doménica Carolina",
+        "Doménica Carolina Escobar",
+        "Doménica Escobar",
+        "Doménica Escobar Galarza",
+        "Escobar Galarza Doménica Carolina"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-SEGUNDO-EUSTAQUIO-TUALA-MUNTZA",
+      "name": "Segundo Eustaquio Tuala Muntza",
+      "party": "RC",
+      "province": "Tungurahua",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Segundo Eustaquio",
+        "Segundo Eustaquio Tuala",
+        "Segundo Tuala",
+        "Segundo Tuala Muntza",
+        "Tuala Muntza Segundo Eustaquio"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "party": "Ind.",
+      "province": "Tungurahua",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Baltazar Yucailla Rosa Cecilia",
+        "Rosa Baltazar",
+        "Rosa Baltazar Yucailla",
+        "Rosa Cecilia",
+        "Rosa Cecilia Baltazar"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Rogel Esperanza del Cisne",
+        "del Cisne",
+        "del Cisne Rogel",
+        "del Rogel",
+        "del Rogel Esperanza"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-HECTOR-GUILLERMO-VALLADAREZ-GONZALEZ",
+      "name": "Héctor Guillermo Valladarez González",
+      "party": "RC",
+      "province": "Zamora Chinchipe",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Héctor Guillermo",
+        "Héctor Guillermo Valladarez",
+        "Héctor Valladarez",
+        "Héctor Valladarez González",
+        "Valladarez González Héctor Guillermo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GRACIELA-JANETH-RAMIREZ-CHALEN",
+      "name": "Graciela Janeth Ramírez Chalen",
+      "party": "ADN",
+      "province": "Europa, Asia y Oceanía",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Graciela Janeth",
+        "Graciela Janeth Ramírez",
+        "Graciela Ramírez",
+        "Graciela Ramírez Chalen",
+        "Ramírez Chalen Graciela Janeth"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-GUSTAVO-ENRIQUE-MATEUS-ACOSTA",
+      "name": "Gustavo Enrique Mateus Acosta",
+      "party": "RC",
+      "province": "Europa, Asia y Oceanía",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Gustavo Enrique",
+        "Gustavo Enrique Mateus",
+        "Gustavo Mateus",
+        "Gustavo Mateus Acosta",
+        "Mateus Acosta Gustavo Enrique"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
+      "name": "Johnny Alfredo Lavayen Tamayo",
+      "party": "ADN",
+      "province": "EE.UU. y Canadá",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Johnny Alfredo",
+        "Johnny Alfredo Lavayen",
+        "Johnny Lavayen",
+        "Johnny Lavayen Tamayo",
+        "Lavayen Tamayo Johnny Alfredo"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MONICA-ESTEFANIA-PALACIOS-ZAMBRANO",
+      "name": "Mónica Estefanía Palacios Zambrano",
+      "party": "RC",
+      "province": "EE.UU. y Canadá",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mónica Estefanía",
+        "Mónica Estefanía Palacios",
+        "Mónica Palacios",
+        "Mónica Palacios Zambrano",
+        "Palacios Zambrano Mónica Estefanía"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MARIA-DEL-CARMEN-CARRASCO-YEPEZ",
+      "name": "María del Carmen Carrasco Yépez",
+      "party": "ADN",
+      "province": "América Latina, Caribe y África",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Carrasco Yépez María del Carmen",
+        "María Carrasco",
+        "María Carrasco Yépez",
+        "María del Carmen",
+        "María del Carmen Carrasco"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "party": "ADN",
+      "province": "América Latina, Caribe y África",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Mauricio Javier",
+        "Mauricio Javier Ordóñez",
+        "Mauricio Ordóñez",
+        "Mauricio Ordóñez Fuentes",
+        "Ordóñez Fuentes Mauricio Javier"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
+      "name": "Eliana Katherine Correa González",
+      "party": "RC",
+      "province": "América Latina, Caribe y África",
+      "role": "Asambleísta",
+      "committee": "Unknown",
+      "alternate_names": [
+        "Correa González Eliana Katherine",
+        "Eliana Correa",
+        "Eliana Correa González",
+        "Eliana Katherine",
+        "Eliana Katherine Correa"
+      ],
+      "type": "asambleísta"
+    },
+    {
+      "id": "AN-FELIPE-RODRIGUEZ",
       "name": "Felipe Rodríguez",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-GERARDO-MACHADO",
-      "name": "Gerardo Machado",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-JANET-BUSTOS",
-      "name": "Janet Bustos",
       "party": "Unknown",
       "province": "Unknown",
       "role": "Asambleísta",
@@ -76,116 +2529,8 @@
       "type": "asambleísta"
     },
     {
-      "id": "AN-KEVIN-GALLARDO",
-      "name": "Kevin Gallardo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-LUCÍA-JARAMILLO",
-      "name": "Lucía Jaramillo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [
-        "Lucía Lizbeth"
-      ],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-MARCO-OLMEDO",
-      "name": "Marco Olmedo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-MARIO-GODOY-NARANJO",
-      "name": "Mario Godoy Naranjo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Presidente del Consejo de la Judicatura",
-      "committee": "Unknown",
-      "alternate_names": [
-        "Mario Godoy"
-      ],
-      "type": "comparecencia"
-    },
-    {
-      "id": "AN-MARIO-ZAMBRANO",
-      "name": "Mario Zambrano",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-NILS-OLSEN",
-      "name": "Nils Olsen",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [
-        "Nils Olsen Pitt"
-      ],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-PAOLA-JARAMILLO",
-      "name": "Paola Jaramillo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-ANDRES-CASTILLO-MALDONADO",
-      "name": "Andrés Castillo Maldonado",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [
-        "Andrés Castillo"
-      ],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-XAVIER-LASSO",
-      "name": "Xavier Lasso",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
       "id": "AN-GIOVANNY-BRAVO",
       "name": "Giovanny Bravo",
-      "party": "Unknown",
-      "province": "Unknown",
-      "role": "Asambleísta",
-      "committee": "Unknown",
-      "alternate_names": [],
-      "type": "asambleísta"
-    },
-    {
-      "id": "AN-ANDRES-GUSCHMER",
-      "name": "Andrés Guschmer",
       "party": "Unknown",
       "province": "Unknown",
       "role": "Asambleísta",

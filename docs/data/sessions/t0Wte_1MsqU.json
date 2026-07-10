@@ -1,0 +1,132 @@
+{
+  "text": "y señores asambleístas, ¿tiene apoyo  la moción?  Señor secretario, dé lectura de la moción  presentada y tome votación. Procedo a dar lectura de la moción y tomar votación.  Moción presentada mediante memorándum número AN-ABIM-2026-0057-M de 17 de marzo de 2026.  Asunto moción dentro de la sesión 78-AN-2025-2029 del Pleno de la Asamblea Nacional.  De mi consideración, con respetuoso saludo en el contexto de la sesión número 78-AN-2025-2029 del Pleno de la Asamblea Nacional  convocada para este día martes 17 de marzo de 2026 a las 10 horas en estricto apego a lo establecido en los artículos 61 y 135  de la Ley Orgánica de la Función Legislativa y con relación al segundo punto del orden del día  el cual tiene por objeto conocer y resolver respecto del informe para segundo debate del proyecto de ley orgánica reformatoria  para el fortalecimiento del sistema penitenciario en calidad de ponente presento la siguiente moción.  Moción.  Que el Pleno de la Asamblea Nacional apruebe el texto íntegro del proyecto de ley orgánica reformatoria  para el fortalecimiento del sistema penitenciario.  Con sentimientos de distinguida consideración, atentamente, señora Inés Margarita Alarcón Bueno, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierra el registro, por favor. Me permite informar, señora presidenta, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor, consignar su voto. Proclame resultados, señor secretario. Señor operador presente en los resultados. Señora presidenta, me permito informar que de un total de 148 asambleístas presentes contamos con 84 votos afirmativos, 62 negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por la asambleísta Inés Alarcón ha sido aprobada.",
+  "language": "es",
+  "duration": 453.86,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 7.81,
+      "text": "y señores asambleístas, ¿tiene apoyo  la moción?  Señor secretario, dé lectura de la moción  presentada y tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 8.35,
+      "end": 91.68,
+      "text": "Procedo a dar lectura de la moción y tomar votación.  Moción presentada mediante memorándum número AN-ABIM-2026-0057-M de 17 de marzo de 2026.  Asunto moción dentro de la sesión 78-AN-2025-2029 del Pleno de la Asamblea Nacional.  De mi consideración, con respetuoso saludo en el contexto de la sesión número 78-AN-2025-2029 del Pleno de la Asamblea Nacional  convocada para este día martes 17 de marzo de 2026 a las 10 horas en estricto apego a lo establecido en los artículos 61 y 135  de la Ley Orgánica de la Función Legislativa y con relación al segundo punto del orden del día  el cual tiene por objeto conocer y resolver respecto del informe para segundo debate del proyecto de ley orgánica reformatoria  para el fortalecimiento del sistema penitenciario en calidad de ponente presento la siguiente moción.  Moción.  Que el Pleno de la Asamblea Nacional apruebe el texto íntegro del proyecto de ley orgánica reformatoria  para el fortalecimiento del sistema penitenciario.  Con sentimientos de distinguida consideración, atentamente, señora Inés Margarita Alarcón Bueno, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 2,
+      "start": 292.0,
+      "end": 293.15,
+      "text": "Cierra el registro, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 298.04,
+      "end": 312.81,
+      "text": "Me permite informar, señora presidenta, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor, consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 4,
+      "start": 425.21,
+      "end": 427.02,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 427.44,
+      "end": 446.92,
+      "text": "Señor operador presente en los resultados. Señora presidenta, me permito informar que de un total de 148 asambleístas presentes contamos con 84 votos afirmativos, 62 negativos, 0 blancos, 2 abstenciones. Por tanto, la moción presentada por la asambleísta Inés Alarcón ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "En Pleno",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "t0Wte_1MsqU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] En Pleno": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "En Pleno",
+      "confidence": 0.67,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 1,
+        "[OOV] En Pleno": 2
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Inés Alarcón - Sesión 078",
+  "url": "https://www.youtube.com/watch?v=t0Wte_1MsqU",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "t0Wte_1MsqU",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=t0Wte_1MsqU",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "En Pleno",
+      "party": null,
+      "province": null,
+      "total_time": 117.58,
+      "interventions": 3,
+      "word_count": 284
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 10.74,
+      "interventions": 3,
+      "word_count": 27
+    }
+  ]
+}

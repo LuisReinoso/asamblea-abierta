@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente. La verdad que me encuentro hoy día sumamente feliz porque creo que le estamos dando un mensaje clarísimo a todos los ecuatorianos.  Y es que por muy pocas veces, lamentablemente, solemos coincidir ciertas fuerzas políticas y ciertas bancadas.  El día de hoy dejamos un mensaje claro a los ecuatorianos. Nosotros estamos dando una herramienta a las familias ecuatorianas.  Un mensaje al presidente de la República. Señor presidente, estas leyes gracias a usted, gracias a su voluntad política.  Un mensaje a nuestros compañeros asambleístas. Muchísimas gracias por la madurez política que se va a ver reflejada en esta votación.  Y señor presidente de la República, Daniel Novoa, sin duda alguna, cuenta con su equipo, con un equipo que respalda la democracia, que fortaleza la democracia.  Y por eso, señor presidente de la Asamblea Nacional, procedo a que se inicie la votación para esta ley orgánica de extradición.",
+  "language": "es",
+  "duration": 73.26,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 68.32,
+      "text": "Gracias, señor presidente. La verdad que me encuentro hoy día sumamente feliz porque creo que le estamos dando un mensaje clarísimo a todos los ecuatorianos.  Y es que por muy pocas veces, lamentablemente, solemos coincidir ciertas fuerzas políticas y ciertas bancadas.  El día de hoy dejamos un mensaje claro a los ecuatorianos. Nosotros estamos dando una herramienta a las familias ecuatorianas.  Un mensaje al presidente de la República. Señor presidente, estas leyes gracias a usted, gracias a su voluntad política.  Un mensaje a nuestros compañeros asambleístas. Muchísimas gracias por la madurez política que se va a ver reflejada en esta votación.  Y señor presidente de la República, Daniel Novoa, sin duda alguna, cuenta con su equipo, con un equipo que respalda la democracia, que fortaleza la democracia.  Y por eso, señor presidente de la Asamblea Nacional, procedo a que se inicie la votación para esta ley orgánica de extradición.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "CtKsRdWAEn4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Por Los": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Rosa Torres - Sesión 106 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=CtKsRdWAEn4",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "CtKsRdWAEn4",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=CtKsRdWAEn4",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 68.29,
+      "interventions": 1,
+      "word_count": 149
+    }
+  ]
+}

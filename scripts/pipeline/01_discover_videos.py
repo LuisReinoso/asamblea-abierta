@@ -31,6 +31,11 @@ PROJECT_ROOT = Path(__file__).parent.parent.parent
 INDEX_PATH = PROJECT_ROOT / "data" / "sessions" / "index.json"
 DATA_SESSIONS = PROJECT_ROOT / "data" / "sessions"
 CHANNEL_URL = "https://www.youtube.com/@AsambleaNacionalEC/videos"
+COOKIES_FILE = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
+
+
+def _cookie_args() -> list[str]:
+    return ["--cookies", str(COOKIES_FILE)] if COOKIES_FILE.exists() else []
 
 
 def load_index() -> dict:
@@ -57,6 +62,7 @@ def list_channel_videos() -> list[tuple[str, str]]:
     print(f"Listing videos from {CHANNEL_URL} …")
     cmd = [
         "yt-dlp",
+        *_cookie_args(),
         "--flat-playlist",
         "--print", "%(id)s\t%(title)s",
         CHANNEL_URL,
@@ -82,7 +88,8 @@ def fetch_metadata(video_id: str) -> dict | None:
     url = f"https://www.youtube.com/watch?v={video_id}"
     cmd = [
         "yt-dlp",
-        "--extractor-args", "youtube:player_client=tv_embedded,android_vr,ios",
+        *_cookie_args(),
+        "--extractor-args", "youtube:player_client=android_vr,ios,web",
         "--no-warnings", "--skip-download",
         "--print", "%(id)s\t%(title)s\t%(upload_date)s\t%(channel)s",
         url,

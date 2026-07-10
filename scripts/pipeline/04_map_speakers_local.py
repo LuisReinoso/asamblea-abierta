@@ -158,6 +158,19 @@ class OverlayReader:
         return out
 
 
+# Known non-name UI chrome the broadcast overlay shows instead of a speaker's
+# name (session status banners, generic placeholders) — confirmed false
+# positives from real data (e.g. "En Pleno" got voted in as a fake "speaker"
+# across 36 sessions before this filter existed).
+NON_NAME_PHRASES = {
+    "en pleno", "en vivo", "pleno", "comision general", "comisión general",
+    "asamblea nacional", "asamblea nacional del ecuador", "del cisne",
+}
+NON_NAME_PREFIXES = (
+    "asambleísta por", "asambleista por", "asambleísta nacional", "asambleista nacional",
+)
+
+
 # Heuristic: speaker overlays look like person names: 2+ words, mostly letters,
 # no digits, < 60 chars. Filters out things like "ASAMBLEA NACIONAL", subtitles,
 # and timestamps.
@@ -173,6 +186,9 @@ def looks_like_person_name(text: str) -> bool:
     upper_words = sum(1 for w in words if w.isupper())
     if upper_words == len(words) and len(t) > 25:
         # All-caps long strings are usually titles/lower-thirds banners, not names
+        return False
+    norm = normalize_name(t)
+    if norm in NON_NAME_PHRASES or norm.startswith(NON_NAME_PREFIXES):
         return False
     return True
 

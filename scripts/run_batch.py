@@ -14,12 +14,29 @@ Usage:
 
 import argparse
 import json
+import re
 import shutil
 import subprocess
 import sys
 import time
 import traceback
 from pathlib import Path
+
+SESSION_NUM_RE = re.compile(r"[Ss]esi[oó]n\s+(\d+)|[Ss]ession\s+(\d+)")
+
+
+def session_number(title: str) -> int:
+    """Extract the plenary session number from a title, e.g. 'Sesión 094' -> 94.
+
+    Used as a recency proxy when published_at is missing — discovery's
+    per-video metadata fetch gets bot-rate-limited often, but the session
+    number embedded in the title is a reliable, always-present ordering
+    signal for this channel.
+    """
+    m = SESSION_NUM_RE.search(title or "")
+    if not m:
+        return -1
+    return int(m.group(1) or m.group(2))
 
 PROJECT_ROOT = Path(__file__).parent.parent
 DATA_SESSIONS = PROJECT_ROOT / "data" / "sessions"
@@ -55,18 +72,27 @@ def download_video(video_id: str) -> Path | None:
             pass
 
     url = f"https://www.youtube.com/watch?v={video_id}"
+    cookies_file = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
     cmd = [
         "yt-dlp",
-        # 720p mp4 + medium m4a. The default android_vr client trips HTTP 403
-        # on long plenary sessions (YouTube SABR streaming protection). Telling
-        # yt-dlp to also try tv_embedded and ios clients works around that.
-        "--extractor-args", "youtube:player_client=tv_embedded,android_vr,ios",
+        # 720p mp4 + medium m4a. android_vr/ios alone trip "Sign in to confirm
+        # you're not a bot" without cookies; web needs cookies too for SABR
+        # formats. The cookies file is seeded via a stealth browser session
+        # (see docs/runbooks or ask — cloakbrowser) and yt-dlp keeps it fresh
+        # across runs.
+        "--extractor-args", "youtube:player_client=android_vr,ios,web",
+        # Space out requests — a burst of back-to-back downloads (esp. right
+        # after a discovery run's per-video metadata fetches) tripped a
+        # YouTube "rate-limited for up to an hour" block on 2026-07-09.
+        "--sleep-requests", "2", "--sleep-interval", "3", "--max-sleep-interval", "8",
         "-f", "136+140/135+140/134+140/18/best[ext=mp4]/best",
         "--merge-output-format", "mp4",
         "--no-playlist",
         "-o", str(out_path),
         url,
     ]
+    if cookies_file.exists():
+        cmd[1:1] = ["--cookies", str(cookies_file)]
     yt_log = PROJECT_ROOT / "temp" / f"yt-dlp-{video_id}.log"
     yt_log.parent.mkdir(parents=True, exist_ok=True)
     # Stream stdout/stderr directly to a log file — capture_output buffers in RAM
@@ -121,9 +147,20 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
 
     out_session = DATA_SESSIONS / f"{vid}.json"
     if out_session.exists():
-        log("  already processed — skip")
-        result.update({"ok": True, "skipped": True})
-        return result
+        # A session file with zero segments means a prior transcription
+        # attempt silently produced nothing (server hiccup, not real
+        # silence — plenary clips are never actually empty audio). Treat
+        # it as unprocessed so it gets retried instead of skipped forever.
+        try:
+            has_segments = bool(json.loads(out_session.read_text()).get("segments"))
+        except (json.JSONDecodeError, OSError):
+            has_segments = False
+        if has_segments:
+            log("  already processed — skip")
+            result.update({"ok": True, "skipped": True})
+            return result
+        log("  existing session has 0 segments — retrying")
+        out_session.unlink()
 
     # Stage 1: download
     t0 = time.time()
@@ -145,6 +182,14 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     if not ok:
         result["error"] = "transcription failed"
         return result
+    try:
+        has_segments = bool(json.loads(out_session.read_text()).get("segments"))
+    except (json.JSONDecodeError, OSError):
+        has_segments = False
+    if not has_segments:
+        result["error"] = "transcription produced 0 segments"
+        out_session.unlink(missing_ok=True)
+        return result
 
     # Stage 3: map speakers
     t0 = time.time()
@@ -158,6 +203,17 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     if not ok:
         result["error"] = "speaker mapping failed (transcript saved without names)"
         return result
+
+    # Stage 3b: voiceprint assist for clusters OCR couldn't name (best-effort,
+    # never fails the pipeline — must run before video cleanup below)
+    t0 = time.time()
+    run_script(
+        "04b_voiceprint_match.py",
+        "--video-id", vid,
+        "--video-file", str(video_path),
+        "--session-file", str(out_session),
+    )
+    result["stages"]["voiceprint"] = round(time.time() - t0, 1)
 
     # Stage 4: merge metadata from index into the session file
     try:
@@ -220,6 +276,7 @@ def main():
     parser.add_argument("--keep-video", action="store_true", help="Keep downloaded videos after processing")
     parser.add_argument("--limit", type=int, default=0, help="Only process the first N pending videos (0=all)")
     parser.add_argument("--since", help="Only process videos with published_at >= YYYY-MM-DD (entries with null date are kept)")
+    parser.add_argument("--oldest-first", action="store_true", help="Process in index order instead of newest-published-first (the default)")
     args = parser.parse_args()
 
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -232,6 +289,14 @@ def main():
 
     if args.since:
         pending = [s for s in pending if not s.get("published_at") or s["published_at"][:10] >= args.since]
+
+    # Newest sessions first. Primary key is the session number parsed from
+    # the title (reliable, always present, and a better recency proxy than
+    # published_at — discovery's per-video date fetch is frequently bot-
+    # rate-limited and leaves published_at null for genuinely recent videos).
+    # published_at is the tiebreaker for same/unknown session numbers.
+    if not args.oldest_first:
+        pending.sort(key=lambda s: (session_number(s.get("title", "")), s.get("published_at") or ""), reverse=True)
 
     if args.limit:
         pending = pending[: args.limit]

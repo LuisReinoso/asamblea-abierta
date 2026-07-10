@@ -1,6 +1,2175 @@
 {
   "sessions": [
     {
+      "video_id": "sgeqB7kUw4k",
+      "title": "Asambleísta María del Cisne Molina - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=sgeqB7kUw4k",
+      "discovered_at": "2026-07-09T22:27:16.194180"
+    },
+    {
+      "video_id": "YiAmym5hnVE",
+      "title": "Asambleísta Alex Morán - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=YiAmym5hnVE",
+      "discovered_at": "2026-07-09T22:27:18.535698"
+    },
+    {
+      "video_id": "avIy3fQ-bnE",
+      "title": "Asambleísta Cristina Jácome - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=avIy3fQ-bnE",
+      "discovered_at": "2026-07-09T22:27:21.012951"
+    },
+    {
+      "video_id": "EMzgRyuOlSo",
+      "title": "Asambleísta Rosa Torres - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EMzgRyuOlSo",
+      "discovered_at": "2026-07-09T22:27:23.316612"
+    },
+    {
+      "video_id": "3zKalLoVR_A",
+      "title": "Asambleísta Boris Andrade - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=3zKalLoVR_A",
+      "discovered_at": "2026-07-09T22:27:25.748694"
+    },
+    {
+      "video_id": "0RQqioUsGZ4",
+      "title": "Asambleísta Inés Alarcón - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=0RQqioUsGZ4",
+      "discovered_at": "2026-07-09T22:27:28.124440"
+    },
+    {
+      "video_id": "7kjCVQS6heQ",
+      "title": "Asambleísta Fabiola Sanmartín - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7kjCVQS6heQ",
+      "discovered_at": "2026-07-09T22:27:30.690843"
+    },
+    {
+      "video_id": "e4ZWPpdTnl0",
+      "title": "Asambleísta Juan José Reyes - Sesión 101 - II Intervención",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=e4ZWPpdTnl0",
+      "discovered_at": "2026-07-09T22:27:32.978331"
+    },
+    {
+      "video_id": "1gLKKORGl9I",
+      "title": "Asambleísta Andrés Campos - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=1gLKKORGl9I",
+      "discovered_at": "2026-07-09T22:27:35.419806"
+    },
+    {
+      "video_id": "zaZQj-VR7ME",
+      "title": "Asambleísta Keevin Gallardo - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zaZQj-VR7ME",
+      "discovered_at": "2026-07-09T22:27:37.945471"
+    },
+    {
+      "video_id": "nrZFn__7JIU",
+      "title": "Asambleísta Eliana Correa - Sesión 101 - Punto de información",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nrZFn__7JIU",
+      "discovered_at": "2026-07-09T22:27:40.528845"
+    },
+    {
+      "video_id": "i-R4-XmAF9U",
+      "title": "Asambleísta Maria Cristina Acuña - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=i-R4-XmAF9U",
+      "discovered_at": "2026-07-09T22:27:42.930170"
+    },
+    {
+      "video_id": "ptv2T3Psb2o",
+      "title": "Asambleísta Diego Matovelle - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ptv2T3Psb2o",
+      "discovered_at": "2026-07-09T22:27:45.534319"
+    },
+    {
+      "video_id": "s2zfyh5ZUw0",
+      "title": "Asambleísta Gustavo Mateus - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=s2zfyh5ZUw0",
+      "discovered_at": "2026-07-09T22:27:48.108187"
+    },
+    {
+      "video_id": "qVUoWTW8c1w",
+      "title": "Asambleísta Sergio Peña - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qVUoWTW8c1w",
+      "discovered_at": "2026-07-09T22:27:50.450513"
+    },
+    {
+      "video_id": "Vn2AvqH8sKI",
+      "title": "Asambleísta Eliana Correa - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Vn2AvqH8sKI",
+      "discovered_at": "2026-07-09T22:27:52.774806"
+    },
+    {
+      "video_id": "LA1PlEUyrXg",
+      "title": "Asambleísta Ana Guim - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=LA1PlEUyrXg",
+      "discovered_at": "2026-07-09T22:27:55.071134"
+    },
+    {
+      "video_id": "4SaLUPLtKYM",
+      "title": "Asambleísta Camila Cueva - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=4SaLUPLtKYM",
+      "discovered_at": "2026-07-09T22:27:57.668488"
+    },
+    {
+      "video_id": "ZD3EnsMCjpI",
+      "title": "Asambleísta Liliana Durán - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ZD3EnsMCjpI",
+      "discovered_at": "2026-07-09T22:27:59.984693"
+    },
+    {
+      "video_id": "Ypnh7-2dEoE",
+      "title": "Asambleísta Juan José Reyes - Sesión 101",
+      "description": "",
+      "published_at": "2026-07-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Ypnh7-2dEoE",
+      "discovered_at": "2026-07-09T22:28:02.400397"
+    },
+    {
+      "video_id": "O015LZzbXr0",
+      "title": "Asambleísta Carmen Tiupul - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=O015LZzbXr0",
+      "discovered_at": "2026-07-09T22:28:04.921495"
+    },
+    {
+      "video_id": "ZnzJ5wcndFA",
+      "title": "Votación de la moción de la Asambleísta Rosa Torres - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ZnzJ5wcndFA",
+      "discovered_at": "2026-07-09T22:28:07.690812"
+    },
+    {
+      "video_id": "CtKsRdWAEn4",
+      "title": "Asambleísta Rosa Torres - Sesión 106 - II Intervención",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=CtKsRdWAEn4",
+      "discovered_at": "2026-07-09T22:28:10.151191"
+    },
+    {
+      "video_id": "McL12Iw4vLo",
+      "title": "Asambleísta Andrés Castillo - Sesión 106 - II Intervención",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=McL12Iw4vLo",
+      "discovered_at": "2026-07-09T22:28:12.414433"
+    },
+    {
+      "video_id": "-_IqjIoLRps",
+      "title": "Asambleísta Paola Cabezas - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=-_IqjIoLRps",
+      "discovered_at": "2026-07-09T22:28:15.225681"
+    },
+    {
+      "video_id": "l0_zwkOnts8",
+      "title": "Asambleísta Viviana Veloz - Sesión 106 - Punto de información",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=l0_zwkOnts8",
+      "discovered_at": "2026-07-09T22:28:17.928716"
+    },
+    {
+      "video_id": "v1SLUMgFH4c",
+      "title": "Asambleísta Andrés Castillo - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=v1SLUMgFH4c",
+      "discovered_at": "2026-07-09T22:28:20.480730"
+    },
+    {
+      "video_id": "w7EaBy3WHA8",
+      "title": "Asambleísta Adrián Castro - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=w7EaBy3WHA8",
+      "discovered_at": "2026-07-09T22:28:22.974755"
+    },
+    {
+      "video_id": "u1yiEKnM2Ns",
+      "title": "Asambleísta Christopher Jaramillo - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=u1yiEKnM2Ns",
+      "discovered_at": "2026-07-09T22:28:25.402958"
+    },
+    {
+      "video_id": "dbUunnsmEpQ",
+      "title": "Asambleísta Luigi García - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=dbUunnsmEpQ",
+      "discovered_at": "2026-07-09T22:28:27.802071"
+    },
+    {
+      "video_id": "eGldus7WvMA",
+      "title": "Asambleísta Diana Jácome - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=eGldus7WvMA",
+      "discovered_at": "2026-07-09T22:28:30.102196"
+    },
+    {
+      "video_id": "ZZ8JTfGc6a0",
+      "title": "Asambleísta Viviana Veloz - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ZZ8JTfGc6a0",
+      "discovered_at": "2026-07-09T22:28:32.839802"
+    },
+    {
+      "video_id": "DBwBIBppv4c",
+      "title": "Asambleísta Lucía Jaramillo - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=DBwBIBppv4c",
+      "discovered_at": "2026-07-09T22:28:35.593306"
+    },
+    {
+      "video_id": "AmI74lkm9kc",
+      "title": "Asambleísta Juan José Reyes - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=AmI74lkm9kc",
+      "discovered_at": "2026-07-09T22:28:38.355766"
+    },
+    {
+      "video_id": "oLYh3GmtCzA",
+      "title": "Asambleísta Edwin Jarrín - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oLYh3GmtCzA",
+      "discovered_at": "2026-07-09T22:28:41.071877"
+    },
+    {
+      "video_id": "jZR0p1nFmZo",
+      "title": "Asambleísta Keevin Gallardo - Sesión 106 - Punto de información",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=jZR0p1nFmZo",
+      "discovered_at": "2026-07-09T22:28:43.742795"
+    },
+    {
+      "video_id": "Dktlb_f4ZLQ",
+      "title": "Asambleísta César Palacios - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Dktlb_f4ZLQ",
+      "discovered_at": "2026-07-09T22:28:46.694590"
+    },
+    {
+      "video_id": "STUjLYYQY0M",
+      "title": "Asambleísta Keevin Gallardo - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=STUjLYYQY0M",
+      "discovered_at": "2026-07-09T22:28:49.413485"
+    },
+    {
+      "video_id": "2bD4Z9DjjFY",
+      "title": "Asambleísta Rosa Torres - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2bD4Z9DjjFY",
+      "discovered_at": "2026-07-09T22:28:52.261768"
+    },
+    {
+      "video_id": "BrcuBOjQfOE",
+      "title": "Votación de la moción del asambleísta Alex Morán - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=BrcuBOjQfOE",
+      "discovered_at": "2026-07-09T22:28:54.947223"
+    },
+    {
+      "video_id": "ckRR9AtsSaU",
+      "title": "Asambleísta Alex Morán - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ckRR9AtsSaU",
+      "discovered_at": "2026-07-09T22:28:57.436426"
+    },
+    {
+      "video_id": "OdZW5zh51eE",
+      "title": "Posesión Vocales Suplentes del Consejo de Participación Ciudadana y Control Social - Sesión 106",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=OdZW5zh51eE",
+      "discovered_at": "2026-07-09T22:28:59.942550"
+    },
+    {
+      "video_id": "pmFfqkV-BvI",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 106 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=pmFfqkV-BvI",
+      "discovered_at": "2026-07-09T22:29:02.529557"
+    },
+    {
+      "video_id": "PqRDfzlfLSM",
+      "title": "Voces de la Asamblea - Asambleísta Besibell Mendoza",
+      "description": "",
+      "published_at": "2026-07-03T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=PqRDfzlfLSM",
+      "discovered_at": "2026-07-09T22:29:05.164600"
+    },
+    {
+      "video_id": "yfNckXie7ic",
+      "title": "Asambleísta Nathaly Farinango - Sesión 105 - III Intervención",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yfNckXie7ic",
+      "discovered_at": "2026-07-09T22:29:07.965306"
+    },
+    {
+      "video_id": "e56kfz3y70w",
+      "title": "Asambleísta Mariana Yumbay - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=e56kfz3y70w",
+      "discovered_at": "2026-07-09T22:29:10.712419"
+    },
+    {
+      "video_id": "Rduu3M6e-ZQ",
+      "title": "Asambleísta Adrián Castro - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Rduu3M6e-ZQ",
+      "discovered_at": "2026-07-09T22:29:13.286455"
+    },
+    {
+      "video_id": "dvBKzOlPELg",
+      "title": "Asambleísta Mario Zambrano - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=dvBKzOlPELg",
+      "discovered_at": "2026-07-09T22:29:15.646241"
+    },
+    {
+      "video_id": "39wxEP0daOA",
+      "title": "Asambleísta Katherine Pacheco - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=39wxEP0daOA",
+      "discovered_at": "2026-07-09T22:29:18.216475"
+    },
+    {
+      "video_id": "_xXlcm13ads",
+      "title": "Asambleísta Wilson Lozano - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=_xXlcm13ads",
+      "discovered_at": "2026-07-09T22:29:20.997875"
+    },
+    {
+      "video_id": "95FFvCVl4LE",
+      "title": "Asambleísta Naomi Valladares - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=95FFvCVl4LE",
+      "discovered_at": "2026-07-09T22:29:23.561400"
+    },
+    {
+      "video_id": "j8ZsQn0JoI0",
+      "title": "Asambleísta Marco Olmedo - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=j8ZsQn0JoI0",
+      "discovered_at": "2026-07-09T22:29:25.883658"
+    },
+    {
+      "video_id": "ul-hcLs_Fkk",
+      "title": "Asambleísta Juan Gonzaga - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ul-hcLs_Fkk",
+      "discovered_at": "2026-07-09T22:29:28.554761"
+    },
+    {
+      "video_id": "CseAERT9ZXs",
+      "title": "Asambleísta Sergio Peña - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=CseAERT9ZXs",
+      "discovered_at": "2026-07-09T22:29:31.132096"
+    },
+    {
+      "video_id": "FoHIWCTEQjM",
+      "title": "Asambleísta Hernán Zapata - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FoHIWCTEQjM",
+      "discovered_at": "2026-07-09T22:29:33.947402"
+    },
+    {
+      "video_id": "Fwdi93cltP4",
+      "title": "Asambleísta Nathaly Farinango - Sesión 105 - II Intervención",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Fwdi93cltP4",
+      "discovered_at": "2026-07-09T22:29:36.554085"
+    },
+    {
+      "video_id": "6d-GDPH0LxQ",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=6d-GDPH0LxQ",
+      "discovered_at": "2026-07-09T22:29:39.063708"
+    },
+    {
+      "video_id": "eVrFYb-uZUk",
+      "title": "Asambleísta Carmen Tiupul - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=eVrFYb-uZUk",
+      "discovered_at": "2026-07-09T22:29:41.642040"
+    },
+    {
+      "video_id": "ka3zGdEWc2A",
+      "title": "Asambleísta Mónica Alemán - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ka3zGdEWc2A",
+      "discovered_at": "2026-07-09T22:29:44.231239"
+    },
+    {
+      "video_id": "rHItEVcZUgI",
+      "title": "Asambleísta Juan José Reyes - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rHItEVcZUgI",
+      "discovered_at": "2026-07-09T22:29:46.482085"
+    },
+    {
+      "video_id": "Hfiqmyb8lbg",
+      "title": "Asambleísta Alfredo Serrano - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Hfiqmyb8lbg",
+      "discovered_at": "2026-07-09T22:29:48.988141"
+    },
+    {
+      "video_id": "XYa5PvFWlGI",
+      "title": "Asambleista José Vallejo - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=XYa5PvFWlGI",
+      "discovered_at": "2026-07-09T22:29:51.326268"
+    },
+    {
+      "video_id": "yfO8PItuJDc",
+      "title": "Asambleísta Steve Villacres - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yfO8PItuJDc",
+      "discovered_at": "2026-07-09T22:29:53.904184"
+    },
+    {
+      "video_id": "hZJyiSeSK0Q",
+      "title": "Asambleísta Nathaly Farinango - Sesión 105",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hZJyiSeSK0Q",
+      "discovered_at": "2026-07-09T22:29:56.484912"
+    },
+    {
+      "video_id": "IL0OjH0RGgE",
+      "title": "Sesión 104 del Pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=IL0OjH0RGgE",
+      "discovered_at": "2026-07-09T22:29:59.290912"
+    },
+    {
+      "video_id": "0TSygDggnkQ",
+      "title": "Votación de la moción de la asambleísta Inés Alarcón - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=0TSygDggnkQ",
+      "discovered_at": "2026-07-09T22:30:01.994228"
+    },
+    {
+      "video_id": "1ydnzI9zUGA",
+      "title": "Asambleísta Juan González - Sesión 104 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=1ydnzI9zUGA",
+      "discovered_at": "2026-07-09T22:30:04.782893"
+    },
+    {
+      "video_id": "7fW658IgAC0",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7fW658IgAC0",
+      "discovered_at": "2026-07-09T22:30:07.115395"
+    },
+    {
+      "video_id": "dKNctHBuHO0",
+      "title": "Asambleísta Franklin Samaniego - Sesión 104 -Punto de información",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=dKNctHBuHO0",
+      "discovered_at": "2026-07-09T22:30:09.378997"
+    },
+    {
+      "video_id": "INN85kh6oU0",
+      "title": "Asambleísta Fernando Cedeño - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=INN85kh6oU0",
+      "discovered_at": "2026-07-09T22:30:11.865939"
+    },
+    {
+      "video_id": "gyq2XidLbNE",
+      "title": "Asambleísta Christopher Jaramillo - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=gyq2XidLbNE",
+      "discovered_at": "2026-07-09T22:30:14.111296"
+    },
+    {
+      "video_id": "I9ipxBQBc_I",
+      "title": "Asambleísta Inés Alarcón - Sesión 104 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=I9ipxBQBc_I",
+      "discovered_at": "2026-07-09T22:30:16.988244"
+    },
+    {
+      "video_id": "nt9W5rNXmU0",
+      "title": "Asambleísta Juan Andrés González - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nt9W5rNXmU0",
+      "discovered_at": "2026-07-09T22:30:19.551862"
+    },
+    {
+      "video_id": "tSZv-v_9k0M",
+      "title": "Asambleísta Adrián Castro - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=tSZv-v_9k0M",
+      "discovered_at": "2026-07-09T22:30:22.255128"
+    },
+    {
+      "video_id": "ifEpMpnYOew",
+      "title": "Asambleísta Franklin Samaniego - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ifEpMpnYOew",
+      "discovered_at": "2026-07-09T22:30:25.166824"
+    },
+    {
+      "video_id": "aDU1x7Nb7qg",
+      "title": "Asambleísta Inés Alarcón - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=aDU1x7Nb7qg",
+      "discovered_at": "2026-07-09T22:30:28.104520"
+    },
+    {
+      "video_id": "HDbhEhaLz3Y",
+      "title": "Votación de la moción del asambleísta Samuel Celleri - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HDbhEhaLz3Y",
+      "discovered_at": "2026-07-09T22:30:30.648623"
+    },
+    {
+      "video_id": "14G2_vWXaBU",
+      "title": "Asambleísta Samuel Celleri - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=14G2_vWXaBU",
+      "discovered_at": "2026-07-09T22:30:33.138098"
+    },
+    {
+      "video_id": "L5qv08e0lGY",
+      "title": "Asambleísta José Nango - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=L5qv08e0lGY",
+      "discovered_at": "2026-07-09T22:30:35.859234"
+    },
+    {
+      "video_id": "VAbn62EvrOA",
+      "title": "Asambleísta John Polanco - Sesión 104 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=VAbn62EvrOA",
+      "discovered_at": "2026-07-09T22:30:38.163070"
+    },
+    {
+      "video_id": "ydVu3OA2_-s",
+      "title": "Asambleísta Cristián Benavides - Sesión 104 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ydVu3OA2_-s",
+      "discovered_at": "2026-07-09T22:30:40.670211"
+    },
+    {
+      "video_id": "7tzeWjvcJI0",
+      "title": "Asambleísta Lucía Pozo - Sesión 104 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7tzeWjvcJI0",
+      "discovered_at": "2026-07-09T22:30:43.430333"
+    },
+    {
+      "video_id": "Up-xZbeamGI",
+      "title": "Asambleísta Paola Cabezas - Sesión 104 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Up-xZbeamGI",
+      "discovered_at": "2026-07-09T22:30:46.238325"
+    },
+    {
+      "video_id": "w7-3DvAxfEA",
+      "title": "Asambleísta Pablo Jurado - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=w7-3DvAxfEA",
+      "discovered_at": "2026-07-09T22:30:48.800053"
+    },
+    {
+      "video_id": "KY3X39YESI0",
+      "title": "Asambleísta Xavier Lasso - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=KY3X39YESI0",
+      "discovered_at": "2026-07-09T22:30:51.575787"
+    },
+    {
+      "video_id": "6ewpnqgQY2o",
+      "title": "Asambleísta Cristián Benavides - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=6ewpnqgQY2o",
+      "discovered_at": "2026-07-09T22:30:54.125109"
+    },
+    {
+      "video_id": "EqhTq6dz4_A",
+      "title": "Asambleísta John Polanco - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EqhTq6dz4_A",
+      "discovered_at": "2026-07-09T22:30:56.565107"
+    },
+    {
+      "video_id": "tyGOVsp_ois",
+      "title": "Asambleísta Paola Cabezas - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=tyGOVsp_ois",
+      "discovered_at": "2026-07-09T22:30:59.144316"
+    },
+    {
+      "video_id": "gYuM-eQtij0",
+      "title": "Asambleísta Karolina Dueñas - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=gYuM-eQtij0",
+      "discovered_at": "2026-07-09T22:31:01.663067"
+    },
+    {
+      "video_id": "QjfLB6MdMFQ",
+      "title": "Asambleísta Manuel Casanova - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=QjfLB6MdMFQ",
+      "discovered_at": "2026-07-09T22:31:04.121216"
+    },
+    {
+      "video_id": "6v-TCbBBzjU",
+      "title": "Votaciones de Mociones de la asambleísta Lucía Pozo - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=6v-TCbBBzjU",
+      "discovered_at": "2026-07-09T22:31:06.902997"
+    },
+    {
+      "video_id": "rh693Co8x-M",
+      "title": "Asambleísta Lucía Pozo - Sesión 104 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rh693Co8x-M",
+      "discovered_at": "2026-07-09T22:31:09.591622"
+    },
+    {
+      "video_id": "JZFOvEfadl4",
+      "title": "Asambleísta Juan Reyes - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=JZFOvEfadl4",
+      "discovered_at": "2026-07-09T22:31:11.952132"
+    },
+    {
+      "video_id": "EjJmP12NZMY",
+      "title": "Asambleísta Nuria Butiña - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EjJmP12NZMY",
+      "discovered_at": "2026-07-09T22:31:14.545797"
+    },
+    {
+      "video_id": "CX2v3dLgsy8",
+      "title": "Asambleísta Patricia Núñez - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=CX2v3dLgsy8",
+      "discovered_at": "2026-07-09T22:31:16.972187"
+    },
+    {
+      "video_id": "9hgQs0VDT6E",
+      "title": "Asambleísta Cristián Benavides - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=9hgQs0VDT6E",
+      "discovered_at": "2026-07-09T22:31:19.819874"
+    },
+    {
+      "video_id": "3yRDwVddFVc",
+      "title": "Asambleísta Xavier Lasso - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=3yRDwVddFVc",
+      "discovered_at": "2026-07-09T22:31:22.183543"
+    },
+    {
+      "video_id": "TRj6hvywoSM",
+      "title": "Asambleísta Lucía Pozo - Sesión 104",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=TRj6hvywoSM",
+      "discovered_at": "2026-07-09T22:31:24.889679"
+    },
+    {
+      "video_id": "iXdhnR8Z2JA",
+      "title": "Condecoración - Sesión 104 - Comisión General",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=iXdhnR8Z2JA",
+      "discovered_at": "2026-07-09T22:31:27.550264"
+    },
+    {
+      "video_id": "HjR4FTKFVDw",
+      "title": "Asambleísta Inés Alarcón - Sesión 104 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HjR4FTKFVDw",
+      "discovered_at": "2026-07-09T22:31:30.249247"
+    },
+    {
+      "video_id": "sWN5dojDP9I",
+      "title": "Votación de la moción de la asambleísta Ana Belén Tapia - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-25T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=sWN5dojDP9I",
+      "discovered_at": "2026-07-09T22:31:32.726145"
+    },
+    {
+      "video_id": "E9wMneZ0u_w",
+      "title": "Asambleísta Andrés Castillo - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=E9wMneZ0u_w",
+      "discovered_at": "2026-07-09T22:31:35.423980"
+    },
+    {
+      "video_id": "Tj05V3VGbBI",
+      "title": "Asambleísta Ricardo Patiño - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Tj05V3VGbBI",
+      "discovered_at": "2026-07-09T22:31:38.272427"
+    },
+    {
+      "video_id": "GB0-Eo9TzNU",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=GB0-Eo9TzNU",
+      "discovered_at": "2026-07-09T22:31:40.961303"
+    },
+    {
+      "video_id": "EcQW76tVsGI",
+      "title": "Asambleísta Juan Andrés González - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EcQW76tVsGI",
+      "discovered_at": "2026-07-09T22:31:43.612115"
+    },
+    {
+      "video_id": "DEqCRVDWaKA",
+      "title": "Asambleísta Keevin Gallardo - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=DEqCRVDWaKA",
+      "discovered_at": "2026-07-09T22:31:46.146776"
+    },
+    {
+      "video_id": "P8kOsMevhsA",
+      "title": "Asambleísta Christopher Jaramillo - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=P8kOsMevhsA",
+      "discovered_at": "2026-07-09T22:31:48.873740"
+    },
+    {
+      "video_id": "FxJOuRweUPk",
+      "title": "Asambleísta Mariana Yumbay - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FxJOuRweUPk",
+      "discovered_at": "2026-07-09T22:31:51.568023"
+    },
+    {
+      "video_id": "gBoI165o6Uo",
+      "title": "Asambleísta Alex Morán - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=gBoI165o6Uo",
+      "discovered_at": "2026-07-09T22:31:54.111122"
+    },
+    {
+      "video_id": "zmPFPDwaKDg",
+      "title": "Asambleísta César Palacios - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zmPFPDwaKDg",
+      "discovered_at": "2026-07-09T22:31:56.884292"
+    },
+    {
+      "video_id": "nE_PPZhk2mM",
+      "title": "Asambleísta María Paula Villacreses - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nE_PPZhk2mM",
+      "discovered_at": "2026-07-09T22:31:59.263317"
+    },
+    {
+      "video_id": "L9g8hYp3ccw",
+      "title": "Asambleísta Ana Belén Yela - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=L9g8hYp3ccw",
+      "discovered_at": "2026-07-09T22:32:02.191546"
+    },
+    {
+      "video_id": "FYYGLtAikxA",
+      "title": "Asambleísta Jorge Chamba - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FYYGLtAikxA",
+      "discovered_at": "2026-07-09T22:32:04.937060"
+    },
+    {
+      "video_id": "qy_ExBMLBrI",
+      "title": "Asambleísta Alfredo Serrano - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qy_ExBMLBrI",
+      "discovered_at": "2026-07-09T22:32:07.791632"
+    },
+    {
+      "video_id": "ZJ9yOCiyhzA",
+      "title": "Asambleísta Ana Tapia - Sesión 103 - Réplica",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ZJ9yOCiyhzA",
+      "discovered_at": "2026-07-09T22:32:10.578996"
+    },
+    {
+      "video_id": "fROV6l52zT8",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 103 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=fROV6l52zT8",
+      "discovered_at": "2026-07-09T22:32:13.224832"
+    },
+    {
+      "video_id": "EgnDvN8XvEY",
+      "title": "Asambleísta Adrián Castro - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EgnDvN8XvEY",
+      "discovered_at": "2026-07-09T22:32:16.148741"
+    },
+    {
+      "video_id": "Mi9J03Odxe4",
+      "title": "Asambleísta Pamela Aguirre - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Mi9J03Odxe4",
+      "discovered_at": "2026-07-09T22:32:19.111982"
+    },
+    {
+      "video_id": "XW5PIHvNjAk",
+      "title": "Primer vicepresidente de la Asamblea Nacional Esteban Torres - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=XW5PIHvNjAk",
+      "discovered_at": "2026-07-09T22:32:21.846019"
+    },
+    {
+      "video_id": "G_yEALZ8r9A",
+      "title": "Asambleísta Blasco Luna - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=G_yEALZ8r9A",
+      "discovered_at": "2026-07-09T22:32:24.408245"
+    },
+    {
+      "video_id": "DKdANQ7oPWM",
+      "title": "Asambleísta Juan Reyes - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=DKdANQ7oPWM",
+      "discovered_at": "2026-07-09T22:32:26.995812"
+    },
+    {
+      "video_id": "Pm5XU_la288",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Pm5XU_la288",
+      "discovered_at": "2026-07-09T22:32:29.710460"
+    },
+    {
+      "video_id": "MQIOSP_MW2M",
+      "title": "Asambleísta Ana Belén Tapia - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=MQIOSP_MW2M",
+      "discovered_at": "2026-07-09T22:32:32.732314"
+    },
+    {
+      "video_id": "Vzk3LJ3ebWw",
+      "title": "Votación de la moción de archivo del asambleísta Alejandro Lara - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Vzk3LJ3ebWw",
+      "discovered_at": "2026-07-09T22:32:35.041814"
+    },
+    {
+      "video_id": "A-7QaXCwMbk",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=A-7QaXCwMbk",
+      "discovered_at": "2026-07-09T22:32:37.693764"
+    },
+    {
+      "video_id": "MrGqApA9Zdo",
+      "title": "Asambleísta Eckenner Recalde - Sesión 103 - III Intervención",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=MrGqApA9Zdo",
+      "discovered_at": "2026-07-09T22:32:40.523464"
+    },
+    {
+      "video_id": "c_YY0tnkK2A",
+      "title": "Asambleísta Rubén Barberán - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=c_YY0tnkK2A",
+      "discovered_at": "2026-07-09T22:32:43.009774"
+    },
+    {
+      "video_id": "D59fsQw5dG4",
+      "title": "Asambleísta Pablo Jurado - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=D59fsQw5dG4",
+      "discovered_at": "2026-07-09T22:32:45.767629"
+    },
+    {
+      "video_id": "u2j25Eehv6M",
+      "title": "Asambleísta Patricia Núñez - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=u2j25Eehv6M",
+      "discovered_at": "2026-07-09T22:32:48.453864"
+    },
+    {
+      "video_id": "jmlUNKKjPUQ",
+      "title": "Asambleísta Eckenner Recalde - Sesión 103 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=jmlUNKKjPUQ",
+      "discovered_at": "2026-07-09T22:32:51.026472"
+    },
+    {
+      "video_id": "f8PIP8VM-hI",
+      "title": "Asambleísta Christopher Jaramillo - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=f8PIP8VM-hI",
+      "discovered_at": "2026-07-09T22:32:53.656186"
+    },
+    {
+      "video_id": "aLDR2Lw7h2Y",
+      "title": "Asambleísta Ricardo Patiño - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=aLDR2Lw7h2Y",
+      "discovered_at": "2026-07-09T22:32:56.510679"
+    },
+    {
+      "video_id": "JPJVjEWkdEs",
+      "title": "Asambleísta Naila Quintana - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=JPJVjEWkdEs",
+      "discovered_at": "2026-07-09T22:32:58.926319"
+    },
+    {
+      "video_id": "P_y8PoQ1pFE",
+      "title": "Asambleísta Humberto Alvarado - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=P_y8PoQ1pFE",
+      "discovered_at": "2026-07-09T22:33:01.704991"
+    },
+    {
+      "video_id": "_jnTONeaaeQ",
+      "title": "Asambleísta Eckenner Recalde - Sesión 103",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=_jnTONeaaeQ",
+      "discovered_at": "2026-07-09T22:33:04.479844"
+    },
+    {
+      "video_id": "Ue3F4vzPsoA",
+      "title": "Condecoración - Sesión 103 - Comisión General",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Ue3F4vzPsoA",
+      "discovered_at": "2026-07-09T22:33:07.320676"
+    },
+    {
+      "video_id": "7aRFKs0lQKM",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 103 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7aRFKs0lQKM",
+      "discovered_at": "2026-07-09T22:33:10.221004"
+    },
+    {
+      "video_id": "vQmODak7TCo",
+      "title": "Asambleísta Ana Belén Tapia - Sesión 103 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=vQmODak7TCo",
+      "discovered_at": "2026-07-09T22:33:13.071396"
+    },
+    {
+      "video_id": "k4nPlu5HXl0",
+      "title": "Asambleísta Xavier Ordóñez - Sesión 103 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=k4nPlu5HXl0",
+      "discovered_at": "2026-07-09T22:33:15.552291"
+    },
+    {
+      "video_id": "oFFUqPyJThw",
+      "title": "Asambleísta Mónica Salazar - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oFFUqPyJThw",
+      "discovered_at": "2026-07-09T22:33:18.274935"
+    },
+    {
+      "video_id": "z7-QfREXlJw",
+      "title": "Votación de la moción del asambleísta Fernando Jaramillo - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=z7-QfREXlJw",
+      "discovered_at": "2026-07-09T22:33:20.984929"
+    },
+    {
+      "video_id": "FM58tWb-kGA",
+      "title": "Asambleísta Edwin Jarrín - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FM58tWb-kGA",
+      "discovered_at": "2026-07-09T22:33:23.705657"
+    },
+    {
+      "video_id": "drbhQ8PSh3k",
+      "title": "Asambleísta Fernando Jaramillo - Sesión 102 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=drbhQ8PSh3k",
+      "discovered_at": "2026-07-09T22:33:26.652118"
+    },
+    {
+      "video_id": "nJzXxNFUBiM",
+      "title": "Votación de la  moción de la asambleísta Cecilia Baltazar - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nJzXxNFUBiM",
+      "discovered_at": "2026-07-09T22:33:29.421502"
+    },
+    {
+      "video_id": "G3G7zcOcvH0",
+      "title": "Asambleísta Gustavo Mateus - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=G3G7zcOcvH0",
+      "discovered_at": "2026-07-09T22:33:31.982054"
+    },
+    {
+      "video_id": "x1Vdg40IxOA",
+      "title": "Asambleísta Juan José Reyes - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=x1Vdg40IxOA",
+      "discovered_at": "2026-07-09T22:33:34.692524"
+    },
+    {
+      "video_id": "aQghvpLsiCc",
+      "title": "Asambleísta Cecilia Baltazar - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=aQghvpLsiCc",
+      "discovered_at": "2026-07-09T22:33:37.240065"
+    },
+    {
+      "video_id": "l7PXsbSEpuY",
+      "title": "Votación de la moción del asambleísta  Xavier Ordoñez - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=l7PXsbSEpuY",
+      "discovered_at": "2026-07-09T22:33:39.913401"
+    },
+    {
+      "video_id": "p8YGm9_p8XA",
+      "title": "Asambleísta Adrián Castro - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=p8YGm9_p8XA",
+      "discovered_at": "2026-07-09T22:33:42.575924"
+    },
+    {
+      "video_id": "WjbPUpTtE80",
+      "title": "Asambleísta Arisdely Parrales - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WjbPUpTtE80",
+      "discovered_at": "2026-07-09T22:33:45.366771"
+    },
+    {
+      "video_id": "SNJZiG6APUk",
+      "title": "Asambleísta Sergio Peña - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=SNJZiG6APUk",
+      "discovered_at": "2026-07-09T22:33:48.100683"
+    },
+    {
+      "video_id": "z8RN0fNBkn8",
+      "title": "Asambleísta Edwin Jarrín - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=z8RN0fNBkn8",
+      "discovered_at": "2026-07-09T22:33:50.750251"
+    },
+    {
+      "video_id": "uUyXKYWOuuw",
+      "title": "Asambleísta Xavier Ordóñez - Sesión 102 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=uUyXKYWOuuw",
+      "discovered_at": "2026-07-09T22:33:53.345962"
+    },
+    {
+      "video_id": "bzJ0ZEBeWsE",
+      "title": "Asambleísta Franklin Samaniego - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=bzJ0ZEBeWsE",
+      "discovered_at": "2026-07-09T22:33:56.351042"
+    },
+    {
+      "video_id": "eSuQ9gGuoK4",
+      "title": "Asambleísta Johnny Lavayen - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=eSuQ9gGuoK4",
+      "discovered_at": "2026-07-09T22:33:58.988012"
+    },
+    {
+      "video_id": "zhthOOnVMLw",
+      "title": "Asambleísta Liliana Durán - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zhthOOnVMLw",
+      "discovered_at": "2026-07-09T22:34:01.795790"
+    },
+    {
+      "video_id": "JhL59U5D0Ks",
+      "title": "Asambleísta Mauricio Ordoñez - Sesión 102",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=JhL59U5D0Ks",
+      "discovered_at": "2026-07-09T22:34:05.141518"
+    },
+    {
+      "video_id": "-hgLwuopwyc",
+      "title": "Asambleísta Fernando Jaramillo - Sesión 102 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=-hgLwuopwyc",
+      "discovered_at": "2026-07-09T22:34:07.988807"
+    },
+    {
+      "video_id": "coxKLvDHhw8",
+      "title": "Voces de la Asamblea - Pablo Jurado",
+      "description": "",
+      "published_at": "2026-06-19T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=coxKLvDHhw8",
+      "discovered_at": "2026-07-09T22:34:10.677507"
+    },
+    {
+      "video_id": "m5-ji6QZl5U",
+      "title": "Asamblea aprueba avances económicos y respalda Operación Victoria",
+      "description": "",
+      "published_at": "2026-06-19T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=m5-ji6QZl5U",
+      "discovered_at": "2026-07-09T22:34:13.299304"
+    },
+    {
+      "video_id": "8EF-AjEhfzo",
+      "title": "Votación de la moción del asambleísta Mario Zambrano - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=8EF-AjEhfzo",
+      "discovered_at": "2026-07-09T22:34:16.222068"
+    },
+    {
+      "video_id": "_l8-tNBQ5co",
+      "title": "Asambleísta Katherine Pacheco - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=_l8-tNBQ5co",
+      "discovered_at": "2026-07-09T22:34:18.784271"
+    },
+    {
+      "video_id": "mmekdUuMP4I",
+      "title": "Asambleísta María Molina - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=mmekdUuMP4I",
+      "discovered_at": "2026-07-09T22:34:21.424848"
+    },
+    {
+      "video_id": "hRKKkNAwXPM",
+      "title": "Asambleísta Mario Zambrano - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hRKKkNAwXPM",
+      "discovered_at": "2026-07-09T22:34:23.762210"
+    },
+    {
+      "video_id": "HIYt8UYJfbU",
+      "title": "Votacioón de la Moción del asambleísta Domenica Escobar - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HIYt8UYJfbU",
+      "discovered_at": "2026-07-09T22:34:26.332113"
+    },
+    {
+      "video_id": "t5U23BdoS8k",
+      "title": "Asambleísta Domenica Escobar - Sesión 097",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=t5U23BdoS8k",
+      "discovered_at": "2026-07-09T22:34:28.864517"
+    },
+    {
+      "video_id": "0R5dJ7ei1sQ",
+      "title": "¿Qué resolvió el Pleno sobre Segura EP?",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=0R5dJ7ei1sQ",
+      "discovered_at": "2026-07-09T22:34:31.596624"
+    },
+    {
+      "video_id": "Bdp-iz-rYg0",
+      "title": "Votación de la moción del asambleísta Adrián Castro - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Bdp-iz-rYg0",
+      "discovered_at": "2026-07-09T22:34:34.091239"
+    },
+    {
+      "video_id": "xZ6yOmNwxzE",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 078 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=xZ6yOmNwxzE",
+      "discovered_at": "2026-07-09T22:34:36.664653"
+    },
+    {
+      "video_id": "hnGMXmCo5t4",
+      "title": "Asambleísta Edwin Jarrín - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hnGMXmCo5t4",
+      "discovered_at": "2026-07-09T22:34:39.115598"
+    },
+    {
+      "video_id": "l3qSfQG5HmU",
+      "title": "Asambleísta Luis Molina - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=l3qSfQG5HmU",
+      "discovered_at": "2026-07-09T22:34:41.685045"
+    },
+    {
+      "video_id": "H2qtFK_E16M",
+      "title": "Asambleísta Adrián Castro - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=H2qtFK_E16M",
+      "discovered_at": "2026-07-09T22:34:44.272175"
+    },
+    {
+      "video_id": "gWX0nURUCus",
+      "title": "Votación de la moción del asambleísta Anthony Becerra - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=gWX0nURUCus",
+      "discovered_at": "2026-07-09T22:34:46.584554"
+    },
+    {
+      "video_id": "Hb0ccDtY-GA",
+      "title": "Asambleísta Gerardo Machado - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Hb0ccDtY-GA",
+      "discovered_at": "2026-07-09T22:34:49.049555"
+    },
+    {
+      "video_id": "iPagBZLHxqE",
+      "title": "Asambleísta Anthony Becerra - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=iPagBZLHxqE",
+      "discovered_at": "2026-07-09T22:34:51.385237"
+    },
+    {
+      "video_id": "wv06m9keZEw",
+      "title": "Votación de la moción del asambleísta Xavier Ordoñez - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wv06m9keZEw",
+      "discovered_at": "2026-07-09T22:34:53.790976"
+    },
+    {
+      "video_id": "wJPGfXEjPIE",
+      "title": "Asambleísta Luis Jácome - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wJPGfXEjPIE",
+      "discovered_at": "2026-07-09T22:34:56.370470"
+    },
+    {
+      "video_id": "wVvwOHnkpfY",
+      "title": "Asambleísta Naila Quintana - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wVvwOHnkpfY",
+      "discovered_at": "2026-07-09T22:34:58.599200"
+    },
+    {
+      "video_id": "OG5eJfz4rk8",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=OG5eJfz4rk8",
+      "discovered_at": "2026-07-09T22:35:01.146867"
+    },
+    {
+      "video_id": "3brWLLcWIes",
+      "title": "Asambleísta Roque Ordoñez - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=3brWLLcWIes",
+      "discovered_at": "2026-07-09T22:35:03.589943"
+    },
+    {
+      "video_id": "WX_NCF2C7jI",
+      "title": "Asambleísta Patricia Núñez - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WX_NCF2C7jI",
+      "discovered_at": "2026-07-09T22:35:05.884449"
+    },
+    {
+      "video_id": "IftQVhTXbLU",
+      "title": "Asambleísta Jorge Chamba - Sesión 078",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=IftQVhTXbLU",
+      "discovered_at": "2026-07-09T22:35:08.453113"
+    },
+    {
+      "video_id": "Xrp5luODkKw",
+      "title": "Votación de la moción del asambleísta Andrés Castillo - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Xrp5luODkKw",
+      "discovered_at": "2026-07-09T22:35:10.995308"
+    },
+    {
+      "video_id": "2kBvWfggaws",
+      "title": "Asambleísta Ferdinán Álvarez - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2kBvWfggaws",
+      "discovered_at": "2026-07-09T22:35:13.683019"
+    },
+    {
+      "video_id": "88TJ6y2X82g",
+      "title": "Asambleísta Andrés Castillo - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=88TJ6y2X82g",
+      "discovered_at": "2026-07-09T22:35:16.446302"
+    },
+    {
+      "video_id": "yfJxsKWq5vo",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yfJxsKWq5vo",
+      "discovered_at": "2026-07-09T22:35:19.111204"
+    },
+    {
+      "video_id": "nKnTNqpGLpQ",
+      "title": "Asambleísta Alex Morán - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nKnTNqpGLpQ",
+      "discovered_at": "2026-07-09T22:35:21.453650"
+    },
+    {
+      "video_id": "X3BAianQl_8",
+      "title": "Asambleísta Juan González - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=X3BAianQl_8",
+      "discovered_at": "2026-07-09T22:35:24.088271"
+    },
+    {
+      "video_id": "bh_6JncB-1g",
+      "title": "Asambleísta Luigi García - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=bh_6JncB-1g",
+      "discovered_at": "2026-07-09T22:35:26.795325"
+    },
+    {
+      "video_id": "Y55NoYUlfBk",
+      "title": "Asambleísta Andrés Castillo - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Y55NoYUlfBk",
+      "discovered_at": "2026-07-09T22:35:29.699158"
+    },
+    {
+      "video_id": "Rj0QMFifFxU",
+      "title": "Asambleísta Annabella Azín - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Rj0QMFifFxU",
+      "discovered_at": "2026-07-09T22:35:32.400083"
+    },
+    {
+      "video_id": "oasm3hHGzEA",
+      "title": "Asambleísta Victoria Desintonio - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oasm3hHGzEA",
+      "discovered_at": "2026-07-09T22:35:35.154894"
+    },
+    {
+      "video_id": "m0usoYtDj7w",
+      "title": "Asambleísta Milton Aguas - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=m0usoYtDj7w",
+      "discovered_at": "2026-07-09T22:35:37.825199"
+    },
+    {
+      "video_id": "oYEmmBU0W2g",
+      "title": "Asambleísta Cristina Jácome - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oYEmmBU0W2g",
+      "discovered_at": "2026-07-09T22:35:40.344733"
+    },
+    {
+      "video_id": "Wk4glI5DJBQ",
+      "title": "Asambleísta Pablo Jurado - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Wk4glI5DJBQ",
+      "discovered_at": "2026-07-09T22:35:43.166101"
+    },
+    {
+      "video_id": "dOFpEgFQD8A",
+      "title": "Asambleísta Eliana Correa - Sesión 101 - Punto de información",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=dOFpEgFQD8A",
+      "discovered_at": "2026-07-09T22:35:45.723513"
+    },
+    {
+      "video_id": "OUpZdcwlovM",
+      "title": "Asambleísta Juan Reyes - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=OUpZdcwlovM",
+      "discovered_at": "2026-07-09T22:35:48.134925"
+    },
+    {
+      "video_id": "6idnYYu0yTc",
+      "title": "Asambleísta Alex Morán - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=6idnYYu0yTc",
+      "discovered_at": "2026-07-09T22:35:50.930755"
+    },
+    {
+      "video_id": "Kv8wbiy0Hjw",
+      "title": "Votación de la moción del asambleísta Alex Morán - Sesión 101",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Kv8wbiy0Hjw",
+      "discovered_at": "2026-07-09T22:35:53.653728"
+    },
+    {
+      "video_id": "GYuZT0Gv_DI",
+      "title": "Asambleísta Camila Cueva - Sesión 101 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=GYuZT0Gv_DI",
+      "discovered_at": "2026-07-09T22:35:56.134436"
+    },
+    {
+      "video_id": "otv4S1ogUbI",
+      "title": "Asambleísta Andrés Castillo - Sesión 101 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=otv4S1ogUbI",
+      "discovered_at": "2026-07-09T22:35:59.173736"
+    },
+    {
+      "video_id": "Luf_gWOI-6s",
+      "title": "Asambleísta Mónica Salazar - Sesión 101 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Luf_gWOI-6s",
+      "discovered_at": "2026-07-09T22:36:01.782089"
+    },
+    {
+      "video_id": "W-3KkjIgvq0",
+      "title": "Posesión y toma de juramento del primer vicepresidente Esteban Torres   Sesión 100",
+      "description": "",
+      "published_at": "2026-06-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=W-3KkjIgvq0",
+      "discovered_at": "2026-07-09T22:36:04.732690"
+    },
+    {
+      "video_id": "4SfVMqqK16U",
+      "title": "Reconsideración de la votación de la moción del asambleísta Pablo Jurado - Sesión 100",
+      "description": "",
+      "published_at": "2026-06-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=4SfVMqqK16U",
+      "discovered_at": "2026-07-09T22:36:07.386539"
+    },
+    {
+      "video_id": "T6ElLfQHr8E",
+      "title": "Votación de la moción del asambleísta Pablo Jurado - Sesión 100",
+      "description": "",
+      "published_at": "2026-06-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=T6ElLfQHr8E",
+      "discovered_at": "2026-07-09T22:36:10.361993"
+    },
+    {
+      "video_id": "899xXjs-q0A",
+      "title": "Asambleísta Pablo Jurado - Sesión 100",
+      "description": "",
+      "published_at": "2026-06-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=899xXjs-q0A",
+      "discovered_at": "2026-07-09T22:36:13.011017"
+    },
+    {
+      "video_id": "UnG5L8QCFjs",
+      "title": "Votación de la moción de la asambleísta Melissa Zambrano - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=UnG5L8QCFjs",
+      "discovered_at": "2026-07-09T22:36:15.544946"
+    },
+    {
+      "video_id": "uizGg7CAd10",
+      "title": "Asambleísta Melissa Zambrano - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=uizGg7CAd10",
+      "discovered_at": "2026-07-09T22:36:18.330428"
+    },
+    {
+      "video_id": "7N7JjUx5rjc",
+      "title": "Votación de la reconsideración de la moción de la asambleísta Jhajaira Urresta - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7N7JjUx5rjc",
+      "discovered_at": "2026-07-09T22:36:21.113030"
+    },
+    {
+      "video_id": "nrVC_31c7-I",
+      "title": "Votación de la moción de la asambleísta Jhajaira Urresta - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nrVC_31c7-I",
+      "discovered_at": "2026-07-09T22:36:23.931710"
+    },
+    {
+      "video_id": "kIP2lqFMQjA",
+      "title": "Asambleísta Inés Alarcón - Sesión 099 - Réplica",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=kIP2lqFMQjA",
+      "discovered_at": "2026-07-09T22:36:26.857758"
+    },
+    {
+      "video_id": "U_-kQwgZWcw",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 099 - II Intervención",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=U_-kQwgZWcw",
+      "discovered_at": "2026-07-09T22:36:29.747643"
+    },
+    {
+      "video_id": "CUq8c-SBL3U",
+      "title": "Asambleísta Jahiren Noriega - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=CUq8c-SBL3U",
+      "discovered_at": "2026-07-09T22:36:32.677335"
+    },
+    {
+      "video_id": "KtyHwVdhhW0",
+      "title": "Asambleísta Andrés Castillo - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=KtyHwVdhhW0",
+      "discovered_at": "2026-07-09T22:36:35.432872"
+    },
+    {
+      "video_id": "hK_n00QHveQ",
+      "title": "Asambleísta Inés Alarcón - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hK_n00QHveQ",
+      "discovered_at": "2026-07-09T22:36:38.196977"
+    },
+    {
+      "video_id": "-AAk4bbEYaU",
+      "title": "Asambleísta Humberto Alvarado - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=-AAk4bbEYaU",
+      "discovered_at": "2026-07-09T22:36:40.705116"
+    },
+    {
+      "video_id": "1-oG5oWEPDY",
+      "title": "Asambleísta John Polanco - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=1-oG5oWEPDY",
+      "discovered_at": "2026-07-09T22:36:43.351953"
+    },
+    {
+      "video_id": "646P-rAxhA0",
+      "title": "Asambleísta Gerardo Machado - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=646P-rAxhA0",
+      "discovered_at": "2026-07-09T22:36:45.891478"
+    },
+    {
+      "video_id": "PxZ_mfLdPGc",
+      "title": "Asambleísta Juan Gonzaga - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=PxZ_mfLdPGc",
+      "discovered_at": "2026-07-09T22:36:48.450634"
+    },
+    {
+      "video_id": "98AO4xKLMnY",
+      "title": "Asambleísta Camila León - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=98AO4xKLMnY",
+      "discovered_at": "2026-07-09T22:36:51.097694"
+    },
+    {
+      "video_id": "15QCwsFr8gU",
+      "title": "Asambleísta Jhajaira Urresta - Sesión 99",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=15QCwsFr8gU",
+      "discovered_at": "2026-07-09T22:36:53.868897"
+    },
+    {
+      "video_id": "FBGSGnIywlk",
+      "title": "Votación de la reconsideración de la asambleísta Lucía Jaramillo - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FBGSGnIywlk",
+      "discovered_at": "2026-07-09T22:36:56.734880"
+    },
+    {
+      "video_id": "lQrOYjF52Nk",
+      "title": "Votación de la moción de la asambleísta Lucía Jaramillo - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=lQrOYjF52Nk",
+      "discovered_at": "2026-07-09T22:36:59.268671"
+    },
+    {
+      "video_id": "2dGr0C2zmrs",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2dGr0C2zmrs",
+      "discovered_at": "2026-07-09T22:37:01.799149"
+    },
+    {
+      "video_id": "hhX7FpJGiq8",
+      "title": "Asambleísta Domenica Escobar - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hhX7FpJGiq8",
+      "discovered_at": "2026-07-09T22:37:04.397501"
+    },
+    {
+      "video_id": "H6TmS-Dm7s8",
+      "title": "Asambleísta Keevin Gallardo - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=H6TmS-Dm7s8",
+      "discovered_at": "2026-07-09T22:37:07.071871"
+    },
+    {
+      "video_id": "M3Ptktwk6kE",
+      "title": "Asambleísta Arisdely Parrales - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=M3Ptktwk6kE",
+      "discovered_at": "2026-07-09T22:37:09.889826"
+    },
+    {
+      "video_id": "Fc2_LAFjcjY",
+      "title": "Asambleísta Johnny Lavayén - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Fc2_LAFjcjY",
+      "discovered_at": "2026-07-09T22:37:12.376153"
+    },
+    {
+      "video_id": "s9J3OGUSksw",
+      "title": "Asambleísta Alfredo Serrano - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=s9J3OGUSksw",
+      "discovered_at": "2026-07-09T22:37:14.973237"
+    },
+    {
+      "video_id": "GvJKitYVlKQ",
+      "title": "Asambleísta Bertha Vélez - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=GvJKitYVlKQ",
+      "discovered_at": "2026-07-09T22:37:17.527007"
+    },
+    {
+      "video_id": "y68lIDK-_I4",
+      "title": "Asambleísta Lucía Jaramillo - Sesión 099",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=y68lIDK-_I4",
+      "discovered_at": "2026-07-09T22:37:20.672260"
+    },
+    {
+      "video_id": "lEa9E8eCfYM",
+      "title": "Condecoración - Sesión 099 - Comisión General",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=lEa9E8eCfYM",
+      "discovered_at": "2026-07-09T22:37:23.754470"
+    },
+    {
+      "video_id": "9HhgsE15GII",
+      "title": "Asambleísta Andrés Guschmer - Sesión 099 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=9HhgsE15GII",
+      "discovered_at": "2026-07-09T22:37:26.253519"
+    },
+    {
+      "video_id": "RqauEu4ucQg",
+      "title": "Asambleísta Adrián Castro - Sesión 099 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=RqauEu4ucQg",
+      "discovered_at": "2026-07-09T22:37:28.904913"
+    },
+    {
+      "video_id": "v7jmYP4PdRw",
+      "title": "Asambleísta Andrés Castillo - Sesión 099 - Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=v7jmYP4PdRw",
+      "discovered_at": "2026-07-09T22:37:31.643761"
+    },
+    {
+      "video_id": "am-Z95tCTtU",
+      "title": "Asambleísta Andrés Castillo - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=am-Z95tCTtU",
+      "discovered_at": "2026-07-09T22:37:34.252536"
+    },
+    {
+      "video_id": "zIwhu4CTrYA",
+      "title": "Asambleístas Adrián Castro - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zIwhu4CTrYA",
+      "discovered_at": "2026-07-09T22:37:36.854434"
+    },
+    {
+      "video_id": "yfaJqE8hemc",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yfaJqE8hemc",
+      "discovered_at": "2026-07-09T22:37:39.453074"
+    },
+    {
+      "video_id": "zF45odH-HA8",
+      "title": "Asambleísta Edwin Jarrín - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zF45odH-HA8",
+      "discovered_at": "2026-07-09T22:37:42.248292"
+    },
+    {
+      "video_id": "2zozkc1BHOs",
+      "title": "Asambleísta Marco Olmedo - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2zozkc1BHOs",
+      "discovered_at": "2026-07-09T22:37:47.504699"
+    },
+    {
+      "video_id": "bnp6fF7NBGU",
+      "title": "Asambleísta Keevin Gallardo - Sesión 098",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=bnp6fF7NBGU",
+      "discovered_at": "2026-07-09T22:37:49.875104"
+    },
+    {
       "video_id": "mp_3B3pqpig",
       "title": "Asambleísta Gabriela Molina - Sesión 087",
       "description": "",
@@ -7199,7 +9368,1438 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=0mPHHeLnCxo",
       "discovered_at": "2026-05-13T02:41:08.396591"
+    },
+    {
+      "video_id": "-vRufGiuNf8",
+      "title": "Assemblywoman Inés Alarcón - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=-vRufGiuNf8",
+      "discovered_at": "2026-07-09T22:37:44.966714"
+    },
+    {
+      "video_id": "wi-rBP5Bz38",
+      "title": "Assemblywoman Mariana Yumbay - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wi-rBP5Bz38",
+      "discovered_at": "2026-07-09T22:37:52.330371"
+    },
+    {
+      "video_id": "WmREmOBcVL4",
+      "title": "Assemblywoman Liliana Durán - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WmREmOBcVL4",
+      "discovered_at": "2026-07-09T22:37:54.665078"
+    },
+    {
+      "video_id": "OfRxk3vdsDw",
+      "title": "Assemblyman Sergio Peña - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=OfRxk3vdsDw",
+      "discovered_at": "2026-07-09T22:37:56.826594"
+    },
+    {
+      "video_id": "LreP7J2isV0",
+      "title": "Assemblyman Alfredo Serrano - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=LreP7J2isV0",
+      "discovered_at": "2026-07-09T22:37:58.961266"
+    },
+    {
+      "video_id": "p06QMyuqSdM",
+      "title": "Assemblyman Juan José Reyes - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
+      "discovered_at": "2026-07-09T22:38:01.111583"
+    },
+    {
+      "video_id": "c1eIY0MwPFE",
+      "title": "Assemblyman Cristian Benavides - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=c1eIY0MwPFE",
+      "discovered_at": "2026-07-09T22:38:03.322486"
+    },
+    {
+      "video_id": "IfZKL06IWIA",
+      "title": "Assemblywoman Rosa Torres - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=IfZKL06IWIA",
+      "discovered_at": "2026-07-09T22:38:05.545546"
+    },
+    {
+      "video_id": "ncS7qTT4t4A",
+      "title": "Vote on Assemblywoman Ana Belén Tapia's motion - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ncS7qTT4t4A",
+      "discovered_at": "2026-07-09T22:38:07.823120"
+    },
+    {
+      "video_id": "E8Idptu6sxc",
+      "title": "Assemblyman Adrián Castro - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=E8Idptu6sxc",
+      "discovered_at": "2026-07-09T22:38:09.904335"
+    },
+    {
+      "video_id": "roQrPGbEbeI",
+      "title": "Assemblywoman Ana Belén Tapia - Session 098 - Point of Information",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
+      "discovered_at": "2026-07-09T22:38:12.542372"
+    },
+    {
+      "video_id": "JPxhzMLnMKk",
+      "title": "Assemblyman Héctor Rodríguez - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=JPxhzMLnMKk",
+      "discovered_at": "2026-07-09T22:38:15.015029"
+    },
+    {
+      "video_id": "YupHrSzZY_k",
+      "title": "Assemblywoman Ana Belén Tapia - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=YupHrSzZY_k",
+      "discovered_at": "2026-07-09T22:38:17.230347"
+    },
+    {
+      "video_id": "yM-5EVGnieo",
+      "title": "President of the National Assembly Mishel Mancheno - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yM-5EVGnieo",
+      "discovered_at": "2026-07-09T22:38:19.528483"
+    },
+    {
+      "video_id": "oiY6SGuWOJo",
+      "title": "Niels Olsen resigns as President of the National Assembly - Session 098",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oiY6SGuWOJo",
+      "discovered_at": "2026-07-09T22:38:21.656113"
+    },
+    {
+      "video_id": "8HWYS9MAP-A",
+      "title": "Assemblywoman Yadira Bayas - Session 098 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=8HWYS9MAP-A",
+      "discovered_at": "2026-07-09T22:38:23.811616"
+    },
+    {
+      "video_id": "qFNtadAhoZc",
+      "title": "Assemblyman Kevin Gallardo - Session 098 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qFNtadAhoZc",
+      "discovered_at": "2026-07-09T22:38:26.165090"
+    },
+    {
+      "video_id": "wBqlDucKwiI",
+      "title": "Assemblywoman Besibell Mendoza - Session 098 - Change of agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wBqlDucKwiI",
+      "discovered_at": "2026-07-09T22:38:28.317029"
+    },
+    {
+      "video_id": "Z-sOGKzKaiI",
+      "title": "Assemblywoman Esperanza Rogel - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Z-sOGKzKaiI",
+      "discovered_at": "2026-07-09T22:38:30.502766"
+    },
+    {
+      "video_id": "D9MPLNAczXE",
+      "title": "Assemblyman Pablo Jurado - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=D9MPLNAczXE",
+      "discovered_at": "2026-07-09T22:38:32.904271"
+    },
+    {
+      "video_id": "2I-3nRYYKss",
+      "title": "Assembly Member Cristián Benavides - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2I-3nRYYKss",
+      "discovered_at": "2026-07-09T22:38:35.067450"
+    },
+    {
+      "video_id": "rviWLBI0NlU",
+      "title": "Assemblywoman Mariana Yumbay - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rviWLBI0NlU",
+      "discovered_at": "2026-07-09T22:38:37.255113"
+    },
+    {
+      "video_id": "IuXk2GW1uzA",
+      "title": "Assemblywoman Verónica Iñiguez - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=IuXk2GW1uzA",
+      "discovered_at": "2026-07-09T22:38:39.552138"
+    },
+    {
+      "video_id": "D6iXN9Pvhm4",
+      "title": "Assemblywoman Camila León - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=D6iXN9Pvhm4",
+      "discovered_at": "2026-07-09T22:38:41.773884"
+    },
+    {
+      "video_id": "h6xwFozutj4",
+      "title": "Assemblywoman Sade Fritschi - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=h6xwFozutj4",
+      "discovered_at": "2026-07-09T22:38:44.035742"
+    },
+    {
+      "video_id": "DVajK8kVyP8",
+      "title": "Assemblywoman Janina Rizzo - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=DVajK8kVyP8",
+      "discovered_at": "2026-07-09T22:38:46.418254"
+    },
+    {
+      "video_id": "LrPOZRZ-jDM",
+      "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=LrPOZRZ-jDM",
+      "discovered_at": "2026-07-09T22:38:48.553758"
+    },
+    {
+      "video_id": "EQ28U8R4Htw",
+      "title": "Assemblyman Adrián Castro - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EQ28U8R4Htw",
+      "discovered_at": "2026-07-09T22:38:50.812954"
+    },
+    {
+      "video_id": "vqjaZWfXXd4",
+      "title": "Assemblyman Luis Molina - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=vqjaZWfXXd4",
+      "discovered_at": "2026-07-09T22:38:52.799207"
+    },
+    {
+      "video_id": "MylkLNgGmm4",
+      "title": "Assemblyman Sergio Peña - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=MylkLNgGmm4",
+      "discovered_at": "2026-07-09T22:38:55.131270"
+    },
+    {
+      "video_id": "d4yP1m-WWAk",
+      "title": "Assemblyman Alejandro Lara - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=d4yP1m-WWAk",
+      "discovered_at": "2026-07-09T22:38:57.414274"
+    },
+    {
+      "video_id": "c4gu9QA8a6E",
+      "title": "Assemblyman Diego Franco - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=c4gu9QA8a6E",
+      "discovered_at": "2026-07-09T22:38:59.437215"
+    },
+    {
+      "video_id": "qUQe1FuEOso",
+      "title": "Vote on the reconsideration of Assemblyman John Polanco - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qUQe1FuEOso",
+      "discovered_at": "2026-07-09T22:39:01.863730"
+    },
+    {
+      "video_id": "WZL5kD4rBw0",
+      "title": "Voting on the motion of Assemblyman John Polanco - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WZL5kD4rBw0",
+      "discovered_at": "2026-07-09T22:39:03.948285"
+    },
+    {
+      "video_id": "oCuv6ONYHyI",
+      "title": "Assemblywoman Cecilia Baltazar - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oCuv6ONYHyI",
+      "discovered_at": "2026-07-09T22:39:06.133277"
+    },
+    {
+      "video_id": "HccLhtm3xIA",
+      "title": "Assemblyman Juan José Reyes - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HccLhtm3xIA",
+      "discovered_at": "2026-07-09T22:39:08.271894"
+    },
+    {
+      "video_id": "es-nFNQBrks",
+      "title": "Assemblyman John Polanco - Session 097",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=es-nFNQBrks",
+      "discovered_at": "2026-07-09T22:39:10.323578"
+    },
+    {
+      "video_id": "i8RW9b6i5Oc",
+      "title": "Assemblyman Mario Zambrano - Session 097 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=i8RW9b6i5Oc",
+      "discovered_at": "2026-07-09T22:39:12.683924"
+    },
+    {
+      "video_id": "ittqRwT5QJU",
+      "title": "Assemblywoman Carolina Escobar - Session 097 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ittqRwT5QJU",
+      "discovered_at": "2026-07-09T22:39:14.914545"
+    },
+    {
+      "video_id": "NV34v1Ezy_A",
+      "title": "Assemblyman Luigi García - Session 097 - Agenda Change",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=NV34v1Ezy_A",
+      "discovered_at": "2026-07-09T22:39:16.932121"
+    },
+    {
+      "video_id": "xu7rQP7dcFw",
+      "title": "Voting on the motion of Assemblyman Juan Reyes - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=xu7rQP7dcFw",
+      "discovered_at": "2026-07-09T22:39:19.301230"
+    },
+    {
+      "video_id": "X7oJc0jd2mg",
+      "title": "Assemblyman Juan José Reyes - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=X7oJc0jd2mg",
+      "discovered_at": "2026-07-09T22:39:21.789942"
+    },
+    {
+      "video_id": "LnTaFhKxmc8",
+      "title": "Vote on Assemblyman Carlos Dávila's motion - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=LnTaFhKxmc8",
+      "discovered_at": "2026-07-09T22:39:23.984476"
+    },
+    {
+      "video_id": "ESJrZyEy_z4",
+      "title": "Assemblyman Sergio Peña - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ESJrZyEy_z4",
+      "discovered_at": "2026-07-09T22:39:26.212325"
+    },
+    {
+      "video_id": "CYd8GP6bw-w",
+      "title": "Assemblyman Carlos Dávila - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=CYd8GP6bw-w",
+      "discovered_at": "2026-07-09T22:39:28.375336"
+    },
+    {
+      "video_id": "7TAofTo6zuQ",
+      "title": "General Commission China - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7TAofTo6zuQ",
+      "discovered_at": "2026-07-09T22:39:30.773072"
+    },
+    {
+      "video_id": "RAPL9IbAVJA",
+      "title": "Assemblywoman Karolina Dueñas - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=RAPL9IbAVJA",
+      "discovered_at": "2026-07-09T22:39:33.005216"
+    },
+    {
+      "video_id": "-0SrZH4JHNM",
+      "title": "Assemblywoman Paola Cabezas - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=-0SrZH4JHNM",
+      "discovered_at": "2026-07-09T22:39:35.312190"
+    },
+    {
+      "video_id": "7Rbe36f6ud4",
+      "title": "Assemblyman Milton Aguas - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7Rbe36f6ud4",
+      "discovered_at": "2026-07-09T22:39:37.399939"
+    },
+    {
+      "video_id": "X45qVMPHm9w",
+      "title": "Assemblywoman Lucía Pozo - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
+      "discovered_at": "2026-07-09T22:39:39.909913"
+    },
+    {
+      "video_id": "SnIF_tq3sSs",
+      "title": "Assemblyman Manuel Casanova - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=SnIF_tq3sSs",
+      "discovered_at": "2026-07-09T22:39:42.283843"
+    },
+    {
+      "video_id": "8DA-U7q9bKk",
+      "title": "Assemblyman Pablo Jurado - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=8DA-U7q9bKk",
+      "discovered_at": "2026-07-09T22:39:44.836755"
+    },
+    {
+      "video_id": "5FpusasZouE",
+      "title": "Assemblyman John Polanco - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=5FpusasZouE",
+      "discovered_at": "2026-07-09T22:39:47.037767"
+    },
+    {
+      "video_id": "N537HDEfZIs",
+      "title": "Assemblyman Samuel Celleri - Session 096",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=N537HDEfZIs",
+      "discovered_at": "2026-07-09T22:39:49.174081"
+    },
+    {
+      "video_id": "rwEtL-reJ1E",
+      "title": "Assemblywoman Inés Alarcón - Session 096 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rwEtL-reJ1E",
+      "discovered_at": "2026-07-09T22:39:51.650953"
+    },
+    {
+      "video_id": "Rnk8_n3saU8",
+      "title": "Assemblywoman Nuria Butiña - Session 096 - Change of agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Rnk8_n3saU8",
+      "discovered_at": "2026-07-09T22:39:53.816323"
+    },
+    {
+      "video_id": "jHXpE5lR3tY",
+      "title": "Assemblywoman Ana Belén Tapia - Session 096 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=jHXpE5lR3tY",
+      "discovered_at": "2026-07-09T22:39:56.096537"
+    },
+    {
+      "video_id": "KS6TOziChHQ",
+      "title": "Assemblywoman Paola Jaramillo - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=KS6TOziChHQ",
+      "discovered_at": "2026-07-09T22:39:58.515318"
+    },
+    {
+      "video_id": "fH2pZInho9U",
+      "title": "Assemblyman Roque Ordoñez - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=fH2pZInho9U",
+      "discovered_at": "2026-07-09T22:40:00.800169"
+    },
+    {
+      "video_id": "F4ZUzjIpwwE",
+      "title": "Assemblyman Steven Ordoñez - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=F4ZUzjIpwwE",
+      "discovered_at": "2026-07-09T22:40:02.998710"
+    },
+    {
+      "video_id": "ys9h8yMLkws",
+      "title": "Assemblyman Juan Reyes - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ys9h8yMLkws",
+      "discovered_at": "2026-07-09T22:40:05.284459"
+    },
+    {
+      "video_id": "vThpKE77tDk",
+      "title": "Assemblywoman Rosa Torres - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=vThpKE77tDk",
+      "discovered_at": "2026-07-09T22:40:07.338741"
+    },
+    {
+      "video_id": "7STPxfJ_PBQ",
+      "title": "Assemblywoman Katherine Pacheco - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7STPxfJ_PBQ",
+      "discovered_at": "2026-07-09T22:40:09.635421"
+    },
+    {
+      "video_id": "Q4vE63175Lk",
+      "title": "Assemblyman Pablo Jurado - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Q4vE63175Lk",
+      "discovered_at": "2026-07-09T22:40:11.980354"
+    },
+    {
+      "video_id": "e9SEDrkQoIw",
+      "title": "Assemblyman Andrés Guschmer - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=e9SEDrkQoIw",
+      "discovered_at": "2026-07-09T22:40:14.412575"
+    },
+    {
+      "video_id": "wyNPx-RpUEE",
+      "title": "Assemblyman Fricson George - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wyNPx-RpUEE",
+      "discovered_at": "2026-07-09T22:40:16.797731"
+    },
+    {
+      "video_id": "RhTqhkyCYdI",
+      "title": "Assemblywoman Diana Jácome - Session 095 - Third Intervention",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=RhTqhkyCYdI",
+      "discovered_at": "2026-07-09T22:40:18.957046"
+    },
+    {
+      "video_id": "1Zs7_Bcn0-4",
+      "title": "Assemblyman Keevin Gallardo - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=1Zs7_Bcn0-4",
+      "discovered_at": "2026-07-09T22:40:21.381537"
+    },
+    {
+      "video_id": "WMa1FPQKZ9A",
+      "title": "Assemblyman Alex Moran - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WMa1FPQKZ9A",
+      "discovered_at": "2026-07-09T22:40:23.527390"
+    },
+    {
+      "video_id": "w2SlLmqYI_g",
+      "title": "Assemblyman Ricardo Patiño - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=w2SlLmqYI_g",
+      "discovered_at": "2026-07-09T22:40:25.876461"
+    },
+    {
+      "video_id": "ztkiH5jmoZo",
+      "title": "Assemblywoman Camila León - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ztkiH5jmoZo",
+      "discovered_at": "2026-07-09T22:40:28.077688"
+    },
+    {
+      "video_id": "K7v7mAtkacQ",
+      "title": "Assemblyman Milton Aguas - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=K7v7mAtkacQ",
+      "discovered_at": "2026-07-09T22:40:30.294903"
+    },
+    {
+      "video_id": "WtSFpLsaRtk",
+      "title": "Assemblywoman Jhajaira Urresta - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WtSFpLsaRtk",
+      "discovered_at": "2026-07-09T22:40:32.700869"
+    },
+    {
+      "video_id": "l2q3XiZMBEc",
+      "title": "Assemblywoman Esperanza Rogel - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=l2q3XiZMBEc",
+      "discovered_at": "2026-07-09T22:40:34.942341"
+    },
+    {
+      "video_id": "p6Uq2PQhRrU",
+      "title": "Assemblyman Isaac Solano - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=p6Uq2PQhRrU",
+      "discovered_at": "2026-07-09T22:40:37.076450"
+    },
+    {
+      "video_id": "d-9Y9tlMMLo",
+      "title": "Assemblywoman Ana Tapia - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=d-9Y9tlMMLo",
+      "discovered_at": "2026-07-09T22:40:39.414605"
+    },
+    {
+      "video_id": "VaJY5Gb3SLg",
+      "title": "Assemblywoman Paola Cabezas - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=VaJY5Gb3SLg",
+      "discovered_at": "2026-07-09T22:40:41.987347"
+    },
+    {
+      "video_id": "cFqDvZy7Auo",
+      "title": "Assemblywoman Viviana Veloz - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=cFqDvZy7Auo",
+      "discovered_at": "2026-07-09T22:40:44.503378"
+    },
+    {
+      "video_id": "ROabD4NNNyM",
+      "title": "Assemblywoman Pamela Aguirre - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ROabD4NNNyM",
+      "discovered_at": "2026-07-09T22:40:46.888726"
+    },
+    {
+      "video_id": "ORVjPh87iA4",
+      "title": "Assemblywoman Annabella Azín - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ORVjPh87iA4",
+      "discovered_at": "2026-07-09T22:40:49.325585"
+    },
+    {
+      "video_id": "V07AoYGJZJQ",
+      "title": "Assemblyman Andrés Castillo - Session 095 - Rebuttal",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=V07AoYGJZJQ",
+      "discovered_at": "2026-07-09T22:40:51.768009"
+    },
+    {
+      "video_id": "QOcUPJxjM58",
+      "title": "Assemblywoman Diana Jácome - Session 095 - 2nd Intervention",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=QOcUPJxjM58",
+      "discovered_at": "2026-07-09T22:40:54.056158"
+    },
+    {
+      "video_id": "Qp0eAK8wMjM",
+      "title": "Assemblyman Xavier Lasso - Session 095 - Reply",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Qp0eAK8wMjM",
+      "discovered_at": "2026-07-09T22:40:56.253612"
+    },
+    {
+      "video_id": "T8wXn9-C7Gg",
+      "title": "Assemblyman Juan Reyes - Session 095 - Point of Information",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=T8wXn9-C7Gg",
+      "discovered_at": "2026-07-09T22:40:58.637996"
+    },
+    {
+      "video_id": "LM6arpEmP4A",
+      "title": "Asambleísta Luigi García - Sesión 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=LM6arpEmP4A",
+      "discovered_at": "2026-07-09T22:41:00.945001"
+    },
+    {
+      "video_id": "fdAHDI29G68",
+      "title": "Assemblywoman Verónica Iñiguez - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=fdAHDI29G68",
+      "discovered_at": "2026-07-09T22:41:03.016116"
+    },
+    {
+      "video_id": "1VCoVGS0zvk",
+      "title": "Assemblyman Andres Castillo - Session 095 - Point of Information",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=1VCoVGS0zvk",
+      "discovered_at": "2026-07-09T22:41:05.508446"
+    },
+    {
+      "video_id": "HFTnwhdBSD4",
+      "title": "Assemblyman Sergio Peña - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HFTnwhdBSD4",
+      "discovered_at": "2026-07-09T22:41:07.823194"
+    },
+    {
+      "video_id": "KF6WJOHw1LM",
+      "title": "Assemblyman Otto Vera - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=KF6WJOHw1LM",
+      "discovered_at": "2026-07-09T22:41:10.115016"
+    },
+    {
+      "video_id": "TUtjP9pND_I",
+      "title": "Assemblyman Xavier Lasso - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=TUtjP9pND_I",
+      "discovered_at": "2026-07-09T22:41:12.501668"
+    },
+    {
+      "video_id": "7DTDnqQC-oc",
+      "title": "Assemblywoman Diana Jácome - Session 095",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=7DTDnqQC-oc",
+      "discovered_at": "2026-07-09T22:41:14.723606"
+    },
+    {
+      "video_id": "WwwLlQWQ8Wg",
+      "title": "Decoration of Luis Felipe Fernández - Session 095 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=WwwLlQWQ8Wg",
+      "discovered_at": "2026-07-09T22:41:16.914971"
+    },
+    {
+      "video_id": "0fAlTJacY1w",
+      "title": "Vote on Assemblyman Mario Zambrano's motion - Session 093",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=0fAlTJacY1w",
+      "discovered_at": "2026-07-09T22:41:19.143309"
+    },
+    {
+      "video_id": "E-sdki7lKf4",
+      "title": "Assemblyman Mario Zambrano - Session 093",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=E-sdki7lKf4",
+      "discovered_at": "2026-07-09T22:41:21.107583"
+    },
+    {
+      "video_id": "EPluRlX-tE4",
+      "title": "Reconsideration of Assemblyman Fernando Jaramillo's Vote - Session 093",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=EPluRlX-tE4",
+      "discovered_at": "2026-07-09T22:41:23.236420"
+    },
+    {
+      "video_id": "QJdgBe2SS70",
+      "title": "Vote on Assemblyman Fernando Jaramillo's Motion - Session 093",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=QJdgBe2SS70",
+      "discovered_at": "2026-07-09T22:41:25.701715"
+    },
+    {
+      "video_id": "oTgDzz5UHCY",
+      "title": "Assemblyman Fernando Jaramillo - Session 093",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=oTgDzz5UHCY",
+      "discovered_at": "2026-07-09T22:41:27.939112"
+    },
+    {
+      "video_id": "T8pk5d0VZcA",
+      "title": "Humberto Gómez - Session 093 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=T8pk5d0VZcA",
+      "discovered_at": "2026-07-09T22:41:30.348535"
+    },
+    {
+      "video_id": "HNT42Weodkk",
+      "title": "Andrea Castillo and Ana Borgues - Session 093 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HNT42Weodkk",
+      "discovered_at": "2026-07-09T22:41:32.558306"
+    },
+    {
+      "video_id": "64jnHwerM3s",
+      "title": "Beatriz Aguirre - Session 093 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=64jnHwerM3s",
+      "discovered_at": "2026-07-09T22:41:35.113881"
+    },
+    {
+      "video_id": "stBVmp9dKyw",
+      "title": "Cecilia Torres - Session 093 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=stBVmp9dKyw",
+      "discovered_at": "2026-07-09T22:41:37.385690"
+    },
+    {
+      "video_id": "mFygxANBAUY",
+      "title": "Jericco Rosero - Session 093 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=mFygxANBAUY",
+      "discovered_at": "2026-07-09T22:41:39.600203"
+    },
+    {
+      "video_id": "59t5QbBIJhk",
+      "title": "Assemblyman Andrés Guschmer - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=59t5QbBIJhk",
+      "discovered_at": "2026-07-09T22:41:41.708602"
+    },
+    {
+      "video_id": "rEvSgc5tCSg",
+      "title": "Assemblyman Alex Morán - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rEvSgc5tCSg",
+      "discovered_at": "2026-07-09T22:41:43.761559"
+    },
+    {
+      "video_id": "fUWaOQFxBrE",
+      "title": "Assemblyman Jorge Chamba - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=fUWaOQFxBrE",
+      "discovered_at": "2026-07-09T22:41:46.244992"
+    },
+    {
+      "video_id": "wDW3N5jOnDs",
+      "title": "Assemblyman Esteban Torres - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wDW3N5jOnDs",
+      "discovered_at": "2026-07-09T22:41:48.570713"
+    },
+    {
+      "video_id": "rrAu5SRHyt4",
+      "title": "Assemblywoman Liliana Durán - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rrAu5SRHyt4",
+      "discovered_at": "2026-07-09T22:41:50.817151"
+    },
+    {
+      "video_id": "Gf1lnAxO_vM",
+      "title": "Assemblywoman Carmen Tiupul - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Gf1lnAxO_vM",
+      "discovered_at": "2026-07-09T22:41:59.139484"
+    },
+    {
+      "video_id": "O4eJq-joB_c",
+      "title": "Assemblyman Sergio Peña - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=O4eJq-joB_c",
+      "discovered_at": "2026-07-09T22:42:01.481282"
+    },
+    {
+      "video_id": "VYpouvFfiUA",
+      "title": "Assemblyman Edwin Jarrín - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=VYpouvFfiUA",
+      "discovered_at": "2026-07-09T22:42:03.714988"
+    },
+    {
+      "video_id": "HXqyObf2Vn0",
+      "title": "Assemblyman Henry Bósquez - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=HXqyObf2Vn0",
+      "discovered_at": "2026-07-09T22:42:05.995966"
+    },
+    {
+      "video_id": "nJdP77uNVh8",
+      "title": "Assemblywoman María Paula Villacreses - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=nJdP77uNVh8",
+      "discovered_at": "2026-07-09T22:42:11.187044"
+    },
+    {
+      "video_id": "AJvFZ-KETss",
+      "title": "Assemblywoman Viviana Veloz - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=AJvFZ-KETss",
+      "discovered_at": "2026-07-09T22:42:13.394051"
+    },
+    {
+      "video_id": "rpb0kW26cl8",
+      "title": "Assemblyman Alfredo Serrano - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rpb0kW26cl8",
+      "discovered_at": "2026-07-09T22:42:15.688322"
+    },
+    {
+      "video_id": "rZX0qRX7OX0",
+      "title": "Assemblyman César Palacios - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rZX0qRX7OX0",
+      "discovered_at": "2026-07-09T22:42:17.992493"
+    },
+    {
+      "video_id": "vP8Ekq5UIHI",
+      "title": "Assemblyman Christopher Jaramillo - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=vP8Ekq5UIHI",
+      "discovered_at": "2026-07-09T22:42:20.259508"
+    },
+    {
+      "video_id": "OHhWL4oqZ6E",
+      "title": "Assemblywoman Gabriela Molina - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=OHhWL4oqZ6E",
+      "discovered_at": "2026-07-09T22:42:22.609096"
+    },
+    {
+      "video_id": "jLVKhnBqsAc",
+      "title": "Assemblyman Keevin Gallardo - Session 094",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=jLVKhnBqsAc",
+      "discovered_at": "2026-07-09T22:42:25.163120"
+    },
+    {
+      "video_id": "xfL9Ld5iC7c",
+      "title": "Assemblyman Jorge Tamayo - Session 094 - Change of the order of the day",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=xfL9Ld5iC7c",
+      "discovered_at": "2026-07-09T22:42:27.414127"
+    },
+    {
+      "video_id": "svWLCpSxinI",
+      "title": "Assemblyman Johnny Lavayén - Session 094 - Change of the Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=svWLCpSxinI",
+      "discovered_at": "2026-07-09T22:42:29.792142"
+    },
+    {
+      "video_id": "qqBGWJ7AkgU",
+      "title": "Assemblyman Milton Aguas - Session 094 - Change of Agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qqBGWJ7AkgU",
+      "discovered_at": "2026-07-09T22:42:32.575105"
+    },
+    {
+      "video_id": "kS3jRzKe21A",
+      "title": "FIRST YEAR IN OFFICE",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=kS3jRzKe21A",
+      "discovered_at": "2026-07-09T22:42:34.870610"
+    },
+    {
+      "video_id": "zAQwrgnDbD4",
+      "title": "Asambleísta Besibell Mendoza - Sesión 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zAQwrgnDbD4",
+      "discovered_at": "2026-07-09T22:42:37.251407"
+    },
+    {
+      "video_id": "5ybSgyzRdwA",
+      "title": "Assemblyman Alejandro Vanegas - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=5ybSgyzRdwA",
+      "discovered_at": "2026-07-09T22:42:39.365947"
+    },
+    {
+      "video_id": "tDKPbAH02Fc",
+      "title": "Assemblywoman Arisdely Parrales - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=tDKPbAH02Fc",
+      "discovered_at": "2026-07-09T22:42:41.614540"
+    },
+    {
+      "video_id": "VWYL4Ni29jw",
+      "title": "Assemblyman Pablo Jurado - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=VWYL4Ni29jw",
+      "discovered_at": "2026-07-09T22:42:43.910563"
+    },
+    {
+      "video_id": "GZBbvIbq2N8",
+      "title": "Asambleísta Cristián Benavides - Sesión 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=GZBbvIbq2N8",
+      "discovered_at": "2026-07-09T22:42:46.087166"
+    },
+    {
+      "video_id": "XHCdhiBbMvo",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=XHCdhiBbMvo",
+      "discovered_at": "2026-07-09T22:42:48.484112"
+    },
+    {
+      "video_id": "49cdpQp5e1k",
+      "title": "Assemblywoman Viviana Veloz - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=49cdpQp5e1k",
+      "discovered_at": "2026-07-09T22:42:50.916020"
+    },
+    {
+      "video_id": "FOumzr1cNz8",
+      "title": "Assemblywoman Diana Blacio - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=FOumzr1cNz8",
+      "discovered_at": "2026-07-09T22:42:53.116503"
+    },
+    {
+      "video_id": "rmtLrXoqL88",
+      "title": "Assemblyman Xavier Lasso - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=rmtLrXoqL88",
+      "discovered_at": "2026-07-09T22:42:55.233218"
+    },
+    {
+      "video_id": "Q4TxdgwVCmQ",
+      "title": "Assemblywoman Diana Jácome - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Q4TxdgwVCmQ",
+      "discovered_at": "2026-07-09T22:42:59.800157"
+    },
+    {
+      "video_id": "yqz8hYGpK8Y",
+      "title": "Assemblyman Jahiren Noriega - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=yqz8hYGpK8Y",
+      "discovered_at": "2026-07-09T22:43:02.106433"
+    },
+    {
+      "video_id": "DP4hzmKbtzg",
+      "title": "Asambleísta Otto Vera - Sesión 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=DP4hzmKbtzg",
+      "discovered_at": "2026-07-09T22:43:03.968448"
+    },
+    {
+      "video_id": "hHOjGByICZA",
+      "title": "Assemblyman Raúl Chávez - Session 056",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hHOjGByICZA",
+      "discovered_at": "2026-07-09T22:43:06.303738"
+    },
+    {
+      "video_id": "gdOSgZ9r1JQ",
+      "title": "Betty Alarcón - Session 056 - General Commission",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=gdOSgZ9r1JQ",
+      "discovered_at": "2026-07-09T22:43:08.804249"
+    },
+    {
+      "video_id": "qVS-HAYqCcI",
+      "title": "Paola Escobar - Sesión 056 - Comisión General",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=qVS-HAYqCcI",
+      "discovered_at": "2026-07-09T22:43:11.021811"
+    },
+    {
+      "video_id": "zYnc8VU6wZk",
+      "title": "José Chiriboga - Sesión 056 - Comisión General",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zYnc8VU6wZk",
+      "discovered_at": "2026-07-09T22:43:13.387278"
+    },
+    {
+      "video_id": "X-qC7GVpBeY",
+      "title": "Assemblyman Roberto Cuero - Session 056 - Change of agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=X-qC7GVpBeY",
+      "discovered_at": "2026-07-09T22:43:15.788794"
+    },
+    {
+      "video_id": "hk0WO_RyxWo",
+      "title": "Assemblywoman Jhajaira Urresta - Session 056 - Change of agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=hk0WO_RyxWo",
+      "discovered_at": "2026-07-09T22:43:18.426102"
+    },
+    {
+      "video_id": "ns23PEjDh7c",
+      "title": "Assemblyman Andrés Castillo - Session 056 - Change of agenda",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=ns23PEjDh7c",
+      "discovered_at": "2026-07-09T22:43:20.815551"
+    },
+    {
+      "video_id": "Bf_MDtjv-JM",
+      "title": "Assemblyman Xavier Lasso - Session 044",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Bf_MDtjv-JM",
+      "discovered_at": "2026-07-09T22:43:23.072001"
+    },
+    {
+      "video_id": "h_IV7LsTzbA",
+      "title": "Assemblyman Andrés Castillo - Session 044",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=h_IV7LsTzbA",
+      "discovered_at": "2026-07-09T22:43:25.409443"
+    },
+    {
+      "video_id": "zo7cDRKb-nQ",
+      "title": "Voting on the motion of Assemblyman José Nango - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=zo7cDRKb-nQ",
+      "discovered_at": "2026-07-09T22:43:27.741441"
+    },
+    {
+      "video_id": "tx7LypNolmM",
+      "title": "Asambleísta Diego Franco - Sesión 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=tx7LypNolmM",
+      "discovered_at": "2026-07-09T22:43:29.951883"
+    },
+    {
+      "video_id": "_yXyTg1ibMI",
+      "title": "Assemblyman Alejandro Lara - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=_yXyTg1ibMI",
+      "discovered_at": "2026-07-09T22:43:32.286335"
+    },
+    {
+      "video_id": "u58F9FeBv-I",
+      "title": "Assemblyman Blasco Luna - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=u58F9FeBv-I",
+      "discovered_at": "2026-07-09T22:43:34.668816"
+    },
+    {
+      "video_id": "wtSyGeZeujY",
+      "title": "Assemblyman Juan Molina - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=wtSyGeZeujY",
+      "discovered_at": "2026-07-09T22:43:36.994682"
+    },
+    {
+      "video_id": "uroIFDcK6A4",
+      "title": "Assemblyman Juan Gonzaga - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=uroIFDcK6A4",
+      "discovered_at": "2026-07-09T22:43:39.343828"
+    },
+    {
+      "video_id": "2HqiSIuWw5k",
+      "title": "Asambleísta Isaac Solano - Sesión 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=2HqiSIuWw5k",
+      "discovered_at": "2026-07-09T22:43:41.632478"
+    },
+    {
+      "video_id": "UUqvhbSyU44",
+      "title": "Asambleísta Alejandro Vanegas - Sesión 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=UUqvhbSyU44",
+      "discovered_at": "2026-07-09T22:43:43.765562"
+    },
+    {
+      "video_id": "Cd4XfqNgios",
+      "title": "Assemblyman Sergio Peña - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Cd4XfqNgios",
+      "discovered_at": "2026-07-09T22:43:45.960335"
+    },
+    {
+      "video_id": "sQqxSDeZyYM",
+      "title": "Asambleísta Adrián Castro - Sesión 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=sQqxSDeZyYM",
+      "discovered_at": "2026-07-09T22:43:48.187679"
+    },
+    {
+      "video_id": "m05gkgmRyWI",
+      "title": "Assemblyman Alfredo Serrano - Session 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=m05gkgmRyWI",
+      "discovered_at": "2026-07-09T22:43:50.504497"
+    },
+    {
+      "video_id": "BNmRpxwYbGs",
+      "title": "Asambleísta José Nango - Sesión 053",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=BNmRpxwYbGs",
+      "discovered_at": "2026-07-09T22:43:52.670162"
+    },
+    {
+      "video_id": "Ht_kllVRrb8",
+      "title": "Reconsideration of the vote - Session 055",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=Ht_kllVRrb8",
+      "discovered_at": "2026-07-09T22:43:55.054450"
+    },
+    {
+      "video_id": "O-njcbOwLqY",
+      "title": "Voting on the motion of Assemblywoman Nathaly Farinango - Session 055",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=O-njcbOwLqY",
+      "discovered_at": "2026-07-09T22:43:57.242421"
+    },
+    {
+      "video_id": "xdd5plgCgmg",
+      "title": "Assemblywoman Nathaly Farinango - Session 055",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=xdd5plgCgmg",
+      "discovered_at": "2026-07-09T22:43:59.501545"
+    },
+    {
+      "video_id": "mrfgOnrzZjY",
+      "title": "Assemblyman Cristián Benavides - Session 055",
+      "description": "",
+      "published_at": null,
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "url": "https://www.youtube.com/watch?v=mrfgOnrzZjY",
+      "discovered_at": "2026-07-09T22:44:01.692663"
     }
   ],
-  "last_updated": "2026-05-15T07:04:29.024416Z"
+  "last_updated": "2026-07-09T22:44:01.692955Z"
 }

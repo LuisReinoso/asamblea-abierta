@@ -1,0 +1,50 @@
+{
+  "text": "Asambleísta noriega, que no le dé ingenuidad. Le pido que no le dé ingenuidad. Más bien haga algo bueno por el pueblo ecuatoriano y vote a favor de estas reformas al sistema carcelario.  Porque tal vez como usted es muy jovencita, se le olvida que fue su líder, el prófugo Correa, que abrió las fronteras para que entren los delincuentes, los ladrones, los violadores.  Y es por eso que hoy los ecuatorianos estamos viviendo lo que estamos viviendo en el tema delincuencial, en el tema de la inseguridad.  ¿O sabe por qué mejor le digo algo? Siga marchando y siga defendiendo en los medios de comunicación a ese delincuente que está en la cárcel del encuentro, a ese traficador de combustible, porque ustedes lo único que saben es defender a delincuentes.  Vaya y siga haciendo eso. Nada más. Muchísimas gracias.",
+  "language": "es",
+  "duration": 54.73,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.12,
+      "end": 52.04,
+      "text": "Asambleísta noriega, que no le dé ingenuidad. Le pido que no le dé ingenuidad. Más bien haga algo bueno por el pueblo ecuatoriano y vote a favor de estas reformas al sistema carcelario.  Porque tal vez como usted es muy jovencita, se le olvida que fue su líder, el prófugo Correa, que abrió las fronteras para que entren los delincuentes, los ladrones, los violadores.  Y es por eso que hoy los ecuatorianos estamos viviendo lo que estamos viviendo en el tema delincuencial, en el tema de la inseguridad.  ¿O sabe por qué mejor le digo algo? Siga marchando y siga defendiendo en los medios de comunicación a ese delincuente que está en la cárcel del encuentro, a ese traficador de combustible, porque ustedes lo único que saben es defender a delincuentes.  Vaya y siga haciendo eso. Nada más. Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "ro8dB5f-ddQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Lucía Jaramillo - Sesión 078 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=ro8dB5f-ddQ",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ro8dB5f-ddQ",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ro8dB5f-ddQ",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 45.92,
+      "interventions": 1,
+      "word_count": 140
+    }
+  ]
+}

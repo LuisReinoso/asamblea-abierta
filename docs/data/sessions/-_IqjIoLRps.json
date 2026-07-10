@@ -1,0 +1,52 @@
+{
+  "text": "la asambleísta paula cabezas gracias presidente la verdad no estaba  contemplado la intervención porque creo que aquí hay claridad sobre la decisión  que como bloque hemos tomado vamos a votar a favor porque nosotros a  diferencia de ustedes si sabemos escuchar a los ciudadanos cuando lazo propuso la  extradición y la gente le dijo no sencillamente no cuando el presidente  no boa volvió a pedirle a la gente que vote sobre esto la gente dijo sí y eso se  escucha y es lo que deberíamos estar tratando el día de hoy para reglar  normar eso que ya es un mandato de la gente en las urnas pero aquí están  confundiendo todo y en realidad no sé si no nos escuchamos hay un problema de  sonido porque aquí estamos diciendo que vamos a votar a favor y ustedes siguen  insistiendo en un relato que no tiene sentido no tiene sentido acaban de sacar  una entrevista un fragmento de entrevista distorsionada porque primero para hacer  campaña sobre el tema de la extradición se le mintió a la gente y en esa  entrevista lo que yo decía que no se le puede decir a la gente que si alguien te  extorsiona lo vas a extraditar porque la extorsión es aquí y para extradición creo  que eso ha quedado claro en la norma para extraditar a alguien tiene que haber cometido  delitos en ese país que lo solicita o estoy equivocada no verdad entonces en esa entrevista  lo que tratábamos justamente era de informarle a la gente que no podían dejarse confundir  porque nos decían que si se te extorsionaba se iba a estados unidos que si te vacunaban se iba  a estados unidos que si te pegaba el marido se iba a estados unidos esa era la campaña populista  que tenían en torno a la extradición entonces si estamos hablando claramente del punto en el  cual no sé de qué manera les explicamos que vamos a votar a favor dejen de engañar y de distorsionar  a la gente y más bien señor presidente mande a votar los que no respetan la voluntad del pueblo  ecuatoriano 4 a 0 que fue la consulta popular de noviembre son ustedes la gente les dijo no queremos  bases extranjeras que han permitido que tropas estadounidenses que los mismos congresistas de  eeuu están investigando la inmersión abusiva de militares estadounidenses en el puerto de manta  han dicho algo dicen algo sobre la consulta popular que ustedes mismos y respetan hablan del  cumplimiento de la ley entonces si quieren en realidad respeto primero no distorsionen el  debate y ustedes si cumplan lo que el pueblo ecuatoriano les dijo las urnas porque han  incumplido la consulta popular no han respetado el mandato de noviembre de los ecuatorianos y  vienen aquí a hablarnos de democracia y hablarnos que ustedes si cumplen por favor no distorsionen el  debate y por favor señor presidente mande a votar porque creo que esto ya está suficientemente  debatido y está comentando completamente claro gracias  gracias",
+  "language": "es",
+  "duration": 189.24,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 188.44,
+      "text": "la asambleísta paula cabezas gracias presidente la verdad no estaba  contemplado la intervención porque creo que aquí hay claridad sobre la decisión  que como bloque hemos tomado vamos a votar a favor porque nosotros a  diferencia de ustedes si sabemos escuchar a los ciudadanos cuando lazo propuso la  extradición y la gente le dijo no sencillamente no cuando el presidente  no boa volvió a pedirle a la gente que vote sobre esto la gente dijo sí y eso se  escucha y es lo que deberíamos estar tratando el día de hoy para reglar  normar eso que ya es un mandato de la gente en las urnas pero aquí están  confundiendo todo y en realidad no sé si no nos escuchamos hay un problema de  sonido porque aquí estamos diciendo que vamos a votar a favor y ustedes siguen  insistiendo en un relato que no tiene sentido no tiene sentido acaban de sacar  una entrevista un fragmento de entrevista distorsionada porque primero para hacer  campaña sobre el tema de la extradición se le mintió a la gente y en esa  entrevista lo que yo decía que no se le puede decir a la gente que si alguien te  extorsiona lo vas a extraditar porque la extorsión es aquí y para extradición creo  que eso ha quedado claro en la norma para extraditar a alguien tiene que haber cometido  delitos en ese país que lo solicita o estoy equivocada no verdad entonces en esa entrevista  lo que tratábamos justamente era de informarle a la gente que no podían dejarse confundir  porque nos decían que si se te extorsionaba se iba a estados unidos que si te vacunaban se iba  a estados unidos que si te pegaba el marido se iba a estados unidos esa era la campaña populista  que tenían en torno a la extradición entonces si estamos hablando claramente del punto en el  cual no sé de qué manera les explicamos que vamos a votar a favor dejen de engañar y de distorsionar  a la gente y más bien señor presidente mande a votar los que no respetan la voluntad del pueblo  ecuatoriano 4 a 0 que fue la consulta popular de noviembre son ustedes la gente les dijo no queremos  bases extranjeras que han permitido que tropas estadounidenses que los mismos congresistas de  eeuu están investigando la inmersión abusiva de militares estadounidenses en el puerto de manta  han dicho algo dicen algo sobre la consulta popular que ustedes mismos y respetan hablan del  cumplimiento de la ley entonces si quieren en realidad respeto primero no distorsionen el  debate y ustedes si cumplan lo que el pueblo ecuatoriano les dijo las urnas porque han  incumplido la consulta popular no han respetado el mandato de noviembre de los ecuatorianos y  vienen aquí a hablarnos de democracia y hablarnos que ustedes si cumplen por favor no distorsionen el  debate y por favor señor presidente mande a votar porque creo que esto ya está suficientemente  debatido y está comentando completamente claro gracias  gracias",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "-_IqjIoLRps",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Janeth Paola Cabezas Castillo",
+      "confidence": 1.0,
+      "votes": {
+        "Janeth Paola Cabezas Castillo": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Paola Cabezas - Sesión 106",
+  "url": "https://www.youtube.com/watch?v=-_IqjIoLRps",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "-_IqjIoLRps",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=-_IqjIoLRps",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Janeth Paola Cabezas Castillo",
+      "party": null,
+      "province": null,
+      "total_time": 188.41,
+      "interventions": 1,
+      "word_count": 499
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "text": "la asambleísta Viviana Veloz.  Gracias, presidente.  Y sí he pedido este punto de información  porque tengo entendido,  o al menos el país tiene entendido,  que hoy estamos debatiendo  sobre la ley de extradición  y no sobre la bancada de la Revolución Ciudadana.  No entiendo qué le preocupa  a la asambleísta  que tuvo una intervención telemática.  ¿Qué le preocupa?  ¿Le incomoda que votemos a favor?  ¿Le preocupa que votemos a favor?  No debería estar preocupado por nosotros.  Parece que el mundo de ustedes  gira a favor de la Revolución Ciudadana,  de Rafael Correa,  de Gabriela Riva de Neira.  No, basta de eso.  Nosotros vamos a votar a favor.  Y lo que sí les debe preocupar  es que una vez que esta ley  entre en vigencia,  nosotros sí les vamos a exigir  día a día  la extradición inmediata  de los principales cabecillas de los GDOs,  de los choneros,  de los lobos,  de los chonequilers,  de los R7,  de todos los GDOs,  así como de la mafia transnacional,  de los líderes de la mafia albanesa,  de los líderes de la mafia de los Balcanes,  de Yedimir Cerdán,  cercano amigo de Mario Godoy.  De toda esa gente  les vamos a exigir día a día.  Y llegará el momento  en que también les exijamos  la extradición de los involucrados  en el caso PROGEN.  Eso sí les vamos a exigir,  así que preocúpense por eso  y no por la Revolución Ciudadana.  Nuestro voto es a favor.  ¡Gracias!",
+  "language": "es",
+  "duration": 106.09,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 103.61,
+      "text": "la asambleísta Viviana Veloz.  Gracias, presidente.  Y sí he pedido este punto de información  porque tengo entendido,  o al menos el país tiene entendido,  que hoy estamos debatiendo  sobre la ley de extradición  y no sobre la bancada de la Revolución Ciudadana.  No entiendo qué le preocupa  a la asambleísta  que tuvo una intervención telemática.  ¿Qué le preocupa?  ¿Le incomoda que votemos a favor?  ¿Le preocupa que votemos a favor?  No debería estar preocupado por nosotros.  Parece que el mundo de ustedes  gira a favor de la Revolución Ciudadana,  de Rafael Correa,  de Gabriela Riva de Neira.  No, basta de eso.  Nosotros vamos a votar a favor.  Y lo que sí les debe preocupar  es que una vez que esta ley  entre en vigencia,  nosotros sí les vamos a exigir  día a día  la extradición inmediata  de los principales cabecillas de los GDOs,  de los choneros,  de los lobos,  de los chonequilers,  de los R7,  de todos los GDOs,  así como de la mafia transnacional,  de los líderes de la mafia albanesa,  de los líderes de la mafia de los Balcanes,  de Yedimir Cerdán,  cercano amigo de Mario Godoy.  De toda esa gente  les vamos a exigir día a día.  Y llegará el momento  en que también les exijamos  la extradición de los involucrados  en el caso PROGEN.  Eso sí les vamos a exigir,  así que preocúpense por eso  y no por la Revolución Ciudadana.  Nuestro voto es a favor.  ¡Gracias!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "l0_zwkOnts8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Viviana Veloz - Sesión 106 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=l0_zwkOnts8",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "l0_zwkOnts8",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=l0_zwkOnts8",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 103.58,
+      "interventions": 1,
+      "word_count": 241
+    }
+  ]
+}
