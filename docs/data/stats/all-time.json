@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T10:47:55.081315",
-  "total_sessions": 294,
+  "generated_at": "2026-07-10T11:08:40.895134",
+  "total_sessions": 303,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,6 +39,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 2287.5099999999998,
+      "total_interventions": 21,
+      "sessions_attended": 8,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
       "name": "Janeth Paola Cabezas Castillo",
       "type": "asambleísta",
@@ -49,18 +61,6 @@
       "total_interventions": 5,
       "sessions_attended": 5,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
-      "name": "Adrián Ernesto Castro Piedra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 1964.17,
-      "total_interventions": 20,
-      "sessions_attended": 7,
-      "topics_discussed": 3
     },
     {
       "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
@@ -84,6 +84,18 @@
       "total_time": 1447.17,
       "total_interventions": 3,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "América Latina, Caribe y África",
+      "total_time": 1446.58,
+      "total_interventions": 6,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -183,6 +195,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
+      "name": "Franklin Omar Samaniego Maigua",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 971.07,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
       "name": "Saadin Alfredo Serrano Valladares",
       "type": "asambleísta",
@@ -243,6 +267,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 873.04,
+      "total_interventions": 29,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
       "name": "Pablo Aníbal Jurado Moreno",
       "type": "asambleísta",
@@ -252,6 +288,18 @@
       "total_time": 858.3699999999999,
       "total_interventions": 2,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "total_time": 826.88,
+      "total_interventions": 3,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -339,18 +387,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 667.81,
-      "total_interventions": 20,
-      "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
       "id": "EN-VIVO",
       "name": "En Vivo",
       "type": "desconocido",
@@ -411,6 +447,42 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
+      "name": "Johnny Alfredo Lavayen Tamayo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "EE.UU. y Canadá",
+      "total_time": 588.53,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ARISDELY-PAOLA-PARRALES-YAGUAL",
+      "name": "Arisdely Paola Parrales Yagual",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Santa Elena",
+      "total_time": 560.38,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 559.1800000000001,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LUCIA-LIZBETH-JARAMILLO-ZURITA",
       "name": "Lucía Lizbeth Jaramillo Zurita",
       "type": "asambleísta",
@@ -435,18 +507,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
-      "name": "Franklin Omar Samaniego Maigua",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 504.90999999999997,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-GUSTAVO-ENRIQUE-MATEUS-ACOSTA",
       "name": "Gustavo Enrique Mateus Acosta",
       "type": "asambleísta",
@@ -455,18 +515,6 @@
       "province": "Europa, Asia y Oceanía",
       "total_time": 502.54,
       "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
-      "name": "Mauricio Javier Ordóñez Fuentes",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "América Latina, Caribe y África",
-      "total_time": 494.3,
-      "total_interventions": 2,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -483,15 +531,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
-      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
+      "name": "Liliana Elizabeth Durán Aguilar",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "PSP",
-      "province": "Morona Santiago",
-      "total_time": 476.45,
-      "total_interventions": 2,
-      "sessions_attended": 2,
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 481.06,
+      "total_interventions": 1,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -567,18 +615,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
-      "name": "Sergio Jesús Peña Veloz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 385.93,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
       "name": "del Cisne Rogel Esperanza",
       "type": "asambleísta",
@@ -646,18 +682,6 @@
       "party": "ADN",
       "province": "El Oro",
       "total_time": 273.65,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
-      "name": "Johnny Alfredo Lavayen Tamayo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "EE.UU. y Canadá",
-      "total_time": 271.6,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -945,8 +969,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 83,
-      "total_duration": 33003.81,
+      "sessions_count": 92,
+      "total_duration": 37268.63000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },
