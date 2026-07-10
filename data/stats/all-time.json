@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T15:52:04.949016",
-  "total_sessions": 346,
+  "generated_at": "2026-07-10T16:22:35.967529",
+  "total_sessions": 351,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -51,6 +51,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 2175.7200000000003,
+      "total_interventions": 77,
+      "sessions_attended": 16,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
       "name": "Janeth Paola Cabezas Castillo",
       "type": "asambleísta",
@@ -60,18 +72,6 @@
       "total_time": 2102.44,
       "total_interventions": 5,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 2010.0300000000002,
-      "total_interventions": 68,
-      "sessions_attended": 14,
       "topics_discussed": 0
     },
     {
@@ -96,6 +96,18 @@
       "total_time": 1762.27,
       "total_interventions": 11,
       "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 1474.86,
+      "total_interventions": 5,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -171,18 +183,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 1288.87,
-      "total_interventions": 4,
-      "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -219,6 +219,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
+      "name": "Brígida Lucía Pozo Moreta",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Carchi",
+      "total_time": 1174.64,
+      "total_interventions": 6,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ECKENNER-READER-RECALDE-ALAVA",
       "name": "Eckenner Reader Recalde Álava",
       "type": "asambleísta",
@@ -243,6 +255,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 1084.7200000000003,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
       "name": "Silvia Patricia Nuñez Ramos",
       "type": "asambleísta",
@@ -250,18 +274,6 @@
       "party": "RC",
       "province": "Chimborazo",
       "total_time": 1026.82,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
-      "name": "Brígida Lucía Pozo Moreta",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Carchi",
-      "total_time": 1011.49,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -384,18 +396,6 @@
       "total_time": 777.1800000000001,
       "total_interventions": 2,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
-      "name": "Sergio Jesús Peña Veloz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 751.6100000000001,
-      "total_interventions": 3,
-      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -939,6 +939,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
+      "name": "María Gabriela Molina Menéndez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Manabí",
+      "total_time": 186.24,
+      "total_interventions": 7,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARCELO-ANDRES-GUSCHMER-TAMARIZ",
       "name": "Marcelo Andrés Guschmer Tamariz",
       "type": "asambleísta",
@@ -1011,14 +1023,14 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
-      "name": "María Gabriela Molina Menéndez",
+      "id": "AN-CARLOS-ENRIQUE-VARGAS-QUIJANO",
+      "name": "Carlos Enrique Vargas Quijano",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "Manabí",
-      "total_time": 44.02,
-      "total_interventions": 3,
+      "party": "Ind.",
+      "province": "Guayas",
+      "total_time": 42.87,
+      "total_interventions": 2,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -1125,8 +1137,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 116,
-      "total_duration": 47779.250000000015,
+      "sessions_count": 121,
+      "total_duration": 49737.24000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },
