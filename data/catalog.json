@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:56:59.547027",
-  "total_sessions": 400,
+  "generated_at": "2026-07-10T18:14:41.842140",
+  "total_sessions": 401,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2011,6 +2011,19 @@
       "duration": 512.86,
       "url": "https://www.youtube.com/watch?v=G3G7zcOcvH0",
       "file_path": "data/sessions/G3G7zcOcvH0.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "8EF-AjEhfzo",
+      "title": "Votación de la moción del asambleísta Mario Zambrano - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 902.3,
+      "url": "https://www.youtube.com/watch?v=8EF-AjEhfzo",
+      "file_path": "data/sessions/8EF-AjEhfzo.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
