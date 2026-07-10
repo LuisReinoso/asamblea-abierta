@@ -1,0 +1,55 @@
+{
+  "text": "Asambleísta Javier Ordóñez.  Gracias, señora Presidente.  Voy a ser súper breve en honor y respeto al tiempo de todos.  Por ahí decían, no le tengan miedo a las durnas.  Tranquilamente podemos responder el hecho de que en el último balotaje  Daniel Novoa ganó con 11 puntos a Luisa González.  ¡Qué miedo vamos a tener nosotros!  Otros que fueron a Colombia a tomarse fotos.  Ahí estaban el fin de semana, ahí les vi, se corrieron.  Esos son los que no aceptan.  En Colombia no aceptan los resultados.  En Perú, a propósito, un saludo para el nuevo presidente de Colombia,  Abelardo de las Preya.  ¡Firmes por la patria, Abelardo!  Y el resumen de todo lo que dijeron, si lo sumamos,  ecuatorianos y quiteños les acaban de decir,  ¡Robó, pero hizo obra!  Ahora, si no quieren enfrentar a la justicia,  y esto es para todos los alcaldes,  sencillo, no roben,  y van a estar súper tranquilos y van a terminar sus mandatos.  Si no, la justicia y la legalidad les va a coger del pescuezo.  Muchas gracias, señora Presidenta.",
+  "language": "es",
+  "duration": 93.95,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 92.49,
+      "text": "Asambleísta Javier Ordóñez.  Gracias, señora Presidente.  Voy a ser súper breve en honor y respeto al tiempo de todos.  Por ahí decían, no le tengan miedo a las durnas.  Tranquilamente podemos responder el hecho de que en el último balotaje  Daniel Novoa ganó con 11 puntos a Luisa González.  ¡Qué miedo vamos a tener nosotros!  Otros que fueron a Colombia a tomarse fotos.  Ahí estaban el fin de semana, ahí les vi, se corrieron.  Esos son los que no aceptan.  En Colombia no aceptan los resultados.  En Perú, a propósito, un saludo para el nuevo presidente de Colombia,  Abelardo de las Preya.  ¡Firmes por la patria, Abelardo!  Y el resumen de todo lo que dijeron, si lo sumamos,  ecuatorianos y quiteños les acaban de decir,  ¡Robó, pero hizo obra!  Ahora, si no quieren enfrentar a la justicia,  y esto es para todos los alcaldes,  sencillo, no roben,  y van a estar súper tranquilos y van a terminar sus mandatos.  Si no, la justicia y la legalidad les va a coger del pescuezo.  Muchas gracias, señora Presidenta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Pablo Aníbal Jurado Moreno",
+        "confidence": 0.6437,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "uUyXKYWOuuw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] , El Caribe": 2,
+        "[OOV] El Caribe": 1,
+        "[OOV] Latinoamerica, El Caribe": 2
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Xavier Ordóñez - Sesión 102 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=uUyXKYWOuuw",
+  "published_at": "2026-06-23T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "uUyXKYWOuuw",
+  "date": "2026-06-23T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=uUyXKYWOuuw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "party": null,
+      "province": null,
+      "total_time": 92.46,
+      "interventions": 1,
+      "word_count": 176
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "text": "asambleísta María Molina. Gracias, presidente, colegas asambleístas, pueblo  ecuatoriano que nos mira y nos escucha a través de los diferentes medios digitales.  Muy buenos días. Hoy nos corresponde debatir un proyecto de ley que, como ya  lo dijo mi compañera Rosy Torres, tiene un profundo sentido humano, la ley  orgánica para la atención integral para las personas con obesidad. Esta no es  sólo una ley sobre alimentación, peso corporal o hábitos de vida. Esta es una  ley sobre personas, sobre familias, sobre niños, jóvenes, adultos mayores y  ciudadanos que durante mucho tiempo han enfrentado una enfermedad compleja sin  recibir la atención integral que necesitan. Colegas, quien vive con obesidad  enfrenta las complicaciones propias de la enfermedad. Muchas veces también debe  lidiar con prejuicios y estigmas que retrasan la atención y muchas veces  incluso los alejan del sistema de salud. Por tal motivo, considero que esta  propuesta legislativa que hoy estamos debatiendo representa un cambio importante  de visión, pasar de juzgar a las personas a entenderlas, pasar de la indiferencia al  acompañamiento y al reconocimiento de una realidad que merece una respuesta  responsable del Estado. Durante muchos años se simplificó este problema como una  cuestión de hábitos personales. Hoy sabemos que la obesidad es una enfermedad  multifactorial que no se supera únicamente con buena voluntad.  Reconocer esta realidad permite dejar atrás los prejuicios y construir respuestas  basadas en evidencia y en las necesidades que necesitan las personas.  Fortalecer la prevención es una decisión inteligente porque significa cuidar la vida  y el bienestar de todas las personas. Colegas asambleístas, la obesidad está  relacionada con enfermedades que afectan gravemente la calidad de vida de nuestra  población, como la diabetes, la hipertensión arterial, las enfermedades  cardiovasculares y otras enfermedades crónicas y esto a su vez genera una  importante carga en nuestro sistema de salud. El objetivo de este proyecto de ley es actuar  antes que el daño sea irreversible. Busca fortalecer la prevención y un  diagnóstico temprano, el tratamiento adecuado y el acompañamiento permanente de  quienes viven con esta condición. Hoy damos un paso importante para cambiar la  manera en que vemos y atendemos la obesidad en nuestro país. Esta ley nos  permite avanzar hacia una sociedad más consciente, solidaria e inclusiva, donde  ninguna persona sea definida por su condición de salud o sea objeto de  prejuicios o exclusión, tal como lo establece el artículo 11, numeral 2 de  nuestra constitución. Porque detrás de cada diagnóstico existe una historia, una  familia y un ser humano que merece oportunidades, acompañamiento y atención  integral basada en el respeto y en la dignidad. Y quiero hacer énfasis en que, más allá de  las cifras y las estadísticas, esta ley nos recuerda que la salud tiene un rostro humano.  Gracias presidente, hasta aquí mi intervención.",
+  "language": "es",
+  "duration": 249.5,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 249.51,
+      "text": "asambleísta María Molina. Gracias, presidente, colegas asambleístas, pueblo  ecuatoriano que nos mira y nos escucha a través de los diferentes medios digitales.  Muy buenos días. Hoy nos corresponde debatir un proyecto de ley que, como ya  lo dijo mi compañera Rosy Torres, tiene un profundo sentido humano, la ley  orgánica para la atención integral para las personas con obesidad. Esta no es  sólo una ley sobre alimentación, peso corporal o hábitos de vida. Esta es una  ley sobre personas, sobre familias, sobre niños, jóvenes, adultos mayores y  ciudadanos que durante mucho tiempo han enfrentado una enfermedad compleja sin  recibir la atención integral que necesitan. Colegas, quien vive con obesidad  enfrenta las complicaciones propias de la enfermedad. Muchas veces también debe  lidiar con prejuicios y estigmas que retrasan la atención y muchas veces  incluso los alejan del sistema de salud. Por tal motivo, considero que esta  propuesta legislativa que hoy estamos debatiendo representa un cambio importante  de visión, pasar de juzgar a las personas a entenderlas, pasar de la indiferencia al  acompañamiento y al reconocimiento de una realidad que merece una respuesta  responsable del Estado. Durante muchos años se simplificó este problema como una  cuestión de hábitos personales. Hoy sabemos que la obesidad es una enfermedad  multifactorial que no se supera únicamente con buena voluntad.  Reconocer esta realidad permite dejar atrás los prejuicios y construir respuestas  basadas en evidencia y en las necesidades que necesitan las personas.  Fortalecer la prevención es una decisión inteligente porque significa cuidar la vida  y el bienestar de todas las personas. Colegas asambleístas, la obesidad está  relacionada con enfermedades que afectan gravemente la calidad de vida de nuestra  población, como la diabetes, la hipertensión arterial, las enfermedades  cardiovasculares y otras enfermedades crónicas y esto a su vez genera una  importante carga en nuestro sistema de salud. El objetivo de este proyecto de ley es actuar  antes que el daño sea irreversible. Busca fortalecer la prevención y un  diagnóstico temprano, el tratamiento adecuado y el acompañamiento permanente de  quienes viven con esta condición. Hoy damos un paso importante para cambiar la  manera en que vemos y atendemos la obesidad en nuestro país. Esta ley nos  permite avanzar hacia una sociedad más consciente, solidaria e inclusiva, donde  ninguna persona sea definida por su condición de salud o sea objeto de  prejuicios o exclusión, tal como lo establece el artículo 11, numeral 2 de  nuestra constitución. Porque detrás de cada diagnóstico existe una historia, una  familia y un ser humano que merece oportunidades, acompañamiento y atención  integral basada en el respeto y en la dignidad. Y quiero hacer énfasis en que, más allá de  las cifras y las estadísticas, esta ley nos recuerda que la salud tiene un rostro humano.  Gracias presidente, hasta aquí mi intervención.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María del Cisne Molina Coro",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "sgeqB7kUw4k",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "María del Cisne Molina Coro",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta María del Cisne Molina - Sesión 101",
+  "url": "https://www.youtube.com/watch?v=sgeqB7kUw4k",
+  "published_at": "2026-07-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "sgeqB7kUw4k",
+  "date": "2026-07-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=sgeqB7kUw4k",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María del Cisne Molina Coro",
+      "party": null,
+      "province": null,
+      "total_time": 249.48,
+      "interventions": 1,
+      "word_count": 457
+    }
+  ]
+}
