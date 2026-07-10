@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:47:47.212319",
-  "total_sessions": 397,
+  "generated_at": "2026-07-10T17:56:59.435149",
+  "total_sessions": 400,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,6 +39,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 3134.09,
+      "total_interventions": 94,
+      "sessions_attended": 22,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
       "name": "Adrián Ernesto Castro Piedra",
       "type": "asambleísta",
@@ -49,18 +61,6 @@
       "total_interventions": 23,
       "sessions_attended": 10,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 2788.69,
-      "total_interventions": 86,
-      "sessions_attended": 20,
-      "topics_discussed": 0
     },
     {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
@@ -93,9 +93,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Chimborazo",
-      "total_time": 2157.48,
-      "total_interventions": 12,
-      "sessions_attended": 7,
+      "total_time": 2288.85,
+      "total_interventions": 13,
+      "sessions_attended": 8,
       "topics_discussed": 3
     },
     {
@@ -279,6 +279,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Bolívar",
+      "total_time": 1196.9,
+      "total_interventions": 28,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
       "name": "Gerardo Eugenio Machado Clavijo",
       "type": "asambleísta",
@@ -312,18 +324,6 @@
       "total_time": 1171.04,
       "total_interventions": 2,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
-      "name": "Mireya Katerine Pazmiño Arregui",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Bolívar",
-      "total_time": 1158.6000000000001,
-      "total_interventions": 12,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -370,6 +370,18 @@
       "party": "RC",
       "province": "Chimborazo",
       "total_time": 1026.82,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-BERTHA-BETSABE-VELEZ-VELEZ",
+      "name": "Bertha Betsabe Vélez Vélez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Manabí",
+      "total_time": 978.3999999999999,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -563,18 +575,6 @@
       "province": null,
       "total_time": 706.38,
       "total_interventions": 5,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-BERTHA-BETSABE-VELEZ-VELEZ",
-      "name": "Bertha Betsabe Vélez Vélez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Manabí",
-      "total_time": 680.56,
-      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -803,6 +803,18 @@
       "province": null,
       "total_time": 386.39,
       "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JADIRA-DEL-ROSARIO-BAYAS-URIARTE",
+      "name": "Jadira del Rosario Bayas Uriarte",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Santo Domingo",
+      "total_time": 379.48,
+      "total_interventions": 5,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -1042,6 +1054,18 @@
       "party": null,
       "province": null,
       "total_time": 196.36,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MARIA-BESIBELL-MENDOZA-IBARRA",
+      "name": "María Besibell Mendoza Ibarra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 178.37,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

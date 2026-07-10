@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:47:47.343816",
-  "total_sessions": 397,
+  "generated_at": "2026-07-10T17:56:59.547027",
+  "total_sessions": 400,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5049,6 +5049,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "wBqlDucKwiI",
+      "title": "Assemblywoman Besibell Mendoza - Session 098 - Change of agenda",
+      "date": "",
+      "duration": 715.06,
+      "url": "https://www.youtube.com/watch?v=wBqlDucKwiI",
+      "file_path": "data/sessions/wBqlDucKwiI.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "LreP7J2isV0",
       "title": "Assemblyman Alfredo Serrano - Session 098",
       "date": "",
@@ -5114,6 +5127,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "qFNtadAhoZc",
+      "title": "Assemblyman Kevin Gallardo - Session 098 - Change of Agenda",
+      "date": "",
+      "duration": 1386.05,
+      "url": "https://www.youtube.com/watch?v=qFNtadAhoZc",
+      "file_path": "data/sessions/qFNtadAhoZc.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -5173,6 +5199,19 @@
       "url": "https://www.youtube.com/watch?v=-vRufGiuNf8",
       "file_path": "data/sessions/-vRufGiuNf8.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "8HWYS9MAP-A",
+      "title": "Assemblywoman Yadira Bayas - Session 098 - Change of Agenda",
+      "date": "",
+      "duration": 1079.26,
+      "url": "https://www.youtube.com/watch?v=8HWYS9MAP-A",
+      "file_path": "data/sessions/8HWYS9MAP-A.json",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
