@@ -1,0 +1,50 @@
+{
+  "text": "La Asamblea Nacional vive un momento trascendental y los ojos de la ciudadanía obviamente que están puestos en las decisiones que aquí adoptemos.  Y esto se fortalece cuando contamos con perfiles que combinan la formación académica, la experiencia legislativa y el compromiso con el país.  En este contexto, el colega asambleísta Esteban Torres Cobo representa un valioso contingente humano y profesional capaz de contribuir el cumplimiento eficaz de las funciones de legislar y fiscalizar, aportando solvencia técnica, visión estratégica y vocación de servicio público.  Esteban cuenta con una sólida formación académica que combina una visión moderna del derecho, la institucionalidad democrática y la gestión pública.  Esteban es un profesional con pensamiento estratégico capaz de analizar problemas complejos y proponer soluciones legislativas innovadoras y viables.  Representante de una nueva generación de políticos que conjuga preparación académica, experiencia práctica y visión de futuro.  Su acción legislativa fortalece la capacidad institucional de la Asamblea Nacional, especialmente en procesos de reforma legal, constitucional y modernización del Estado.  Su trayectoria en funciones de dirección parlamentaria le permite comprender y optimizar los procesos legislativos y de fiscalización.  Representa un activo institucional que articula conocimiento jurídico, experiencia política y capacidad de gestión.  Por supuesto, señora presidenta, colegas asambleístas, tengo el honor de proponer el nombre del colega asambleísta Esteban Torres Cobo  para que sea designado primer vicepresidente de la Asamblea Nacional, para lo cual he permitido la respectiva moción a través del sistema DTS.  La misma que solicito, señora presidenta, se dé lectura y sea sometida a la votación respectiva.  Muchas gracias.",
+  "language": "es",
+  "duration": 188.36,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.42,
+      "end": 186.41,
+      "text": "La Asamblea Nacional vive un momento trascendental y los ojos de la ciudadanía obviamente que están puestos en las decisiones que aquí adoptemos.  Y esto se fortalece cuando contamos con perfiles que combinan la formación académica, la experiencia legislativa y el compromiso con el país.  En este contexto, el colega asambleísta Esteban Torres Cobo representa un valioso contingente humano y profesional capaz de contribuir el cumplimiento eficaz de las funciones de legislar y fiscalizar, aportando solvencia técnica, visión estratégica y vocación de servicio público.  Esteban cuenta con una sólida formación académica que combina una visión moderna del derecho, la institucionalidad democrática y la gestión pública.  Esteban es un profesional con pensamiento estratégico capaz de analizar problemas complejos y proponer soluciones legislativas innovadoras y viables.  Representante de una nueva generación de políticos que conjuga preparación académica, experiencia práctica y visión de futuro.  Su acción legislativa fortalece la capacidad institucional de la Asamblea Nacional, especialmente en procesos de reforma legal, constitucional y modernización del Estado.  Su trayectoria en funciones de dirección parlamentaria le permite comprender y optimizar los procesos legislativos y de fiscalización.  Representa un activo institucional que articula conocimiento jurídico, experiencia política y capacidad de gestión.  Por supuesto, señora presidenta, colegas asambleístas, tengo el honor de proponer el nombre del colega asambleísta Esteban Torres Cobo  para que sea designado primer vicepresidente de la Asamblea Nacional, para lo cual he permitido la respectiva moción a través del sistema DTS.  La misma que solicito, señora presidenta, se dé lectura y sea sometida a la votación respectiva.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Pablo Aníbal Jurado Moreno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "899xXjs-q0A",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Pablo Aníbal Jurado Moreno",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Pablo Jurado - Sesión 100",
+  "url": "https://www.youtube.com/watch?v=899xXjs-q0A",
+  "published_at": "2026-06-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "899xXjs-q0A",
+  "date": "2026-06-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=899xXjs-q0A",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "party": null,
+      "province": null,
+      "total_time": 185.99,
+      "interventions": 1,
+      "word_count": 255
+    }
+  ]
+}

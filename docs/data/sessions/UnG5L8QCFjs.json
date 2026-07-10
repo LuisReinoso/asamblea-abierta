@@ -1,0 +1,184 @@
+{
+  "text": "presentada por la asambleísta Evelyn Zambrano, ha sido ingresada por escrito. Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, tiene apoyo la moción.  Señor secretario, dé lectura de la moción presentada y tome votación. Procedo a la lectura y tomar la votación de la moción presentada.  Memorando número AN-ZCEM-2026-0027M, Quito, Distrito Metropolitano, 9 de junio de 2026.  De mi consideración, en mi calidad de asambleísta e integrante de la Comisión Especializada  Permanente de Protección Integral a Niñas, Niños y Adolescentes, al amparo de lo establecido  en los artículos 130 y 135 de la Ley Orgánica de la Función Legislativa, con relación  a la convocatoria para la sesión número 099-AN-2025-2029 de la Secretaría Nacional, a realizarse  el día martes 9 de junio de 2026 a las 10 horas, dentro del cuarto punto del orden del día  que tiene por objeto tratar, conocer y resolver respecto del informe no vinculante sobre la  opción parcial al proyecto de ley orgánica de promoción, prevención y atención psicosocial  para niñas, niños y adolescentes, moción o lo siguiente, se apruebe el allanamiento  total a la objeción parcial al proyecto de ley orgánica de promoción, prevención  y atención psicosocial para niñas, niños y adolescentes, consentimiento, distinguida  consideración, atentamente, Evelyn Melisa Zambrano Chávez, asambleísta principalizada.  Señores asambleístas, por favor, registrar su participación en las curules electrónicas,  de existir alguna novedad, por favor, informar a esta Secretaría. Cierre el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 137 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Evelyn Zambano.  Señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador, presenten los resultados.  Señora Presidenta, me permite informar que la moción presentada por la asamblea de Belis Zambrano  ha sido aprobada por unanimidad del Pleno de la Asamblea Nacional. Se suspende la sesión. Se toma nota, señora presidenta.",
+  "language": "es",
+  "duration": 423.32,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 4.1,
+      "text": "presentada por la asambleísta Evelyn Zambrano, ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 5.16,
+      "end": 9.63,
+      "text": "Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9408,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.4,
+      "end": 17.75,
+      "text": "Señores asambleístas, tiene apoyo la moción.  Señor secretario, dé lectura de la moción presentada y tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 18.91,
+      "end": 103.85,
+      "text": "Procedo a la lectura y tomar la votación de la moción presentada.  Memorando número AN-ZCEM-2026-0027M, Quito, Distrito Metropolitano, 9 de junio de 2026.  De mi consideración, en mi calidad de asambleísta e integrante de la Comisión Especializada  Permanente de Protección Integral a Niñas, Niños y Adolescentes, al amparo de lo establecido  en los artículos 130 y 135 de la Ley Orgánica de la Función Legislativa, con relación  a la convocatoria para la sesión número 099-AN-2025-2029 de la Secretaría Nacional, a realizarse  el día martes 9 de junio de 2026 a las 10 horas, dentro del cuarto punto del orden del día  que tiene por objeto tratar, conocer y resolver respecto del informe no vinculante sobre la  opción parcial al proyecto de ley orgánica de promoción, prevención y atención psicosocial  para niñas, niños y adolescentes, moción o lo siguiente, se apruebe el allanamiento  total a la objeción parcial al proyecto de ley orgánica de promoción, prevención  y atención psicosocial para niñas, niños y adolescentes, consentimiento, distinguida  consideración, atentamente, Evelyn Melisa Zambrano Chávez, asambleísta principalizada.  Señores asambleístas, por favor, registrar su participación en las curules electrónicas,  de existir alguna novedad, por favor, informar a esta Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9408,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 329.65,
+      "end": 331.42,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 333.7,
+      "end": 348.01,
+      "text": "Me permito informar, señora presidenta, que contamos con 137 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Evelyn Zambano.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9408,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 394.31,
+      "end": 396.14,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 397.22,
+      "end": 409.25,
+      "text": "Señor operador, presenten los resultados.  Señora Presidenta, me permite informar que la moción presentada por la asamblea de Belis Zambrano  ha sido aprobada por unanimidad del Pleno de la Asamblea Nacional.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9408,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 8,
+      "start": 417.87,
+      "end": 419.11,
+      "text": "Se suspende la sesión.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "start": 420.89,
+      "end": 423.2,
+      "text": "Se toma nota, señora presidenta.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9408,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "UnG5L8QCFjs",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Del Pleno De La": 1
+      },
+      "samples": 6,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Pleno De La": 1
+      },
+      "samples": 20,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Melissa Zambrano - Sesión 099",
+  "url": "https://www.youtube.com/watch?v=UnG5L8QCFjs",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "UnG5L8QCFjs",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=UnG5L8QCFjs",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 118.06,
+      "interventions": 5,
+      "word_count": 279
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 15.26,
+      "interventions": 5,
+      "word_count": 42
+    }
+  ]
+}
