@@ -1,0 +1,141 @@
+{
+  "text": "El Cantón Borbón es una realidad. El Pleno de la Asamblea Nacional inició con un minuto de silencio en solidaridad con Venezuela.  El punto central de la jornada fue el segundo debate del proyecto de ley para la creación del Cantón Borbón, en la provincia de Esmeraldas. Que hoy Borbón pueda cantonizarse, que cuente con la normativa que le permita crear las condiciones para convertirse en el nuevo polo de desarrollo comercial fluvial del norte de Esmeraldas.  ¡Mi cariño! Mi abrazo para mi provincia de Esmeraldas, para Eloy Alfaro y para el número 223 cantón de la República del Ecuador, que es Borbón. Durante el debate, se destacó que el proyecto cumple con los requisitos legales y administrativos  para avanzar en su conformación. Además, se trató el informe no vinculante sobre la reforma a la LOTUX y el debate sobre  la presunta participación de exfuncionarios de la SENAIN en sistemas de videovigilancia  en Quito, con el inicio de un proceso de fiscalización. Asamblea Nacional.",
+  "language": "es",
+  "duration": 63.14,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.6,
+      "text": "El Cantón Borbón es una realidad.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 3.49,
+      "end": 15.32,
+      "text": "El Pleno de la Asamblea Nacional inició con un minuto de silencio en solidaridad con Venezuela.  El punto central de la jornada fue el segundo debate del proyecto de ley para la creación del Cantón Borbón, en la provincia de Esmeraldas.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 15.79,
+      "end": 27.98,
+      "text": "Que hoy Borbón pueda cantonizarse, que cuente con la normativa que le permita crear las condiciones para convertirse en el nuevo polo de desarrollo comercial fluvial del norte de Esmeraldas.  ¡Mi cariño!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 27.98,
+      "end": 36.84,
+      "text": "Mi abrazo para mi provincia de Esmeraldas, para Eloy Alfaro y para el número 223 cantón de la República del Ecuador, que es Borbón.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 36.92,
+      "end": 42.67,
+      "text": "Durante el debate, se destacó que el proyecto cumple con los requisitos legales y administrativos  para avanzar en su conformación.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 46.67,
+      "end": 58.27,
+      "text": "Además, se trató el informe no vinculante sobre la reforma a la LOTUX y el debate sobre  la presunta participación de exfuncionarios de la SENAIN en sistemas de videovigilancia  en Quito, con el inicio de un proceso de fiscalización.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 59.97,
+      "end": 61.07,
+      "text": "Asamblea Nacional.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "IL0OjH0RGgE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Katherine Alexandra Pacheco Machuca": 1,
+        "Inés Margarita Alarcón Bueno": 1
+      },
+      "samples": 3,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Sesión 104 del Pleno de la Asamblea Nacional",
+  "url": "https://www.youtube.com/watch?v=IL0OjH0RGgE",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "IL0OjH0RGgE",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=IL0OjH0RGgE",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 53.9,
+      "interventions": 7,
+      "word_count": 164
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "text": "Perdón, me sorprendió que me diera el uso de la palabra, Presidente.  Gracias. Usted ha pedido, ¿no ha pedido la palabra? Presidente, yo he escuchado últimamente de manera muy clara las sesiones reiteradas de este pleno  y la primera pregunta que me hago es, ¿de verdad el bloque de ADN se escucha lo que propone,  se escucha lo que dice, se interiorizan en función de los cambios de orden del día  que permanentemente nos hacen en las sesiones de asamblea, los exhortos que piden  y el ejemplo de esto es este punto, estamos tratando y se genera un debate  ante un pedido que es para que la Contraloría inicie un examen especial  a una institución de un gobierno autónomo descentralizado, cosa que se puede pedir  sin necesidad de una sesión del pleno y al final uno termina hasta por salud mental  no escuchando cosas que realmente ofenden al oído porque se escuchan afirmaciones  totalmente infundadas, sin ningún tipo de contratación, sin ningún tipo de datos  que permiten realmente analizar y generar un debate serio y elevado en el Parlamento en el Ecuador.  En un país y un tema tan delicado como el tema de la seguridad, donde a corte de junio de este año  tenemos 3.485 homicidios, 3.200 personas desaparecidas en el Ecuador, en el año 2026 discutimos banalidades  cosas que a veces no son de nuestra competencia, cosas que al final con un discurso altamente ofensivo  haciendo, culpando de acciones, por ejemplo nosotros dejamos de ser gobierno en mayo del 2017  mayo del 2017 han transcurrido más de 8 años y todavía siguen culpando, buscando un contradictor  para desviar la atención mientras el país se mueve en una profunda crisis de salud pública  donde hay enfermos de diálisis que han muerto porque no reciben atención por parte del Estado  donde hay personas desaparecidas, donde hay niños torturados por la fuerza pública  donde los derechos humanos, donde ahora estamos por primera vez en el índice de tortura  por parte de las Naciones Unidas en el país y seguimos discutiendo cosas totalmente banales  haciendo afirmaciones irresponsables. Por favor compañeros, yo sí le pido y yo acudo a usted  señor presidente porque usted actualmente está, le conozco a usted en el trabajo parlamentario  y yo espero que usted también por favor conduzca de mejor manera el debate, la discusión para  que temas intrascendentes realmente no se pongan en consideración del pleno de la asamblea  porque el pueblo nos está observando, el pueblo nos está viendo. Gracias señor presidente. Gracias, asambleísta.  Ha pedido un punto de información el asambleísta Samaniego.",
+  "language": "es",
+  "duration": 202.64,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.64,
+      "end": 7.84,
+      "text": "Perdón, me sorprendió que me diera el uso de la palabra, Presidente.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Fernando Enrique Cedeño Rivadeneira",
+        "confidence": 0.851,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 8.13,
+      "end": 9.48,
+      "text": "Usted ha pedido, ¿no ha pedido la palabra?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fernando Enrique Cedeño Rivadeneira",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 9.97,
+      "end": 198.06,
+      "text": "Presidente, yo he escuchado últimamente de manera muy clara las sesiones reiteradas de este pleno  y la primera pregunta que me hago es, ¿de verdad el bloque de ADN se escucha lo que propone,  se escucha lo que dice, se interiorizan en función de los cambios de orden del día  que permanentemente nos hacen en las sesiones de asamblea, los exhortos que piden  y el ejemplo de esto es este punto, estamos tratando y se genera un debate  ante un pedido que es para que la Contraloría inicie un examen especial  a una institución de un gobierno autónomo descentralizado, cosa que se puede pedir  sin necesidad de una sesión del pleno y al final uno termina hasta por salud mental  no escuchando cosas que realmente ofenden al oído porque se escuchan afirmaciones  totalmente infundadas, sin ningún tipo de contratación, sin ningún tipo de datos  que permiten realmente analizar y generar un debate serio y elevado en el Parlamento en el Ecuador.  En un país y un tema tan delicado como el tema de la seguridad, donde a corte de junio de este año  tenemos 3.485 homicidios, 3.200 personas desaparecidas en el Ecuador, en el año 2026 discutimos banalidades  cosas que a veces no son de nuestra competencia, cosas que al final con un discurso altamente ofensivo  haciendo, culpando de acciones, por ejemplo nosotros dejamos de ser gobierno en mayo del 2017  mayo del 2017 han transcurrido más de 8 años y todavía siguen culpando, buscando un contradictor  para desviar la atención mientras el país se mueve en una profunda crisis de salud pública  donde hay enfermos de diálisis que han muerto porque no reciben atención por parte del Estado  donde hay personas desaparecidas, donde hay niños torturados por la fuerza pública  donde los derechos humanos, donde ahora estamos por primera vez en el índice de tortura  por parte de las Naciones Unidas en el país y seguimos discutiendo cosas totalmente banales  haciendo afirmaciones irresponsables. Por favor compañeros, yo sí le pido y yo acudo a usted  señor presidente porque usted actualmente está, le conozco a usted en el trabajo parlamentario  y yo espero que usted también por favor conduzca de mejor manera el debate, la discusión para  que temas intrascendentes realmente no se pongan en consideración del pleno de la asamblea  porque el pueblo nos está observando, el pueblo nos está viendo. Gracias señor presidente.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Fernando Enrique Cedeño Rivadeneira",
+        "confidence": 0.851,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 199.04,
+      "end": 202.5,
+      "text": "Gracias, asambleísta.  Ha pedido un punto de información el asambleísta Samaniego.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fernando Enrique Cedeño Rivadeneira",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "INN85kh6oU0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Fernando Enrique Cedeño Rivadeneira",
+      "confidence": 1.0,
+      "votes": {
+        "Fernando Enrique Cedeño Rivadeneira": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Por Manabí": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Fernando Cedeño - Sesión 104",
+  "url": "https://www.youtube.com/watch?v=INN85kh6oU0",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "INN85kh6oU0",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=INN85kh6oU0",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Fernando Enrique Cedeño Rivadeneira",
+      "party": null,
+      "province": null,
+      "total_time": 192.29,
+      "interventions": 2,
+      "word_count": 408
+    },
+    {
+      "id": "speaker_0",
+      "name": "Fernando Enrique Cedeño Rivadeneira",
+      "party": null,
+      "province": null,
+      "total_time": 4.81,
+      "interventions": 2,
+      "word_count": 19
+    }
+  ]
+}

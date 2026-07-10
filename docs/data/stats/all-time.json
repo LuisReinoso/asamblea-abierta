@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T23:33:26.093654",
-  "total_sessions": 200,
+  "generated_at": "2026-07-10T00:11:47.502743",
+  "total_sessions": 228,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,15 +39,27 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
+      "name": "Torre de la Torre Fernando de la",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Imbabura",
+      "total_time": 1894.1900000000003,
+      "total_interventions": 32,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
       "name": "Adrián Ernesto Castro Piedra",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 1398.92,
-      "total_interventions": 18,
-      "sessions_attended": 5,
+      "total_time": 1708.58,
+      "total_interventions": 19,
+      "sessions_attended": 6,
       "topics_discussed": 3
     },
     {
@@ -63,15 +75,39 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
-      "name": "Torre de la Torre Fernando de la",
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 1125.96,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-FERNANDO-ENRIQUE-CEDENO-RIVADENEIRA",
+      "name": "Fernando Enrique Cedeño Rivadeneira",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "RC",
-      "province": "Imbabura",
-      "total_time": 1229.1999999999998,
-      "total_interventions": 17,
-      "sessions_attended": 4,
+      "province": "Manabí",
+      "total_time": 930.53,
+      "total_interventions": 5,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "total_time": 900.3,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -87,15 +123,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-FERNANDO-ENRIQUE-CEDENO-RIVADENEIRA",
-      "name": "Fernando Enrique Cedeño Rivadeneira",
+      "id": "AN-JOSE-LUIS-NANGO-CUJI",
+      "name": "José Luis Nango Cuji",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "Manabí",
-      "total_time": 733.43,
-      "total_interventions": 1,
-      "sessions_attended": 1,
+      "party": "Ind.",
+      "province": "Pastaza",
+      "total_time": 752.9200000000001,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -154,6 +190,18 @@
       "party": null,
       "province": null,
       "total_time": 660.1800000000001,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 637.49,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -219,6 +267,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
+      "name": "Franklin Omar Samaniego Maigua",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 504.90999999999997,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
       "name": "Mauricio Javier Ordóñez Fuentes",
       "type": "asambleísta",
@@ -255,18 +315,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JOSE-LUIS-NANGO-CUJI",
-      "name": "José Luis Nango Cuji",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pastaza",
-      "total_time": 389.72,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
       "name": "Mariana Yumbay Yallico",
       "type": "asambleísta",
@@ -298,18 +346,6 @@
       "party": "ADN",
       "province": "Zamora Chinchipe",
       "total_time": 357.75,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
-      "name": "Carmen Yolanda Tiupul Urquizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Chimborazo",
-      "total_time": 316.76,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -471,18 +507,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
-      "name": "Nathaly Estefanía Farinango Delgado",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 102.67,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
       "name": "Juan José Reyes Baquerizo",
       "type": "asambleísta",
@@ -492,6 +516,18 @@
       "total_time": 47.449999999999996,
       "total_interventions": 3,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LUIS-FERNANDO-JACOME-MEJIA",
+      "name": "Luis Fernando Jácome Mejía",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 12.97,
+      "total_interventions": 5,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -572,9 +608,16 @@
       "unique_topics": 0
     },
     {
+      "month": "2026-06",
+      "sessions_count": 18,
+      "total_duration": 5410.9400000000005,
+      "unique_speakers": 3,
+      "unique_topics": 0
+    },
+    {
       "month": "2026-07",
-      "sessions_count": 33,
-      "total_duration": 12837.979999999996,
+      "sessions_count": 43,
+      "total_duration": 17761.629999999997,
       "unique_speakers": 4,
       "unique_topics": 0
     }

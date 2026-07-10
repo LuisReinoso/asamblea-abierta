@@ -1,0 +1,50 @@
+{
+  "text": "leísta cristian benavides muchas gracias señor presidente bueno realmente puntual ya lo mencionó  la señora presidenta de la comisión quería aclarar nada más de que existe la transitoria  quinta donde se establece la comisión técnica de transición y esto no nació ni de mí ni de  ninguno de los legisladores esto nació el agente de borbón que está aquí presente fueron  ellos lo que le solicitaron por eso cuando se habló de la comisión querida paula pues si hubiese sido  bueno tenerla presente nunca la vi en la comisión con voz así sea sin voto pero es importante que  usted como legisladora esmeraldeña esté presente en nuestra comisión entiendo los derechos de sus  mandantes y por otro tema en la situación de los atrasos los atrasos vienen desde el 2015 2016 si  no es algo nuevo y no quiero defender a ningún gobierno simplemente hablar con la verdad ha sido  un inconveniente para la experiencia de los recursos a los gobiernos autónomos descentralizados también  recortes y esto no es algo nuevo por eso invoco la pertinencia de que en su momento realmente  empecemos a ajustar a los municipios así como se lo hizo en la reforma salcotad en lo que se refiere  al 70 30 allí esta norma no es nueva que no se la inventaron acá nació con el cotad el establecimiento  de que el 70 se vaya a la obra pública y el 30 por ciento sea gasto corriente eso no lo inventamos  nosotros así que si es importante hablarle a la ciudadanía de una manera transparente y respetuosa  así por eso yo les invitaba al pueblo de borbón a los representantes y les decía va a ser duro les decía  acérquense al gobierno porque lo van a necesitar evidentemente el gobierno tiene que hacerse cargo  de este arranque de este empuje que lo necesita el pueblo de borbón no va a ser sencillo pero lo  importante siempre será que exista la armonía el apoyo el respaldo y sobre todo el empuje de todos  quienes somos parte de esta asamblea nacional y en torno a la autonomía creo que ha sido claro  en la primera fase de la intervención que hice en la anterior ocasión eso nada más señor presidente  gracias asambleísta",
+  "language": "es",
+  "duration": 146.94,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 146.98,
+      "text": "leísta cristian benavides muchas gracias señor presidente bueno realmente puntual ya lo mencionó  la señora presidenta de la comisión quería aclarar nada más de que existe la transitoria  quinta donde se establece la comisión técnica de transición y esto no nació ni de mí ni de  ninguno de los legisladores esto nació el agente de borbón que está aquí presente fueron  ellos lo que le solicitaron por eso cuando se habló de la comisión querida paula pues si hubiese sido  bueno tenerla presente nunca la vi en la comisión con voz así sea sin voto pero es importante que  usted como legisladora esmeraldeña esté presente en nuestra comisión entiendo los derechos de sus  mandantes y por otro tema en la situación de los atrasos los atrasos vienen desde el 2015 2016 si  no es algo nuevo y no quiero defender a ningún gobierno simplemente hablar con la verdad ha sido  un inconveniente para la experiencia de los recursos a los gobiernos autónomos descentralizados también  recortes y esto no es algo nuevo por eso invoco la pertinencia de que en su momento realmente  empecemos a ajustar a los municipios así como se lo hizo en la reforma salcotad en lo que se refiere  al 70 30 allí esta norma no es nueva que no se la inventaron acá nació con el cotad el establecimiento  de que el 70 se vaya a la obra pública y el 30 por ciento sea gasto corriente eso no lo inventamos  nosotros así que si es importante hablarle a la ciudadanía de una manera transparente y respetuosa  así por eso yo les invitaba al pueblo de borbón a los representantes y les decía va a ser duro les decía  acérquense al gobierno porque lo van a necesitar evidentemente el gobierno tiene que hacerse cargo  de este arranque de este empuje que lo necesita el pueblo de borbón no va a ser sencillo pero lo  importante siempre será que exista la armonía el apoyo el respaldo y sobre todo el empuje de todos  quienes somos parte de esta asamblea nacional y en torno a la autonomía creo que ha sido claro  en la primera fase de la intervención que hice en la anterior ocasión eso nada más señor presidente  gracias asambleísta",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "ydVu3OA2_-s",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Cristián Benavides - Sesión 104 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=ydVu3OA2_-s",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ydVu3OA2_-s",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ydVu3OA2_-s",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 146.95,
+      "interventions": 1,
+      "word_count": 374
+    }
+  ]
+}
