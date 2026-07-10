@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor Presidente, colegas legisladores, buenas tardes.  Cuando los ciudadanos se dirigieron a las urnas a elegir las distintas dignidades,  nos hicieron con la confianza de quienes tienen la atribución de gestionar recursos públicos  que lo hagan con transparencia, con eficiencia y con responsabilidad.  En este caso, cuando los ciudadanos recorren las calles,  cuando una madre se dirige a ver a su hijo,  cuando un padre se dirige a ir a trabajar,  o cuando un estudiante se dirige a ir a la universidad,  esperan que los centros de biovigilancia se centren en cuidarlos  y les den la seguridad que ameritan.  Desde el Gobierno Nacional y esta Asamblea Nacional,  hemos trabajado arduamente para fortalecer las leyes  y otorgar las herramientas jurídicas y normativas para poder fortalecer la seguridad  a las Fuerzas Armadas, a la Policía Nacional, entre otros.  Y es lamentable cómo este esfuerzo nacional sufre un golpe inaceptable  debido a una administración local,  y es que los recursos se desvían para el propósito que amerita.  Lo que se ha revelado en el Distrito Metropolitano de Quito es inadmisible.  Cinco funcionarios, cinco exfuncionarios  de la instinta Secretaría Nacional de Inteligencia,  hoy están a cargo del cerebro tecnológico de la ciudad,  del centro de biovigilancia y de la gestión de datos de millones de personas,  de los quiteños. Inaceptable.  Eso, colegas legisladores, tenemos que recordar también  para qué existía esa secretaría y cómo se catalogaba en ese tiempo  prácticas de seguimiento, control de información y vigilancia a quienes pensaban distinto.  Esto se traduce, señor presidente, en un acto de traición.  Traición a los quiteños, traición al pueblo ecuatoriano, traición a nuestra patria.  Y es que, justamente, quien está detrás de todo esto es un traidor.  Sí. Ese traidor que se esconde y trabaja detrás de un ático.  Ese traidor que es prófugo de la justicia ecuatoriana.  Ese traidor que tuvo la osadía de incluso pedirle al Estado de México  que inicie acciones legales y económicas en contra de nuestro país.  Hoy, señor presidente, quiero ser totalmente claro.  Las cámaras de biovigilancia deben ser otorgadas  deben utilizarse con responsabilidad.  Debemos fiscalizar con la transparencia y garantizar que la tecnología pública  no se convierta en un instrumento de vigilancia pública.  No permitamos que las malas prácticas del pasado  se reciclen bajo la sombra de la gestión municipal.  El pueblo ecuatoriano, los ciudadanos quiteños, merecen saber  que los recursos tecnológicos, los recursos del Estado,  están siendo utilizados para su bienestar.  El pueblo ecuatoriano merece la verdad.  El pueblo ecuatoriano merece un mejor país.  Muchísimas gracias.  Gracias, señor presidente.  Tiene la palabra la señora.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 212.56,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.62,
+      "end": 212.6,
+      "text": "Gracias, señor Presidente, colegas legisladores, buenas tardes.  Cuando los ciudadanos se dirigieron a las urnas a elegir las distintas dignidades,  nos hicieron con la confianza de quienes tienen la atribución de gestionar recursos públicos  que lo hagan con transparencia, con eficiencia y con responsabilidad.  En este caso, cuando los ciudadanos recorren las calles,  cuando una madre se dirige a ver a su hijo,  cuando un padre se dirige a ir a trabajar,  o cuando un estudiante se dirige a ir a la universidad,  esperan que los centros de biovigilancia se centren en cuidarlos  y les den la seguridad que ameritan.  Desde el Gobierno Nacional y esta Asamblea Nacional,  hemos trabajado arduamente para fortalecer las leyes  y otorgar las herramientas jurídicas y normativas para poder fortalecer la seguridad  a las Fuerzas Armadas, a la Policía Nacional, entre otros.  Y es lamentable cómo este esfuerzo nacional sufre un golpe inaceptable  debido a una administración local,  y es que los recursos se desvían para el propósito que amerita.  Lo que se ha revelado en el Distrito Metropolitano de Quito es inadmisible.  Cinco funcionarios, cinco exfuncionarios  de la instinta Secretaría Nacional de Inteligencia,  hoy están a cargo del cerebro tecnológico de la ciudad,  del centro de biovigilancia y de la gestión de datos de millones de personas,  de los quiteños. Inaceptable.  Eso, colegas legisladores, tenemos que recordar también  para qué existía esa secretaría y cómo se catalogaba en ese tiempo  prácticas de seguimiento, control de información y vigilancia a quienes pensaban distinto.  Esto se traduce, señor presidente, en un acto de traición.  Traición a los quiteños, traición al pueblo ecuatoriano, traición a nuestra patria.  Y es que, justamente, quien está detrás de todo esto es un traidor.  Sí. Ese traidor que se esconde y trabaja detrás de un ático.  Ese traidor que es prófugo de la justicia ecuatoriana.  Ese traidor que tuvo la osadía de incluso pedirle al Estado de México  que inicie acciones legales y económicas en contra de nuestro país.  Hoy, señor presidente, quiero ser totalmente claro.  Las cámaras de biovigilancia deben ser otorgadas  deben utilizarse con responsabilidad.  Debemos fiscalizar con la transparencia y garantizar que la tecnología pública  no se convierta en un instrumento de vigilancia pública.  No permitamos que las malas prácticas del pasado  se reciclen bajo la sombra de la gestión municipal.  El pueblo ecuatoriano, los ciudadanos quiteños, merecen saber  que los recursos tecnológicos, los recursos del Estado,  están siendo utilizados para su bienestar.  El pueblo ecuatoriano merece la verdad.  El pueblo ecuatoriano merece un mejor país.  Muchísimas gracias.  Gracias, señor presidente.  Tiene la palabra la señora.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "gyq2XidLbNE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] De Los": 1,
+        "[OOV] Por Santo": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Christopher Jaramillo - Sesión 104",
+  "url": "https://www.youtube.com/watch?v=gyq2XidLbNE",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "gyq2XidLbNE",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=gyq2XidLbNE",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 210.98,
+      "interventions": 1,
+      "word_count": 431
+    }
+  ]
+}

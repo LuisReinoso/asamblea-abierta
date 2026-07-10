@@ -1,0 +1,52 @@
+{
+  "text": "Muchas gracias, señor presidente. Yo ahora entiendo que cuando no se tiene argumentos se recurre al insulto.  Voy a ser muy claro y puntual, nuevamente, para que se me entienda, las cámaras municipales están controladas por el ECU 911 que pertenece al gobierno nacional.  Vamos a revisar Decreto Ejecutivo 214.397, Resolución 025.042 y el ECU 911 para información en acceso y control total sobre las 632 cámaras.  Pero además, la Resolución 042 determina la responsabilidad del ECU 911 y también del Comité Intersectorial de Seguridad del ECU 911, que adivinen quién lo conforma.  Ministro del Interior, Ministro de Defensa, Ministro de Salud, el Comité de Inteligencia Estratégica y el tema del encargado de la Secretaría de Riesgos.  Ahí tienen la vía por dónde investigar quién no hizo lo que tenía que hacer.  Segundo, el municipio es aliado estratégico de la Policía Nacional, lo he dicho.  Tercero, la aprobación del Plan de Seguridad de Quito contó con la participación del Ministerio del Interior, el ECU 911 y la Policía Nacional.  Y ¿saben qué? Además, se contempla el uso de las cámaras municipales por parte del ECU 911.  Dicen que no tengo información sobre personas que tienen cartas suficientes de experiencia para poder estar al frente de una institución de seguridad,  no como en el gobierno, que en cada año tiene que cambiar tres, cuatro o cinco ministros  y le echan la culpa a los de abajo por su inexperiencia e inoperancia de las corrupciones que se están, o de los actos de corrupción que hoy se están investigando.  Carolina, profesional con más de 15 años de experiencia, ha servido al país en funciones relacionadas con seguridad,  cuando el Ecuador era uno de los países más seguros del mundo.  Así es que puedo seguir dándoles más información.  Sin embargo, con todo lo que les he dicho, solo queda una conclusión clara,  que la que parece que no tiene información y criterio, termina siendo usted.  Gracias.",
+  "language": "es",
+  "duration": 145.1,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 142.94,
+      "text": "Muchas gracias, señor presidente. Yo ahora entiendo que cuando no se tiene argumentos se recurre al insulto.  Voy a ser muy claro y puntual, nuevamente, para que se me entienda, las cámaras municipales están controladas por el ECU 911 que pertenece al gobierno nacional.  Vamos a revisar Decreto Ejecutivo 214.397, Resolución 025.042 y el ECU 911 para información en acceso y control total sobre las 632 cámaras.  Pero además, la Resolución 042 determina la responsabilidad del ECU 911 y también del Comité Intersectorial de Seguridad del ECU 911, que adivinen quién lo conforma.  Ministro del Interior, Ministro de Defensa, Ministro de Salud, el Comité de Inteligencia Estratégica y el tema del encargado de la Secretaría de Riesgos.  Ahí tienen la vía por dónde investigar quién no hizo lo que tenía que hacer.  Segundo, el municipio es aliado estratégico de la Policía Nacional, lo he dicho.  Tercero, la aprobación del Plan de Seguridad de Quito contó con la participación del Ministerio del Interior, el ECU 911 y la Policía Nacional.  Y ¿saben qué? Además, se contempla el uso de las cámaras municipales por parte del ECU 911.  Dicen que no tengo información sobre personas que tienen cartas suficientes de experiencia para poder estar al frente de una institución de seguridad,  no como en el gobierno, que en cada año tiene que cambiar tres, cuatro o cinco ministros  y le echan la culpa a los de abajo por su inexperiencia e inoperancia de las corrupciones que se están, o de los actos de corrupción que hoy se están investigando.  Carolina, profesional con más de 15 años de experiencia, ha servido al país en funciones relacionadas con seguridad,  cuando el Ecuador era uno de los países más seguros del mundo.  Así es que puedo seguir dándoles más información.  Sin embargo, con todo lo que les he dicho, solo queda una conclusión clara,  que la que parece que no tiene información y criterio, termina siendo usted.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Franklin Omar Samaniego Maigua",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "dKNctHBuHO0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Franklin Omar Samaniego Maigua",
+      "confidence": 1.0,
+      "votes": {
+        "Franklin Omar Samaniego Maigua": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Franklin Samaniego - Sesión 104 -Punto de información",
+  "url": "https://www.youtube.com/watch?v=dKNctHBuHO0",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "dKNctHBuHO0",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=dKNctHBuHO0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Franklin Omar Samaniego Maigua",
+      "party": null,
+      "province": null,
+      "total_time": 142.91,
+      "interventions": 1,
+      "word_count": 323
+    }
+  ]
+}

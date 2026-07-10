@@ -1,0 +1,162 @@
+{
+  "text": "La moción ha sido presentada por el asambleísta. Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría. ¿Tiene apoyo la moción?  Lectura, señor secretario, de la moción y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada.  Memorando número N-CGSE-2026-0127-M.  Asunto.  Presentación de moción respecto al informe para segundo debate del proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  De mi consideración.  Con respetuoso saludo en el contexto de la sesión 104 del Pleno de la Asamblea Nacional,  en estricto apego al establecido en los artículos 135 y 136 de la Ley Orgánica de la Afición Legislativa,  y en relación al tercer punto del orden del día, el cual tiene por objeto conocer y resolver respecto al informe para segundo debate  del proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  Presento la siguiente moción.  Aprobar el proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  Con sentimientos de distinguida consideración.  Atentamente, Samuel Elías Celerí Gómez, asambleísta.  Hasta aquí la lectura de la moción, señor presidente.  Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Gracias.  Gracias. Cierra el registro, señor secretario. Me permito informar, señor presidente, que contamos con 139 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Samuel Celery.  Señores asambleístas, por favor consignar su voto. Señor Operador, presentes los resultados.  Señor Presidente, me permite informar que de un total de 139 asambleístas presentes,  la moción presentada por el asambleísta Samuel Celery ha sido aprobada por unanimidad. Disponga, secretario, que TICS enfoque también a todos los compañeros que están en el Salón Lequerica.",
+  "language": "es",
+  "duration": 401.64,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.09,
+      "text": "La moción ha sido presentada por el asambleísta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.5838,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 2.09,
+      "end": 10.09,
+      "text": "Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.7109,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.3,
+      "end": 16.62,
+      "text": "¿Tiene apoyo la moción?  Lectura, señor secretario, de la moción y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.5838,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 17.21,
+      "end": 91.44,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada.  Memorando número N-CGSE-2026-0127-M.  Asunto.  Presentación de moción respecto al informe para segundo debate del proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  De mi consideración.  Con respetuoso saludo en el contexto de la sesión 104 del Pleno de la Asamblea Nacional,  en estricto apego al establecido en los artículos 135 y 136 de la Ley Orgánica de la Afición Legislativa,  y en relación al tercer punto del orden del día, el cual tiene por objeto conocer y resolver respecto al informe para segundo debate  del proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  Presento la siguiente moción.  Aprobar el proyecto de ley de creación del Cantón Borbón en la provincia de Esmeraldas.  Con sentimientos de distinguida consideración.  Atentamente, Samuel Elías Celerí Gómez, asambleísta.  Hasta aquí la lectura de la moción, señor presidente.  Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Gracias.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.7109,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 265.12,
+      "end": 266.35,
+      "text": "Cierra el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.5838,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 269.73,
+      "end": 285.34,
+      "text": "Me permito informar, señor presidente, que contamos con 139 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Samuel Celery.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.7109,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 374.82,
+      "end": 387.95,
+      "text": "Señor Operador, presentes los resultados.  Señor Presidente, me permite informar que de un total de 139 asambleístas presentes,  la moción presentada por el asambleísta Samuel Celery ha sido aprobada por unanimidad.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.7109,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 396.12,
+      "end": 401.64,
+      "text": "Disponga, secretario, que TICS enfoque también a todos los compañeros que están en el Salón Lequerica.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 0.5838,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "HDbhEhaLz3Y",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Luis Fernando Jácome Mejía": 1,
+        "[OOV] Provincia De Esmeraldas.": 1
+      },
+      "samples": 5,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Samuel Celleri - Sesión 104",
+  "url": "https://www.youtube.com/watch?v=HDbhEhaLz3Y",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "HDbhEhaLz3Y",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=HDbhEhaLz3Y",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Torre de la Torre Fernando de la",
+      "party": null,
+      "province": null,
+      "total_time": 110.97,
+      "interventions": 4,
+      "word_count": 256
+    },
+    {
+      "id": "speaker_0",
+      "name": "Torre de la Torre Fernando de la",
+      "party": null,
+      "province": null,
+      "total_time": 14.13,
+      "interventions": 4,
+      "word_count": 44
+    }
+  ]
+}
