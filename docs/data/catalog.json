@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:02:21.647210",
-  "total_sessions": 372,
+  "generated_at": "2026-07-10T17:11:47.863355",
+  "total_sessions": 377,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2343,6 +2343,32 @@
       "bills_mentioned": 0
     },
     {
+      "id": "9HhgsE15GII",
+      "title": "Asambleísta Andrés Guschmer - Sesión 099 - Cambio del orden del día",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 595.48,
+      "url": "https://www.youtube.com/watch?v=9HhgsE15GII",
+      "file_path": "data/sessions/9HhgsE15GII.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "v7jmYP4PdRw",
+      "title": "Asambleísta Andrés Castillo - Sesión 099 - Cambio del orden del día",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 705.26,
+      "url": "https://www.youtube.com/watch?v=v7jmYP4PdRw",
+      "file_path": "data/sessions/v7jmYP4PdRw.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "M3Ptktwk6kE",
       "title": "Asambleísta Arisdely Parrales - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2473,6 +2499,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "RqauEu4ucQg",
+      "title": "Asambleísta Adrián Castro - Sesión 099 - Cambio del orden del día",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 565.29,
+      "url": "https://www.youtube.com/watch?v=RqauEu4ucQg",
+      "file_path": "data/sessions/RqauEu4ucQg.json",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "lQrOYjF52Nk",
       "title": "Votación de la moción de la asambleísta Lucía Jaramillo - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2577,6 +2616,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "lEa9E8eCfYM",
+      "title": "Condecoración - Sesión 099 - Comisión General",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 295.66,
+      "url": "https://www.youtube.com/watch?v=lEa9E8eCfYM",
+      "file_path": "data/sessions/lEa9E8eCfYM.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FBGSGnIywlk",
       "title": "Votación de la reconsideración de la asambleísta Lucía Jaramillo - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2635,6 +2687,19 @@
       "duration": 335.46,
       "url": "https://www.youtube.com/watch?v=uizGg7CAd10",
       "file_path": "data/sessions/uizGg7CAd10.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "am-Z95tCTtU",
+      "title": "Asambleísta Andrés Castillo - Sesión 098",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 649.55,
+      "url": "https://www.youtube.com/watch?v=am-Z95tCTtU",
+      "file_path": "data/sessions/am-Z95tCTtU.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],

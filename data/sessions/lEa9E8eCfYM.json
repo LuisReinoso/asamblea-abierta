@@ -1,0 +1,51 @@
+{
+  "text": "Lectura de los acuerdos, considerando que la señorita Carla Joana Jaramillo Navarrete  es una destacada atleta ecuatoriana especializada en la disciplina de marcha atlética  en la cual ha representado al país en competencias de alto nivel internacional.  Que su participación en eventos como los Juegos Olímpicos, Campeonatos Mundiales y Panamericanos,  así como la obtención de medallas de oro en el Campeonato Sudamericano de Atletismo 2019  evidencian una trayectoria deportiva de excelencia que ha contribuido al posicionamiento del Ecuador en el ámbito atlético.  En ejercicio de sus atribuciones, acuerda reconocer y condecorar a la señorita Carla Joana Jaramillo Navarrete  exaltando su destacada trayectoria, su representación internacional  y su valioso aporte al fortalecimiento del deporte ecuatoriano.  Impone la condecoración la presidenta de la Asamblea Nacional, asambleísta Michelle Mancheno  y hace la entrega del acuerdo legislativo.  Lectura del acuerdo.  Considerando que el señor Miguel Jovan Delgado Sánchez es un destacado entrenador ecuatoriano  de alto rendimiento con amplia trayectoria en la formación de atletas en la disciplina de marcha atlética,  que su labor ha contribuido significativamente al desarrollo del deporte ecuatoriano  formando deportistas que han representado a la país en competencias nacionales e internacionales  en ejercicio de sus atribuciones, acuerda.  Reconocer y condecorar a señor Miguel Jovan Delgado Sánchez  exaltando su destacada trayectoria como formador de atletas  y su valioso aporte al desarrollo del deporte ecuatoriano.  Impone la condecoración la asambleísta Michelle Mancheno,  la presidenta de la Asamblea Nacional.  Hace la entrega del acuerdo legislativo el asambleísta Fernando Jaramillo.  Agradecemos la participación de la señorita Carla Leovana Jaramillo Navarrete  y al señor Miguel Jovan Delgado Sánchez.",
+  "language": "es",
+  "duration": 295.66,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 54.37,
+      "end": 287.46,
+      "text": "Lectura de los acuerdos, considerando que la señorita Carla Joana Jaramillo Navarrete  es una destacada atleta ecuatoriana especializada en la disciplina de marcha atlética  en la cual ha representado al país en competencias de alto nivel internacional.  Que su participación en eventos como los Juegos Olímpicos, Campeonatos Mundiales y Panamericanos,  así como la obtención de medallas de oro en el Campeonato Sudamericano de Atletismo 2019  evidencian una trayectoria deportiva de excelencia que ha contribuido al posicionamiento del Ecuador en el ámbito atlético.  En ejercicio de sus atribuciones, acuerda reconocer y condecorar a la señorita Carla Joana Jaramillo Navarrete  exaltando su destacada trayectoria, su representación internacional  y su valioso aporte al fortalecimiento del deporte ecuatoriano.  Impone la condecoración la presidenta de la Asamblea Nacional, asambleísta Michelle Mancheno  y hace la entrega del acuerdo legislativo.  Lectura del acuerdo.  Considerando que el señor Miguel Jovan Delgado Sánchez es un destacado entrenador ecuatoriano  de alto rendimiento con amplia trayectoria en la formación de atletas en la disciplina de marcha atlética,  que su labor ha contribuido significativamente al desarrollo del deporte ecuatoriano  formando deportistas que han representado a la país en competencias nacionales e internacionales  en ejercicio de sus atribuciones, acuerda.  Reconocer y condecorar a señor Miguel Jovan Delgado Sánchez  exaltando su destacada trayectoria como formador de atletas  y su valioso aporte al desarrollo del deporte ecuatoriano.  Impone la condecoración la asambleísta Michelle Mancheno,  la presidenta de la Asamblea Nacional.  Hace la entrega del acuerdo legislativo el asambleísta Fernando Jaramillo.  Agradecemos la participación de la señorita Carla Leovana Jaramillo Navarrete  y al señor Miguel Jovan Delgado Sánchez.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Gabriela Molina Menéndez",
+        "confidence": 0.9393,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "lEa9E8eCfYM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Condecoración - Sesión 099 - Comisión General",
+  "url": "https://www.youtube.com/watch?v=lEa9E8eCfYM",
+  "published_at": "2026-06-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "lEa9E8eCfYM",
+  "date": "2026-06-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=lEa9E8eCfYM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María Gabriela Molina Menéndez",
+      "party": null,
+      "province": null,
+      "total_time": 233.09,
+      "interventions": 1,
+      "word_count": 262
+    }
+  ]
+}

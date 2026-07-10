@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:02:21.527824",
-  "total_sessions": 372,
+  "generated_at": "2026-07-10T17:11:47.755524",
+  "total_sessions": 377,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 4149.370000000001,
-      "total_interventions": 53,
-      "sessions_attended": 10,
+      "total_time": 4982.320000000001,
+      "total_interventions": 62,
+      "sessions_attended": 12,
       "topics_discussed": 3
     },
     {
@@ -93,9 +93,9 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Imbabura",
-      "total_time": 1923.1100000000001,
-      "total_interventions": 45,
-      "sessions_attended": 10,
+      "total_time": 2039.29,
+      "total_interventions": 49,
+      "sessions_attended": 11,
       "topics_discussed": 0
     },
     {
@@ -117,9 +117,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Imbabura",
-      "total_time": 1777.08,
-      "total_interventions": 6,
-      "sessions_attended": 6,
+      "total_time": 1867.03,
+      "total_interventions": 7,
+      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -375,6 +375,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
+      "name": "Milena Cristina Jácome Benítez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 865.49,
+      "total_interventions": 11,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
       "name": "Johnny Alfredo Lavayen Tamayo",
       "type": "asambleísta",
@@ -411,18 +423,6 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
-      "name": "Milena Cristina Jácome Benítez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 811.5699999999999,
-      "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
       "name": "Eliana Katherine Correa González",
       "type": "asambleísta",
@@ -432,6 +432,18 @@
       "total_time": 809.1500000000001,
       "total_interventions": 4,
       "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
+      "name": "María Gabriela Molina Menéndez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Manabí",
+      "total_time": 791.69,
+      "total_interventions": 22,
+      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -687,6 +699,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARCELO-ANDRES-GUSCHMER-TAMARIZ",
+      "name": "Marcelo Andrés Guschmer Tamariz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 437.63,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
       "name": "Milton Javier Aguas Flores",
       "type": "asambleísta",
@@ -696,18 +720,6 @@
       "total_time": 435.57,
       "total_interventions": 3,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
-      "name": "María Gabriela Molina Menéndez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Manabí",
-      "total_time": 429.09,
-      "total_interventions": 15,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -1011,18 +1023,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MARCELO-ANDRES-GUSCHMER-TAMARIZ",
-      "name": "Marcelo Andrés Guschmer Tamariz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 158.86,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
       "name": "Jorge Enrique Chamba Cabanilla",
       "type": "asambleísta",
@@ -1032,6 +1032,18 @@
       "total_time": 152.5,
       "total_interventions": 1,
       "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JUAN-PABLO-MOLINA-SALDANA",
+      "name": "Juan Pablo Molina Saldaña",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 148.29,
+      "total_interventions": 9,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -1104,18 +1116,6 @@
       "total_time": 42.58,
       "total_interventions": 5,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-PABLO-MOLINA-SALDANA",
-      "name": "Juan Pablo Molina Saldaña",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 18.98,
-      "total_interventions": 5,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1197,8 +1197,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 142,
-      "total_duration": 58469.840000000004,
+      "sessions_count": 147,
+      "total_duration": 61281.08000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },
