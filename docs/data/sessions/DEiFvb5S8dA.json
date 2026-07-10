@@ -1,0 +1,143 @@
+{
+  "text": "Gracias, señora presidenta. Una buena tarde a todos los legisladores, pero sobre todo al pueblo ecuatoriano que nos ve y nos escucha.  Yo sí quiero preguntar en el inicio de mi intervención al ingeniero de TIC, si está transmitiendo,  porque a mí sí me interesa que se transmita el video que le pido, por favor, presidenta, se reproduzca en este momento.  Autorizado. por parte de más de 400 internas. Decirles que estamos trabajando porque creemos en una verdadera rehabilitación.  Les felicito por su comportamiento.  Ustedes son el modelo de este sistema que queremos transformar.  Basta ya de los privilegios.  No más. Depende de ustedes.  Para eso está nuestro apoyo.  Irrestricto. Confiamos en ustedes y creemos que ustedes pueden cambiar, compañeros. Gracias, señora presidenta. Como sí espero que sea transmitido este video, porque hay que recordarles a los ecuatorianos, pero sobre todo a los jóvenes, gracias a qué estamos viviendo la crisis en el sistema penitenciario, ¿no?  Tener una ministra de un gobierno a la que le aplauden asesinos, violadores, secuestradores de niños, eso sí es grave, eso sí preocupa. Y que encima esa ministra les diga felicitaciones, porque ustedes son el modelo. ¿El modelo de qué? Del uso de drogas, del ingreso de armas, de manejar GDOs que operen desde las cárceles para que sigan matando a los ecuatorianos.  Esas son las felicitaciones que acabamos de ver. Que no se le olvide al pueblo ecuatoriano, que no se le olvide a ninguno de los jóvenes que existieron esos hechos. Y como ven, ahora mismo, pueblo ecuatoriano, miren cómo se están retirando. Y yo sí le pido que se pause mi intervención y que se constate el quórum, señora presidenta, por favor. Señor secretario, por favor, constate el quórum de la sesión. Señoras y señores asambleístas, por favor.",
+  "language": "es",
+  "duration": 146.49,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.26,
+      "end": 25.36,
+      "text": "Gracias, señora presidenta. Una buena tarde a todos los legisladores, pero sobre todo al pueblo ecuatoriano que nos ve y nos escucha.  Yo sí quiero preguntar en el inicio de mi intervención al ingeniero de TIC, si está transmitiendo,  porque a mí sí me interesa que se transmita el video que le pido, por favor, presidenta, se reproduzca en este momento.  Autorizado.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 28.08,
+      "end": 31.87,
+      "text": "por parte de más de 400 internas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Por Napo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 42.07,
+      "end": 63.65,
+      "text": "Decirles que estamos trabajando porque creemos en una verdadera rehabilitación.  Les felicito por su comportamiento.  Ustedes son el modelo de este sistema que queremos transformar.  Basta ya de los privilegios.  No más. Depende de ustedes.  Para eso está nuestro apoyo.  Irrestricto. Confiamos en ustedes y creemos que ustedes pueden cambiar, compañeros.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 72.41,
+      "end": 138.27,
+      "text": "Gracias, señora presidenta. Como sí espero que sea transmitido este video, porque hay que recordarles a los ecuatorianos, pero sobre todo a los jóvenes, gracias a qué estamos viviendo la crisis en el sistema penitenciario, ¿no?  Tener una ministra de un gobierno a la que le aplauden asesinos, violadores, secuestradores de niños, eso sí es grave, eso sí preocupa. Y que encima esa ministra les diga felicitaciones, porque ustedes son el modelo. ¿El modelo de qué? Del uso de drogas, del ingreso de armas, de manejar GDOs que operen desde las cárceles para que sigan matando a los ecuatorianos.  Esas son las felicitaciones que acabamos de ver. Que no se le olvide al pueblo ecuatoriano, que no se le olvide a ninguno de los jóvenes que existieron esos hechos. Y como ven, ahora mismo, pueblo ecuatoriano, miren cómo se están retirando. Y yo sí le pido que se pause mi intervención y que se constate el quórum, señora presidenta, por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 141.34,
+      "end": 144.11,
+      "text": "Señor secretario, por favor, constate el quórum de la sesión.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 144.85,
+      "end": 146.46,
+      "text": "Señoras y señores asambleístas, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Por Napo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "DEiFvb5S8dA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Por Napo",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Por Napo": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Por Napo": 2,
+        "[OOV] A Por Napo": 1,
+        "[OOV] Del Pleno De La Asamblea": 1
+      },
+      "samples": 4,
+      "successful_reads": 4,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] A Por Napo": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Ana Belen Tapia - Sesión 078",
+  "url": "https://www.youtube.com/watch?v=DEiFvb5S8dA",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "DEiFvb5S8dA",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=DEiFvb5S8dA",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 114.31,
+      "interventions": 4,
+      "word_count": 284
+    },
+    {
+      "id": "speaker_0",
+      "name": "Por Napo",
+      "party": null,
+      "province": null,
+      "total_time": 5.4,
+      "interventions": 2,
+      "word_count": 13
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "text": "Gracias, señora presidenta, de verdad, como lo dije hace un momento, esperaba que sea algún debate técnico, algún debate donde discutamos del articulado, pero déjeme decirle al asambleísta lo que usted llama una gira de medios, es informar a la ciudadanía, es decirle exactamente lo que está haciendo la Asamblea Nacional a favor y a beneficio de la seguridad nacional, y es lo que nos compete como comisión de seguridad.  Y como ya lo dije una vez en el pleno de la Asamblea Nacional, como usted no colabora, como usted no observa los artículos, como usted, por decirlo de menos, no le interesa lo que pasa en la comisión de seguridad, entiendo que usted tiene a dar ese tipo de argumentos.  Y yo creo que es importante y imperativo decir aquí que sí, pues, que sí tiene dedicatoria esta normativa, y es a los grupos de delincuencia organizada, pues señora legisladora, déjeme decirle que ya le está afectando a usted la situación del alcalde criminal, porque todo lo está relacionando a ello.  Cuando el país no es sólo eso, el país hoy requiere de reformas estructurales para encaminar nuestro sistema penitenciario.  Usted ha dado las cifras, usted sabe lo que está pasando en el territorio, porque de una vez, una vez, una vez, señores legisladores de la Revolución Ciudadana no se ponen del lado del pueblo,  una sola vez, no legislan para el pueblo ecuatoriano y dejan de pensar en sus intereses personales.  Muchas gracias, señora Presidente.",
+  "language": "es",
+  "duration": 101.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.06,
+      "end": 100.56,
+      "text": "Gracias, señora presidenta, de verdad, como lo dije hace un momento, esperaba que sea algún debate técnico, algún debate donde discutamos del articulado, pero déjeme decirle al asambleísta lo que usted llama una gira de medios, es informar a la ciudadanía, es decirle exactamente lo que está haciendo la Asamblea Nacional a favor y a beneficio de la seguridad nacional, y es lo que nos compete como comisión de seguridad.  Y como ya lo dije una vez en el pleno de la Asamblea Nacional, como usted no colabora, como usted no observa los artículos, como usted, por decirlo de menos, no le interesa lo que pasa en la comisión de seguridad, entiendo que usted tiene a dar ese tipo de argumentos.  Y yo creo que es importante y imperativo decir aquí que sí, pues, que sí tiene dedicatoria esta normativa, y es a los grupos de delincuencia organizada, pues señora legisladora, déjeme decirle que ya le está afectando a usted la situación del alcalde criminal, porque todo lo está relacionando a ello.  Cuando el país no es sólo eso, el país hoy requiere de reformas estructurales para encaminar nuestro sistema penitenciario.  Usted ha dado las cifras, usted sabe lo que está pasando en el territorio, porque de una vez, una vez, una vez, señores legisladores de la Revolución Ciudadana no se ponen del lado del pueblo,  una sola vez, no legislan para el pueblo ecuatoriano y dejan de pensar en sus intereses personales.  Muchas gracias, señora Presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "7XQ5uY5j5sY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 078 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=7XQ5uY5j5sY",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "7XQ5uY5j5sY",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=7XQ5uY5j5sY",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 95.5,
+      "interventions": 1,
+      "word_count": 247
+    }
+  ]
+}

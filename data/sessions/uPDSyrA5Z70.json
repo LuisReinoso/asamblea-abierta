@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señora presidenta. Bueno, creo que la magistral intervención de nuestro compañero Andrés Castillo ha sido bastante clara.  Es claro que para ustedes los derechos de los BPL están por encima de los ciudadanos de bien.  Ya lo hicieron al ponerlos en atención prioritaria, pero bueno, no nos sorprende.  Los ecuatorianos de bien somos más. Hoy estamos aquí.  Esta bancada dará los votos para que reestructuremos esas normas fallidas que permitieron el ingreso del narcotráfico en nuestros centros penitenciarios.  Señora presidenta, he enviado una moción formal por DTS para cuando usted considere pertinente enviar a votar, por favor.  Muchas gracias.",
+  "language": "es",
+  "duration": 43.33,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.22,
+      "end": 43.15,
+      "text": "Gracias, señora presidenta. Bueno, creo que la magistral intervención de nuestro compañero Andrés Castillo ha sido bastante clara.  Es claro que para ustedes los derechos de los BPL están por encima de los ciudadanos de bien.  Ya lo hicieron al ponerlos en atención prioritaria, pero bueno, no nos sorprende.  Los ecuatorianos de bien somos más. Hoy estamos aquí.  Esta bancada dará los votos para que reestructuremos esas normas fallidas que permitieron el ingreso del narcotráfico en nuestros centros penitenciarios.  Señora presidenta, he enviado una moción formal por DTS para cuando usted considere pertinente enviar a votar, por favor.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "uPDSyrA5Z70",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Por Pichincha": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 078 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=uPDSyrA5Z70",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "uPDSyrA5Z70",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=uPDSyrA5Z70",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 39.93,
+      "interventions": 1,
+      "word_count": 100
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "text": "Señor Presidente, la moción ha sido ingresada por escrito a esta Secretaría. Se cierra el debate. Señoras asambleístas, ¿tiene apoyo a la moción?  De lectura, señor secretario, a la moción y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada.  Memorándum número AN-CJE-2026-0211-M.  Asunto, moción de aprobación del proyecto de ley orgánica de extradición, de mi consideración.  Con atento saludo, me erige usted en calidad de Presidenta de la Comisión Especializada Permanente de Justicia y Estructura del Estado,  como asambleísta ponente, conforme lo disponen los artículos 61 y 135 de la Ley Orgánica de la Función Legislativa,  dentro del cuanto punto del orden del día de la sesión 106 del Pleno de la Asamblea Nacional,  convocada para el día martes 7 de julio de 2026 a las 10 horas,  eleva usted la siguiente moción para que sea sometida a votación conforme lo dispuesto en el artículo 61 de la Ley Orgánica de la Función Legislativa.  Moción, aprobación del texto íntegro del proyecto de ley orgánica de extradición,  consentimientos de distinguida consideración, atentamente, Rosa Alegría Torres Cadena,  Presidenta de la Comisión Especializada Permanente de Justicia y Estructura del Estado.  Hasta aquí la lectura, señor Presidente, señores asambleístas,  por favor, registrar su participación en las curules electrónicas,  de existir alguna novedad, informar a esta Secretaría.",
+  "language": "es",
+  "duration": 737.02,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 4.2,
+      "text": "Señor Presidente, la moción ha sido ingresada por escrito a esta Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 6.63,
+      "end": 16.79,
+      "text": "Se cierra el debate. Señoras asambleístas, ¿tiene apoyo a la moción?  De lectura, señor secretario, a la moción y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 17.18,
+      "end": 94.8,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada.  Memorándum número AN-CJE-2026-0211-M.  Asunto, moción de aprobación del proyecto de ley orgánica de extradición, de mi consideración.  Con atento saludo, me erige usted en calidad de Presidenta de la Comisión Especializada Permanente de Justicia y Estructura del Estado,  como asambleísta ponente, conforme lo disponen los artículos 61 y 135 de la Ley Orgánica de la Función Legislativa,  dentro del cuanto punto del orden del día de la sesión 106 del Pleno de la Asamblea Nacional,  convocada para el día martes 7 de julio de 2026 a las 10 horas,  eleva usted la siguiente moción para que sea sometida a votación conforme lo dispuesto en el artículo 61 de la Ley Orgánica de la Función Legislativa.  Moción, aprobación del texto íntegro del proyecto de ley orgánica de extradición,  consentimientos de distinguida consideración, atentamente, Rosa Alegría Torres Cadena,  Presidenta de la Comisión Especializada Permanente de Justicia y Estructura del Estado.  Hasta aquí la lectura, señor Presidente, señores asambleístas,  por favor, registrar su participación en las curules electrónicas,  de existir alguna novedad, informar a esta Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Torre de la Torre Fernando de la",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "ZnzJ5wcndFA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 1,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Torre de la Torre Fernando de la",
+      "confidence": 1.0,
+      "votes": {
+        "Torre de la Torre Fernando de la": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Votación de la moción de la Asambleísta Rosa Torres - Sesión 106",
+  "url": "https://www.youtube.com/watch?v=ZnzJ5wcndFA",
+  "published_at": "2026-07-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "ZnzJ5wcndFA",
+  "date": "2026-07-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ZnzJ5wcndFA",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Torre de la Torre Fernando de la",
+      "party": null,
+      "province": null,
+      "total_time": 81.79,
+      "interventions": 2,
+      "word_count": 196
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 10.16,
+      "interventions": 1,
+      "word_count": 23
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente. Yo quiero iniciar agradeciendo a cada uno de los colegas legisladores  que presentaron observaciones. El equipo técnico de la comisión ha tomado nota de cada una de las  observaciones y entiendo que algunos también las presentarán por escritos. Están invitados todos  a la comisión a mejorar este proyecto de ley. Entendemos la dinámica legislativa, que estamos  en primer debate y que tienen esa posibilidad y sobre todo responsabilidad con las personas  que representan, que representamos de mejorar una iniciativa legislativa. Ya me había pronunciado  sobre el tema de unidad de materia y creo que también la Corte Constitucional ha sido  clara y ratifico las sentencias en donde se ha pronunciado la Corte Constitucional. Sentencia  número 028-12-SIN-CC y número 32-21-IN-21, en donde señala que en un procedimiento legislativo  ordinario, los criterios de unidad de materia no deben ser ni demasiado laxos ni criterios  excesivamente rígidos. Se ha cuidado en la comisión todo el procedimiento legislativo,  se ha cuidado que se cumpla con los parámetros constitucionales con el único objetivo de  llevar una normativa que beneficie a cada una de las familias ecuatorianas. Protección  a los usuarios del sistema financiero nacional, que no se les cobre ninguna tasa en exceso,  que puedan tener tranquilidad y confianza en el sistema financiero nacional y que haya  una actualización al mercado de valores para que exista también mayor inversión y  mayor confianza. En eso se centran las reformas, todas en beneficio del pueblo ecuatoriano,  todas en sintonía con el pueblo ecuatoriano, porque en eso está comprometida la Comisión  de Régimen Económico y la bancada a que pertenezco. Gracias, señor presidente.",
+  "language": "es",
+  "duration": 104.56,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.13,
+      "end": 102.8,
+      "text": "Gracias, señor presidente. Yo quiero iniciar agradeciendo a cada uno de los colegas legisladores  que presentaron observaciones. El equipo técnico de la comisión ha tomado nota de cada una de las  observaciones y entiendo que algunos también las presentarán por escritos. Están invitados todos  a la comisión a mejorar este proyecto de ley. Entendemos la dinámica legislativa, que estamos  en primer debate y que tienen esa posibilidad y sobre todo responsabilidad con las personas  que representan, que representamos de mejorar una iniciativa legislativa. Ya me había pronunciado  sobre el tema de unidad de materia y creo que también la Corte Constitucional ha sido  clara y ratifico las sentencias en donde se ha pronunciado la Corte Constitucional. Sentencia  número 028-12-SIN-CC y número 32-21-IN-21, en donde señala que en un procedimiento legislativo  ordinario, los criterios de unidad de materia no deben ser ni demasiado laxos ni criterios  excesivamente rígidos. Se ha cuidado en la comisión todo el procedimiento legislativo,  se ha cuidado que se cumpla con los parámetros constitucionales con el único objetivo de  llevar una normativa que beneficie a cada una de las familias ecuatorianas. Protección  a los usuarios del sistema financiero nacional, que no se les cobre ninguna tasa en exceso,  que puedan tener tranquilidad y confianza en el sistema financiero nacional y que haya  una actualización al mercado de valores para que exista también mayor inversión y  mayor confianza. En eso se centran las reformas, todas en beneficio del pueblo ecuatoriano,  todas en sintonía con el pueblo ecuatoriano, porque en eso está comprometida la Comisión  de Régimen Económico y la bancada a que pertenezco. Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "yfNckXie7ic",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "confidence": 1.0,
+      "votes": {
+        "Nathaly Estefanía Farinango Delgado": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Nathaly Farinango - Sesión 105 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=yfNckXie7ic",
+  "published_at": "2026-07-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "yfNckXie7ic",
+  "date": "2026-07-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=yfNckXie7ic",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 102.67,
+      "interventions": 1,
+      "word_count": 268
+    }
+  ]
+}
