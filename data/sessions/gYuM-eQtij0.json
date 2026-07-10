@@ -1,0 +1,53 @@
+{
+  "text": "Muy buenos días, señor presidente, señores asambleístas y a toda la ciudadanía que nos  sigue a través de los diferentes medios de comunicación. Un saludo fraterno al pueblo  de Esmeraldas y de manera especial a las familias de Borbón y de las parroquias que integrarán  este nuevo cantón, que siguen este debate, no solamente por este medio, sino también  presencialmente, como lo hemos visto en las barras altas de este pleno de la Asamblea.  Quienes tienen la esperanza de ver culminada una lucha que durante muchos años han impulsado  con perseverancia. Hoy, Borbón está presente con la voz de su gente, el respaldo de sus  comunidades y la responsabilidad que conlleva ser representante de Esmeraldas en esta asamblea.  Esta tierra con confluencia entre ríos, comercio, cultura y trabajo, la misma que vio nacer a  papá roncón, compuesta por familias que han sostenido sus tradiciones y de comunidades que  han mantenido viva esta aspiración durante muchas generaciones. El informe para segundo  debate llega a este pleno, respaldado por un análisis jurídico y técnico que permitió  a la comisión concluir que cumple con todos los requisitos previstos en la Constitución de la  República, el COTAD y la Ley para la fijación de límites territoriales internos para la creación  del Cantón Borbón. Lo que hoy hará esta asamblea es asumir con responsabilidad una decisión sobre un  proceso que ya cuenta con un sustento territorial, administrativo, financiero y poblacional para  avanzar en su trámite legislativo. Esta iniciativa recoge una aspiración nacida de Borbón que fue  asumida por el presidente Daniel Novoa como una prioridad para Esmeraldas y tramitada también  por esta legislatura a través de la Comisión de GATS, presidida con liderazgo y compromiso por  nuestra colega Lucía Pozo, a quien le expreso mi agradecimiento profundo por ver en nuestra tierra  esa lucha que siempre han tenido. El texto establece también un régimen de transición  que define cómo se organizará el nuevo Cantón desde el primer día, la actualización del registro  electoral, la conformación de sus autoridades, la continuidad de los servicios públicos y también  la transferencia ordenada de las competencias y recursos. Votar a favor es permitir que Borbón  inicie una nueva etapa con una organización territorial propia, pensada en su gente, en sus  parroquias y todo lo que representa para nuestra provincia verde, resaltando también la convicción con  la que su gente ha construido este pueblo durante tantos años. Como bancada de ADN, creemos en un  estado que escucha a los ciudadanos y responde con hechos. Que este sea el momento en el que  Borbón recuerde que la perseverancia de su gente fue honrada por esta asamblea. Hoy quiero decir  también que somos seis los asambleístas esmeraldeños que hacemos parte de esta asamblea. Con nuestro voto  hoy Borbón podrá cumplir ese sueño que ha venido teniendo por varias décadas. Muchas gracias.",
+  "language": "es",
+  "duration": 213.41,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.64,
+      "end": 211.22,
+      "text": "Muy buenos días, señor presidente, señores asambleístas y a toda la ciudadanía que nos  sigue a través de los diferentes medios de comunicación. Un saludo fraterno al pueblo  de Esmeraldas y de manera especial a las familias de Borbón y de las parroquias que integrarán  este nuevo cantón, que siguen este debate, no solamente por este medio, sino también  presencialmente, como lo hemos visto en las barras altas de este pleno de la Asamblea.  Quienes tienen la esperanza de ver culminada una lucha que durante muchos años han impulsado  con perseverancia. Hoy, Borbón está presente con la voz de su gente, el respaldo de sus  comunidades y la responsabilidad que conlleva ser representante de Esmeraldas en esta asamblea.  Esta tierra con confluencia entre ríos, comercio, cultura y trabajo, la misma que vio nacer a  papá roncón, compuesta por familias que han sostenido sus tradiciones y de comunidades que  han mantenido viva esta aspiración durante muchas generaciones. El informe para segundo  debate llega a este pleno, respaldado por un análisis jurídico y técnico que permitió  a la comisión concluir que cumple con todos los requisitos previstos en la Constitución de la  República, el COTAD y la Ley para la fijación de límites territoriales internos para la creación  del Cantón Borbón. Lo que hoy hará esta asamblea es asumir con responsabilidad una decisión sobre un  proceso que ya cuenta con un sustento territorial, administrativo, financiero y poblacional para  avanzar en su trámite legislativo. Esta iniciativa recoge una aspiración nacida de Borbón que fue  asumida por el presidente Daniel Novoa como una prioridad para Esmeraldas y tramitada también  por esta legislatura a través de la Comisión de GATS, presidida con liderazgo y compromiso por  nuestra colega Lucía Pozo, a quien le expreso mi agradecimiento profundo por ver en nuestra tierra  esa lucha que siempre han tenido. El texto establece también un régimen de transición  que define cómo se organizará el nuevo Cantón desde el primer día, la actualización del registro  electoral, la conformación de sus autoridades, la continuidad de los servicios públicos y también  la transferencia ordenada de las competencias y recursos. Votar a favor es permitir que Borbón  inicie una nueva etapa con una organización territorial propia, pensada en su gente, en sus  parroquias y todo lo que representa para nuestra provincia verde, resaltando también la convicción con  la que su gente ha construido este pueblo durante tantos años. Como bancada de ADN, creemos en un  estado que escucha a los ciudadanos y responde con hechos. Que este sea el momento en el que  Borbón recuerde que la perseverancia de su gente fue honrada por esta asamblea. Hoy quiero decir  también que somos seis los asambleístas esmeraldeños que hacemos parte de esta asamblea. Con nuestro voto  hoy Borbón podrá cumplir ese sueño que ha venido teniendo por varias décadas. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "gYuM-eQtij0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Gema Karolina Dueñas Palma": 1,
+        "[OOV] S Palma": 1
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Karolina Dueñas - Sesión 104",
+  "url": "https://www.youtube.com/watch?v=gYuM-eQtij0",
+  "published_at": "2026-06-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "id": "gYuM-eQtij0",
+  "date": "2026-06-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=gYuM-eQtij0",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 203.58,
+      "interventions": 1,
+      "word_count": 469
+    }
+  ]
+}
