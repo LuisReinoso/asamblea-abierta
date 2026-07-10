@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:32:18.489569",
-  "total_sessions": 356,
+  "generated_at": "2026-07-10T16:40:14.743851",
+  "total_sessions": 361,
   "speaker_stats": [
     {
       "id": "EN-PLENO",
@@ -39,6 +39,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-CAMILA-LEON-CUEVA",
+      "name": "Camila León Cueva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 2531.8700000000003,
+      "total_interventions": 78,
+      "sessions_attended": 17,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
       "name": "Adrián Ernesto Castro Piedra",
       "type": "asambleísta",
@@ -49,18 +61,6 @@
       "total_interventions": 21,
       "sessions_attended": 8,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-CAMILA-LEON-CUEVA",
-      "name": "Camila León Cueva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 2175.7200000000003,
-      "total_interventions": 77,
-      "sessions_attended": 16,
-      "topics_discussed": 0
     },
     {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
@@ -219,6 +219,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Azuay",
+      "total_time": 1186.47,
+      "total_interventions": 6,
+      "sessions_attended": 3,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
       "name": "Brígida Lucía Pozo Moreta",
       "type": "asambleísta",
@@ -315,6 +327,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARCOS-HUMBERTO-ALVARADO-ESPINEL",
+      "name": "Marcos Humberto Alvarado Espinel",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Los Ríos",
+      "total_time": 958.3700000000001,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
       "name": "Roberto Fernando Jaramillo Martínez",
       "type": "asambleísta",
@@ -399,18 +423,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MARCOS-HUMBERTO-ALVARADO-ESPINEL",
-      "name": "Marcos Humberto Alvarado Espinel",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Los Ríos",
-      "total_time": 726.59,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-GIOVANNY-BRAVO",
       "name": "Giovanny Bravo",
       "type": "asambleísta",
@@ -471,6 +483,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JUAN-MARCO-GONZAGA-SALAZAR",
+      "name": "Juan Marco Gonzaga Salazar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "AC",
+      "province": "Sucumbíos",
+      "total_time": 674.61,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-VICTORIA-TATIANA-DESINTONIO-MALAVE",
       "name": "Victoria Tatiana Desintonio Malave",
       "type": "asambleísta",
@@ -505,18 +529,6 @@
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
-      "name": "Gerardo Eugenio Machado Clavijo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Azuay",
-      "total_time": 632.5,
-      "total_interventions": 5,
-      "sessions_attended": 2,
-      "topics_discussed": 3
     },
     {
       "id": "ASAMBLEISTA-POR-COTOPAXI",
@@ -634,6 +646,18 @@
       "party": null,
       "province": null,
       "total_time": 447.47,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JOHN-EDISON-POLANCO-LARA",
+      "name": "John Edison Polanco Lara",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Esmeraldas",
+      "total_time": 444.59,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1149,8 +1173,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 126,
-      "total_duration": 51239.02000000002,
+      "sessions_count": 131,
+      "total_duration": 53535.41000000001,
       "unique_speakers": 5,
       "unique_topics": 0
     },

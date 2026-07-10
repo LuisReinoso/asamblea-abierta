@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:32:18.597345",
-  "total_sessions": 356,
+  "generated_at": "2026-07-10T16:40:14.881630",
+  "total_sessions": 361,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2343,12 +2343,51 @@
       "bills_mentioned": 0
     },
     {
+      "id": "98AO4xKLMnY",
+      "title": "Asambleísta Camila León - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 357.54,
+      "url": "https://www.youtube.com/watch?v=98AO4xKLMnY",
+      "file_path": "data/sessions/98AO4xKLMnY.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "-AAk4bbEYaU",
+      "title": "Asambleísta Humberto Alvarado - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 236.01,
+      "url": "https://www.youtube.com/watch?v=-AAk4bbEYaU",
+      "file_path": "data/sessions/-AAk4bbEYaU.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "hK_n00QHveQ",
       "title": "Asambleísta Inés Alarcón - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
       "duration": 392.7,
       "url": "https://www.youtube.com/watch?v=hK_n00QHveQ",
       "file_path": "data/sessions/hK_n00QHveQ.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "1-oG5oWEPDY",
+      "title": "Asambleísta John Polanco - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 454.44,
+      "url": "https://www.youtube.com/watch?v=1-oG5oWEPDY",
+      "file_path": "data/sessions/1-oG5oWEPDY.json",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -2369,6 +2408,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "646P-rAxhA0",
+      "title": "Asambleísta Gerardo Machado - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 564.41,
+      "url": "https://www.youtube.com/watch?v=646P-rAxhA0",
+      "file_path": "data/sessions/646P-rAxhA0.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7N7JjUx5rjc",
       "title": "Votación de la reconsideración de la moción de la asambleísta Jhajaira Urresta - Sesión 099",
       "date": "2026-06-09T00:00:00Z",
@@ -2376,6 +2428,19 @@
       "url": "https://www.youtube.com/watch?v=7N7JjUx5rjc",
       "file_path": "data/sessions/7N7JjUx5rjc.json",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "PxZ_mfLdPGc",
+      "title": "Asambleísta Juan Gonzaga - Sesión 099",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 683.99,
+      "url": "https://www.youtube.com/watch?v=PxZ_mfLdPGc",
+      "file_path": "data/sessions/PxZ_mfLdPGc.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
