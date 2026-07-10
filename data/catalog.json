@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T17:33:45.450589",
-  "total_sessions": 387,
+  "generated_at": "2026-07-10T17:40:44.543275",
+  "total_sessions": 392,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -4958,6 +4958,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "p06QMyuqSdM",
+      "title": "Assemblyman Juan José Reyes - Session 098",
+      "date": "",
+      "duration": 335.37,
+      "url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
+      "file_path": "data/sessions/p06QMyuqSdM.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "OfRxk3vdsDw",
       "title": "Assemblyman Sergio Peña - Session 098",
       "date": "",
@@ -4978,6 +4991,32 @@
       "url": "https://www.youtube.com/watch?v=WmREmOBcVL4",
       "file_path": "data/sessions/WmREmOBcVL4.json",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "IfZKL06IWIA",
+      "title": "Assemblywoman Rosa Torres - Session 098",
+      "date": "",
+      "duration": 827.26,
+      "url": "https://www.youtube.com/watch?v=IfZKL06IWIA",
+      "file_path": "data/sessions/IfZKL06IWIA.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ncS7qTT4t4A",
+      "title": "Vote on Assemblywoman Ana Belén Tapia's motion - Session 098",
+      "date": "",
+      "duration": 802.71,
+      "url": "https://www.youtube.com/watch?v=ncS7qTT4t4A",
+      "file_path": "data/sessions/ncS7qTT4t4A.json",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5010,6 +5049,19 @@
       "bills_mentioned": 0
     },
     {
+      "id": "E8Idptu6sxc",
+      "title": "Assemblyman Adrián Castro - Session 098",
+      "date": "",
+      "duration": 418.38,
+      "url": "https://www.youtube.com/watch?v=E8Idptu6sxc",
+      "file_path": "data/sessions/E8Idptu6sxc.json",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -5017,6 +5069,19 @@
       "url": "",
       "file_path": "data/sessions/h0-KqqCsxWU.json",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "c1eIY0MwPFE",
+      "title": "Assemblyman Cristian Benavides - Session 098",
+      "date": "",
+      "duration": 490.17,
+      "url": "https://www.youtube.com/watch?v=c1eIY0MwPFE",
+      "file_path": "data/sessions/c1eIY0MwPFE.json",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
