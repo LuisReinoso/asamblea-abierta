@@ -11,6 +11,8 @@
     <header>
         <div class="container">
             <h1>🏛️ Asamblea Abierta</h1>
+            <input type="checkbox" id="nav-toggle" class="nav-toggle">
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
             <nav>
                 <ul>
                     <li><a href="index.html">Inicio</a></li>
@@ -37,26 +39,32 @@
                 >
             </div>
 
-            <div class="mt-4">
-                <label for="filter-type">Tipo:</label>
-                <select id="filter-type" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="">Todo (sesiones completas + clips)</option>
-                    <option value="full_session">Solo sesiones completas</option>
-                    <option value="clip">Solo clips por asambleísta</option>
-                </select>
+            <div class="filter-bar mt-4">
+                <div class="filter-field">
+                    <label for="filter-type">Tipo:</label>
+                    <select id="filter-type">
+                        <option value="">Todo (sesiones completas + clips)</option>
+                        <option value="full_session">Solo sesiones completas</option>
+                        <option value="clip">Solo clips por asambleísta</option>
+                    </select>
+                </div>
 
-                <label for="filter-topic" style="margin-left: 1rem;">Filtrar por tema:</label>
-                <select id="filter-topic" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="">Todos los temas</option>
-                </select>
+                <div class="filter-field">
+                    <label for="filter-topic">Tema:</label>
+                    <select id="filter-topic">
+                        <option value="">Todos los temas</option>
+                    </select>
+                </div>
 
-                <label for="sort-by" style="margin-left: 1rem;">Ordenar por:</label>
-                <select id="sort-by" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="date-desc">Fecha (más reciente)</option>
-                    <option value="date-asc">Fecha (más antigua)</option>
-                    <option value="duration-desc">Duración (mayor)</option>
-                    <option value="duration-asc">Duración (menor)</option>
-                </select>
+                <div class="filter-field">
+                    <label for="sort-by">Ordenar por:</label>
+                    <select id="sort-by">
+                        <option value="date-desc">Fecha (más reciente)</option>
+                        <option value="date-asc">Fecha (más antigua)</option>
+                        <option value="duration-desc">Duración (mayor)</option>
+                        <option value="duration-asc">Duración (menor)</option>
+                    </select>
+                </div>
             </div>
 
             <div id="sessions-count" class="mt-2" style="color: var(--text-light);">
