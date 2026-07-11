@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:26:28.351103",
-  "total_sessions": 436,
+  "generated_at": "2026-07-11T06:34:28.593001",
+  "total_sessions": 441,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5492,6 +5492,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "jHXpE5lR3tY",
+      "title": "Assemblywoman Ana Belén Tapia - Session 096 - Change of Agenda",
+      "date": "",
+      "duration": 756.3,
+      "url": "https://www.youtube.com/watch?v=jHXpE5lR3tY",
+      "file_path": "data/sessions/jHXpE5lR3tY.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "YupHrSzZY_k",
       "title": "Assemblywoman Ana Belén Tapia - Session 098",
       "date": "",
@@ -5562,6 +5576,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "e9SEDrkQoIw",
+      "title": "Assemblyman Andrés Guschmer - Session 095",
+      "date": "",
+      "duration": 540.79,
+      "url": "https://www.youtube.com/watch?v=e9SEDrkQoIw",
+      "file_path": "data/sessions/e9SEDrkQoIw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "vqjaZWfXXd4",
       "title": "Assemblyman Luis Molina - Session 097",
       "date": "",
@@ -5570,6 +5598,20 @@
       "file_path": "data/sessions/vqjaZWfXXd4.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "7STPxfJ_PBQ",
+      "title": "Assemblywoman Katherine Pacheco - Session 095",
+      "date": "",
+      "duration": 387.87,
+      "url": "https://www.youtube.com/watch?v=7STPxfJ_PBQ",
+      "file_path": "data/sessions/7STPxfJ_PBQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5766,6 +5808,20 @@
       "file_path": "data/sessions/ittqRwT5QJU.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Rnk8_n3saU8",
+      "title": "Assemblywoman Nuria Butiña - Session 096 - Change of agenda",
+      "date": "",
+      "duration": 599.89,
+      "url": "https://www.youtube.com/watch?v=Rnk8_n3saU8",
+      "file_path": "data/sessions/Rnk8_n3saU8.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5990,6 +6046,20 @@
       "file_path": "data/sessions/yM-5EVGnieo.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Q4vE63175Lk",
+      "title": "Assemblyman Pablo Jurado - Session 095",
+      "date": "",
+      "duration": 616.19,
+      "url": "https://www.youtube.com/watch?v=Q4vE63175Lk",
+      "file_path": "data/sessions/Q4vE63175Lk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
