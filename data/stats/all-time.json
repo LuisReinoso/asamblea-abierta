@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:44:48.635359",
-  "total_sessions": 406,
+  "generated_at": "2026-07-11T05:49:57.388864",
+  "total_sessions": 411,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 3127.2500000000005,
-      "total_interventions": 23,
-      "sessions_attended": 10,
+      "total_time": 3364.0600000000004,
+      "total_interventions": 26,
+      "sessions_attended": 11,
       "topics_discussed": 3
     },
     {
@@ -85,6 +85,18 @@
       "total_interventions": 13,
       "sessions_attended": 8,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 2181.55,
+      "total_interventions": 7,
+      "sessions_attended": 7,
+      "topics_discussed": 0
     },
     {
       "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
@@ -168,18 +180,6 @@
       "total_time": 1775.8600000000001,
       "total_interventions": 5,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
-      "name": "Sergio Jesús Peña Veloz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 1556.2600000000002,
-      "total_interventions": 5,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -279,6 +279,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
+      "name": "Brígida Lucía Pozo Moreta",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Carchi",
+      "total_time": 1190.18,
+      "total_interventions": 9,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
       "name": "Gerardo Eugenio Machado Clavijo",
       "type": "asambleísta",
@@ -289,18 +301,6 @@
       "total_interventions": 6,
       "sessions_attended": 3,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
-      "name": "Brígida Lucía Pozo Moreta",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Carchi",
-      "total_time": 1174.64,
-      "total_interventions": 6,
-      "sessions_attended": 3,
-      "topics_discussed": 0
     },
     {
       "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
@@ -639,6 +639,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-LUIS-FERNANDO-MOLINA-ONOFA",
+      "name": "Luis Fernando Molina Onofa",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Resto",
+      "total_time": 508.93,
+      "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
       "name": "Katherine Alexandra Pacheco Machuca",
       "type": "asambleísta",
@@ -742,6 +754,18 @@
       "party": "RC",
       "province": "Esmeraldas",
       "total_time": 414.25,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JANINA-JADIRA-RIZZO-ALVEAR",
+      "name": "Janina Jadira Rizzo Alvear",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 392.67,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
