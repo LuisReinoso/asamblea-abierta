@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function setupEventListeners() {
     document.getElementById('search-input').addEventListener('input', filterSessions);
+    document.getElementById('filter-type').addEventListener('change', filterSessions);
     document.getElementById('filter-topic').addEventListener('change', filterSessions);
     document.getElementById('sort-by').addEventListener('change', sortAndDisplaySessions);
 }
@@ -65,6 +66,7 @@ function populateTopicFilter() {
 function filterSessions() {
     const searchTerm = document.getElementById('search-input').value.toLowerCase();
     const selectedTopic = document.getElementById('filter-topic').value;
+    const selectedType = document.getElementById('filter-type').value;
 
     filteredSessions = allSessions.filter(session => {
         // Filter by search term
@@ -77,7 +79,11 @@ function filterSessions() {
         // Filter by topic
         const matchesTopic = !selectedTopic || session.topics.includes(selectedTopic);
 
-        return matchesSearch && matchesTopic;
+        // Filter by video type (full plenary session vs. per-speaker clip)
+        const sessionType = session.video_type || 'clip';
+        const matchesType = !selectedType || sessionType === selectedType;
+
+        return matchesSearch && matchesTopic && matchesType;
     });
 
     sortAndDisplaySessions();
@@ -150,12 +156,20 @@ function createSessionCard(session) {
         `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.5rem; margin: 0.25rem; border-radius: 4px; font-size: 0.875rem;">${topic}</span>`
     ).join(' ');
 
+    // Full plenary session vs. a single speaker's clip — these are very
+    // different content, badge them so the list doesn't imply they're
+    // interchangeable.
+    const isFullSession = (session.video_type || 'clip') === 'full_session';
+    const typeBadgeHTML = isFullSession
+        ? `<span style="display: inline-block; background: var(--primary-color); color: #fff; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.8rem; font-weight: 600;">🏛️ Sesión completa</span>`
+        : `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.8rem;">🎙️ Clip</span>`;
+
     card.innerHTML = `
         <h3 class="card-title">
             <a href="session-detail.html?id=${session.id}">${session.title}</a>
         </h3>
         <p class="card-meta">
-            📅 ${formattedDate} • ⏱️ ${durationMinutes} min • 🎤 ${session.speaker_count} oradores
+            ${typeBadgeHTML} • 📅 ${formattedDate} • ⏱️ ${durationMinutes} min • 🎤 ${session.speaker_count} oradores
         </p>
         <div class="card-content">
             <p>${session.summary || 'Sesión de la Asamblea Nacional'}</p>
