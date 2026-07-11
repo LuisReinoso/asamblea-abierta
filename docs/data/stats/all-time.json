@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:54:02.160494",
-  "total_sessions": 456,
+  "generated_at": "2026-07-11T06:57:30.868971",
+  "total_sessions": 460,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 4982.320000000001,
-      "total_interventions": 62,
-      "sessions_attended": 12,
+      "total_time": 5095.5199999999995,
+      "total_interventions": 63,
+      "sessions_attended": 13,
       "topics_discussed": 3
     },
     {
@@ -111,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 2632.0200000000004,
+      "total_interventions": 15,
+      "sessions_attended": 11,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SERGIO-JESUS-PENA-VELOZ",
       "name": "Sergio Jesús Peña Veloz",
       "type": "asambleísta",
@@ -120,18 +132,6 @@
       "total_time": 2493.05,
       "total_interventions": 8,
       "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 2485.83,
-      "total_interventions": 14,
-      "sessions_attended": 10,
       "topics_discussed": 0
     },
     {
@@ -195,6 +195,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 1464.4299999999998,
+      "total_interventions": 7,
+      "sessions_attended": 5,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
@@ -217,18 +229,6 @@
       "total_interventions": 6,
       "sessions_attended": 2,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
-      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 1368.49,
-      "total_interventions": 6,
-      "sessions_attended": 4,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
@@ -1092,6 +1092,18 @@
       "total_time": 184.17000000000002,
       "total_interventions": 3,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
+      "name": "Diana Angélica Jácome Silva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 184.01,
+      "total_interventions": 1,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {

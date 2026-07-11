@@ -1,0 +1,52 @@
+{
+  "text": "Muchas gracias, señor presidente.  Dentro de la intervención mencioné todo lo que se está haciendo por este país.  Yo vengo de Santo Domingo de Los Áchilas y esta ciudad la llevo en mi corazón,  aunque haya salido hace mucho tiempo de Santo Domingo.  Pero ver los rostros de cada joven de la Universidad Pública de Santo Domingo,  de ver escuelas repotenciadas, de ver los pagos a jubilados,  de ver la intención de cambiar el país y no siempre estar en una posición negativa,  a mí me da esperanza.  A mí me da esperanza de ser parte de esta bancada en la cual hemos sido claros en nuestra posición.  Cuando hay algo que aprobar, que beneficie o algo que mejorar, bienvenido sea,  porque de eso se trata el debate y la democracia, la pluralidad.  De mejorar lo que se tenga que mejorar, nada está escrito en piedra.  Pero tratar también de deslegitimar, de actuar con cierta posición de negatividad siempre,  yo no la entiendo.  ¿Por qué nos vamos a poner a un proyecto?  Sí, hay algo que mejorar.  Les espero en la comisión para que sus observaciones sean observadas,  sean consideradas de ser el caso y también incluidas de ser así.  Pero con respeto y con altura.  Hablan de hipocresía, de que aquí somos hipócritas en este tema.  Yo me pregunto, ¿hipocresía es irse a los Estados Unidos y luego deslegitimar al gobierno de Estados Unidos,  retirar la base de manta?  Eso no es hipocresía, porque ahí estaban paseándose por los Estados Unidos.  Y Estados Unidos está apoyando al Ecuador, sí, a nuestro presidente que está haciendo bien las cosas.  No está del lado de los criminales, a diferencia de otros que sí pactaron con los Latin Kings.  Por eso entiendo que se oponen a una ley que quiere, pues, sin duda alguna,  que aquellos que han hecho daño vayan a la cárcel, las estructuras criminales.  Hablan de que no estamos haciendo las cosas con coherencia.  Ya les reitero, coherencia es no darse cuenta que hay un personaje que los trata,  y voy a utilizar la palabra, como títeres.  Y eso no puede ser.  Aquí vamos a trabajar por nuestro país, por nuestras leyes, por nuestros niños, sí.  Y si quieren dar aportes, vayan a la comisión, los recibo con todo gusto.  Pero aquí tratar de deslegitimar nuestro trabajo, que nos ha costado, incluso fines de semana,  que algunos no fueron, que algunos no van porque no les da la gana.  Nosotros sí hemos trabajado en mesas técnicas, analizando artículo por artículo.  Y no vamos a permitir que se deslegitime un trabajo que lo hemos hecho con muchísima coherencia y respeto,  porque sí queremos que nuestro país salga adelante.  Y a ustedes, ¿qué puedo decirles?  Enfrentarles únicamente con memoria, con aquellas sentencias que hablan por sí solas.  Nada más, señores.  Muy bien.",
+  "language": "es",
+  "duration": 187.34,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.93,
+      "end": 186.94,
+      "text": "Muchas gracias, señor presidente.  Dentro de la intervención mencioné todo lo que se está haciendo por este país.  Yo vengo de Santo Domingo de Los Áchilas y esta ciudad la llevo en mi corazón,  aunque haya salido hace mucho tiempo de Santo Domingo.  Pero ver los rostros de cada joven de la Universidad Pública de Santo Domingo,  de ver escuelas repotenciadas, de ver los pagos a jubilados,  de ver la intención de cambiar el país y no siempre estar en una posición negativa,  a mí me da esperanza.  A mí me da esperanza de ser parte de esta bancada en la cual hemos sido claros en nuestra posición.  Cuando hay algo que aprobar, que beneficie o algo que mejorar, bienvenido sea,  porque de eso se trata el debate y la democracia, la pluralidad.  De mejorar lo que se tenga que mejorar, nada está escrito en piedra.  Pero tratar también de deslegitimar, de actuar con cierta posición de negatividad siempre,  yo no la entiendo.  ¿Por qué nos vamos a poner a un proyecto?  Sí, hay algo que mejorar.  Les espero en la comisión para que sus observaciones sean observadas,  sean consideradas de ser el caso y también incluidas de ser así.  Pero con respeto y con altura.  Hablan de hipocresía, de que aquí somos hipócritas en este tema.  Yo me pregunto, ¿hipocresía es irse a los Estados Unidos y luego deslegitimar al gobierno de Estados Unidos,  retirar la base de manta?  Eso no es hipocresía, porque ahí estaban paseándose por los Estados Unidos.  Y Estados Unidos está apoyando al Ecuador, sí, a nuestro presidente que está haciendo bien las cosas.  No está del lado de los criminales, a diferencia de otros que sí pactaron con los Latin Kings.  Por eso entiendo que se oponen a una ley que quiere, pues, sin duda alguna,  que aquellos que han hecho daño vayan a la cárcel, las estructuras criminales.  Hablan de que no estamos haciendo las cosas con coherencia.  Ya les reitero, coherencia es no darse cuenta que hay un personaje que los trata,  y voy a utilizar la palabra, como títeres.  Y eso no puede ser.  Aquí vamos a trabajar por nuestro país, por nuestras leyes, por nuestros niños, sí.  Y si quieren dar aportes, vayan a la comisión, los recibo con todo gusto.  Pero aquí tratar de deslegitimar nuestro trabajo, que nos ha costado, incluso fines de semana,  que algunos no fueron, que algunos no van porque no les da la gana.  Nosotros sí hemos trabajado en mesas técnicas, analizando artículo por artículo.  Y no vamos a permitir que se deslegitime un trabajo que lo hemos hecho con muchísima coherencia y respeto,  porque sí queremos que nuestro país salga adelante.  Y a ustedes, ¿qué puedo decirles?  Enfrentarles únicamente con memoria, con aquellas sentencias que hablan por sí solas.  Nada más, señores.  Muy bien.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "QOcUPJxjM58",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 1.0,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Diana Jácome - Session 095 - 2nd Intervention",
+  "url": "https://www.youtube.com/watch?v=QOcUPJxjM58",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "QOcUPJxjM58",
+  "source_url": "https://www.youtube.com/watch?v=QOcUPJxjM58",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 184.01,
+      "interventions": 1,
+      "word_count": 471
+    }
+  ]
+}
