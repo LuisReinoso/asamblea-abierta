@@ -12,9 +12,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "Por Pichincha",
-        "confidence": 0.5846,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -39,8 +38,8 @@
   "source_url": "https://www.youtube.com/watch?v=ka3zGdEWc2A",
   "speaker_stats": [
     {
-      "id": "speaker_0",
-      "name": "Por Pichincha",
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
       "party": null,
       "province": null,
       "total_time": 591.26,

@@ -12,8 +12,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -40,8 +40,8 @@
   "source_url": "https://www.youtube.com/watch?v=CCyDdU_tIJQ",
   "speaker_stats": [
     {
-      "id": "speaker_0",
-      "name": "En Pleno",
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
       "party": null,
       "province": null,
       "total_time": 1255.97,

@@ -12,8 +12,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -36,8 +36,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -60,8 +60,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -84,8 +84,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -108,8 +108,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -153,18 +153,9 @@
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 775.79,
-      "interventions": 4,
-      "word_count": 1806
-    },
-    {
-      "id": "speaker_0",
-      "name": "En Pleno",
-      "party": null,
-      "province": null,
-      "total_time": 9.7,
-      "interventions": 5,
-      "word_count": 24
+      "total_time": 785.49,
+      "interventions": 9,
+      "word_count": 1830
     }
   ],
   "video_type": "clip"

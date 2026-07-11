@@ -24,8 +24,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Nacional",
-        "confidence": 0.75
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -48,8 +48,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Nacional",
-        "confidence": 0.75
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -100,22 +100,13 @@
   "source_url": "https://www.youtube.com/watch?v=NxzCCL5E1rA",
   "speaker_stats": [
     {
-      "id": "speaker_1",
-      "name": "Asambleísta Nacional",
-      "party": null,
-      "province": null,
-      "total_time": 585.85,
-      "interventions": 2,
-      "word_count": 1445
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 11.46,
-      "interventions": 3,
-      "word_count": 48
+      "total_time": 597.31,
+      "interventions": 5,
+      "word_count": 1493
     }
   ],
   "video_type": "clip"

@@ -24,8 +24,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Nacional",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -62,22 +62,13 @@
   "source_url": "https://www.youtube.com/watch?v=AXd1lqb5y1k",
   "speaker_stats": [
     {
-      "id": "speaker_1",
-      "name": "Asambleísta Nacional",
-      "party": null,
-      "province": null,
-      "total_time": 99.64,
-      "interventions": 1,
-      "word_count": 252
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 11.95,
-      "interventions": 1,
-      "word_count": 5
+      "total_time": 111.59,
+      "interventions": 2,
+      "word_count": 257
     }
   ],
   "video_type": "clip"

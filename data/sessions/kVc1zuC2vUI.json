@@ -60,8 +60,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Comisión General",
-        "confidence": 0.67
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -96,8 +96,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Comisión General",
-        "confidence": 0.67
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -174,18 +174,9 @@
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 1924.52,
-      "interventions": 7,
-      "word_count": 2843
-    },
-    {
-      "id": "speaker_1",
-      "name": "Comisión General",
-      "party": null,
-      "province": null,
-      "total_time": 178.89,
-      "interventions": 2,
-      "word_count": 401
+      "total_time": 2103.41,
+      "interventions": 9,
+      "word_count": 3244
     }
   ],
   "video_type": "clip"
