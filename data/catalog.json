@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:49:57.503508",
-  "total_sessions": 411,
+  "generated_at": "2026-07-11T05:56:37.857968",
+  "total_sessions": 416,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5436,6 +5436,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "oCuv6ONYHyI",
+      "title": "Assemblywoman Cecilia Baltazar - Session 097",
+      "date": "",
+      "duration": 399.13,
+      "url": "https://www.youtube.com/watch?v=oCuv6ONYHyI",
+      "file_path": "data/sessions/oCuv6ONYHyI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "YupHrSzZY_k",
       "title": "Assemblywoman Ana Belén Tapia - Session 098",
       "date": "",
@@ -5444,6 +5458,20 @@
       "file_path": "data/sessions/YupHrSzZY_k.json",
       "video_type": "clip",
       "speaker_count": 4,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "c4gu9QA8a6E",
+      "title": "Assemblyman Diego Franco - Session 097",
+      "date": "",
+      "duration": 497.65,
+      "url": "https://www.youtube.com/watch?v=c4gu9QA8a6E",
+      "file_path": "data/sessions/c4gu9QA8a6E.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5470,6 +5498,20 @@
       "duration": 335.37,
       "url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
       "file_path": "data/sessions/p06QMyuqSdM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "WZL5kD4rBw0",
+      "title": "Voting on the motion of Assemblyman John Polanco - Session 097",
+      "date": "",
+      "duration": 419.77,
+      "url": "https://www.youtube.com/watch?v=WZL5kD4rBw0",
+      "file_path": "data/sessions/WZL5kD4rBw0.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5702,6 +5744,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "d4yP1m-WWAk",
+      "title": "Assemblyman Alejandro Lara - Session 097",
+      "date": "",
+      "duration": 449.05,
+      "url": "https://www.youtube.com/watch?v=d4yP1m-WWAk",
+      "file_path": "data/sessions/d4yP1m-WWAk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "yM-5EVGnieo",
       "title": "President of the National Assembly Mishel Mancheno - Session 098",
       "date": "",
@@ -5750,6 +5806,20 @@
       "duration": 237.54,
       "url": "https://www.youtube.com/watch?v=EQ28U8R4Htw",
       "file_path": "data/sessions/EQ28U8R4Htw.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "qUQe1FuEOso",
+      "title": "Vote on the reconsideration of Assemblyman John Polanco - Session 097",
+      "date": "",
+      "duration": 204.71,
+      "url": "https://www.youtube.com/watch?v=qUQe1FuEOso",
+      "file_path": "data/sessions/qUQe1FuEOso.json",
       "video_type": "clip",
       "speaker_count": 2,
       "topics": [],
