@@ -38,7 +38,14 @@
             </div>
 
             <div class="mt-4">
-                <label for="filter-topic">Filtrar por tema:</label>
+                <label for="filter-type">Tipo:</label>
+                <select id="filter-type" style="padding: 0.5rem; margin-left: 0.5rem;">
+                    <option value="">Todo (sesiones completas + clips)</option>
+                    <option value="full_session">Solo sesiones completas</option>
+                    <option value="clip">Solo clips por asambleísta</option>
+                </select>
+
+                <label for="filter-topic" style="margin-left: 1rem;">Filtrar por tema:</label>
                 <select id="filter-topic" style="padding: 0.5rem; margin-left: 0.5rem;">
                     <option value="">Todos los temas</option>
                 </select>
