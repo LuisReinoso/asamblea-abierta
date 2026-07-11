@@ -1,0 +1,174 @@
+{
+  "text": "apoyo para que los niños, los jóvenes de este país tengan con claridad una educación  financiera que les permita administrar sus recursos económicos y pensar, pensar en  grande como debe ser. Señor Presidente, por favor pido la reconsideración de los votados. Señor Secretario, tome votación sobre la reconsideración planteada, por favor. Señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierra el registro, señor secretario. Me permite informar, señor presidente, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta John Polanco.  Señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador presente, los resultados. Señor presidente, me permito informar que de un total de 142 asambleístas presentes,  contamos con cero votos afirmativos, 87 negativos, cero blancos, 55 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta don Polanco no ha sido aprobada. Gracias, señor secretario. Antes de dar inicio al siguiente punto del orden del día.",
+  "language": "es",
+  "duration": 204.71,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 21.12,
+      "text": "apoyo para que los niños, los jóvenes de este país tengan con claridad una educación  financiera que les permita administrar sus recursos económicos y pensar, pensar en  grande como debe ser. Señor Presidente, por favor pido la reconsideración de los votados.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Edwin Estuardo Jarrín Rivadeneira",
+        "confidence": 0.5759,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 24.72,
+      "end": 27.99,
+      "text": "Señor Secretario, tome votación sobre la reconsideración planteada, por favor.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 29.19,
+      "end": 37.49,
+      "text": "Señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan Pablo Molina Saldaña",
+        "confidence": 0.86
+      }
+    },
+    {
+      "id": 3,
+      "start": 127.47,
+      "end": 129.07,
+      "text": "Cierra el registro, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 130.69,
+      "end": 145.93,
+      "text": "Me permite informar, señor presidente, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta John Polanco.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan Pablo Molina Saldaña",
+        "confidence": 0.86
+      }
+    },
+    {
+      "id": 5,
+      "start": 175.45,
+      "end": 177.29,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 178.65,
+      "end": 199.68,
+      "text": "Señor operador presente, los resultados. Señor presidente, me permito informar que de un total de 142 asambleístas presentes,  contamos con cero votos afirmativos, 87 negativos, cero blancos, 55 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta don Polanco no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan Pablo Molina Saldaña",
+        "confidence": 0.86
+      }
+    },
+    {
+      "id": 7,
+      "start": 200.79,
+      "end": 204.78,
+      "text": "Gracias, señor secretario. Antes de dar inicio al siguiente punto del orden del día.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "qUQe1FuEOso",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan Pablo Molina Saldaña",
+      "confidence": 0.86,
+      "votes": {
+        "Torre de la Torre Fernando de la": 1,
+        "Juan Pablo Molina Saldaña": 6
+      },
+      "samples": 17,
+      "successful_reads": 7,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 8,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Juan Pablo Molina Saldaña": 1
+      },
+      "samples": 5,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Vote on the reconsideration of Assemblyman John Polanco - Session 097",
+  "url": "https://www.youtube.com/watch?v=qUQe1FuEOso",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "qUQe1FuEOso",
+  "source_url": "https://www.youtube.com/watch?v=qUQe1FuEOso",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan Pablo Molina Saldaña",
+      "party": null,
+      "province": null,
+      "total_time": 44.57,
+      "interventions": 3,
+      "word_count": 100
+    },
+    {
+      "id": "speaker_1",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "party": null,
+      "province": null,
+      "total_time": 21.09,
+      "interventions": 1,
+      "word_count": 41
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 10.7,
+      "interventions": 4,
+      "word_count": 34
+    }
+  ]
+}
