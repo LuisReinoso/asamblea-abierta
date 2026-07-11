@@ -143,6 +143,43 @@ header nav a:hover {
   text-decoration: none;
 }
 
+/* Hamburger toggle — CSS-only (checkbox hack), hidden on desktop */
+.nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  display: none;
+  font-size: 1.75rem;
+  line-height: 1;
+  color: white;
+  cursor: pointer;
+  padding: 0 var(--spacing-xs);
+}
+
+/* ===== FILTER BAR (shared by sessions/speakers/topics listing pages) ===== */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--spacing-sm) var(--spacing-md);
+}
+
+.filter-bar .filter-field {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+}
+
+.filter-bar select {
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 0.9375rem;
+  background: white;
+  color: var(--text-color);
+}
+
 /* ===== HERO SECTION ===== */
 .hero {
   background: linear-gradient(135deg, var(--primary-color) 0%, #002B73 100%);
@@ -291,14 +328,32 @@ footer p {
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   header .container {
-    flex-direction: column;
-    gap: var(--spacing-sm);
+    flex-wrap: wrap;
+  }
+
+  .nav-toggle-label {
+    display: block;
+  }
+
+  /* Collapsed by default; the checkbox (hidden) drives the toggle via the
+     sibling combinator below — no JS needed. */
+  header nav {
+    flex-basis: 100%;
+    order: 3;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease;
+  }
+
+  .nav-toggle:checked ~ nav {
+    max-height: 320px;
   }
 
   header nav ul {
     flex-direction: column;
     gap: var(--spacing-xs);
     text-align: center;
+    padding-top: var(--spacing-sm);
   }
 
   .hero h1 {
@@ -311,6 +366,22 @@ footer p {
 
   .card-grid {
     grid-template-columns: 1fr;
+  }
+
+  .filter-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filter-bar .filter-field {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.25rem;
+  }
+
+  .filter-bar select {
+    width: 100%;
+    min-width: 0;
   }
 }
 

@@ -11,6 +11,8 @@
     <header>
         <div class="container">
             <h1>🏛️ Asamblea Abierta</h1>
+            <input type="checkbox" id="nav-toggle" class="nav-toggle">
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
             <nav>
                 <ul>
                     <li><a href="index.html">Inicio</a></li>
@@ -37,28 +39,34 @@
                 >
             </div>
 
-            <div class="mt-4">
-                <label for="filter-type">Tipo:</label>
-                <select id="filter-type" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="asambleísta">Solo asambleístas</option>
-                    <option value="">Todos los oradores</option>
-                    <option value="comparecencia">Comparecencias</option>
-                    <option value="prensa">Prensa</option>
-                    <option value="otro">Otros</option>
-                    <option value="desconocido">Sin clasificar</option>
-                </select>
+            <div class="filter-bar mt-4">
+                <div class="filter-field">
+                    <label for="filter-type">Tipo:</label>
+                    <select id="filter-type">
+                        <option value="asambleísta">Solo asambleístas</option>
+                        <option value="">Todos los oradores</option>
+                        <option value="comparecencia">Comparecencias</option>
+                        <option value="prensa">Prensa</option>
+                        <option value="otro">Otros</option>
+                        <option value="desconocido">Sin clasificar</option>
+                    </select>
+                </div>
 
-                <label for="filter-party" style="margin-left: 1rem;">Partido:</label>
-                <select id="filter-party" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="">Todos los partidos</option>
-                </select>
+                <div class="filter-field">
+                    <label for="filter-party">Partido:</label>
+                    <select id="filter-party">
+                        <option value="">Todos los partidos</option>
+                    </select>
+                </div>
 
-                <label for="sort-by" style="margin-left: 1rem;">Ordenar por:</label>
-                <select id="sort-by" style="padding: 0.5rem; margin-left: 0.5rem;">
-                    <option value="time-desc">Tiempo de participación (mayor)</option>
-                    <option value="sessions-desc">Sesiones asistidas (mayor)</option>
-                    <option value="name-asc">Nombre (A-Z)</option>
-                </select>
+                <div class="filter-field">
+                    <label for="sort-by">Ordenar por:</label>
+                    <select id="sort-by">
+                        <option value="time-desc">Tiempo de participación (mayor)</option>
+                        <option value="sessions-desc">Sesiones asistidas (mayor)</option>
+                        <option value="name-asc">Nombre (A-Z)</option>
+                    </select>
+                </div>
             </div>
 
             <div id="speakers-count" class="mt-2" style="color: var(--text-light);">
