@@ -1,0 +1,305 @@
+{
+  "text": "Por favor, de paso a la Comisión General. Con su autorización, señor presidente, se suspende la sesión, nos declaramos en comisión general.  Invitamos al pleno de la Asamblea Nacional al excelentísimo señor Sun Xiangyang,  embajador de la República Popular de China, en representación del señor Bao Lixin.  El señor Bao Lixin es un destacado artista de la República Popular China,  ha reconocido su trayectoria en las artes tradicionales, particularmente en la pintura y la galigrafía.  Su labor artística ha contribuido de manera significativa a la promoción del intercambio cultural  entre la República Popular China y la República del Ecuador,  fomentando el diálogo entre civilizaciones y el entendimiento mutuo a través del arte.  El presidente de la Asamblea Nacional considerando y en sus atribuciones acuerda  reconocer y decorar al señor Bao Lixin, exaltando su destacada trayectoria artística  y su valioso aporte en el fortalecimiento público del Ecuador y la República Popular.  El señor presidente de la Asamblea Nacional hace entrega de la decoración.  La señora asambleísta Mónica Stasar se entrega de acuerdo legislativo.  A continuación tenemos la intervención del excelentísimo señor Sun Tianyang,  embajador de la República Popular China. 尊敬的巴多尔国会,奥巴胜主席,尊敬的各位议员,女士们先生们, Muy buenas tardes a todos. Soy el presidente de la Comunicación de la Comunicación de los Estados Unidos.  Muy feliz de agradecer a todos los diputados. Soy Suen Sanya, embajador de la República Popular China en la República del Ecuador.  Es para mí un honor dirigirme a todos ustedes aquí en la Asamblea Nacional. Primero, lo que es un presidente de la historia de la historia de la historia de la historia de la historia de la historia. En primer lugar, en nombre del pintor y carígrafo chino, Pao Linshin,  deseo expresar mi agradecimiento a su Excelencia Presidente Yus Olsen  por el reconocimiento que ha tenido la gentileza de otorgarle al maestro Pao. Esto no es solo por el artista de la historia de los artistas de la historia de la cultura de la cultura de la cultura. Esta medalla no solo honra al mismo artista, sino que constituye a sí mismo un importante ejemplo y un valioso impulso para los intercambios populares entre China y Ecuador. En el 6 de año 10 de la Revolución, el Revolución el Wrió de la Ciencias de la Ciencias de Xenias y el Congreso de Estados Unidos en el Salto. Con ocasión del segundo día internacional para el diálogo entre civilizaciones de las Naciones Unidas, que se conmemora cada 10 de junio, nuestra embajada tiene el honor de organizar conjuntamente con el Grupo Interparlamentario de Amistad Ecuador-China una exposición de cultura china en este recinto legislativo. nos vemos en la sección de nuestro rico unir.  Gracias por ver el video.  Gracias por ver el video. Las 96 exquisitas obras de arte guiadas desde China mostrarán a todos los asomalistas el singular encanto de la cultura tradicional china.  Estas piezas de caligrafía, pintura, cerámica, talla y barro púrpura o tzecha no solo cumplen la misión de promover el intercambio cultural,  poniendo en práctica la iniciativa para la civilización global propuesta por el presidente chino Xi Jinping,  sino que también reflejan el firme compromiso de la Embajada China y la Asamblea Nacional Ecuatoriana  de fomentar los intercambios y el aprendizaje mutuo entre civilizaciones, consolidar la amistad bilateral y contribuir a la paz y el desarrollo mundiales. Yo quiero invitar a mi y mi esposa y la iglesia de la iglesia de la iglesia, invitamos a todos los ciudadanos de la iglesia de la iglesia de la iglesia de la iglesia. Es para mí un honor invitar respetuosamente, en nombre mío y de mi esposa, así como en nombre de la embajada de China,  a todos los asambleístas a visitar esta exhibición, que tiene lugar actualmente en el Salón José Mejía de la Querica. Por último, me permito a la Por último, permítanme reiterar mi más sincero agradecimiento al señor presidente Nielo Solson,  a la presidenta del Grupo Interparabinario de Amistad con China, asambleísta Mónica Salazar,  y a todos sus miembros, así como a los distintos departamentos de la Asamblea Nacional,  por el gran apoyo brindado para la exitosa realización de esta exposición. ¡Muchas gracias! Agradecemos la intervención del excelentísimo señor Sun Jianjian, embajador de la República Popular China.",
+  "language": "es",
+  "duration": 584.38,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.36,
+      "text": "Por favor, de paso a la Comisión General.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 3.81,
+      "end": 219.34,
+      "text": "Con su autorización, señor presidente, se suspende la sesión, nos declaramos en comisión general.  Invitamos al pleno de la Asamblea Nacional al excelentísimo señor Sun Xiangyang,  embajador de la República Popular de China, en representación del señor Bao Lixin.  El señor Bao Lixin es un destacado artista de la República Popular China,  ha reconocido su trayectoria en las artes tradicionales, particularmente en la pintura y la galigrafía.  Su labor artística ha contribuido de manera significativa a la promoción del intercambio cultural  entre la República Popular China y la República del Ecuador,  fomentando el diálogo entre civilizaciones y el entendimiento mutuo a través del arte.  El presidente de la Asamblea Nacional considerando y en sus atribuciones acuerda  reconocer y decorar al señor Bao Lixin, exaltando su destacada trayectoria artística  y su valioso aporte en el fortalecimiento público del Ecuador y la República Popular.  El señor presidente de la Asamblea Nacional hace entrega de la decoración.  La señora asambleísta Mónica Stasar se entrega de acuerdo legislativo.  A continuación tenemos la intervención del excelentísimo señor Sun Tianyang,  embajador de la República Popular China.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 0.5102,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 238.76,
+      "end": 246.96,
+      "text": "尊敬的巴多尔国会,奥巴胜主席,尊敬的各位议员,女士们先生们,",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 246.96,
+      "end": 257.75,
+      "text": "Muy buenas tardes a todos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 260.29,
+      "end": 268.16,
+      "text": "Soy el presidente de la Comunicación de la Comunicación de los Estados Unidos.  Muy feliz de agradecer a todos los diputados.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 269.24,
+      "end": 279.19,
+      "text": "Soy Suen Sanya, embajador de la República Popular China en la República del Ecuador.  Es para mí un honor dirigirme a todos ustedes aquí en la Asamblea Nacional.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 279.19,
+      "end": 291.36,
+      "text": "Primero, lo que es un presidente de la historia de la historia de la historia de la historia de la historia de la historia.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 292.32,
+      "end": 305.82,
+      "text": "En primer lugar, en nombre del pintor y carígrafo chino, Pao Linshin,  deseo expresar mi agradecimiento a su Excelencia Presidente Yus Olsen  por el reconocimiento que ha tenido la gentileza de otorgarle al maestro Pao.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 306.55,
+      "end": 315.68,
+      "text": "Esto no es solo por el artista de la historia de los artistas de la historia de la cultura de la cultura de la cultura.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "start": 316.5,
+      "end": 328.27,
+      "text": "Esta medalla no solo honra al mismo artista, sino que constituye a sí mismo un importante ejemplo y un valioso impulso para los intercambios populares entre China y Ecuador.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 10,
+      "start": 329.5,
+      "end": 345.51,
+      "text": "En el 6 de año 10 de la Revolución, el Revolución el Wrió de la Ciencias de la Ciencias de Xenias y el Congreso de Estados Unidos en el Salto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 11,
+      "start": 346.64,
+      "end": 366.94,
+      "text": "Con ocasión del segundo día internacional para el diálogo entre civilizaciones de las Naciones Unidas, que se conmemora cada 10 de junio, nuestra embajada tiene el honor de organizar conjuntamente con el Grupo Interparlamentario de Amistad Ecuador-China una exposición de cultura china en este recinto legislativo.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 12,
+      "start": 367.67,
+      "end": 406.48,
+      "text": "nos vemos en la sección de nuestro rico unir.  Gracias por ver el video.  Gracias por ver el video.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 13,
+      "start": 407.26,
+      "end": 452.3,
+      "text": "Las 96 exquisitas obras de arte guiadas desde China mostrarán a todos los asomalistas el singular encanto de la cultura tradicional china.  Estas piezas de caligrafía, pintura, cerámica, talla y barro púrpura o tzecha no solo cumplen la misión de promover el intercambio cultural,  poniendo en práctica la iniciativa para la civilización global propuesta por el presidente chino Xi Jinping,  sino que también reflejan el firme compromiso de la Embajada China y la Asamblea Nacional Ecuatoriana  de fomentar los intercambios y el aprendizaje mutuo entre civilizaciones, consolidar la amistad bilateral y contribuir a la paz y el desarrollo mundiales.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 14,
+      "start": 453.67,
+      "end": 465.31,
+      "text": "Yo quiero invitar a mi y mi esposa y la iglesia de la iglesia de la iglesia, invitamos a todos los ciudadanos de la iglesia de la iglesia de la iglesia de la iglesia.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 15,
+      "start": 466.27,
+      "end": 482.47,
+      "text": "Es para mí un honor invitar respetuosamente, en nombre mío y de mi esposa, así como en nombre de la embajada de China,  a todos los asambleístas a visitar esta exhibición, que tiene lugar actualmente en el Salón José Mejía de la Querica.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 16,
+      "start": 483.57,
+      "end": 503.01,
+      "text": "Por último, me permito a la",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 17,
+      "start": 503.92,
+      "end": 526.5,
+      "text": "Por último, permítanme reiterar mi más sincero agradecimiento al señor presidente Nielo Solson,  a la presidenta del Grupo Interparabinario de Amistad con China, asambleísta Mónica Salazar,  y a todos sus miembros, así como a los distintos departamentos de la Asamblea Nacional,  por el gran apoyo brindado para la exitosa realización de esta exposición.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 18,
+      "start": 527.73,
+      "end": 529.72,
+      "text": "¡Muchas gracias!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 19,
+      "start": 546.16,
+      "end": 554.34,
+      "text": "Agradecemos la intervención del excelentísimo señor Sun Jianjian, embajador de la República Popular China.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 0.5102,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "7TAofTo6zuQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 23,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 25,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 13,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "General Commission China - Session 096",
+  "url": "https://www.youtube.com/watch?v=7TAofTo6zuQ",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7TAofTo6zuQ",
+  "source_url": "https://www.youtube.com/watch?v=7TAofTo6zuQ",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 277.72,
+      "interventions": 18,
+      "word_count": 508
+    },
+    {
+      "id": "speaker_2",
+      "name": "Blasco Remigio Luna Arévalo",
+      "party": null,
+      "province": null,
+      "total_time": 223.71,
+      "interventions": 2,
+      "word_count": 194
+    }
+  ]
+}

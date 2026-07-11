@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:12:03.007003",
-  "total_sessions": 426,
+  "generated_at": "2026-07-11T06:19:05.510769",
+  "total_sessions": 431,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5436,6 +5436,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "7TAofTo6zuQ",
+      "title": "General Commission China - Session 096",
+      "date": "",
+      "duration": 584.38,
+      "url": "https://www.youtube.com/watch?v=7TAofTo6zuQ",
+      "file_path": "data/sessions/7TAofTo6zuQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "oCuv6ONYHyI",
       "title": "Assemblywoman Cecilia Baltazar - Session 097",
       "date": "",
@@ -5540,6 +5554,20 @@
       "duration": 419.77,
       "url": "https://www.youtube.com/watch?v=WZL5kD4rBw0",
       "file_path": "data/sessions/WZL5kD4rBw0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "-0SrZH4JHNM",
+      "title": "Assemblywoman Paola Cabezas - Session 096",
+      "date": "",
+      "duration": 742.16,
+      "url": "https://www.youtube.com/watch?v=-0SrZH4JHNM",
+      "file_path": "data/sessions/-0SrZH4JHNM.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5688,6 +5716,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "7Rbe36f6ud4",
+      "title": "Assemblyman Milton Aguas - Session 096",
+      "date": "",
+      "duration": 277.22,
+      "url": "https://www.youtube.com/watch?v=7Rbe36f6ud4",
+      "file_path": "data/sessions/7Rbe36f6ud4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "ncS7qTT4t4A",
       "title": "Vote on Assemblywoman Ana Belén Tapia's motion - Session 098",
       "date": "",
@@ -5786,6 +5828,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "RAPL9IbAVJA",
+      "title": "Assemblywoman Karolina Dueñas - Session 096",
+      "date": "",
+      "duration": 261.39,
+      "url": "https://www.youtube.com/watch?v=RAPL9IbAVJA",
+      "file_path": "data/sessions/RAPL9IbAVJA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "JPxhzMLnMKk",
       "title": "Assemblyman Héctor Rodríguez - Session 098",
       "date": "",
@@ -5808,6 +5864,20 @@
       "file_path": "data/sessions/qFNtadAhoZc.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "X45qVMPHm9w",
+      "title": "Assemblywoman Lucía Pozo - Session 096",
+      "date": "",
+      "duration": 614.86,
+      "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
+      "file_path": "data/sessions/X45qVMPHm9w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
