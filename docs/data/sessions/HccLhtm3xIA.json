@@ -1,0 +1,50 @@
+{
+  "text": "la palabra el asambleísta vamos a reyes buenas tardes gracias señor presidente por otorgar el  uso de la palabra buenas buenos días perdón a todos los colegas y a la ciudadanía que nos  observa a través de las redes de la asamblea nacional como proponente de este proyecto de  la ley orgánica de educación financiera me permito intervenir en este pleno no sin antes  agradecer a mi querida colega la asambleísta cecilia baltazar quien preside tan dignificada  comisión al igual que a mi compañero john polanco miembro de la misma gracias por darle trámite  un proyecto tan importante este proyecto nació con el objetivo de brindar herramientas reales a  los ecuatorianos para tomar mejores decisiones en cuanto a su dinero y fortalecer su estabilidad  financiera aprovechando por supuesto las bondades que el sistema financiero ecuatoriano provee ojo va  a toda la ciudadanía los 18 millones de ecuatorianos indiferentemente si tienen o no dinero esto es  para saber administrar lo que gana importante precisión también es importante que la objeción  parcial presentada por el presidente daniel noboa como bien mencionó mi colega john polanco no altera  la esencia de este proyecto su observación es parte del conocimiento y experiencia del funcionamiento del  proceso de este activo como recordarán estas están orientadas a seleccionar la normativa ser más  precisos y fortalecer la redacto del peso aprobado el proyecto no tiene una ideología no es un proyecto  partidista comprende una visión educativa desde temprana edad para fomentar conocimientos aplicables  en la vida adulta en el mundo y porque digo en el mundo y reitero mis palabras de la semana pasada  hasta la reina máxima zorreguita ha tomado bandera personal de este proyecto porque hay que fomentarlo  a todas las personas de cualquier clase socioeconómica es importantísimo concientizar a los niños niñas y  adolescentes a cuáles son las herramientas del sistema financiero hoy nos enfocamos en el ecuador y que  mejor que los niños niñas y adolescentes lo hagan desde espacios de aprendizaje como son las escuelas  y colegios con el respaldo del ministerio de educación es importante que los chicos cuenten  con la oportunidad de capacitarse y de comprender la importancia de planificar y administrar de forma  eficiente su dinero y reitero por mucho o poco que hagan además bajo el criterio de la comisión de  educación también se ha incluido al proyecto inicial a la educación superior y el ámbito educativo no formal  coordinado con instituciones como la superintendencia de bancos la superintendencia de economía popular y  solidaria y el instituto nacional de economía popular y solidario entre otros por cierto gracias a  ello los ecuatorianos tendrán las herramientas necesarias para organizar mejor sus finanzas y tomar  decisiones con libertad y conocimiento sobre el fruto de su trabajo agradezco también al presidente  noboa al ejecutivo por las observaciones presentadas dentro del marco constitucional en sus artículos 137 y  138 y tengo en lo dicho desde que presenté este proyecto estoy totalmente convencido de que esta ley  contribuirá a mejorar la calidad de vida de todos los ecuatorianos hasta aquí mi intervención le devuelvo la  palabra señor presidente muchas gracias  gracias  gracias  gracias  gracias",
+  "language": "es",
+  "duration": 250.5,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 249.66,
+      "text": "la palabra el asambleísta vamos a reyes buenas tardes gracias señor presidente por otorgar el  uso de la palabra buenas buenos días perdón a todos los colegas y a la ciudadanía que nos  observa a través de las redes de la asamblea nacional como proponente de este proyecto de  la ley orgánica de educación financiera me permito intervenir en este pleno no sin antes  agradecer a mi querida colega la asambleísta cecilia baltazar quien preside tan dignificada  comisión al igual que a mi compañero john polanco miembro de la misma gracias por darle trámite  un proyecto tan importante este proyecto nació con el objetivo de brindar herramientas reales a  los ecuatorianos para tomar mejores decisiones en cuanto a su dinero y fortalecer su estabilidad  financiera aprovechando por supuesto las bondades que el sistema financiero ecuatoriano provee ojo va  a toda la ciudadanía los 18 millones de ecuatorianos indiferentemente si tienen o no dinero esto es  para saber administrar lo que gana importante precisión también es importante que la objeción  parcial presentada por el presidente daniel noboa como bien mencionó mi colega john polanco no altera  la esencia de este proyecto su observación es parte del conocimiento y experiencia del funcionamiento del  proceso de este activo como recordarán estas están orientadas a seleccionar la normativa ser más  precisos y fortalecer la redacto del peso aprobado el proyecto no tiene una ideología no es un proyecto  partidista comprende una visión educativa desde temprana edad para fomentar conocimientos aplicables  en la vida adulta en el mundo y porque digo en el mundo y reitero mis palabras de la semana pasada  hasta la reina máxima zorreguita ha tomado bandera personal de este proyecto porque hay que fomentarlo  a todas las personas de cualquier clase socioeconómica es importantísimo concientizar a los niños niñas y  adolescentes a cuáles son las herramientas del sistema financiero hoy nos enfocamos en el ecuador y que  mejor que los niños niñas y adolescentes lo hagan desde espacios de aprendizaje como son las escuelas  y colegios con el respaldo del ministerio de educación es importante que los chicos cuenten  con la oportunidad de capacitarse y de comprender la importancia de planificar y administrar de forma  eficiente su dinero y reitero por mucho o poco que hagan además bajo el criterio de la comisión de  educación también se ha incluido al proyecto inicial a la educación superior y el ámbito educativo no formal  coordinado con instituciones como la superintendencia de bancos la superintendencia de economía popular y  solidaria y el instituto nacional de economía popular y solidario entre otros por cierto gracias a  ello los ecuatorianos tendrán las herramientas necesarias para organizar mejor sus finanzas y tomar  decisiones con libertad y conocimiento sobre el fruto de su trabajo agradezco también al presidente  noboa al ejecutivo por las observaciones presentadas dentro del marco constitucional en sus artículos 137 y  138 y tengo en lo dicho desde que presenté este proyecto estoy totalmente convencido de que esta ley  contribuirá a mejorar la calidad de vida de todos los ecuatorianos hasta aquí mi intervención le devuelvo la  palabra señor presidente muchas gracias  gracias  gracias  gracias  gracias",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "HccLhtm3xIA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 097",
+  "url": "https://www.youtube.com/watch?v=HccLhtm3xIA",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "HccLhtm3xIA",
+  "source_url": "https://www.youtube.com/watch?v=HccLhtm3xIA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 249.63,
+      "interventions": 1,
+      "word_count": 521
+    }
+  ]
+}

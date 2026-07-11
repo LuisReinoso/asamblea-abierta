@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:56:37.857968",
-  "total_sessions": 416,
+  "generated_at": "2026-07-11T06:05:51.256722",
+  "total_sessions": 421,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5464,6 +5464,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "NV34v1Ezy_A",
+      "title": "Assemblyman Luigi García - Session 097 - Agenda Change",
+      "date": "",
+      "duration": 1237.37,
+      "url": "https://www.youtube.com/watch?v=NV34v1Ezy_A",
+      "file_path": "data/sessions/NV34v1Ezy_A.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c4gu9QA8a6E",
       "title": "Assemblyman Diego Franco - Session 097",
       "date": "",
@@ -5584,6 +5598,20 @@
       "file_path": "data/sessions/IfZKL06IWIA.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ittqRwT5QJU",
+      "title": "Assemblywoman Carolina Escobar - Session 097 - Change of Agenda",
+      "date": "",
+      "duration": 557.09,
+      "url": "https://www.youtube.com/watch?v=ittqRwT5QJU",
+      "file_path": "data/sessions/ittqRwT5QJU.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5772,6 +5800,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "HccLhtm3xIA",
+      "title": "Assemblyman Juan José Reyes - Session 097",
+      "date": "",
+      "duration": 250.5,
+      "url": "https://www.youtube.com/watch?v=HccLhtm3xIA",
+      "file_path": "data/sessions/HccLhtm3xIA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "i8RW9b6i5Oc",
+      "title": "Assemblyman Mario Zambrano - Session 097 - Change of Agenda",
+      "date": "",
+      "duration": 596.73,
+      "url": "https://www.youtube.com/watch?v=i8RW9b6i5Oc",
+      "file_path": "data/sessions/i8RW9b6i5Oc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -5808,6 +5864,20 @@
       "file_path": "data/sessions/EQ28U8R4Htw.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "es-nFNQBrks",
+      "title": "Assemblyman John Polanco - Session 097",
+      "date": "",
+      "duration": 281.43,
+      "url": "https://www.youtube.com/watch?v=es-nFNQBrks",
+      "file_path": "data/sessions/es-nFNQBrks.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
