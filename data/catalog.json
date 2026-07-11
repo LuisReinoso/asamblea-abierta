@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:44:48.925836",
-  "total_sessions": 406,
+  "generated_at": "2026-07-11T05:49:57.503508",
+  "total_sessions": 411,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5450,12 +5450,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "vqjaZWfXXd4",
+      "title": "Assemblyman Luis Molina - Session 097",
+      "date": "",
+      "duration": 526.77,
+      "url": "https://www.youtube.com/watch?v=vqjaZWfXXd4",
+      "file_path": "data/sessions/vqjaZWfXXd4.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "p06QMyuqSdM",
       "title": "Assemblyman Juan José Reyes - Session 098",
       "date": "",
       "duration": 335.37,
       "url": "https://www.youtube.com/watch?v=p06QMyuqSdM",
       "file_path": "data/sessions/p06QMyuqSdM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "MylkLNgGmm4",
+      "title": "Assemblyman Sergio Peña - Session 097",
+      "date": "",
+      "duration": 488.29,
+      "url": "https://www.youtube.com/watch?v=MylkLNgGmm4",
+      "file_path": "data/sessions/MylkLNgGmm4.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5528,6 +5556,20 @@
       "file_path": "data/sessions/ncS7qTT4t4A.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "LrPOZRZ-jDM",
+      "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
+      "date": "",
+      "duration": 143.22,
+      "url": "https://www.youtube.com/watch?v=LrPOZRZ-jDM",
+      "file_path": "data/sessions/LrPOZRZ-jDM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5646,6 +5688,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "DVajK8kVyP8",
+      "title": "Assemblywoman Janina Rizzo - Session 097",
+      "date": "",
+      "duration": 398.73,
+      "url": "https://www.youtube.com/watch?v=DVajK8kVyP8",
+      "file_path": "data/sessions/DVajK8kVyP8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "yM-5EVGnieo",
       "title": "President of the National Assembly Mishel Mancheno - Session 098",
       "date": "",
@@ -5682,6 +5738,20 @@
       "file_path": "data/sessions/-vRufGiuNf8.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EQ28U8R4Htw",
+      "title": "Assemblyman Adrián Castro - Session 097",
+      "date": "",
+      "duration": 237.54,
+      "url": "https://www.youtube.com/watch?v=EQ28U8R4Htw",
+      "file_path": "data/sessions/EQ28U8R4Htw.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",

@@ -1,0 +1,50 @@
+{
+  "text": "No, no, no. Con el mayor respeto al legislador Molina. Yo creo que plata ajena es como perder un juicio por meter la mano y que el Ecuador tenga que pagar 220 millones de dólares a Chevron. Eso es plata ajena.  ¿Por qué? Porque lo que está en aduanas, realmente, lo que está retenido o abandonado en aduanas, realmente tiene que pasar a los ecuatorianos. Esa no es plata del Estado, esa no es plata de ustedes o mía, esa es plata de los ecuatorianos. Esa mercadería tiene que pasar lo antes posible a los ecuatorianos.  ¿A quién le puede molestar que a una persona que necesita le llegue un par de zapatos? Venga de donde venga, señores. Ahora, en lo que sí estoy de acuerdo con el legislador Molina, es que si, como dice él, se acabó la generosidad después de campaña, ahí sí tenemos que corregir.  Porque eso tiene que pasar todo el año. Pero tiene que pasar. No podemos molestarnos porque mercadería retenida en aduana, que está perdiéndose, como ya les dije, por años, le llega a la gente que lo necesita.  Unas las lavadoras, decían. Y que la gente en las fundaciones no lava la ropa de la gente que está ahí. ¿Qué quieren? Que la gente tenga que invertir de su plata para poder tener una lavadora que no tienen, porque hay fundaciones que no las tienen.  Señores, olvídense por un momento de lo político. Esta reforma tiene que ser para que las donaciones lleguen más rápido a la gente. Esto no es un matute, como están diciendo.  Esto no son migajas. Si podemos hacer que lleguen más donaciones, pues que se haga. Que toda la mercadería a nivel nacional, no solo en época de campaña, que durante todo el año le llegue a la gente.  Y para esto es esa reforma. Y que le moleste a alguien. Que a niños que lo necesitan. Que a la gente, que a los ecuatorianos les lleguen matutes.  Me llama la atención, porque todos deberíamos estar a favor de que a los ecuatorianos les lleguen cosas. Eso es pensar en el Ecuador.  Pero definitivamente aquí, señor presidente, creo que estamos pensando en el poder. Porque si no estuviéramos felices de que a los ecuatorianos todos los días les llegue una donación.  Mi palabra, señor presidente. Muchas gracias.",
+  "language": "es",
+  "duration": 143.22,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 143.23,
+      "text": "No, no, no. Con el mayor respeto al legislador Molina. Yo creo que plata ajena es como perder un juicio por meter la mano y que el Ecuador tenga que pagar 220 millones de dólares a Chevron. Eso es plata ajena.  ¿Por qué? Porque lo que está en aduanas, realmente, lo que está retenido o abandonado en aduanas, realmente tiene que pasar a los ecuatorianos. Esa no es plata del Estado, esa no es plata de ustedes o mía, esa es plata de los ecuatorianos. Esa mercadería tiene que pasar lo antes posible a los ecuatorianos.  ¿A quién le puede molestar que a una persona que necesita le llegue un par de zapatos? Venga de donde venga, señores. Ahora, en lo que sí estoy de acuerdo con el legislador Molina, es que si, como dice él, se acabó la generosidad después de campaña, ahí sí tenemos que corregir.  Porque eso tiene que pasar todo el año. Pero tiene que pasar. No podemos molestarnos porque mercadería retenida en aduana, que está perdiéndose, como ya les dije, por años, le llega a la gente que lo necesita.  Unas las lavadoras, decían. Y que la gente en las fundaciones no lava la ropa de la gente que está ahí. ¿Qué quieren? Que la gente tenga que invertir de su plata para poder tener una lavadora que no tienen, porque hay fundaciones que no las tienen.  Señores, olvídense por un momento de lo político. Esta reforma tiene que ser para que las donaciones lleguen más rápido a la gente. Esto no es un matute, como están diciendo.  Esto no son migajas. Si podemos hacer que lleguen más donaciones, pues que se haga. Que toda la mercadería a nivel nacional, no solo en época de campaña, que durante todo el año le llegue a la gente.  Y para esto es esa reforma. Y que le moleste a alguien. Que a niños que lo necesitan. Que a la gente, que a los ecuatorianos les lleguen matutes.  Me llama la atención, porque todos deberíamos estar a favor de que a los ecuatorianos les lleguen cosas. Eso es pensar en el Ecuador.  Pero definitivamente aquí, señor presidente, creo que estamos pensando en el poder. Porque si no estuviéramos felices de que a los ecuatorianos todos los días les llegue una donación.  Mi palabra, señor presidente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Sergio Jesús Peña Veloz",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "LrPOZRZ-jDM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Sergio Jesús Peña Veloz",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
+  "url": "https://www.youtube.com/watch?v=LrPOZRZ-jDM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "LrPOZRZ-jDM",
+  "source_url": "https://www.youtube.com/watch?v=LrPOZRZ-jDM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Sergio Jesús Peña Veloz",
+      "party": null,
+      "province": null,
+      "total_time": 143.2,
+      "interventions": 1,
+      "word_count": 389
+    }
+  ]
+}
