@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:34:28.593001",
-  "total_sessions": 441,
+  "generated_at": "2026-07-11T06:48:44.583707",
+  "total_sessions": 451,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5464,6 +5464,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 498.69,
+      "url": "",
+      "file_path": "data/sessions/wyNPx-RpUEE.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "xu7rQP7dcFw",
       "title": "Voting on the motion of Assemblyman Juan Reyes - Session 096",
       "date": "",
@@ -5500,6 +5514,20 @@
       "file_path": "data/sessions/jHXpE5lR3tY.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 260.25,
+      "url": "",
+      "file_path": "data/sessions/WMa1FPQKZ9A.json",
+      "video_type": "clip",
+      "speaker_count": 0,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5730,6 +5758,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 485.25,
+      "url": "",
+      "file_path": "data/sessions/1Zs7_Bcn0-4.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "WmREmOBcVL4",
       "title": "Assemblywoman Liliana Durán - Session 098",
       "date": "",
@@ -5800,6 +5842,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "ztkiH5jmoZo",
+      "title": "Assemblywoman Camila León - Session 095",
+      "date": "",
+      "duration": 507.22,
+      "url": "https://www.youtube.com/watch?v=ztkiH5jmoZo",
+      "file_path": "data/sessions/ztkiH5jmoZo.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "ittqRwT5QJU",
       "title": "Assemblywoman Carolina Escobar - Session 097 - Change of Agenda",
       "date": "",
@@ -5850,6 +5906,48 @@
       "file_path": "data/sessions/ncS7qTT4t4A.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 184.04,
+      "url": "",
+      "file_path": "data/sessions/RhTqhkyCYdI.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "l2q3XiZMBEc",
+      "title": "Assemblywoman Esperanza Rogel - Session 095",
+      "date": "",
+      "duration": 313.05,
+      "url": "https://www.youtube.com/watch?v=l2q3XiZMBEc",
+      "file_path": "data/sessions/l2q3XiZMBEc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "K7v7mAtkacQ",
+      "title": "Assemblyman Milton Aguas - Session 095",
+      "date": "",
+      "duration": 430.24,
+      "url": "https://www.youtube.com/watch?v=K7v7mAtkacQ",
+      "file_path": "data/sessions/K7v7mAtkacQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5996,6 +6094,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "WtSFpLsaRtk",
+      "title": "Assemblywoman Jhajaira Urresta - Session 095",
+      "date": "",
+      "duration": 517.22,
+      "url": "https://www.youtube.com/watch?v=WtSFpLsaRtk",
+      "file_path": "data/sessions/WtSFpLsaRtk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c1eIY0MwPFE",
       "title": "Assemblyman Cristian Benavides - Session 098",
       "date": "",
@@ -6066,6 +6178,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "",
+      "title": "",
+      "date": "",
+      "duration": 668.55,
+      "url": "",
+      "file_path": "data/sessions/w2SlLmqYI_g.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "HccLhtm3xIA",
       "title": "Assemblyman Juan José Reyes - Session 097",
       "date": "",
@@ -6116,6 +6242,20 @@
       "file_path": "data/sessions/-vRufGiuNf8.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "p6Uq2PQhRrU",
+      "title": "Assemblyman Isaac Solano - Session 095",
+      "date": "",
+      "duration": 419.05,
+      "url": "https://www.youtube.com/watch?v=p6Uq2PQhRrU",
+      "file_path": "data/sessions/p6Uq2PQhRrU.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
