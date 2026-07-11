@@ -210,7 +210,7 @@ header nav a:hover {
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: 1.125rem;
   border: 1px solid var(--border-color);
-  border-radius: 50px;
+  border-radius: 8px;
   outline: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: border-color 0.2s;
