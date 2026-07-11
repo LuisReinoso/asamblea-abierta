@@ -1,0 +1,50 @@
+{
+  "text": "Palabra de la Asamblea de Juan José Reyes.  Los comprometidos con el país, participamos del informe de la Nación presentado por el Presidente de la República, el señor Daniel Novoa.  Fuimos testigos del trabajo incasable que viene realizando el nuevo Ecuador, a pesar de las negativas,  para enfrentar los desafíos que durante años afectaron a nuestro país y para construir mejores oportunidades para todos los ecuatorianos.  Ahora, nos corresponde a nosotros cumplir con el procedimiento previsto en nuestro ordenamiento jurídico.  El artículo 120, número 4 de la Constitución de la República, establece como atribución a la Asamblea Nacional conocer los informes anuales,  que presente el Presidente de la República y, por supuesto, como Asamblea Nacional, pronunciarnos al respecto.  En esa misma línea, cumpliendo con el artículo 44 de la Ley Orgánica de la Función Legislativa,  ozono, atesté pleno de la Asamblea Nacional, se designe a la Comisión Especializada Permanente de Régimen Económico y Tributario  y su regulación y control para el análisis del informe anual de las labores presentado por el Presidente de la República,  el Presidente Novoa, mediante oficio número T423-SGJ26-0185, de fecha del 24 de mayo del 2026.  Esta moción ha sido remitida oportunamente a la Secretaría General, junto con la resolución correspondiente.  Muchas gracias, señor Presidente.  Hasta aquí mi palabra.",
+  "language": "es",
+  "duration": 141.2,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 139.97,
+      "text": "Palabra de la Asamblea de Juan José Reyes.  Los comprometidos con el país, participamos del informe de la Nación presentado por el Presidente de la República, el señor Daniel Novoa.  Fuimos testigos del trabajo incasable que viene realizando el nuevo Ecuador, a pesar de las negativas,  para enfrentar los desafíos que durante años afectaron a nuestro país y para construir mejores oportunidades para todos los ecuatorianos.  Ahora, nos corresponde a nosotros cumplir con el procedimiento previsto en nuestro ordenamiento jurídico.  El artículo 120, número 4 de la Constitución de la República, establece como atribución a la Asamblea Nacional conocer los informes anuales,  que presente el Presidente de la República y, por supuesto, como Asamblea Nacional, pronunciarnos al respecto.  En esa misma línea, cumpliendo con el artículo 44 de la Ley Orgánica de la Función Legislativa,  ozono, atesté pleno de la Asamblea Nacional, se designe a la Comisión Especializada Permanente de Régimen Económico y Tributario  y su regulación y control para el análisis del informe anual de las labores presentado por el Presidente de la República,  el Presidente Novoa, mediante oficio número T423-SGJ26-0185, de fecha del 24 de mayo del 2026.  Esta moción ha sido remitida oportunamente a la Secretaría General, junto con la resolución correspondiente.  Muchas gracias, señor Presidente.  Hasta aquí mi palabra.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "X7oJc0jd2mg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 096",
+  "url": "https://www.youtube.com/watch?v=X7oJc0jd2mg",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "X7oJc0jd2mg",
+  "source_url": "https://www.youtube.com/watch?v=X7oJc0jd2mg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 139.94,
+      "interventions": 1,
+      "word_count": 213
+    }
+  ]
+}
