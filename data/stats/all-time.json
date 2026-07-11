@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:19:05.383008",
-  "total_sessions": 431,
+  "generated_at": "2026-07-11T06:26:28.233507",
+  "total_sessions": 436,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -63,6 +63,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 2711.3700000000003,
+      "total_interventions": 19,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SERGIO-JESUS-PENA-VELOZ",
       "name": "Sergio Jesús Peña Veloz",
       "type": "asambleísta",
@@ -99,18 +111,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 2445.55,
-      "total_interventions": 17,
-      "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -121,6 +121,18 @@
       "total_interventions": 13,
       "sessions_attended": 8,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 2164.2200000000003,
+      "total_interventions": 8,
+      "sessions_attended": 8,
+      "topics_discussed": 0
     },
     {
       "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
@@ -156,18 +168,6 @@
       "total_time": 1972.41,
       "total_interventions": 6,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 1867.03,
-      "total_interventions": 7,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -267,6 +267,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOHN-EDISON-POLANCO-LARA",
+      "name": "John Edison Polanco Lara",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Esmeraldas",
+      "total_time": 1308.01,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ARISDELY-PAOLA-PARRALES-YAGUAL",
       "name": "Arisdely Paola Parrales Yagual",
       "type": "asambleísta",
@@ -363,6 +375,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SAMUEL-ELIAS-CELLERI-GOMEZ",
+      "name": "Samuel Elías Celleri Gómez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Esmeraldas",
+      "total_time": 1004.37,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-BERTHA-BETSABE-VELEZ-VELEZ",
       "name": "Bertha Betsabe Vélez Vélez",
       "type": "asambleísta",
@@ -442,6 +466,18 @@
       "party": "Ind.",
       "province": "Tungurahua",
       "total_time": 908.54,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
+      "name": "Lizardo Manuel Casanova Montesino",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Esmeraldas",
+      "total_time": 871.27,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -540,18 +576,6 @@
       "total_time": 741.73,
       "total_interventions": 8,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOHN-EDISON-POLANCO-LARA",
-      "name": "John Edison Polanco Lara",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Esmeraldas",
-      "total_time": 725.63,
-      "total_interventions": 2,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -792,18 +816,6 @@
       "total_time": 420.22,
       "total_interventions": 2,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
-      "name": "Lizardo Manuel Casanova Montesino",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Esmeraldas",
-      "total_time": 414.25,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
