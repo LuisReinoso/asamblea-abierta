@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T05:56:37.739757",
-  "total_sessions": 416,
+  "generated_at": "2026-07-11T06:05:51.130595",
+  "total_sessions": 421,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 5340.499999999999,
-      "total_interventions": 78,
-      "sessions_attended": 2,
+      "total_time": 5587.089999999999,
+      "total_interventions": 79,
+      "sessions_attended": 3,
       "topics_discussed": 3
     },
     {
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 2345.8900000000003,
+      "total_interventions": 13,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -120,18 +132,6 @@
       "total_time": 2102.44,
       "total_interventions": 5,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 2096.26,
-      "total_interventions": 12,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -543,6 +543,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOHN-EDISON-POLANCO-LARA",
+      "name": "John Edison Polanco Lara",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Esmeraldas",
+      "total_time": 725.63,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-GIOVANNY-BRAVO",
       "name": "Giovanny Bravo",
       "type": "asambleísta",
@@ -711,18 +723,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JOHN-EDISON-POLANCO-LARA",
-      "name": "John Edison Polanco Lara",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Esmeraldas",
-      "total_time": 444.59,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "DEL-PLENO-DE-LA-ASAMBLEA",
       "name": "Del Pleno De La Asamblea",
       "type": "desconocido",
@@ -771,6 +771,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
+      "name": "Luigi Edu Garcia Velasquez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 420.22,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
       "name": "Lizardo Manuel Casanova Montesino",
       "type": "asambleísta",
@@ -780,6 +792,18 @@
       "total_time": 414.25,
       "total_interventions": 1,
       "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "total_time": 404.53999999999996,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -927,18 +951,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
-      "name": "Luigi Edu Garcia Velasquez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 255.57,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARIA-CRISTINA-ACUNA-VACA",
       "name": "María Cristina Acuña Vaca",
       "type": "asambleísta",
@@ -975,18 +987,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
-      "name": "Jahiren Elizabeth Noriega Donoso",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Pichincha Quito Rural",
-      "total_time": 241.03,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "MARTHA-MERCEDES-CHAVEZ",
       "name": "Martha Mercedes Chavez",
       "type": "desconocido",
@@ -1011,6 +1011,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-BESIBELL-MENDOZA-IBARRA",
+      "name": "María Besibell Mendoza Ibarra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 184.17000000000002,
+      "total_interventions": 3,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-DIANA-PATRICIA-BLACIO-CARRION",
       "name": "Diana Patricia Blacio Carrión",
       "type": "asambleísta",
@@ -1018,18 +1030,6 @@
       "party": "ADN",
       "province": "Nacional",
       "total_time": 183.02,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-BESIBELL-MENDOZA-IBARRA",
-      "name": "María Besibell Mendoza Ibarra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Manabí",
-      "total_time": 178.37,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1055,6 +1055,18 @@
       "province": null,
       "total_time": 163.79,
       "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DINA-MARIBEL-FARINANGO-QUILUMBAQUIN",
+      "name": "Dina Maribel Farinango Quilumbaquín",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "MUPP",
+      "province": "Pichincha Resto",
+      "total_time": 160.54,
+      "total_interventions": 4,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
