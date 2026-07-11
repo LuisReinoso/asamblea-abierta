@@ -1,0 +1,50 @@
+{
+  "text": "Gracias. Gracias, señor presidente. Yo voy a ser muy breve.  Yo le agradezco a la asambleísta Íñiguez por las cifras y los datos que ha presentado.  Creo que está ocupada conversando, pero igual se lo agradezco.  Le he pedido a mi despacho que revise el génesis de estos datos y resulta que fueron en el 2008, 2009.  Resulta que fueron cuando se le abrió la puerta a múltiples migrantes a venir a este país  y resulta que también se instaló en este pleno de la Asamblea Nacional  personas que tenían pasados un poco oscuros, para no entrar en detalle.  La asambleísta Íñiguez ha dicho además que este proyecto quiere presentar el término jóvenes asesinos,  si no escuché mal, estoy casi seguro que lo escuché bien.  Basado en la evidencia que ella misma presentó, efectivamente, son jóvenes y asesinan a gente.  Por ende, son jóvenes asesinos.  Pero esa misma bancada normaliza que sus compañeros de bancada nos digan a nosotros,  asesinos, sin prueba ninguna.  Y es ahí donde yo entiendo que existe una sugerencia de incoherencia.  Vamos más allá, hablemos de la educación y la prevención.  Alejandro Banegas presentó una ponencia diciendo que el proyecto que su humilde servidor  Juan José Reyes Vaquerizo presentó, de educación financiera, que por cierto está siendo en este momento  por máxima sorreguita la reina de Países Bajos potenciado a nivel mundial,  es decir, tenemos una reafirmación de que sí funciona, que sí existe.  Dijo que era técnicamente viable, jurídicamente sólida, financieramente sostenible,  pero tampoco votaron por esa ley.  Entonces, ¿cuál es la coherencia de la manera en que ustedes están pidiendo o no  que se adecúen ciertas cosas?  Yo voy a presentar mis observaciones, yo voy a utilizar los datos presentados  por la asambleísta Íñiguez, yo no creo que sean errados, pero también tienen un génesis.  Quería hacer esta precisión porque este sí es el nuevo Ecuador  y sí presenta proyectos que valen, pero es muy complicado,  que incluso los que hacen sentido reciben por parte de la oposición una negativa.  Eso era todo. Gracias, señor presidente.  Gracias.",
+  "language": "es",
+  "duration": 149.79,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.02,
+      "end": 149.21,
+      "text": "Gracias. Gracias, señor presidente. Yo voy a ser muy breve.  Yo le agradezco a la asambleísta Íñiguez por las cifras y los datos que ha presentado.  Creo que está ocupada conversando, pero igual se lo agradezco.  Le he pedido a mi despacho que revise el génesis de estos datos y resulta que fueron en el 2008, 2009.  Resulta que fueron cuando se le abrió la puerta a múltiples migrantes a venir a este país  y resulta que también se instaló en este pleno de la Asamblea Nacional  personas que tenían pasados un poco oscuros, para no entrar en detalle.  La asambleísta Íñiguez ha dicho además que este proyecto quiere presentar el término jóvenes asesinos,  si no escuché mal, estoy casi seguro que lo escuché bien.  Basado en la evidencia que ella misma presentó, efectivamente, son jóvenes y asesinan a gente.  Por ende, son jóvenes asesinos.  Pero esa misma bancada normaliza que sus compañeros de bancada nos digan a nosotros,  asesinos, sin prueba ninguna.  Y es ahí donde yo entiendo que existe una sugerencia de incoherencia.  Vamos más allá, hablemos de la educación y la prevención.  Alejandro Banegas presentó una ponencia diciendo que el proyecto que su humilde servidor  Juan José Reyes Vaquerizo presentó, de educación financiera, que por cierto está siendo en este momento  por máxima sorreguita la reina de Países Bajos potenciado a nivel mundial,  es decir, tenemos una reafirmación de que sí funciona, que sí existe.  Dijo que era técnicamente viable, jurídicamente sólida, financieramente sostenible,  pero tampoco votaron por esa ley.  Entonces, ¿cuál es la coherencia de la manera en que ustedes están pidiendo o no  que se adecúen ciertas cosas?  Yo voy a presentar mis observaciones, yo voy a utilizar los datos presentados  por la asambleísta Íñiguez, yo no creo que sean errados, pero también tienen un génesis.  Quería hacer esta precisión porque este sí es el nuevo Ecuador  y sí presenta proyectos que valen, pero es muy complicado,  que incluso los que hacen sentido reciben por parte de la oposición una negativa.  Eso era todo. Gracias, señor presidente.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "T8wXn9-C7Gg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan Reyes - Session 095 - Point of Information",
+  "url": "https://www.youtube.com/watch?v=T8wXn9-C7Gg",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "T8wXn9-C7Gg",
+  "source_url": "https://www.youtube.com/watch?v=T8wXn9-C7Gg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 146.19,
+      "interventions": 1,
+      "word_count": 343
+    }
+  ]
+}

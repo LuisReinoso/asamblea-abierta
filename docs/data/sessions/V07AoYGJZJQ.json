@@ -1,0 +1,52 @@
+{
+  "text": "Causa y la heridad, ¿cómo se calzan el guante?  Hablé de usted, don Javier, hablé en general,  pero como tienen ese complejito propio de la izquierda,  se calzan el guante, se chantan el guante.  Esta es la segunda vez que usted me amenaza en el pleno, señor,  que alguna vez me va a poner en mi lugar,  no con amenazas ni con juicios.  ¿Con qué me va a poner en mi lugar, don Javier?  ¿En serio ya se le está pegando esa lógica criminal  de los que tanto defienden?  ¿En serio ya se le está pegando?  Señor Presidente y señores legisladores,  yo no le he nombrado, no he hablado de él,  pero lastimosamente yo quiero dejar constancia  de que no tiene ningún inconveniente en amenazar  en el pleno de la Asamblea Nacional, don Javier Lazo.  ¿Y sabe qué?  Si es que nosotros, don Javier,  estamos aquí es por convicción.  Y qué bueno que usted diga que no se parece a mí.  ¿Sabe por qué me alegro que no se parezca a mí?  Porque yo sí amo profundamente a mis hermanos.  Yo no pacto con sus enemigos,  yo no me pongo en contra de ellos,  cual caín en contra de Abel.  No, yo no hago eso.  Y qué bueno que esos valores no los compartamos  porque eso demuestra que usted está en el fango  de la ideología y en el fango del amor por los suyos propios.  Que usted no me quiera a mí, me da lo mismo.  Y como le he dicho siempre,  en el plano que usted quiera, don Javier,  nos vamos a enfrentar.  ¿Quiere ir al albañal?  Vamos a ver cómo nos ven al albañal.  Porque en algunos medios de comunicación  yo he dicho que tengo tanta consideración  de don Javier Lazo que a veces me da ternura.  A don Javier le ponen a jugar carnaval  y le roban el balde.  Devuelvo la palabra, señor presidente.",
+  "language": "es",
+  "duration": 121.39,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.02,
+      "end": 120.22,
+      "text": "Causa y la heridad, ¿cómo se calzan el guante?  Hablé de usted, don Javier, hablé en general,  pero como tienen ese complejito propio de la izquierda,  se calzan el guante, se chantan el guante.  Esta es la segunda vez que usted me amenaza en el pleno, señor,  que alguna vez me va a poner en mi lugar,  no con amenazas ni con juicios.  ¿Con qué me va a poner en mi lugar, don Javier?  ¿En serio ya se le está pegando esa lógica criminal  de los que tanto defienden?  ¿En serio ya se le está pegando?  Señor Presidente y señores legisladores,  yo no le he nombrado, no he hablado de él,  pero lastimosamente yo quiero dejar constancia  de que no tiene ningún inconveniente en amenazar  en el pleno de la Asamblea Nacional, don Javier Lazo.  ¿Y sabe qué?  Si es que nosotros, don Javier,  estamos aquí es por convicción.  Y qué bueno que usted diga que no se parece a mí.  ¿Sabe por qué me alegro que no se parezca a mí?  Porque yo sí amo profundamente a mis hermanos.  Yo no pacto con sus enemigos,  yo no me pongo en contra de ellos,  cual caín en contra de Abel.  No, yo no hago eso.  Y qué bueno que esos valores no los compartamos  porque eso demuestra que usted está en el fango  de la ideología y en el fango del amor por los suyos propios.  Que usted no me quiera a mí, me da lo mismo.  Y como le he dicho siempre,  en el plano que usted quiera, don Javier,  nos vamos a enfrentar.  ¿Quiere ir al albañal?  Vamos a ver cómo nos ven al albañal.  Porque en algunos medios de comunicación  yo he dicho que tengo tanta consideración  de don Javier Lazo que a veces me da ternura.  A don Javier le ponen a jugar carnaval  y le roban el balde.  Devuelvo la palabra, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "V07AoYGJZJQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Andrés Felipe Castillo Maldonado",
+      "confidence": 0.75,
+      "votes": {
+        "Andrés Felipe Castillo Maldonado": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Andrés Castillo - Session 095 - Rebuttal",
+  "url": "https://www.youtube.com/watch?v=V07AoYGJZJQ",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "V07AoYGJZJQ",
+  "source_url": "https://www.youtube.com/watch?v=V07AoYGJZJQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 113.2,
+      "interventions": 1,
+      "word_count": 318
+    }
+  ]
+}

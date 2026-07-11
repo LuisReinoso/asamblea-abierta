@@ -1,0 +1,52 @@
+{
+  "text": "Gracias nuevamente. No pensaba intervenir, pero no veo acá al asambleísta Castillo  que utilizando ese histrionismo de Aluca, con esa procacidad que ha añadido al histrionismo,  se ha referido de manera grosera a una intervención que hice.  Él es un provocador nato y no le voy a tomar esa aposta, pero tampoco me voy a quedar callado  y seré muy corto. No está aquí, insisto, lamentablemente. Citaré solo a Jorge Luis Borges.  No sé si lo conozca. Argentino, poeta, prosista, ensayista. Yo lo aprecio mucho.  Borges dice que a la hora de elegir al enemigo tienes que tener muchísimo cuidado, mucho cuidado.  Castillo es un adversario al que enfrentaré siempre, todas las veces que sea necesaria.  Es que te has ido del pleno y a ti me estoy dirigiendo. Sí, sí. Más respeto porque estoy en el uso de la palabra.  Borges decía, habla del adversario y no del enemigo, porque el enemigo hay que saber escogerlo.  ¿Por qué? Dice Borges. Porque te terminarás pareciendo a él.  Y yo jamás, Castillo, me voy a parecer a ti. Muchas gracias.",
+  "language": "es",
+  "duration": 105.44,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.91,
+      "end": 103.85,
+      "text": "Gracias nuevamente. No pensaba intervenir, pero no veo acá al asambleísta Castillo  que utilizando ese histrionismo de Aluca, con esa procacidad que ha añadido al histrionismo,  se ha referido de manera grosera a una intervención que hice.  Él es un provocador nato y no le voy a tomar esa aposta, pero tampoco me voy a quedar callado  y seré muy corto. No está aquí, insisto, lamentablemente. Citaré solo a Jorge Luis Borges.  No sé si lo conozca. Argentino, poeta, prosista, ensayista. Yo lo aprecio mucho.  Borges dice que a la hora de elegir al enemigo tienes que tener muchísimo cuidado, mucho cuidado.  Castillo es un adversario al que enfrentaré siempre, todas las veces que sea necesaria.  Es que te has ido del pleno y a ti me estoy dirigiendo. Sí, sí. Más respeto porque estoy en el uso de la palabra.  Borges decía, habla del adversario y no del enemigo, porque el enemigo hay que saber escogerlo.  ¿Por qué? Dice Borges. Porque te terminarás pareciendo a él.  Y yo jamás, Castillo, me voy a parecer a ti. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Qp0eAK8wMjM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "confidence": 1.0,
+      "votes": {
+        "Julio Vicente Patricio Xavier Lasso Mendoza": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Xavier Lasso - Session 095 - Reply",
+  "url": "https://www.youtube.com/watch?v=Qp0eAK8wMjM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Qp0eAK8wMjM",
+  "source_url": "https://www.youtube.com/watch?v=Qp0eAK8wMjM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "party": null,
+      "province": null,
+      "total_time": 95.94,
+      "interventions": 1,
+      "word_count": 179
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:54:02.748635",
-  "total_sessions": 456,
+  "generated_at": "2026-07-11T06:57:31.125180",
+  "total_sessions": 460,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5548,6 +5548,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Qp0eAK8wMjM",
+      "title": "Assemblyman Xavier Lasso - Session 095 - Reply",
+      "date": "",
+      "duration": 105.44,
+      "url": "https://www.youtube.com/watch?v=Qp0eAK8wMjM",
+      "file_path": "data/sessions/Qp0eAK8wMjM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "NV34v1Ezy_A",
       "title": "Assemblyman Luigi García - Session 097 - Agenda Change",
       "date": "",
@@ -5694,6 +5708,20 @@
       "duration": 141.2,
       "url": "https://www.youtube.com/watch?v=X7oJc0jd2mg",
       "file_path": "data/sessions/X7oJc0jd2mg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "V07AoYGJZJQ",
+      "title": "Assemblyman Andrés Castillo - Session 095 - Rebuttal",
+      "date": "",
+      "duration": 121.39,
+      "url": "https://www.youtube.com/watch?v=V07AoYGJZJQ",
+      "file_path": "data/sessions/V07AoYGJZJQ.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5968,6 +5996,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "T8wXn9-C7Gg",
+      "title": "Assemblyman Juan Reyes - Session 095 - Point of Information",
+      "date": "",
+      "duration": 149.79,
+      "url": "https://www.youtube.com/watch?v=T8wXn9-C7Gg",
+      "file_path": "data/sessions/T8wXn9-C7Gg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "LrPOZRZ-jDM",
       "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
       "date": "",
@@ -6058,6 +6100,20 @@
       "duration": 87.63,
       "url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
       "file_path": "data/sessions/roQrPGbEbeI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "QOcUPJxjM58",
+      "title": "Assemblywoman Diana Jácome - Session 095 - 2nd Intervention",
+      "date": "",
+      "duration": 187.34,
+      "url": "https://www.youtube.com/watch?v=QOcUPJxjM58",
+      "file_path": "data/sessions/QOcUPJxjM58.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
