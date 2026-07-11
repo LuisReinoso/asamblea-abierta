@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:33:08.436910",
-  "total_sessions": 401,
+  "generated_at": "2026-07-11T05:44:48.635359",
+  "total_sessions": 406,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 4989.349999999999,
-      "total_interventions": 77,
-      "sessions_attended": 1,
+      "total_time": 5340.499999999999,
+      "total_interventions": 78,
+      "sessions_attended": 2,
       "topics_discussed": 3
     },
     {
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 3855.94,
-      "total_interventions": 98,
-      "sessions_attended": 23,
+      "total_time": 4328.25,
+      "total_interventions": 101,
+      "sessions_attended": 24,
       "topics_discussed": 0
     },
     {
@@ -273,9 +273,9 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Bolívar",
-      "total_time": 1196.9,
-      "total_interventions": 28,
-      "sessions_attended": 9,
+      "total_time": 1218.88,
+      "total_interventions": 32,
+      "sessions_attended": 10,
       "topics_discussed": 0
     },
     {
@@ -591,6 +591,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
+      "name": "Doménica Carolina Escobar Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Tungurahua",
+      "total_time": 619.26,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
       "name": "Marco Patricio Olmedo Arias",
       "type": "asambleísta",
@@ -624,6 +636,18 @@
       "total_time": 512.91,
       "total_interventions": 1,
       "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
+      "name": "Katherine Alexandra Pacheco Machuca",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "El Oro",
+      "total_time": 486.11,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -695,6 +719,18 @@
       "province": "Galápagos",
       "total_time": 435.57,
       "total_interventions": 3,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MARIA-DEL-CISNE-MOLINA-CORO",
+      "name": "María del Cisne Molina Coro",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 420.53999999999996,
+      "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -771,18 +807,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
-      "name": "Doménica Carolina Escobar Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Tungurahua",
-      "total_time": 320.39,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-FERDINAN-ARTURO-ALVAREZ-ZAMBRANO",
       "name": "Ferdinan Arturo Álvarez Zambrano",
       "type": "asambleísta",
@@ -804,18 +828,6 @@
       "total_time": 305.22,
       "total_interventions": 2,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
-      "name": "Katherine Alexandra Pacheco Machuca",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "El Oro",
-      "total_time": 273.65,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -874,18 +886,6 @@
       "party": "Semilla",
       "province": "Pastaza",
       "total_time": 252.81,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-DEL-CISNE-MOLINA-CORO",
-      "name": "María del Cisne Molina Coro",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 249.48,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1149,8 +1149,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 153,
-      "total_duration": 64668.66,
+      "sessions_count": 158,
+      "total_duration": 66555.76999999999,
       "unique_speakers": 5,
       "unique_topics": 0
     },

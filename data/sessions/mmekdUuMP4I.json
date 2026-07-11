@@ -1,0 +1,51 @@
+{
+  "text": "señorita presidenta, colegas  asambleístas, pueblo ecuatoriano que nos mira a través  de los diferentes medios digitales  hoy quiero  descartar y respaldar  firmemente la operación Victoria, una acción  estratégica que demuestra obviamente  la determinación del gobierno nacional  en la lucha contra el crimen  organizado transnacional  la desarticulación de una red  que prácticamente  abastecía de armas y explosivos  a los grupos  desistentes de la FARC  construye un grupo contundente  contra las estructuras criminales  obviamente que hoy amenazan  a la seguridad de nuestra región  este resultado prácticamente  evidencia el trabajo coordinado  de nuestras fuerzas del orden  y el compromiso del presidente Daniel  Novoa con la defensa de la  paz y la soberanía  y un estado de derecho  mientras algunos se limitan obviamente  a criticar, este gobierno  actúa con firmeza para  impedir que las organizaciones criminales  utilicen el territorio ecuatoriano  como una plataforma para actividades  ilícitas  la seguridad de los ecuatorianos  queridos colegas y pueblo ecuatoriano  no puede ser negociada  ni postergada  no podemos olvidar  olvidar que  entre los detenidos que se encuentran  prácticamente individuos  vinculados a los grupos  como los lobos  y las  desidencias de la FARC  organizaciones que han sembrado  violencia y miedo  en nuestras comunidades  la incautación  de miles de  fulminantes  cordones  es prácticamente  el cordón detonante  y la dinamita  que es muestra clara  de la magnitud  y de la amenaza  que estamos enfrentando hoy en día  no es casualidad  colegas  que esta red  haya sido  prácticamente  identificada  y desestaurada  desarticulada  detrás de este  prácticamente  existe un resultado  de un trabajo  de inteligencia  de investigación  de seguimiento  y existe también  el compromiso  de hombres y mujeres  que diariamente  arriesgan su integridad  para proteger  a todos  a todos nosotros  y en sí  al pueblo ecuatoriano  en general  desde  entiendo  y quiero decir  y dejar claro  que nosotros  desde el bloque legislativo  expresamos  prácticamente  nuestro reconocimiento  a quienes participaron  en esta importante  operación  y reiteramos  nuestro respaldo  a todas las acciones  que permitan  recuperar  la tranquilidad  de las familias  ecuatorianas  porque un ecuador  seguro  es la base  para el desarrollo  la inversión  y el futuro  que todos merecemos  gracias presidenta  gracias colegas  gracias a todos",
+  "language": "es",
+  "duration": 182.62,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 11.03,
+      "end": 182.09,
+      "text": "señorita presidenta, colegas  asambleístas, pueblo ecuatoriano que nos mira a través  de los diferentes medios digitales  hoy quiero  descartar y respaldar  firmemente la operación Victoria, una acción  estratégica que demuestra obviamente  la determinación del gobierno nacional  en la lucha contra el crimen  organizado transnacional  la desarticulación de una red  que prácticamente  abastecía de armas y explosivos  a los grupos  desistentes de la FARC  construye un grupo contundente  contra las estructuras criminales  obviamente que hoy amenazan  a la seguridad de nuestra región  este resultado prácticamente  evidencia el trabajo coordinado  de nuestras fuerzas del orden  y el compromiso del presidente Daniel  Novoa con la defensa de la  paz y la soberanía  y un estado de derecho  mientras algunos se limitan obviamente  a criticar, este gobierno  actúa con firmeza para  impedir que las organizaciones criminales  utilicen el territorio ecuatoriano  como una plataforma para actividades  ilícitas  la seguridad de los ecuatorianos  queridos colegas y pueblo ecuatoriano  no puede ser negociada  ni postergada  no podemos olvidar  olvidar que  entre los detenidos que se encuentran  prácticamente individuos  vinculados a los grupos  como los lobos  y las  desidencias de la FARC  organizaciones que han sembrado  violencia y miedo  en nuestras comunidades  la incautación  de miles de  fulminantes  cordones  es prácticamente  el cordón detonante  y la dinamita  que es muestra clara  de la magnitud  y de la amenaza  que estamos enfrentando hoy en día  no es casualidad  colegas  que esta red  haya sido  prácticamente  identificada  y desestaurada  desarticulada  detrás de este  prácticamente  existe un resultado  de un trabajo  de inteligencia  de investigación  de seguimiento  y existe también  el compromiso  de hombres y mujeres  que diariamente  arriesgan su integridad  para proteger  a todos  a todos nosotros  y en sí  al pueblo ecuatoriano  en general  desde  entiendo  y quiero decir  y dejar claro  que nosotros  desde el bloque legislativo  expresamos  prácticamente  nuestro reconocimiento  a quienes participaron  en esta importante  operación  y reiteramos  nuestro respaldo  a todas las acciones  que permitan  recuperar  la tranquilidad  de las familias  ecuatorianas  porque un ecuador  seguro  es la base  para el desarrollo  la inversión  y el futuro  que todos merecemos  gracias presidenta  gracias colegas  gracias a todos",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María del Cisne Molina Coro",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "mmekdUuMP4I",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "María del Cisne Molina Coro",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta María Molina - Sesión 097",
+  "url": "https://www.youtube.com/watch?v=mmekdUuMP4I",
+  "published_at": "2026-06-18T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "mmekdUuMP4I",
+  "date": "2026-06-18T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=mmekdUuMP4I",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María del Cisne Molina Coro",
+      "party": null,
+      "province": null,
+      "total_time": 171.06,
+      "interventions": 1,
+      "word_count": 352
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:33:22.619599",
-  "total_sessions": 401,
+  "generated_at": "2026-07-11T05:44:48.925836",
+  "total_sessions": 406,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2187,6 +2187,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "mmekdUuMP4I",
+      "title": "Asambleísta María Molina - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 182.62,
+      "url": "https://www.youtube.com/watch?v=mmekdUuMP4I",
+      "file_path": "data/sessions/mmekdUuMP4I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "hRKKkNAwXPM",
+      "title": "Asambleísta Mario Zambrano - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 358.84,
+      "url": "https://www.youtube.com/watch?v=hRKKkNAwXPM",
+      "file_path": "data/sessions/hRKKkNAwXPM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "8EF-AjEhfzo",
       "title": "Votación de la moción del asambleísta Mario Zambrano - Sesión 097",
       "date": "2026-06-18T00:00:00Z",
@@ -2195,6 +2223,48 @@
       "file_path": "data/sessions/8EF-AjEhfzo.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "_l8-tNBQ5co",
+      "title": "Asambleísta Katherine Pacheco - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 212.49,
+      "url": "https://www.youtube.com/watch?v=_l8-tNBQ5co",
+      "file_path": "data/sessions/_l8-tNBQ5co.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "t5U23BdoS8k",
+      "title": "Asambleísta Domenica Escobar - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 299.96,
+      "url": "https://www.youtube.com/watch?v=t5U23BdoS8k",
+      "file_path": "data/sessions/t5U23BdoS8k.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "HIYt8UYJfbU",
+      "title": "Votacioón de la Moción del asambleísta Domenica Escobar - Sesión 097",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 833.2,
+      "url": "https://www.youtube.com/watch?v=HIYt8UYJfbU",
+      "file_path": "data/sessions/HIYt8UYJfbU.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
