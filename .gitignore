@@ -86,3 +86,4 @@ htmlcov/
 # GitHub Actions
 .github/workflows/*.log
 .claude/
+logs/
