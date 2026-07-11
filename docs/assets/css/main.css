@@ -209,10 +209,15 @@ header nav a:hover {
   width: 100%;
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: 1.125rem;
-  border: none;
+  border: 1px solid var(--border-color);
   border-radius: 50px;
   outline: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.2s;
+}
+
+.search-bar input:focus {
+  border-color: var(--primary-color);
 }
 
 /* ===== CARDS ===== */

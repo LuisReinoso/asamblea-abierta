@@ -35,6 +35,11 @@ secrets.yml
 # Voice embeddings — internal matching artifact, not for the public repo
 internal/
 
+# flow-pilot run artifacts (screenshots, reports, history) — keep the flow
+# YAML definitions, not the regeneratable local run output
+.flow-pilot/registry.json
+.flow-pilot/flows/*/
+
 # Audio/Video files (never commit these)
 *.mp3
 *.mp4
