@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:48:44.253062",
-  "total_sessions": 451,
+  "generated_at": "2026-07-11T06:54:02.160494",
+  "total_sessions": 456,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -51,16 +51,16 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 2990.86,
-      "total_interventions": 6,
-      "sessions_attended": 6,
-      "topics_discussed": 0
+      "party": "ADN",
+      "province": "Napo",
+      "total_time": 3097.0299999999997,
+      "total_interventions": 31,
+      "sessions_attended": 11,
+      "topics_discussed": 3
     },
     {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
@@ -69,7 +69,19 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Nacional",
-      "total_time": 2844.6,
+      "total_time": 3091.45,
+      "total_interventions": 7,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 2990.86,
       "total_interventions": 6,
       "sessions_attended": 6,
       "topics_discussed": 0
@@ -121,18 +133,6 @@
       "total_interventions": 14,
       "sessions_attended": 10,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 2463.6899999999996,
-      "total_interventions": 30,
-      "sessions_attended": 10,
-      "topics_discussed": 3
     },
     {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
@@ -603,6 +603,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANNABELLA-EMMA-AZIN-ARCE",
+      "name": "Annabella Emma Azín Arce",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 771.15,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-RICARDO-ARMANDO-PATINO-AROCA",
       "name": "Ricardo Armando Patiño Aroca",
       "type": "asambleísta",
@@ -612,6 +624,18 @@
       "total_time": 741.73,
       "total_interventions": 8,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
+      "name": "Pamela Alejandra Aguirre Zambonino",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Imbabura",
+      "total_time": 737.96,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -663,6 +687,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-REBECA-VIVIANA-VELOZ-RAMIREZ",
+      "name": "Rebeca Viviana Veloz Ramírez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Santo Domingo",
+      "total_time": 645.5,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-HECTOR-EDUARDO-RODRIGUEZ-CHAVEZ",
       "name": "Héctor Eduardo Rodríguez Chávez",
       "type": "asambleísta",
@@ -697,18 +733,6 @@
       "total_interventions": 5,
       "sessions_attended": 2,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-ANNABELLA-EMMA-AZIN-ARCE",
-      "name": "Annabella Emma Azín Arce",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 564.67,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
     },
     {
       "id": "AN-BLASCO-REMIGIO-LUNA-AREVALO",
@@ -1018,18 +1042,6 @@
       "party": "Semilla",
       "province": "Pastaza",
       "total_time": 252.81,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
-      "name": "Pamela Alejandra Aguirre Zambonino",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Imbabura",
-      "total_time": 241.82,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

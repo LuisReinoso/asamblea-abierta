@@ -1,0 +1,50 @@
+{
+  "text": "Muy buenas tardes, señor presidente, señoras asambleístas, pueblo ecuatoriano que nos escucha.  Quiero primero felicitar a la Comisión de Transparencia por este proyecto de ley.  Quiero también decirles que en diciembre del año 2025 yo presenté el proyecto de ley orgánica  para la prevención, desintoxicación y reinserción social de los niños, niñas y adolescentes  frente al consumo de drogas y al reclutamiento delictivo,  el cual se encuentra actualmente en la Comisión de la Salud listo para que se tramite y se haga su conocimiento correspondiente.  En este momento existe otra comisión que está tramitando una normativa paralela,  muy parecida y que coincide mucho con la que yo presenté en noviembre del 2025.  Este proyecto está para primer debate el día de hoy y pues yo considero que es importante  que estos proyectos se unan, se fortalezcan y que estas iniciativas sean una propuesta mucho más sólida,  integral, articulada, frente a la problemática que están profundamente relacionadas.  Resulta muy importante de que no solamente hablemos del reclutamiento delictivo o utilización,  sino que también hablemos de la prevención y de la erradicación del problema de las drogas  en nuestros niños, niñas y adolescentes, puesto que sabemos y nos lo ha demostrado  de que hay un impacto muy fuerte del consumo de drogas, el microtráfico de drogas en niños, niñas y adolescentes  y esto tiene relación directa con las estructuras delictivas y el crimen organizado.  Por lo tanto, considero que es muy importante tratar de ese tema también en esta normativa, en este proyecto de ley.  Y por eso, además de fortalecer esta normativa, la prevención, la atención, la desintoxicación, la inserción social,  hay que también, al mismo tiempo, establecer medidas concretas para la protección integral,  la detección temprana, el acompañamiento familiar, la articulación interinstitucional,  para enfrentar también el grave problema del reclutamiento vinculado al entorno de las drogas.  La unificación de estos dos proyectos de ley, pienso que nos va a dar como resultado una normativa más robusta,  una respuesta más sólida, técnica y efectiva en defensa de nuestros niños, niñas y adolescentes.  Muchísimas gracias.  Mi palabra, señor presidente.",
+  "language": "es",
+  "duration": 215.6,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.58,
+      "end": 212.06,
+      "text": "Muy buenas tardes, señor presidente, señoras asambleístas, pueblo ecuatoriano que nos escucha.  Quiero primero felicitar a la Comisión de Transparencia por este proyecto de ley.  Quiero también decirles que en diciembre del año 2025 yo presenté el proyecto de ley orgánica  para la prevención, desintoxicación y reinserción social de los niños, niñas y adolescentes  frente al consumo de drogas y al reclutamiento delictivo,  el cual se encuentra actualmente en la Comisión de la Salud listo para que se tramite y se haga su conocimiento correspondiente.  En este momento existe otra comisión que está tramitando una normativa paralela,  muy parecida y que coincide mucho con la que yo presenté en noviembre del 2025.  Este proyecto está para primer debate el día de hoy y pues yo considero que es importante  que estos proyectos se unan, se fortalezcan y que estas iniciativas sean una propuesta mucho más sólida,  integral, articulada, frente a la problemática que están profundamente relacionadas.  Resulta muy importante de que no solamente hablemos del reclutamiento delictivo o utilización,  sino que también hablemos de la prevención y de la erradicación del problema de las drogas  en nuestros niños, niñas y adolescentes, puesto que sabemos y nos lo ha demostrado  de que hay un impacto muy fuerte del consumo de drogas, el microtráfico de drogas en niños, niñas y adolescentes  y esto tiene relación directa con las estructuras delictivas y el crimen organizado.  Por lo tanto, considero que es muy importante tratar de ese tema también en esta normativa, en este proyecto de ley.  Y por eso, además de fortalecer esta normativa, la prevención, la atención, la desintoxicación, la inserción social,  hay que también, al mismo tiempo, establecer medidas concretas para la protección integral,  la detección temprana, el acompañamiento familiar, la articulación interinstitucional,  para enfrentar también el grave problema del reclutamiento vinculado al entorno de las drogas.  La unificación de estos dos proyectos de ley, pienso que nos va a dar como resultado una normativa más robusta,  una respuesta más sólida, técnica y efectiva en defensa de nuestros niños, niñas y adolescentes.  Muchísimas gracias.  Mi palabra, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Annabella Emma Azín Arce",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "ORVjPh87iA4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Annabella Emma Azín Arce",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblywoman Annabella Azín - Session 095",
+  "url": "https://www.youtube.com/watch?v=ORVjPh87iA4",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ORVjPh87iA4",
+  "source_url": "https://www.youtube.com/watch?v=ORVjPh87iA4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Annabella Emma Azín Arce",
+      "party": null,
+      "province": null,
+      "total_time": 206.48,
+      "interventions": 1,
+      "word_count": 347
+    }
+  ]
+}

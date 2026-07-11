@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:48:44.583707",
-  "total_sessions": 451,
+  "generated_at": "2026-07-11T06:54:02.748635",
+  "total_sessions": 456,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5926,6 +5926,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "ROabD4NNNyM",
+      "title": "Assemblywoman Pamela Aguirre - Session 095",
+      "date": "",
+      "duration": 498.04,
+      "url": "https://www.youtube.com/watch?v=ROabD4NNNyM",
+      "file_path": "data/sessions/ROabD4NNNyM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "l2q3XiZMBEc",
       "title": "Assemblywoman Esperanza Rogel - Session 095",
       "date": "",
@@ -5988,6 +6002,34 @@
       "duration": 616.63,
       "url": "https://www.youtube.com/watch?v=LreP7J2isV0",
       "file_path": "data/sessions/LreP7J2isV0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "cFqDvZy7Auo",
+      "title": "Assemblywoman Viviana Veloz - Session 095",
+      "date": "",
+      "duration": 646.98,
+      "url": "https://www.youtube.com/watch?v=cFqDvZy7Auo",
+      "file_path": "data/sessions/cFqDvZy7Auo.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "d-9Y9tlMMLo",
+      "title": "Assemblywoman Ana Tapia - Session 095",
+      "date": "",
+      "duration": 635.07,
+      "url": "https://www.youtube.com/watch?v=d-9Y9tlMMLo",
+      "file_path": "data/sessions/d-9Y9tlMMLo.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6262,6 +6304,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "VaJY5Gb3SLg",
+      "title": "Assemblywoman Paola Cabezas - Session 095",
+      "date": "",
+      "duration": 247.36,
+      "url": "https://www.youtube.com/watch?v=VaJY5Gb3SLg",
+      "file_path": "data/sessions/VaJY5Gb3SLg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "SnIF_tq3sSs",
       "title": "Assemblyman Manuel Casanova - Session 096",
       "date": "",
@@ -6284,6 +6340,20 @@
       "file_path": "data/sessions/EQ28U8R4Htw.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ORVjPh87iA4",
+      "title": "Assemblywoman Annabella Azín - Session 095",
+      "date": "",
+      "duration": 215.6,
+      "url": "https://www.youtube.com/watch?v=ORVjPh87iA4",
+      "file_path": "data/sessions/ORVjPh87iA4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
