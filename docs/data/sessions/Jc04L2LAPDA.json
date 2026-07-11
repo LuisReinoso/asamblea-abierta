@@ -24,8 +24,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Por",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -63,22 +63,13 @@
   "source_url": "https://www.youtube.com/watch?v=Jc04L2LAPDA",
   "speaker_stats": [
     {
-      "id": "speaker_1",
-      "name": "Asambleísta Por",
-      "party": null,
-      "province": null,
-      "total_time": 301.85,
-      "interventions": 1,
-      "word_count": 625
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 107.22,
-      "interventions": 1,
-      "word_count": 178
+      "total_time": 409.07,
+      "interventions": 2,
+      "word_count": 803
     }
   ],
   "video_type": "clip"

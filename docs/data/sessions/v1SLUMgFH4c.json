@@ -48,8 +48,8 @@
       "speaker_id": "speaker_2",
       "speaker": {
         "id": "speaker_2",
-        "name": "Por Pichincha",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -72,8 +72,8 @@
       "speaker_id": "speaker_2",
       "speaker": {
         "id": "speaker_2",
-        "name": "Por Pichincha",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -108,8 +108,8 @@
       "speaker_id": "speaker_2",
       "speaker": {
         "id": "speaker_2",
-        "name": "Por Pichincha",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -201,8 +201,8 @@
       "word_count": 1593
     },
     {
-      "id": "speaker_2",
-      "name": "Por Pichincha",
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
       "party": null,
       "province": null,
       "total_time": 29.8,

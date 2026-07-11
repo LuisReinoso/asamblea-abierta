@@ -24,8 +24,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "Por Napo",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -72,8 +72,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "Por Napo",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -126,18 +126,9 @@
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 114.31,
-      "interventions": 4,
-      "word_count": 284
-    },
-    {
-      "id": "speaker_0",
-      "name": "Por Napo",
-      "party": null,
-      "province": null,
-      "total_time": 5.4,
-      "interventions": 2,
-      "word_count": 13
+      "total_time": 119.71,
+      "interventions": 6,
+      "word_count": 297
     }
   ],
   "video_type": "clip"

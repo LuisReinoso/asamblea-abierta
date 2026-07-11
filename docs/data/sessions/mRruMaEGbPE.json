@@ -12,8 +12,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -62,22 +62,13 @@
   "source_url": "https://www.youtube.com/watch?v=mRruMaEGbPE",
   "speaker_stats": [
     {
-      "id": "speaker_1",
-      "name": "En Pleno",
-      "party": null,
-      "province": null,
-      "total_time": 110.95,
-      "interventions": 1,
-      "word_count": 260
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 3.85,
-      "interventions": 1,
-      "word_count": 9
+      "total_time": 114.8,
+      "interventions": 2,
+      "word_count": 269
     }
   ],
   "video_type": "clip"

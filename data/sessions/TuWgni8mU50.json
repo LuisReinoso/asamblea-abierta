@@ -12,8 +12,8 @@
       "speaker_id": "speaker_2",
       "speaker": {
         "id": "speaker_2",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -24,8 +24,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Por Cotopaxi",
-        "confidence": 0.75
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -36,8 +36,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -60,8 +60,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -84,8 +84,8 @@
       "speaker_id": "speaker_2",
       "speaker": {
         "id": "speaker_2",
-        "name": "En Pleno",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -96,8 +96,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Asambleísta Por Cotopaxi",
-        "confidence": 0.75
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -156,40 +156,13 @@
   "source_url": "https://www.youtube.com/watch?v=TuWgni8mU50",
   "speaker_stats": [
     {
-      "id": "speaker_1",
-      "name": "Asambleísta Por Cotopaxi",
-      "party": null,
-      "province": null,
-      "total_time": 629.58,
-      "interventions": 2,
-      "word_count": 1494
-    },
-    {
-      "id": "speaker_2",
-      "name": "En Pleno",
-      "party": null,
-      "province": null,
-      "total_time": 24.48,
-      "interventions": 2,
-      "word_count": 59
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 24.0,
-      "interventions": 2,
-      "word_count": 66
-    },
-    {
-      "id": "speaker_0",
-      "name": "En Pleno",
-      "party": null,
-      "province": null,
-      "total_time": 12.12,
-      "interventions": 2,
-      "word_count": 9
+      "total_time": 690.18,
+      "interventions": 8,
+      "word_count": 1628
     }
   ],
   "video_type": "clip"

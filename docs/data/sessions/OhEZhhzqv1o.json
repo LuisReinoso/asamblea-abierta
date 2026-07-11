@@ -24,8 +24,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.67
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -48,8 +48,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.67
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -72,8 +72,8 @@
       "speaker_id": "speaker_0",
       "speaker": {
         "id": "speaker_0",
-        "name": "En Pleno",
-        "confidence": 0.67
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
@@ -112,22 +112,13 @@
   "source_url": "https://www.youtube.com/watch?v=OhEZhhzqv1o",
   "speaker_stats": [
     {
-      "id": "speaker_0",
-      "name": "En Pleno",
-      "party": null,
-      "province": null,
-      "total_time": 401.37,
-      "interventions": 3,
-      "word_count": 1008
-    },
-    {
       "id": "UNIDENTIFIED",
       "name": "No identificado",
       "party": null,
       "province": null,
-      "total_time": 30.24,
-      "interventions": 3,
-      "word_count": 75
+      "total_time": 431.61,
+      "interventions": 6,
+      "word_count": 1083
     }
   ],
   "video_type": "clip"

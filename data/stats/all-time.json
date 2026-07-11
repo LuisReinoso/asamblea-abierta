@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-07-10T18:53:39.718919",
+  "generated_at": "2026-07-10T19:33:08.436910",
   "total_sessions": 401,
   "speaker_stats": [
-    {
-      "id": "EN-PLENO",
-      "name": "En Pleno",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 11898.579999999998,
-      "total_interventions": 97,
-      "sessions_attended": 38,
-      "topics_discussed": 0
-    },
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
       "name": "Mario Amado Zambrano Vera",
@@ -567,18 +555,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "ASAMBLEISTA-POR-LOS",
-      "name": "Asambleísta Por Los",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 706.38,
-      "total_interventions": 5,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JUAN-MARCO-GONZAGA-SALAZAR",
       "name": "Juan Marco Gonzaga Salazar",
       "type": "asambleísta",
@@ -599,42 +575,6 @@
       "province": "Guayas",
       "total_time": 663.62,
       "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "EN-VIVO",
-      "name": "En Vivo",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 662.88,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "ASAMBLEISTA-POR",
-      "name": "Asambleísta Por",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 660.1800000000001,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "ASAMBLEISTA-POR-COTOPAXI",
-      "name": "Asambleísta Por Cotopaxi",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 629.58,
-      "total_interventions": 2,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -711,18 +651,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "ASAMBLEISTA-POR-PASTAZA",
-      "name": "Asambleísta Por Pastaza",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 447.47,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JOHN-EDISON-POLANCO-LARA",
       "name": "John Edison Polanco Lara",
       "type": "asambleísta",
@@ -783,18 +711,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "ASAMBLEISTA-POR-IMBABURA",
-      "name": "Asambleísta Por Imbabura",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 411.21,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "KLEBER-VACA",
       "name": "Kléber Vaca",
       "type": "desconocido",
@@ -815,18 +731,6 @@
       "province": "Santo Domingo",
       "total_time": 379.48,
       "total_interventions": 5,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 357.75,
-      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -1047,13 +951,13 @@
       "topics_discussed": 0
     },
     {
-      "id": "ASAMBLEISTA-POR-GUAYAS",
-      "name": "Asambleísta Por Guayas",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 196.36,
+      "id": "AN-DIANA-PATRICIA-BLACIO-CARRION",
+      "name": "Diana Patricia Blacio Carrión",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 183.02,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1066,6 +970,30 @@
       "party": "ADN",
       "province": "Manabí",
       "total_time": 178.37,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JORGE-FABRICIO-TAMAYO-TRIVINO",
+      "name": "Jorge Fabricio Tamayo Triviño",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Santa Elena",
+      "total_time": 168.43,
+      "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "STEVEN-OR",
+      "name": "Steven Or",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 163.79,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1153,18 +1081,6 @@
       "total_interventions": 5,
       "sessions_attended": 2,
       "topics_discussed": 0
-    },
-    {
-      "id": "POR-NAPO",
-      "name": "Por Napo",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 5.4,
-      "total_interventions": 2,
-      "sessions_attended": 1,
-      "topics_discussed": 0
     }
   ],
   "topic_stats": [
@@ -1221,7 +1137,7 @@
       "month": "2026-03",
       "sessions_count": 116,
       "total_duration": 50063.94000000001,
-      "unique_speakers": 3,
+      "unique_speakers": 2,
       "unique_topics": 0
     },
     {
@@ -1242,7 +1158,7 @@
       "month": "2026-07",
       "sessions_count": 62,
       "total_duration": 30980.639999999996,
-      "unique_speakers": 4,
+      "unique_speakers": 5,
       "unique_topics": 0
     }
   ]

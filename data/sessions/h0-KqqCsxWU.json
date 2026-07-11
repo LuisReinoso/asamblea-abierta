@@ -60,8 +60,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -408,8 +408,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -552,8 +552,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -660,8 +660,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -720,8 +720,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -792,8 +792,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -816,8 +816,8 @@
       "speaker_id": "speaker_8",
       "speaker": {
         "id": "speaker_8",
-        "name": "Samblea Nacional",
-        "confidence": 0.6
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -828,8 +828,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -936,8 +936,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -996,8 +996,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1020,8 +1020,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1056,8 +1056,8 @@
       "speaker_id": "speaker_9",
       "speaker": {
         "id": "speaker_9",
-        "name": "Asambleanacional X:@Asambleaecuador",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1080,8 +1080,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1116,8 +1116,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1188,8 +1188,8 @@
       "speaker_id": "speaker_12",
       "speaker": {
         "id": "speaker_12",
-        "name": "Asambleanacional X:@Asambleaecuador",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1200,8 +1200,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1224,8 +1224,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Continuación De La",
-        "confidence": 1.0
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -1488,5 +1488,43 @@
   "published_at": "2026-07-09T00:00:00Z",
   "channel_title": "Asamblea Nacional del Ecuador",
   "url": "https://www.youtube.com/watch?v=h0-KqqCsxWU",
-  "source_url": "https://www.youtube.com/watch?v=h0-KqqCsxWU"
+  "source_url": "https://www.youtube.com/watch?v=h0-KqqCsxWU",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 6110.55,
+      "interventions": 98,
+      "word_count": 14354
+    },
+    {
+      "id": "speaker_16",
+      "name": "Diana Patricia Blacio Carrión",
+      "party": null,
+      "province": null,
+      "total_time": 183.02,
+      "interventions": 1,
+      "word_count": 515
+    },
+    {
+      "id": "speaker_0",
+      "name": "Jorge Fabricio Tamayo Triviño",
+      "party": null,
+      "province": null,
+      "total_time": 168.43,
+      "interventions": 4,
+      "word_count": 516
+    },
+    {
+      "id": "speaker_24",
+      "name": "Steven Or",
+      "party": null,
+      "province": null,
+      "total_time": 163.79,
+      "interventions": 1,
+      "word_count": 376
+    }
+  ]
 }
