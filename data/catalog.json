@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:57:31.125180",
-  "total_sessions": 460,
+  "generated_at": "2026-07-12T04:30:44.191317",
+  "total_sessions": 468,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5534,6 +5534,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "1VCoVGS0zvk",
+      "title": "Assemblyman Andres Castillo - Session 095 - Point of Information",
+      "date": "",
+      "duration": 242.81,
+      "url": "https://www.youtube.com/watch?v=1VCoVGS0zvk",
+      "file_path": "data/sessions/1VCoVGS0zvk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "YupHrSzZY_k",
       "title": "Assemblywoman Ana Belén Tapia - Session 098",
       "date": "",
@@ -5584,6 +5598,20 @@
       "file_path": "data/sessions/c4gu9QA8a6E.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "7DTDnqQC-oc",
+      "title": "Assemblywoman Diana Jácome - Session 095",
+      "date": "",
+      "duration": 1271.69,
+      "url": "https://www.youtube.com/watch?v=7DTDnqQC-oc",
+      "file_path": "data/sessions/7DTDnqQC-oc.json",
+      "video_type": "clip",
+      "speaker_count": 4,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5674,6 +5702,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "WwwLlQWQ8Wg",
+      "title": "Decoration of Luis Felipe Fernández - Session 095 - General Commission",
+      "date": "",
+      "duration": 996.48,
+      "url": "https://www.youtube.com/watch?v=WwwLlQWQ8Wg",
+      "file_path": "data/sessions/WwwLlQWQ8Wg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "WZL5kD4rBw0",
       "title": "Voting on the motion of Assemblyman John Polanco - Session 097",
       "date": "",
@@ -5722,6 +5764,20 @@
       "duration": 121.39,
       "url": "https://www.youtube.com/watch?v=V07AoYGJZJQ",
       "file_path": "data/sessions/V07AoYGJZJQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "KF6WJOHw1LM",
+      "title": "Assemblyman Otto Vera - Session 095",
+      "date": "",
+      "duration": 480.05,
+      "url": "https://www.youtube.com/watch?v=KF6WJOHw1LM",
+      "file_path": "data/sessions/KF6WJOHw1LM.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6066,6 +6122,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "HFTnwhdBSD4",
+      "title": "Assemblyman Sergio Peña - Session 095",
+      "date": "",
+      "duration": 529.81,
+      "url": "https://www.youtube.com/watch?v=HFTnwhdBSD4",
+      "file_path": "data/sessions/HFTnwhdBSD4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "d-9Y9tlMMLo",
       "title": "Assemblywoman Ana Tapia - Session 095",
       "date": "",
@@ -6142,6 +6212,20 @@
       "duration": 261.39,
       "url": "https://www.youtube.com/watch?v=RAPL9IbAVJA",
       "file_path": "data/sessions/RAPL9IbAVJA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "LM6arpEmP4A",
+      "title": "Asambleísta Luigi García - Sesión 095",
+      "date": "",
+      "duration": 504.5,
+      "url": "https://www.youtube.com/watch?v=LM6arpEmP4A",
+      "file_path": "data/sessions/LM6arpEmP4A.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6262,6 +6346,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "fdAHDI29G68",
+      "title": "Assemblywoman Verónica Iñiguez - Session 095",
+      "date": "",
+      "duration": 651.23,
+      "url": "https://www.youtube.com/watch?v=fdAHDI29G68",
+      "file_path": "data/sessions/fdAHDI29G68.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Q4vE63175Lk",
       "title": "Assemblyman Pablo Jurado - Session 095",
       "date": "",
@@ -6338,6 +6436,20 @@
       "duration": 502.43,
       "url": "https://www.youtube.com/watch?v=-vRufGiuNf8",
       "file_path": "data/sessions/-vRufGiuNf8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "TUtjP9pND_I",
+      "title": "Assemblyman Xavier Lasso - Session 095",
+      "date": "",
+      "duration": 473.92,
+      "url": "https://www.youtube.com/watch?v=TUtjP9pND_I",
+      "file_path": "data/sessions/TUtjP9pND_I.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

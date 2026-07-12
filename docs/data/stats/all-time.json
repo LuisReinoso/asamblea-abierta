@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T06:57:30.868971",
-  "total_sessions": 460,
+  "generated_at": "2026-07-12T04:30:43.688136",
+  "total_sessions": 468,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 5587.089999999999,
-      "total_interventions": 79,
-      "sessions_attended": 3,
+      "total_time": 6140.599999999999,
+      "total_interventions": 83,
+      "sessions_attended": 4,
       "topics_discussed": 3
     },
     {
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 5095.5199999999995,
-      "total_interventions": 63,
-      "sessions_attended": 13,
+      "total_time": 5392.91,
+      "total_interventions": 65,
+      "sessions_attended": 15,
       "topics_discussed": 3
     },
     {
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
+      "name": "Sergio Jesús Peña Veloz",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 3021.09,
+      "total_interventions": 9,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
       "name": "Jhajaira Estefanía Urresta Guzmán",
       "type": "asambleísta",
@@ -123,18 +135,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-SERGIO-JESUS-PENA-VELOZ",
-      "name": "Sergio Jesús Peña Veloz",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 2493.05,
-      "total_interventions": 8,
-      "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -171,6 +171,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 1926.36,
+      "total_interventions": 8,
+      "sessions_attended": 6,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
       "name": "Brígida Lucía Pozo Moreta",
       "type": "asambleísta",
@@ -195,18 +207,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
-      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 1464.4299999999998,
-      "total_interventions": 7,
-      "sessions_attended": 5,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
@@ -227,6 +227,18 @@
       "province": "América Latina, Caribe y África",
       "total_time": 1446.58,
       "total_interventions": 6,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
+      "name": "Diana Angélica Jácome Silva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 1376.56,
+      "total_interventions": 9,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -483,6 +495,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
+      "name": "Luigi Edu Garcia Velasquez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 916.96,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
       "name": "Rosa Cecilia Baltazar Yucailla",
       "type": "asambleísta",
@@ -687,6 +711,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
+      "name": "María Verónica Iñiguez Gallardo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Loja",
+      "total_time": 649.86,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-REBECA-VIVIANA-VELOZ-RAMIREZ",
       "name": "Rebeca Viviana Veloz Ramírez",
       "type": "asambleísta",
@@ -795,6 +831,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
+      "name": "Otto Santiago Vera Palacios",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Únete",
+      "province": "Santa Elena",
+      "total_time": 474.95,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LENIN-ALEJANDRO-LARA-PEREZ",
       "name": "Lenin Alejandro Lara Pérez",
       "type": "asambleísta",
@@ -826,18 +874,6 @@
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
       "total_time": 420.53999999999996,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
-      "name": "Luigi Edu Garcia Velasquez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 420.22,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -1092,18 +1128,6 @@
       "total_time": 184.17000000000002,
       "total_interventions": 3,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
-      "name": "Diana Angélica Jácome Silva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 184.01,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
