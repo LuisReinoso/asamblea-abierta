@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:01:54.174149",
-  "total_sessions": 492,
+  "generated_at": "2026-07-13T06:11:40.605911",
+  "total_sessions": 500,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -6108,6 +6108,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "vP8Ekq5UIHI",
+      "title": "Assemblyman Christopher Jaramillo - Session 094",
+      "date": "",
+      "duration": 256.7,
+      "url": "https://www.youtube.com/watch?v=vP8Ekq5UIHI",
+      "file_path": "data/sessions/vP8Ekq5UIHI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "ztkiH5jmoZo",
       "title": "Assemblywoman Camila León - Session 095",
       "date": "",
@@ -6248,6 +6262,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "qqBGWJ7AkgU",
+      "title": "Assemblyman Milton Aguas - Session 094 - Change of Agenda",
+      "date": "",
+      "duration": 803.76,
+      "url": "https://www.youtube.com/watch?v=qqBGWJ7AkgU",
+      "file_path": "data/sessions/qqBGWJ7AkgU.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "T8wXn9-C7Gg",
       "title": "Assemblyman Juan Reyes - Session 095 - Point of Information",
       "date": "",
@@ -6332,6 +6360,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "OHhWL4oqZ6E",
+      "title": "Assemblywoman Gabriela Molina - Session 094",
+      "date": "",
+      "duration": 366.69,
+      "url": "https://www.youtube.com/watch?v=OHhWL4oqZ6E",
+      "file_path": "data/sessions/OHhWL4oqZ6E.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "xfL9Ld5iC7c",
+      "title": "Assemblyman Jorge Tamayo - Session 094 - Change of the order of the day",
+      "date": "",
+      "duration": 415.31,
+      "url": "https://www.youtube.com/watch?v=xfL9Ld5iC7c",
+      "file_path": "data/sessions/xfL9Ld5iC7c.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "cFqDvZy7Auo",
       "title": "Assemblywoman Viviana Veloz - Session 095",
       "date": "",
@@ -6388,12 +6444,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "svWLCpSxinI",
+      "title": "Assemblyman Johnny Lavayén - Session 094 - Change of the Agenda",
+      "date": "",
+      "duration": 643.17,
+      "url": "https://www.youtube.com/watch?v=svWLCpSxinI",
+      "file_path": "data/sessions/svWLCpSxinI.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "roQrPGbEbeI",
       "title": "Assemblywoman Ana Belén Tapia - Session 098 - Point of Information",
       "date": "",
       "duration": 87.63,
       "url": "https://www.youtube.com/watch?v=roQrPGbEbeI",
       "file_path": "data/sessions/roQrPGbEbeI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "wYMHW0isThk",
+      "title": "Asambleísta Fernando Jaramillo - Sesión 093",
+      "date": "",
+      "duration": 46.14,
+      "url": "https://www.youtube.com/watch?v=wYMHW0isThk",
+      "file_path": "data/sessions/wYMHW0isThk.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6534,6 +6618,20 @@
       "duration": 614.86,
       "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
       "file_path": "data/sessions/X45qVMPHm9w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "rZX0qRX7OX0",
+      "title": "Assemblyman César Palacios - Session 094",
+      "date": "",
+      "duration": 671.82,
+      "url": "https://www.youtube.com/watch?v=rZX0qRX7OX0",
+      "file_path": "data/sessions/rZX0qRX7OX0.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6800,6 +6898,20 @@
       "duration": 247.36,
       "url": "https://www.youtube.com/watch?v=VaJY5Gb3SLg",
       "file_path": "data/sessions/VaJY5Gb3SLg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "jLVKhnBqsAc",
+      "title": "Assemblyman Keevin Gallardo - Session 094",
+      "date": "",
+      "duration": 704.86,
+      "url": "https://www.youtube.com/watch?v=jLVKhnBqsAc",
+      "file_path": "data/sessions/jLVKhnBqsAc.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
