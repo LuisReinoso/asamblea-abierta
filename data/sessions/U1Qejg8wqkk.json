@@ -1,0 +1,50 @@
+{
+  "text": "el asambleísta Juan José Reyes  Gracias señor  presidente  una precisión  muy importante, colegas  y ciudadanía  el informe para el segundo debate  fue aprobado el 22 de octubre  del 2025  asambleísta Serrano, gracias  espero contar con sus observaciones  si en el caso de que regrese a la comisión  las puedo usar, gracias  también por su honestidad  y asambleísta Jacome, gracias por apoyar  la prevención en alimentación y deporte  sin embargo  si debo precisar algo  no tengo ni una sola observación  de este proyecto por parte del asambleísta Jacome  y más allá de ello ha cometido  una imprecisión en su ponencia  porque el artículo 1  de este proyecto indica  y me permito leerlo  la presente ley tiene por objeto establecer un marco  normativo para garantizar  a todas las personas  la protección, prevención, diagnóstico oportuno  y el tratamiento integral de la diabetes  en todas sus formas  y etapas  es decir  uno, dos, etc.  Importante punto aclarar  nos acertaba su precisión  el enfoque debe ser integral  tratándola como una problemática general  de salud pública  intentar regular cada tipo de diabetes  de manera individual resultaría impráctico  pero además se toca en el artículo 1  y se va a considerar  yo  si les invito  colegas legisladores  siento  es mi percepción  y hablo de Juan José Reyes  y no de la bancada de ADN  que no están leyendo los proyectos  que simplemente están tirando  fuego por tirarlo  no están leyendo  les invito a leer  a todos  pero sobre todo a los que pertenecen a la Comisión de Salud  por favor  es importante  que tengan  una claridad  para poder legislar  de manera apropiada  le devuelvo la palabra  señor presidente  muchas gracias  gracias",
+  "language": "es",
+  "duration": 127.5,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 125.45,
+      "text": "el asambleísta Juan José Reyes  Gracias señor  presidente  una precisión  muy importante, colegas  y ciudadanía  el informe para el segundo debate  fue aprobado el 22 de octubre  del 2025  asambleísta Serrano, gracias  espero contar con sus observaciones  si en el caso de que regrese a la comisión  las puedo usar, gracias  también por su honestidad  y asambleísta Jacome, gracias por apoyar  la prevención en alimentación y deporte  sin embargo  si debo precisar algo  no tengo ni una sola observación  de este proyecto por parte del asambleísta Jacome  y más allá de ello ha cometido  una imprecisión en su ponencia  porque el artículo 1  de este proyecto indica  y me permito leerlo  la presente ley tiene por objeto establecer un marco  normativo para garantizar  a todas las personas  la protección, prevención, diagnóstico oportuno  y el tratamiento integral de la diabetes  en todas sus formas  y etapas  es decir  uno, dos, etc.  Importante punto aclarar  nos acertaba su precisión  el enfoque debe ser integral  tratándola como una problemática general  de salud pública  intentar regular cada tipo de diabetes  de manera individual resultaría impráctico  pero además se toca en el artículo 1  y se va a considerar  yo  si les invito  colegas legisladores  siento  es mi percepción  y hablo de Juan José Reyes  y no de la bancada de ADN  que no están leyendo los proyectos  que simplemente están tirando  fuego por tirarlo  no están leyendo  les invito a leer  a todos  pero sobre todo a los que pertenecen a la Comisión de Salud  por favor  es importante  que tengan  una claridad  para poder legislar  de manera apropiada  le devuelvo la palabra  señor presidente  muchas gracias  gracias",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "U1Qejg8wqkk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 089 - Information Point",
+  "url": "https://www.youtube.com/watch?v=U1Qejg8wqkk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "U1Qejg8wqkk",
+  "source_url": "https://www.youtube.com/watch?v=U1Qejg8wqkk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 125.42,
+      "interventions": 1,
+      "word_count": 274
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:23:25.657352",
-  "total_sessions": 564,
+  "generated_at": "2026-07-13T07:27:33.965201",
+  "total_sessions": 568,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5968,6 +5968,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "7USWmrLe1rk",
+      "title": "Assemblyman Christopher Jaramillo - Session 089",
+      "date": "",
+      "duration": 164.26,
+      "url": "https://www.youtube.com/watch?v=7USWmrLe1rk",
+      "file_path": "data/sessions/7USWmrLe1rk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "XXr5Jtk-l5s",
       "title": "Assemblywoman Mariana Yumbay - Session 092",
       "date": "",
@@ -6184,6 +6198,20 @@
       "duration": 283.35,
       "url": "https://www.youtube.com/watch?v=hSN4UGuip8I",
       "file_path": "data/sessions/hSN4UGuip8I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "U1Qejg8wqkk",
+      "title": "Assemblyman Juan José Reyes - Session 089 - Information Point",
+      "date": "",
+      "duration": 127.5,
+      "url": "https://www.youtube.com/watch?v=U1Qejg8wqkk",
+      "file_path": "data/sessions/U1Qejg8wqkk.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7060,6 +7088,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "fcW3xSm6UAI",
+      "title": "Assemblywoman Cristina Jácome - Session 089",
+      "date": "",
+      "duration": 553.05,
+      "url": "https://www.youtube.com/watch?v=fcW3xSm6UAI",
+      "file_path": "data/sessions/fcW3xSm6UAI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Bvoh99lMkYg",
       "title": "Assemblyman Edmundo Cerda - Session 091",
       "date": "",
@@ -7304,6 +7346,20 @@
       "duration": 614.86,
       "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
       "file_path": "data/sessions/X45qVMPHm9w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "pRsf4WiFkLI",
+      "title": "Assemblyman Alfredo Serrano - Session 089",
+      "date": "",
+      "duration": 606.97,
+      "url": "https://www.youtube.com/watch?v=pRsf4WiFkLI",
+      "file_path": "data/sessions/pRsf4WiFkLI.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
