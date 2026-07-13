@@ -1,0 +1,52 @@
+{
+  "text": "Jaramillo. Gracias señor presidente, colegas legisladores, muy buenos días, un saludo especial  a mi provincia de Santo Domingo de los Áchilas y con orgullo represento. Sin duda alguna esta  asamblea nacional tiene que tratar temas de prioridad y la salud es uno de ellos y es que  hablar de diabetes es un problema mundial sumamente grave, hemos escuchado al presidente de la  comisión dando cifras extremadamente altas, 589 millones de personas en el mundo que  padecen esta enfermedad. Es importante que como asamblea nacional tomemos las decisiones  precisas para poder fortalecer el sistema de salud, prevenir y dar atención integral a quienes  padecen esta enfermedad. Hay algo que me ha llamado mucho la atención en el informe y es que realmente  busca prevenir la misma mediante capacitaciones constantes en coordinación con los diferentes  rectores de las instituciones, que nuestros niños, jóvenes y adolescentes se capaciten  y entiendan cómo funciona esta enfermedad, cómo prevenirla, cómo tratarla y cómo evitarla  como tal. Y también señor presidente evitar la discriminación para quienes padecen esta  enfermedad dentro de las instituciones, eso es muy importante porque el nivel psicológico,  la afectación psicológica de un adolescente que padezca diabetes en una institución es  alta porque también tiene un riesgo a fallecer y obviamente también dentro de la familia como  tal existe una presión fuerte. Hay que decirles colegas legisladores que esta enfermedad no afecta  sólo a la persona como tal sino a las familias enteras, hijos que pierden a sus padres, a sus  abuelos y que destruyen ese entorno de felicidad que debería existir en una familia ecuatoriana.  Mi total respaldo a este proyecto de ley, este proyecto de ley inclusive también habla de la  no discriminación para las aseguradoras, es decir, que no utilicen esta enfermedad como un  antecedente para no permitirles darles atención como tal. Dar también la atención como la salud  pública, también garantizar el tema de las medicinas a nuestros compatriotas que padezcan esta  enfermedad. Como santo domingueño quiero decir todo mi respaldo a este proyecto de ley, a la salud  pública de mi país y decir que debemos seguir legislando a favor de un mejor Ecuador, un Ecuador  en donde la salud se viva, un Ecuador donde este problema sea solventado y que las personas que  padezcan diabetes realmente se sientan respaldadas y puedan tener una vida feliz, constante en un país  que realmente lo respalda. Muchísimas gracias.",
+  "language": "es",
+  "duration": 164.26,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 164.07,
+      "text": "Jaramillo. Gracias señor presidente, colegas legisladores, muy buenos días, un saludo especial  a mi provincia de Santo Domingo de los Áchilas y con orgullo represento. Sin duda alguna esta  asamblea nacional tiene que tratar temas de prioridad y la salud es uno de ellos y es que  hablar de diabetes es un problema mundial sumamente grave, hemos escuchado al presidente de la  comisión dando cifras extremadamente altas, 589 millones de personas en el mundo que  padecen esta enfermedad. Es importante que como asamblea nacional tomemos las decisiones  precisas para poder fortalecer el sistema de salud, prevenir y dar atención integral a quienes  padecen esta enfermedad. Hay algo que me ha llamado mucho la atención en el informe y es que realmente  busca prevenir la misma mediante capacitaciones constantes en coordinación con los diferentes  rectores de las instituciones, que nuestros niños, jóvenes y adolescentes se capaciten  y entiendan cómo funciona esta enfermedad, cómo prevenirla, cómo tratarla y cómo evitarla  como tal. Y también señor presidente evitar la discriminación para quienes padecen esta  enfermedad dentro de las instituciones, eso es muy importante porque el nivel psicológico,  la afectación psicológica de un adolescente que padezca diabetes en una institución es  alta porque también tiene un riesgo a fallecer y obviamente también dentro de la familia como  tal existe una presión fuerte. Hay que decirles colegas legisladores que esta enfermedad no afecta  sólo a la persona como tal sino a las familias enteras, hijos que pierden a sus padres, a sus  abuelos y que destruyen ese entorno de felicidad que debería existir en una familia ecuatoriana.  Mi total respaldo a este proyecto de ley, este proyecto de ley inclusive también habla de la  no discriminación para las aseguradoras, es decir, que no utilicen esta enfermedad como un  antecedente para no permitirles darles atención como tal. Dar también la atención como la salud  pública, también garantizar el tema de las medicinas a nuestros compatriotas que padezcan esta  enfermedad. Como santo domingueño quiero decir todo mi respaldo a este proyecto de ley, a la salud  pública de mi país y decir que debemos seguir legislando a favor de un mejor Ecuador, un Ecuador  en donde la salud se viva, un Ecuador donde este problema sea solventado y que las personas que  padezcan diabetes realmente se sientan respaldadas y puedan tener una vida feliz, constante en un país  que realmente lo respalda. Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Christopher Manuel Jaramillo Gómez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "7USWmrLe1rk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "confidence": 1.0,
+      "votes": {
+        "Christopher Manuel Jaramillo Gómez": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Christopher Jaramillo - Session 089",
+  "url": "https://www.youtube.com/watch?v=7USWmrLe1rk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7USWmrLe1rk",
+  "source_url": "https://www.youtube.com/watch?v=7USWmrLe1rk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 164.04,
+      "interventions": 1,
+      "word_count": 397
+    }
+  ]
+}
