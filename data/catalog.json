@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:48:27.297736",
-  "total_sessions": 532,
+  "generated_at": "2026-07-13T06:57:46.845216",
+  "total_sessions": 540,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -6080,6 +6080,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "sydUHi4ukII",
+      "title": "Asambleísta Isaac Solano - Sesión 092",
+      "date": "",
+      "duration": 380.25,
+      "url": "https://www.youtube.com/watch?v=sydUHi4ukII",
+      "file_path": "data/sessions/sydUHi4ukII.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Gf1lnAxO_vM",
       "title": "Assemblywoman Carmen Tiupul - Session 094",
       "date": "",
@@ -6178,6 +6192,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "MC7T9Q0AxGE",
+      "title": "Assemblywoman Diana Jácome - Session 092",
+      "date": "",
+      "duration": 1171.82,
+      "url": "https://www.youtube.com/watch?v=MC7T9Q0AxGE",
+      "file_path": "data/sessions/MC7T9Q0AxGE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Z2AMic0hwIg",
       "title": "Assemblyman Andrés Castillo - Session 092",
       "date": "",
@@ -6214,6 +6242,20 @@
       "file_path": "data/sessions/T8pk5d0VZcA.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "oLXlcpUaF6k",
+      "title": "Asambleísta Jorge Chamba - Sesión 092",
+      "date": "",
+      "duration": 305.09,
+      "url": "https://www.youtube.com/watch?v=oLXlcpUaF6k",
+      "file_path": "data/sessions/oLXlcpUaF6k.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6268,6 +6310,20 @@
       "duration": 587.88,
       "url": "https://www.youtube.com/watch?v=5FpusasZouE",
       "file_path": "data/sessions/5FpusasZouE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dRzepRIqlhQ",
+      "title": "Assemblyman Eckenner Recalde - Session 091",
+      "date": "",
+      "duration": 687.73,
+      "url": "https://www.youtube.com/watch?v=dRzepRIqlhQ",
+      "file_path": "data/sessions/dRzepRIqlhQ.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6696,6 +6752,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "U4TYHi8lGNE",
+      "title": "Condecoraciones - Sesión 092 - Comisión General",
+      "date": "",
+      "duration": 480.4,
+      "url": "https://www.youtube.com/watch?v=U4TYHi8lGNE",
+      "file_path": "data/sessions/U4TYHi8lGNE.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "cFqDvZy7Auo",
       "title": "Assemblywoman Viviana Veloz - Session 095",
       "date": "",
@@ -6948,6 +7018,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "zAtJl7V-oco",
+      "title": "Assemblyman Luis Molina - Session 092",
+      "date": "",
+      "duration": 623.66,
+      "url": "https://www.youtube.com/watch?v=zAtJl7V-oco",
+      "file_path": "data/sessions/zAtJl7V-oco.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "X45qVMPHm9w",
       "title": "Assemblywoman Lucía Pozo - Session 096",
       "date": "",
@@ -7144,6 +7228,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "OJ2FAIRgPDk",
+      "title": "Voting on the motion of Assemblywoman Nathaly Farinango - Session 091",
+      "date": "",
+      "duration": 491.87,
+      "url": "https://www.youtube.com/watch?v=OJ2FAIRgPDk",
+      "file_path": "data/sessions/OJ2FAIRgPDk.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -7248,6 +7346,20 @@
       "duration": 502.43,
       "url": "https://www.youtube.com/watch?v=-vRufGiuNf8",
       "file_path": "data/sessions/-vRufGiuNf8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "mXylnJn056U",
+      "title": "Assemblyman Alfredo Serrano - Session 092",
+      "date": "",
+      "duration": 695.99,
+      "url": "https://www.youtube.com/watch?v=mXylnJn056U",
+      "file_path": "data/sessions/mXylnJn056U.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

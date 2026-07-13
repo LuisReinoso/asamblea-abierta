@@ -1,0 +1,50 @@
+{
+  "text": "en representación del programa Déjame Contarte, José Luis Cedillo en representación del programa Ecuador 360 Latitud 0,  Walker Verde Soto en representación del programa Discapacidad en Acción.  El programa Entre Pasillos y Alegría se ha constituido un espacio dedicado a la difusión y preservación del pasillo ecuatoriano,  patrimonio cultural e identidad musical del país, mediante sus contenidos radiales ha promovido el conocimiento y valoración del patrimonio musical histórico ecuatoriano.  El programa La Radio Mix Fiesta Express ha contribuido en la promoción de la música nacional e internacional mediante espacios de entretenimiento y difusión cultural.  El programa Más Allá del Telón ha promovido la radio teatro como una expresión artística y cultural orientada a preservar la memoria histórica y cultural del Ecuador.  El programa Déjame Contarte ha impulsado la difusión de la gastronomía, del turismo y la historia del Ecuador mediante contenidos de interés cultural y ciudadano.  El programa Ecuador 360 Latitud 0 ha desarrollado contenidos orientados al rescate y difusión del patrimonio intangible y las tradiciones populares del Ecuador.  Y el programa Discapacidad en Acción ha promovido contenidos orientados a la inclusión, visibilización y defensa de los derechos de las personas con discapacidad y sus familias.  Me permito dar lectura a los acuerdos que son, que contienen el mismo texto de las seis reconocimientos.  El presidente, considerando y en ejercicio de sus funciones, acuerda reconocer y condecorar a los seis diferentes programas por su valioso aporte a la difusión y preservación del patrimonio musical ecuatoriano,  fortaleciendo la identidad cultural nacional a través de la radiodifusión pública.  Hace entrega de las condecoraciones el asambleísta Nils Olsen, presidente de la Asamblea Nacional.  La entrega de los acuerdos y reconocimientos se las hace en el contexto de que el día de hoy la radio de la Asamblea Nacional cumple 15 años.  Hace entrega de los acuerdos legislativos la asambleísta Michelle Mancheno, primera vicepresidenta de la Asamblea Nacional.  Hace entrega de los acuerdos de igual manera la señora Carmen Tupul, segunda vicepresidenta de la Asamblea Nacional.  Agradecemos la participación de los representantes de los programas que forman parte de la televisión y radio legislativa.  Gracias.",
+  "language": "es",
+  "duration": 480.4,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 451.57,
+      "text": "en representación del programa Déjame Contarte, José Luis Cedillo en representación del programa Ecuador 360 Latitud 0,  Walker Verde Soto en representación del programa Discapacidad en Acción.  El programa Entre Pasillos y Alegría se ha constituido un espacio dedicado a la difusión y preservación del pasillo ecuatoriano,  patrimonio cultural e identidad musical del país, mediante sus contenidos radiales ha promovido el conocimiento y valoración del patrimonio musical histórico ecuatoriano.  El programa La Radio Mix Fiesta Express ha contribuido en la promoción de la música nacional e internacional mediante espacios de entretenimiento y difusión cultural.  El programa Más Allá del Telón ha promovido la radio teatro como una expresión artística y cultural orientada a preservar la memoria histórica y cultural del Ecuador.  El programa Déjame Contarte ha impulsado la difusión de la gastronomía, del turismo y la historia del Ecuador mediante contenidos de interés cultural y ciudadano.  El programa Ecuador 360 Latitud 0 ha desarrollado contenidos orientados al rescate y difusión del patrimonio intangible y las tradiciones populares del Ecuador.  Y el programa Discapacidad en Acción ha promovido contenidos orientados a la inclusión, visibilización y defensa de los derechos de las personas con discapacidad y sus familias.  Me permito dar lectura a los acuerdos que son, que contienen el mismo texto de las seis reconocimientos.  El presidente, considerando y en ejercicio de sus funciones, acuerda reconocer y condecorar a los seis diferentes programas por su valioso aporte a la difusión y preservación del patrimonio musical ecuatoriano,  fortaleciendo la identidad cultural nacional a través de la radiodifusión pública.  Hace entrega de las condecoraciones el asambleísta Nils Olsen, presidente de la Asamblea Nacional.  La entrega de los acuerdos y reconocimientos se las hace en el contexto de que el día de hoy la radio de la Asamblea Nacional cumple 15 años.  Hace entrega de los acuerdos legislativos la asambleísta Michelle Mancheno, primera vicepresidenta de la Asamblea Nacional.  Hace entrega de los acuerdos de igual manera la señora Carmen Tupul, segunda vicepresidenta de la Asamblea Nacional.  Agradecemos la participación de los representantes de los programas que forman parte de la televisión y radio legislativa.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "U4TYHi8lGNE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Condecoraciones - Sesión 092 - Comisión General",
+  "url": "https://www.youtube.com/watch?v=U4TYHi8lGNE",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "U4TYHi8lGNE",
+  "source_url": "https://www.youtube.com/watch?v=U4TYHi8lGNE",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 451.54,
+      "interventions": 1,
+      "word_count": 351
+    }
+  ]
+}
