@@ -1,0 +1,53 @@
+{
+  "text": "Muchísimas gracias, señor presidente de la Asamblea Nacional, colegas legisladores,  pueblo ecuatoriano.  Tenemos el orgullo de ser uno de los países más biodiversos del planeta, con una riqueza  natural extraordinaria, pero también conlleva una enorme responsabilidad histórica.  Y esa responsabilidad empieza formando generaciones que comprendan que desarrollo y sostenibilidad  van de la mano.  Desde la Comisión de Biodiversidad y Recursos Naturales, hemos asumido esta propuesta con  rigor técnico y compromiso social.  No aprobamos una reforma aislada, estamos apostando por una transformación estructural.  Porque la verdadera seguridad del país no solo se defiende en las calles, también se  siembra en nuestras aulas, resguardando el futuro del Ecuador.  Y esta comisión legisló con visión a largo plazo.  El cambio climático, la contaminación y la escasez ya no son advertencias del futuro,  son crisis del presente que golpean día a día a nuestra gente.  Lo que nos exige es formar ciudadanos conscientes y por eso fortalecemos la educación ambiental  como un eje obligatorio desde la educación inicial hasta el bachillerato.  Hablar de educación ambiental no es solo enseñar a reciclar o sembrar un árbol, es formar jóvenes  que sean capaces de entender que cuidar su entorno también significa cuidar la economía, la salud, la vida misma.  Queremos que el aprendizaje salga de las aulas.  Cuando un estudiante participa en prácticas ambientales, desarrolla pensamiento crítico y también corresponsabilidad.  No estamos formando únicamente estudiantes, estamos formando a los futuros alcaldes, agricultores, científicos  y autoridades que el día de mañana serán quienes tomen las decisiones más importantes para el país.  Ecuador debe entender que la verdadera conservación no significa congelar nuestra riqueza,  sino más bien aprender a multiplicar el beneficio de nuestros recursos de manera inteligente y sostenible.  Es hora de tener coherencia.  Existen ejemplos que demuestran que sí es posible.  Costa Rica apostó por educar a sus ciudadanos en conservación  y el día de hoy están cosechando los frutos de un turismo sostenible que genera empleo y orgullo nacional.  Ese es el espejo en el que nosotros debemos vernos reflejados.  Ninguna transformación educativa ocurre sin herramientas.  Por eso nosotros garantizamos la capacitación al docente y la articulación institucional  necesarias para que esta ley no se quede en letra muerta, sino que sea una realidad en cada rincón de la patria.  Hoy tenemos la oportunidad de dejar huella que trascienda más allá de los periodos legislativos.  Una ley que no se mida únicamente en documentos firmados, sino en un Ecuador vivo, productivo y consciente.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 235.45,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.63,
+      "end": 234.83,
+      "text": "Muchísimas gracias, señor presidente de la Asamblea Nacional, colegas legisladores,  pueblo ecuatoriano.  Tenemos el orgullo de ser uno de los países más biodiversos del planeta, con una riqueza  natural extraordinaria, pero también conlleva una enorme responsabilidad histórica.  Y esa responsabilidad empieza formando generaciones que comprendan que desarrollo y sostenibilidad  van de la mano.  Desde la Comisión de Biodiversidad y Recursos Naturales, hemos asumido esta propuesta con  rigor técnico y compromiso social.  No aprobamos una reforma aislada, estamos apostando por una transformación estructural.  Porque la verdadera seguridad del país no solo se defiende en las calles, también se  siembra en nuestras aulas, resguardando el futuro del Ecuador.  Y esta comisión legisló con visión a largo plazo.  El cambio climático, la contaminación y la escasez ya no son advertencias del futuro,  son crisis del presente que golpean día a día a nuestra gente.  Lo que nos exige es formar ciudadanos conscientes y por eso fortalecemos la educación ambiental  como un eje obligatorio desde la educación inicial hasta el bachillerato.  Hablar de educación ambiental no es solo enseñar a reciclar o sembrar un árbol, es formar jóvenes  que sean capaces de entender que cuidar su entorno también significa cuidar la economía, la salud, la vida misma.  Queremos que el aprendizaje salga de las aulas.  Cuando un estudiante participa en prácticas ambientales, desarrolla pensamiento crítico y también corresponsabilidad.  No estamos formando únicamente estudiantes, estamos formando a los futuros alcaldes, agricultores, científicos  y autoridades que el día de mañana serán quienes tomen las decisiones más importantes para el país.  Ecuador debe entender que la verdadera conservación no significa congelar nuestra riqueza,  sino más bien aprender a multiplicar el beneficio de nuestros recursos de manera inteligente y sostenible.  Es hora de tener coherencia.  Existen ejemplos que demuestran que sí es posible.  Costa Rica apostó por educar a sus ciudadanos en conservación  y el día de hoy están cosechando los frutos de un turismo sostenible que genera empleo y orgullo nacional.  Ese es el espejo en el que nosotros debemos vernos reflejados.  Ninguna transformación educativa ocurre sin herramientas.  Por eso nosotros garantizamos la capacitación al docente y la articulación institucional  necesarias para que esta ley no se quede en letra muerta, sino que sea una realidad en cada rincón de la patria.  Hoy tenemos la oportunidad de dejar huella que trascienda más allá de los periodos legislativos.  Una ley que no se mida únicamente en documentos firmados, sino en un Ecuador vivo, productivo y consciente.  Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "video_id": "D6iXN9Pvhm4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Camila León Cueva",
+      "confidence": 0.9,
+      "votes": {
+        "Sade Rashel Fritschi Naranjo": 1,
+        "Camila León Cueva": 9
+      },
+      "samples": 10,
+      "successful_reads": 10,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Camila León - Session 094",
+  "url": "https://www.youtube.com/watch?v=D6iXN9Pvhm4",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "D6iXN9Pvhm4",
+  "source_url": "https://www.youtube.com/watch?v=D6iXN9Pvhm4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 232.2,
+      "interventions": 1,
+      "word_count": 410
+    }
+  ]
+}
