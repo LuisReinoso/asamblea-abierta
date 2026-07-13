@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:39:53.941700",
-  "total_sessions": 524,
+  "generated_at": "2026-07-13T06:48:27.297736",
+  "total_sessions": 532,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5702,6 +5702,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "oROf84trX7M",
+      "title": "Asambleísta Keevin Gallardo - Sesión 092",
+      "date": "",
+      "duration": 507.87,
+      "url": "https://www.youtube.com/watch?v=oROf84trX7M",
+      "file_path": "data/sessions/oROf84trX7M.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "nJdP77uNVh8",
       "title": "Assemblywoman María Paula Villacreses - Session 094",
       "date": "",
@@ -5904,6 +5918,20 @@
       "duration": 742.16,
       "url": "https://www.youtube.com/watch?v=-0SrZH4JHNM",
       "file_path": "data/sessions/-0SrZH4JHNM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "XXr5Jtk-l5s",
+      "title": "Assemblywoman Mariana Yumbay - Session 092",
+      "date": "",
+      "duration": 685.2,
+      "url": "https://www.youtube.com/watch?v=XXr5Jtk-l5s",
+      "file_path": "data/sessions/XXr5Jtk-l5s.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6150,6 +6178,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Z2AMic0hwIg",
+      "title": "Assemblyman Andrés Castillo - Session 092",
+      "date": "",
+      "duration": 722.72,
+      "url": "https://www.youtube.com/watch?v=Z2AMic0hwIg",
+      "file_path": "data/sessions/Z2AMic0hwIg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -6262,6 +6304,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "lomZ11ovEW8",
+      "title": "Asambleísta Franklin Samaniego - Sesión 092",
+      "date": "",
+      "duration": 582.31,
+      "url": "https://www.youtube.com/watch?v=lomZ11ovEW8",
+      "file_path": "data/sessions/lomZ11ovEW8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "vP8Ekq5UIHI",
       "title": "Assemblyman Christopher Jaramillo - Session 094",
       "date": "",
@@ -6282,6 +6338,20 @@
       "duration": 507.22,
       "url": "https://www.youtube.com/watch?v=ztkiH5jmoZo",
       "file_path": "data/sessions/ztkiH5jmoZo.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "RZ1Cm96CFdY",
+      "title": "Assemblyman Adrián Castro - Session 092",
+      "date": "",
+      "duration": 573.09,
+      "url": "https://www.youtube.com/watch?v=RZ1Cm96CFdY",
+      "file_path": "data/sessions/RZ1Cm96CFdY.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6506,6 +6576,20 @@
       "duration": 143.22,
       "url": "https://www.youtube.com/watch?v=LrPOZRZ-jDM",
       "file_path": "data/sessions/LrPOZRZ-jDM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "FXfAatVRAgI",
+      "title": "Assemblyman Esteban Torres - Session 092",
+      "date": "",
+      "duration": 734.59,
+      "url": "https://www.youtube.com/watch?v=FXfAatVRAgI",
+      "file_path": "data/sessions/FXfAatVRAgI.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7228,6 +7312,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "-603TM7DrAw",
+      "title": "Assemblywoman Paola Cabezas - Session 092",
+      "date": "",
+      "duration": 619.72,
+      "url": "https://www.youtube.com/watch?v=-603TM7DrAw",
+      "file_path": "data/sessions/-603TM7DrAw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "jLVKhnBqsAc",
       "title": "Assemblyman Keevin Gallardo - Session 094",
       "date": "",
@@ -7334,6 +7432,20 @@
       "file_path": "data/sessions/qUQe1FuEOso.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Sg9DCHeQMp8",
+      "title": "Assemblyman Otto Vera - Session 092",
+      "date": "",
+      "duration": 550.59,
+      "url": "https://www.youtube.com/watch?v=Sg9DCHeQMp8",
+      "file_path": "data/sessions/Sg9DCHeQMp8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
