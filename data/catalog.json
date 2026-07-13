@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:19:04.459398",
-  "total_sessions": 508,
+  "generated_at": "2026-07-13T06:29:05.491887",
+  "total_sessions": 516,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5604,6 +5604,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "QJdgBe2SS70",
+      "title": "Vote on Assemblyman Fernando Jaramillo's Motion - Session 093",
+      "date": "",
+      "duration": 798.07,
+      "url": "https://www.youtube.com/watch?v=QJdgBe2SS70",
+      "file_path": "data/sessions/QJdgBe2SS70.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "NV34v1Ezy_A",
       "title": "Assemblyman Luigi García - Session 097 - Agenda Change",
       "date": "",
@@ -5624,6 +5638,20 @@
       "duration": 406.19,
       "url": "https://www.youtube.com/watch?v=IuXk2GW1uzA",
       "file_path": "data/sessions/IuXk2GW1uzA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "O80Z0xxSI84",
+      "title": "Asambleísta Fernando Jaramillo - Sesión 093",
+      "date": "",
+      "duration": 922.69,
+      "url": "https://www.youtube.com/watch?v=O80Z0xxSI84",
+      "file_path": "data/sessions/O80Z0xxSI84.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5736,6 +5764,20 @@
       "duration": 540.79,
       "url": "https://www.youtube.com/watch?v=e9SEDrkQoIw",
       "file_path": "data/sessions/e9SEDrkQoIw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "4l4PvwSV2Jo",
+      "title": "Asambleísta Manuel Casanova - Sesión 093",
+      "date": "",
+      "duration": 624.57,
+      "url": "https://www.youtube.com/watch?v=4l4PvwSV2Jo",
+      "file_path": "data/sessions/4l4PvwSV2Jo.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6570,6 +6612,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "oTgDzz5UHCY",
+      "title": "Assemblyman Fernando Jaramillo - Session 093",
+      "date": "",
+      "duration": 1001.99,
+      "url": "https://www.youtube.com/watch?v=oTgDzz5UHCY",
+      "file_path": "data/sessions/oTgDzz5UHCY.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "wYMHW0isThk",
       "title": "Asambleísta Fernando Jaramillo - Sesión 093",
       "date": "",
@@ -6752,6 +6808,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "E-sdki7lKf4",
+      "title": "Assemblyman Mario Zambrano - Session 093",
+      "date": "",
+      "duration": 336.13,
+      "url": "https://www.youtube.com/watch?v=E-sdki7lKf4",
+      "file_path": "data/sessions/E-sdki7lKf4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rEvSgc5tCSg",
       "title": "Assemblyman Alex Morán - Session 094",
       "date": "",
@@ -6836,6 +6906,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "tHdsj2zt6BE",
+      "title": "Condecoración - Sesión 093 - Comisión General",
+      "date": "",
+      "duration": 187.45,
+      "url": "https://www.youtube.com/watch?v=tHdsj2zt6BE",
+      "file_path": "data/sessions/tHdsj2zt6BE.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "yM-5EVGnieo",
       "title": "President of the National Assembly Mishel Mancheno - Session 098",
       "date": "",
@@ -6912,6 +6996,20 @@
       "duration": 722.42,
       "url": "https://www.youtube.com/watch?v=rpb0kW26cl8",
       "file_path": "data/sessions/rpb0kW26cl8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "0fAlTJacY1w",
+      "title": "Vote on Assemblyman Mario Zambrano's motion - Session 093",
+      "date": "",
+      "duration": 614.31,
+      "url": "https://www.youtube.com/watch?v=0fAlTJacY1w",
+      "file_path": "data/sessions/0fAlTJacY1w.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7010,6 +7108,20 @@
       "duration": 247.36,
       "url": "https://www.youtube.com/watch?v=VaJY5Gb3SLg",
       "file_path": "data/sessions/VaJY5Gb3SLg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EPluRlX-tE4",
+      "title": "Reconsideration of Assemblyman Fernando Jaramillo's Vote - Session 093",
+      "date": "",
+      "duration": 503.06,
+      "url": "https://www.youtube.com/watch?v=EPluRlX-tE4",
+      "file_path": "data/sessions/EPluRlX-tE4.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

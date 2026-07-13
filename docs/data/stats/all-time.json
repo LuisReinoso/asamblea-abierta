@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:19:04.307528",
-  "total_sessions": 508,
+  "generated_at": "2026-07-13T06:29:05.340013",
+  "total_sessions": 516,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 6140.599999999999,
-      "total_interventions": 83,
-      "sessions_attended": 4,
+      "total_time": 6465.339999999999,
+      "total_interventions": 84,
+      "sessions_attended": 5,
       "topics_discussed": 3
     },
     {
@@ -147,6 +147,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Imbabura",
+      "total_time": 2941.83,
+      "total_interventions": 7,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
       "name": "Saadin Alfredo Serrano Valladares",
       "type": "asambleísta",
@@ -207,6 +219,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "total_time": 1912.52,
+      "total_interventions": 17,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
       "name": "Rosa Alegría Torres Cadena",
       "type": "asambleísta",
@@ -227,18 +251,6 @@
       "province": "Galápagos",
       "total_time": 1859.6000000000001,
       "total_interventions": 8,
-      "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
-      "name": "Carmen Yolanda Tiupul Urquizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Chimborazo",
-      "total_time": 1804.8899999999999,
-      "total_interventions": 13,
       "sessions_attended": 6,
       "topics_discussed": 0
     },
@@ -276,6 +288,18 @@
       "total_time": 1594.48,
       "total_interventions": 6,
       "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
+      "name": "Lizardo Manuel Casanova Montesino",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Esmeraldas",
+      "total_time": 1495.12,
+      "total_interventions": 3,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -495,18 +519,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
-      "name": "Roberto Fernando Jaramillo Martínez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Imbabura",
-      "total_time": 980.15,
-      "total_interventions": 3,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-BERTHA-BETSABE-VELEZ-VELEZ",
       "name": "Bertha Betsabe Vélez Vélez",
       "type": "asambleísta",
@@ -579,6 +591,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-VICTORIA-TATIANA-DESINTONIO-MALAVE",
+      "name": "Victoria Tatiana Desintonio Malave",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 906.66,
+      "total_interventions": 8,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
       "name": "César Gustavo Palacios Alejandro",
       "type": "asambleísta",
@@ -587,18 +611,6 @@
       "province": "Santa Elena",
       "total_time": 902.48,
       "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
-      "name": "Lizardo Manuel Casanova Montesino",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Esmeraldas",
-      "total_time": 871.27,
-      "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -756,18 +768,6 @@
       "total_time": 673.26,
       "total_interventions": 2,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-VICTORIA-TATIANA-DESINTONIO-MALAVE",
-      "name": "Victoria Tatiana Desintonio Malave",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 663.62,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
