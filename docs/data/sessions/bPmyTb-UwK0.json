@@ -1,0 +1,52 @@
+{
+  "text": "Muchas gracias, señor presidente. Un saludo a los colegas legisladores, al pueblo ecuatoriano.  Hoy en esta Asamblea Nacional no solamente debatimos una ley técnica sobre el mar,  debatimos sobre soberanía, sobre desarrollo sostenible, debatimos sobre seguridad alimentaria,  pero sobre todo hoy estamos debatiendo sobre el futuro de miles de familias ecuatorianas  que viven alrededor de los espacios marino-costeros, porque el mar ecuatoriano es un territorio  que no es alejado ni invisible, es un patrimonio nacional.  Nuestro mar es una fuente de empleo, es turismo, es pesca artesanal, es biodiversidad,  pero también es una responsabilidad histórica del Estado ecuatoriano.  Nuestro país posee uno de los espacios marinos más emblemáticos e importantes de nuestra región,  pues allí conviven los pescadores artesanales, los operadores turísticos, el transporte marítimo,  las actividades deportivas, la conservación ambiental y también actores productivos estratégicos  para la economía nacional.  Pero durante muchos años esta convivencia avanzó sin una planificación integral suficiente,  con competencias dispersas y limitadas y la coordinación institucional también bastante superflua  y cuando el Estado ecuatoriano no ordena, lamentablemente aparecen los conflictos.  Cuando el Estado no planifica, aparecen los abusos y cuando el Estado no protege los recursos,  lamentablemente terminan deteriorándose.  Por eso, colegas legisladores, esta ley es importante, porque no busca prohibir el desarrollo,  lo que busca es organizarlo, no busca crear una burocracia innecesaria,  lo que busca es construir gobernanza.  ¿Y cómo se construye esta gobernanza?  Significa que estas actividades ambientales, sociales, económicas puedan coexistir en equilibrio,  con responsabilidad y con visión de largo plazo.  Proteger el espacio marino costero no es únicamente un tema ambiental,  es un tema de soberanía nacional, porque un país que no protege sus recursos marítimos  tampoco puede decirse que está protegiendo su futuro.  Esta ley fortalece la capacidad del Estado para prevenir conflictos,  para proteger a los ecosistemas frágiles y sensibles,  pero sobre todo garantiza el uso responsable de nuestros recursos marinos  para las futuras generaciones.  Y además envía un mensaje sumamente importante.  El Ecuador no puede seguir actuando de manera fragmentada  sobre uno de sus patrimonios más importantes que orgullosamente poseemos.  Mientras el país fortalece su presencia operativa en el mar,  como ocurre con nuestras capacidades navales y de control marítimo,  esa Asamblea Nacional tiene también una responsabilidad de fortalecer el marco legal e institucional  que permita protegerlo.  Las generaciones que vienen merecen un Ecuador con mares vivos, ordenados y sostenibles.  Y esa responsabilidad, estimados colegas asambleístas, empieza hoy con el accionar de esta Asamblea Nacional.  Por eso mi respaldo a esta iniciativa, porque defender el mar ecuatoriano  es también defender el futuro y el desarrollo de nuestro país.  Muchas gracias.",
+  "language": "es",
+  "duration": 249.87,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.14,
+      "end": 244.35,
+      "text": "Muchas gracias, señor presidente. Un saludo a los colegas legisladores, al pueblo ecuatoriano.  Hoy en esta Asamblea Nacional no solamente debatimos una ley técnica sobre el mar,  debatimos sobre soberanía, sobre desarrollo sostenible, debatimos sobre seguridad alimentaria,  pero sobre todo hoy estamos debatiendo sobre el futuro de miles de familias ecuatorianas  que viven alrededor de los espacios marino-costeros, porque el mar ecuatoriano es un territorio  que no es alejado ni invisible, es un patrimonio nacional.  Nuestro mar es una fuente de empleo, es turismo, es pesca artesanal, es biodiversidad,  pero también es una responsabilidad histórica del Estado ecuatoriano.  Nuestro país posee uno de los espacios marinos más emblemáticos e importantes de nuestra región,  pues allí conviven los pescadores artesanales, los operadores turísticos, el transporte marítimo,  las actividades deportivas, la conservación ambiental y también actores productivos estratégicos  para la economía nacional.  Pero durante muchos años esta convivencia avanzó sin una planificación integral suficiente,  con competencias dispersas y limitadas y la coordinación institucional también bastante superflua  y cuando el Estado ecuatoriano no ordena, lamentablemente aparecen los conflictos.  Cuando el Estado no planifica, aparecen los abusos y cuando el Estado no protege los recursos,  lamentablemente terminan deteriorándose.  Por eso, colegas legisladores, esta ley es importante, porque no busca prohibir el desarrollo,  lo que busca es organizarlo, no busca crear una burocracia innecesaria,  lo que busca es construir gobernanza.  ¿Y cómo se construye esta gobernanza?  Significa que estas actividades ambientales, sociales, económicas puedan coexistir en equilibrio,  con responsabilidad y con visión de largo plazo.  Proteger el espacio marino costero no es únicamente un tema ambiental,  es un tema de soberanía nacional, porque un país que no protege sus recursos marítimos  tampoco puede decirse que está protegiendo su futuro.  Esta ley fortalece la capacidad del Estado para prevenir conflictos,  para proteger a los ecosistemas frágiles y sensibles,  pero sobre todo garantiza el uso responsable de nuestros recursos marinos  para las futuras generaciones.  Y además envía un mensaje sumamente importante.  El Ecuador no puede seguir actuando de manera fragmentada  sobre uno de sus patrimonios más importantes que orgullosamente poseemos.  Mientras el país fortalece su presencia operativa en el mar,  como ocurre con nuestras capacidades navales y de control marítimo,  esa Asamblea Nacional tiene también una responsabilidad de fortalecer el marco legal e institucional  que permita protegerlo.  Las generaciones que vienen merecen un Ecuador con mares vivos, ordenados y sostenibles.  Y esa responsabilidad, estimados colegas asambleístas, empieza hoy con el accionar de esta Asamblea Nacional.  Por eso mi respaldo a esta iniciativa, porque defender el mar ecuatoriano  es también defender el futuro y el desarrollo de nuestro país.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "bPmyTb-UwK0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "del Cisne Rogel Esperanza",
+      "confidence": 1.0,
+      "votes": {
+        "del Cisne Rogel Esperanza": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Esperanza Rogel - Sesión 093",
+  "url": "https://www.youtube.com/watch?v=bPmyTb-UwK0",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "bPmyTb-UwK0",
+  "source_url": "https://www.youtube.com/watch?v=bPmyTb-UwK0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 241.21,
+      "interventions": 1,
+      "word_count": 433
+    }
+  ]
+}
