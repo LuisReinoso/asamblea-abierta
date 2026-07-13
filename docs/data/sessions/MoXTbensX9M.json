@@ -1,0 +1,93 @@
+{
+  "text": "La palabra el asambleísta Juan José Reyes. Gracias, señor presidente.  Gracias.  Luego de escuchar las intervenciones de mis colegas asambleístas  y de conformidad con lo dispuesto en el artículo 61, inciso 8,  de la ley orgánica de la función legislativa,  como ponente del informe para segundo debate del proyecto de la ley reformatoria  de la ley de prevención, protección y atención integral de las personas que padecen diabetes,  solicito con su venia, señor presidente, la suspensión de este punto del orden del día  con la finalidad de analizar la incorporación de los cambios sugeridos  en el pleno de la Comisión Especializada Permanente de Derecho a la Salud y el Deporte.  Hasta aquí mi palabra, señor presidente. Gracias, asambleísta, al no tener más solicitudes de palabras.",
+  "language": "es",
+  "duration": 51.83,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.29,
+      "text": "La palabra el asambleísta Juan José Reyes.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5625,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.08,
+      "end": 46.47,
+      "text": "Gracias, señor presidente.  Gracias.  Luego de escuchar las intervenciones de mis colegas asambleístas  y de conformidad con lo dispuesto en el artículo 61, inciso 8,  de la ley orgánica de la función legislativa,  como ponente del informe para segundo debate del proyecto de la ley reformatoria  de la ley de prevención, protección y atención integral de las personas que padecen diabetes,  solicito con su venia, señor presidente, la suspensión de este punto del orden del día  con la finalidad de analizar la incorporación de los cambios sugeridos  en el pleno de la Comisión Especializada Permanente de Derecho a la Salud y el Deporte.  Hasta aquí mi palabra, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 2,
+      "start": 48.17,
+      "end": 51.97,
+      "text": "Gracias, asambleísta, al no tener más solicitudes de palabras.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5625,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "MoXTbensX9M",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 089",
+  "url": "https://www.youtube.com/watch?v=MoXTbensX9M",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MoXTbensX9M",
+  "source_url": "https://www.youtube.com/watch?v=MoXTbensX9M",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 42.39,
+      "interventions": 1,
+      "word_count": 109
+    },
+    {
+      "id": "speaker_1",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 6.06,
+      "interventions": 2,
+      "word_count": 16
+    }
+  ]
+}
