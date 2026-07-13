@@ -1,0 +1,52 @@
+{
+  "text": "Palabra el asamblista Fernando Jaramillo.  Gracias, señor presidente.  Una vez que se ha cerrado el debate, le solicito a usted de la medida más comedida,  como así lo establece el artículo 61 de la Ley Orgánica de la Función Legislativa,  y toda vez que dentro de este informe para segundo debate se han realizado observaciones  por parte de las bancadas en esta Asamblea Nacional,  le solicito a usted, señor presidente, se regrese el proyecto de ley a la comisión  por el plazo de ocho días a fin de que sean tomadas en cuenta estas observaciones.  Gracias, señor presidente.  Gracias.",
+  "language": "es",
+  "duration": 46.14,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 46.12,
+      "text": "Palabra el asamblista Fernando Jaramillo.  Gracias, señor presidente.  Una vez que se ha cerrado el debate, le solicito a usted de la medida más comedida,  como así lo establece el artículo 61 de la Ley Orgánica de la Función Legislativa,  y toda vez que dentro de este informe para segundo debate se han realizado observaciones  por parte de las bancadas en esta Asamblea Nacional,  le solicito a usted, señor presidente, se regrese el proyecto de ley a la comisión  por el plazo de ocho días a fin de que sean tomadas en cuenta estas observaciones.  Gracias, señor presidente.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Roberto Fernando Jaramillo Martínez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "wYMHW0isThk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "confidence": 1.0,
+      "votes": {
+        "Roberto Fernando Jaramillo Martínez": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Fernando Jaramillo - Sesión 093",
+  "url": "https://www.youtube.com/watch?v=wYMHW0isThk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wYMHW0isThk",
+  "source_url": "https://www.youtube.com/watch?v=wYMHW0isThk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "party": null,
+      "province": null,
+      "total_time": 46.09,
+      "interventions": 1,
+      "word_count": 99
+    }
+  ]
+}
