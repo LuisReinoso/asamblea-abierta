@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:11:40.605911",
-  "total_sessions": 500,
+  "generated_at": "2026-07-13T06:19:04.459398",
+  "total_sessions": 508,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5800,6 +5800,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "V7FK3XxrypA",
+      "title": "Assemblyman Alfredo Serrano - Session 093",
+      "date": "",
+      "duration": 313.1,
+      "url": "https://www.youtube.com/watch?v=V7FK3XxrypA",
+      "file_path": "data/sessions/V7FK3XxrypA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "WZL5kD4rBw0",
       "title": "Voting on the motion of Assemblyman John Polanco - Session 097",
       "date": "",
@@ -5968,6 +5982,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "hSN4UGuip8I",
+      "title": "Asambleísta Nuria Butiñá - Sesión 093",
+      "date": "",
+      "duration": 283.35,
+      "url": "https://www.youtube.com/watch?v=hSN4UGuip8I",
+      "file_path": "data/sessions/hSN4UGuip8I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "CYd8GP6bw-w",
       "title": "Assemblyman Carlos Dávila - Session 096",
       "date": "",
@@ -5976,6 +6004,20 @@
       "file_path": "data/sessions/CYd8GP6bw-w.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EX7yz3CE_hg",
+      "title": "Asambleísta Franklin Samaniego - Sesión 093",
+      "date": "",
+      "duration": 634.88,
+      "url": "https://www.youtube.com/watch?v=EX7yz3CE_hg",
+      "file_path": "data/sessions/EX7yz3CE_hg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6206,6 +6248,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "MfrrKhLyMR4",
+      "title": "Asambleísta Naila Quintana - Sesión 093",
+      "date": "",
+      "duration": 189.38,
+      "url": "https://www.youtube.com/watch?v=MfrrKhLyMR4",
+      "file_path": "data/sessions/MfrrKhLyMR4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -6234,6 +6290,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "0Gi3aL-bGZo",
+      "title": "Asambleísta Inés Alarcón - Sesión 093",
+      "date": "",
+      "duration": 408.49,
+      "url": "https://www.youtube.com/watch?v=0Gi3aL-bGZo",
+      "file_path": "data/sessions/0Gi3aL-bGZo.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "l2q3XiZMBEc",
       "title": "Assemblywoman Esperanza Rogel - Session 095",
       "date": "",
@@ -6254,6 +6324,20 @@
       "duration": 430.24,
       "url": "https://www.youtube.com/watch?v=K7v7mAtkacQ",
       "file_path": "data/sessions/K7v7mAtkacQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "w2hU-j2WuNc",
+      "title": "Asambleísta Sergio Peña - Sesión 093",
+      "date": "",
+      "duration": 429.92,
+      "url": "https://www.youtube.com/watch?v=w2hU-j2WuNc",
+      "file_path": "data/sessions/w2hU-j2WuNc.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6452,6 +6536,20 @@
       "file_path": "data/sessions/svWLCpSxinI.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "bPmyTb-UwK0",
+      "title": "Asambleísta Esperanza Rogel - Sesión 093",
+      "date": "",
+      "duration": 249.87,
+      "url": "https://www.youtube.com/watch?v=bPmyTb-UwK0",
+      "file_path": "data/sessions/bPmyTb-UwK0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6814,6 +6912,20 @@
       "duration": 722.42,
       "url": "https://www.youtube.com/watch?v=rpb0kW26cl8",
       "file_path": "data/sessions/rpb0kW26cl8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "27oB87GeP-8",
+      "title": "Asambleísta Milton Aguas - Sesión 093",
+      "date": "",
+      "duration": 525.72,
+      "url": "https://www.youtube.com/watch?v=27oB87GeP-8",
+      "file_path": "data/sessions/27oB87GeP-8.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

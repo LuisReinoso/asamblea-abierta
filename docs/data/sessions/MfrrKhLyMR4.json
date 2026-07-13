@@ -1,0 +1,50 @@
+{
+  "text": "palabra la asambleísta Naila Quintana. Gracias presidente. Básicamente quiero hacer una  precisión, pero primero saludar a todos mis colegas asambleístas, a todos los que laboran  dentro de este pleno, a quienes nos siguen a través de los medios de comunicación, a  quienes se encuentran también en las barras altas y en especial este día a mi provincia,  a la provincia del Guayas, específicamente a playas, la ciudad considerada con el segundo  mejor clima del mundo. Quiero precisar en el marco del tratamiento del proyecto de ley  orgánica para la preservación y prevención de impacto de olas rompientes en el litoral  ecuatoriano, que la materia y eje central es la gobernanza, regulación, protección y  uso sostenible del espacio marino costero ecuatoriano. Ya lo hemos visto y lo escuchamos al decir  que prácticamente no se está incorporando otras aristas. Cada uno de los intervinientes  ha hablado de la importancia de unificar este tema porque aquí el protagonista es el  mar y creo que todos coincidimos en que debemos cuidarlo ya que de él también nos  servimos. Este proyecto no incorpora otras aristas, como ya lo dije, lo que se ha realizado  hecho es una ampliación técnica e integral de una misma temática para los distintos usos  compatibles del mar y a todos los actores que forman parte del sistema marino costero. Creo  pertinente, dada la importancia de cuidar el mar, que todos estos actores, ya sean los pescadores,  artesanales, operadores turísticos, como lo escuchamos también, del deporte y demás entidades  también nombradas en el proyecto, alineen sus actividades en función de protegerlo. Asimismo,  tomando en cuenta que este proyecto se ha construido con una amplia participación técnica  e interinstitucional, podemos decir que existe coherencia temática, técnica y jurídica dentro  de todo el informe. En definitiva, no sería justo buscar la preservación de olas rompientes  sin considerar el protagonista y su entorno, el mar. Por ello, yo sostengo que este proyecto  de ley permitirá al Ecuador contar con una ley moderna, integral y sostenible sobre gobernanza  marino costera. Y de acuerdo con los colegas que han pedido que regrese a la comisión, apoyo  esa moción. Y devuelvo la palabra, señor presidente. Gracias.  Tiene la palabra la asambleísta.  Gracias.",
+  "language": "es",
+  "duration": 189.38,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 189.38,
+      "text": "palabra la asambleísta Naila Quintana. Gracias presidente. Básicamente quiero hacer una  precisión, pero primero saludar a todos mis colegas asambleístas, a todos los que laboran  dentro de este pleno, a quienes nos siguen a través de los medios de comunicación, a  quienes se encuentran también en las barras altas y en especial este día a mi provincia,  a la provincia del Guayas, específicamente a playas, la ciudad considerada con el segundo  mejor clima del mundo. Quiero precisar en el marco del tratamiento del proyecto de ley  orgánica para la preservación y prevención de impacto de olas rompientes en el litoral  ecuatoriano, que la materia y eje central es la gobernanza, regulación, protección y  uso sostenible del espacio marino costero ecuatoriano. Ya lo hemos visto y lo escuchamos al decir  que prácticamente no se está incorporando otras aristas. Cada uno de los intervinientes  ha hablado de la importancia de unificar este tema porque aquí el protagonista es el  mar y creo que todos coincidimos en que debemos cuidarlo ya que de él también nos  servimos. Este proyecto no incorpora otras aristas, como ya lo dije, lo que se ha realizado  hecho es una ampliación técnica e integral de una misma temática para los distintos usos  compatibles del mar y a todos los actores que forman parte del sistema marino costero. Creo  pertinente, dada la importancia de cuidar el mar, que todos estos actores, ya sean los pescadores,  artesanales, operadores turísticos, como lo escuchamos también, del deporte y demás entidades  también nombradas en el proyecto, alineen sus actividades en función de protegerlo. Asimismo,  tomando en cuenta que este proyecto se ha construido con una amplia participación técnica  e interinstitucional, podemos decir que existe coherencia temática, técnica y jurídica dentro  de todo el informe. En definitiva, no sería justo buscar la preservación de olas rompientes  sin considerar el protagonista y su entorno, el mar. Por ello, yo sostengo que este proyecto  de ley permitirá al Ecuador contar con una ley moderna, integral y sostenible sobre gobernanza  marino costera. Y de acuerdo con los colegas que han pedido que regrese a la comisión, apoyo  esa moción. Y devuelvo la palabra, señor presidente. Gracias.  Tiene la palabra la asambleísta.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Naila Victoria Quintana Tapia",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "MfrrKhLyMR4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Naila Victoria Quintana Tapia",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Naila Quintana - Sesión 093",
+  "url": "https://www.youtube.com/watch?v=MfrrKhLyMR4",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MfrrKhLyMR4",
+  "source_url": "https://www.youtube.com/watch?v=MfrrKhLyMR4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Naila Victoria Quintana Tapia",
+      "party": null,
+      "province": null,
+      "total_time": 189.35,
+      "interventions": 1,
+      "word_count": 365
+    }
+  ]
+}
