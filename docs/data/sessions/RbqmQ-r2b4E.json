@@ -1,0 +1,53 @@
+{
+  "text": "la asamblista Esperanza Rogel.  Gracias, señor presidente, por concederme el uso de la palabra.  Un saludo fraterno a los colegas legisladores y al pueblo ecuatoriano.  La diabetes representa una de las principales causas de muerte y discapacidad a nivel mundial,  incluyendo enfermedades cardiovasculares, ceguera e insuficiencia renal.  Según datos de la Organización Mundial de la Salud,  más de 800 millones de adultos padecen esta enfermedad en el mundo.  Y el Ecuador no está ajeno a esta problemática,  pues el 11% de los ecuatorianos viven con diabetes.  El 54.2% de la población padece de obesidad y otras enfermedades crónicas.  Lamentablemente, lo que repercute en un impacto económico de más del 8% del Producto Interno Bruto.  Con esos antecedentes, colegas asambleístas, esta reforma que hoy debatimos no es una simple reforma.  Hoy debatimos una dura realidad que viven diariamente las familias ecuatorianas.  Porque hablar de diabetes no es solamente abordar el sufrimiento,  es abordar y hablar de un tema tan sensible como aquellas madres que tienen que caminar horas para conseguir insulina,  o también el problema que se enfrentan los adultos mayores para tener que decidir entre comprar alimento o comprar medicamento.  Y esta es una realidad que debe y merece tener respuestas y soluciones por parte del Estado.  Pues la diabetes no es un tema o un problema individual, sino que es un desafío de la salud pública.  Es una condición que afecta vidas y que también afecta las economías familiares y los sistemas sanitarios.  Si no existe prevención y detección temprana, cuando el tratamiento llega, lamentablemente las consecuencias son dolorosas.  Tenemos complicaciones, discapacidad, amputaciones, insuficiencia renal y muchas de las veces la muerte que bien pudo haberse evitado.  La propuesta normativa que hoy estamos debatiendo, compañeros legisladores,  incorpora un enfoque de prevención a la obesidad, lo cual plantea avances estructurales como el acceso al tratamiento,  a la detección temprana, a la regulación de entornos alimentarios, a las campañas de prevención y la protección frente a la discriminación.  No podemos únicamente atender a la enfermedad cuando ésta avanza.  La diabetes no puede seguir siendo una sentencia agravada por la desigualdad social,  porque al hablar de legislación responsable, porque legislar por la salud es legislar también por una justicia social.  Con esos antecedentes, señor presidente y colegas legisladores, considero que esta es una iniciativa buena,  sin embargo, puede mejorarse.  Por lo cual, voy a presentar por escrito las observaciones correspondientes al artículo 15 de la presente propuesta.  Muchas gracias, señor presidente. Hasta aquí mi intervención.",
+  "language": "es",
+  "duration": 209.03,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 208.59,
+      "text": "la asamblista Esperanza Rogel.  Gracias, señor presidente, por concederme el uso de la palabra.  Un saludo fraterno a los colegas legisladores y al pueblo ecuatoriano.  La diabetes representa una de las principales causas de muerte y discapacidad a nivel mundial,  incluyendo enfermedades cardiovasculares, ceguera e insuficiencia renal.  Según datos de la Organización Mundial de la Salud,  más de 800 millones de adultos padecen esta enfermedad en el mundo.  Y el Ecuador no está ajeno a esta problemática,  pues el 11% de los ecuatorianos viven con diabetes.  El 54.2% de la población padece de obesidad y otras enfermedades crónicas.  Lamentablemente, lo que repercute en un impacto económico de más del 8% del Producto Interno Bruto.  Con esos antecedentes, colegas asambleístas, esta reforma que hoy debatimos no es una simple reforma.  Hoy debatimos una dura realidad que viven diariamente las familias ecuatorianas.  Porque hablar de diabetes no es solamente abordar el sufrimiento,  es abordar y hablar de un tema tan sensible como aquellas madres que tienen que caminar horas para conseguir insulina,  o también el problema que se enfrentan los adultos mayores para tener que decidir entre comprar alimento o comprar medicamento.  Y esta es una realidad que debe y merece tener respuestas y soluciones por parte del Estado.  Pues la diabetes no es un tema o un problema individual, sino que es un desafío de la salud pública.  Es una condición que afecta vidas y que también afecta las economías familiares y los sistemas sanitarios.  Si no existe prevención y detección temprana, cuando el tratamiento llega, lamentablemente las consecuencias son dolorosas.  Tenemos complicaciones, discapacidad, amputaciones, insuficiencia renal y muchas de las veces la muerte que bien pudo haberse evitado.  La propuesta normativa que hoy estamos debatiendo, compañeros legisladores,  incorpora un enfoque de prevención a la obesidad, lo cual plantea avances estructurales como el acceso al tratamiento,  a la detección temprana, a la regulación de entornos alimentarios, a las campañas de prevención y la protección frente a la discriminación.  No podemos únicamente atender a la enfermedad cuando ésta avanza.  La diabetes no puede seguir siendo una sentencia agravada por la desigualdad social,  porque al hablar de legislación responsable, porque legislar por la salud es legislar también por una justicia social.  Con esos antecedentes, señor presidente y colegas legisladores, considero que esta es una iniciativa buena,  sin embargo, puede mejorarse.  Por lo cual, voy a presentar por escrito las observaciones correspondientes al artículo 15 de la presente propuesta.  Muchas gracias, señor presidente. Hasta aquí mi intervención.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6711,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "RbqmQ-r2b4E",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Esperanza Del": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Assemblywoman Esperanza Rogel - Session 089",
+  "url": "https://www.youtube.com/watch?v=RbqmQ-r2b4E",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "RbqmQ-r2b4E",
+  "source_url": "https://www.youtube.com/watch?v=RbqmQ-r2b4E",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 208.56,
+      "interventions": 1,
+      "word_count": 413
+    }
+  ]
+}

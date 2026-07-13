@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:12:40.158170",
-  "total_sessions": 556,
+  "generated_at": "2026-07-13T07:23:25.657352",
+  "total_sessions": 564,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5548,6 +5548,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "MoXTbensX9M",
+      "title": "Assemblyman Juan José Reyes - Session 089",
+      "date": "",
+      "duration": 51.83,
+      "url": "https://www.youtube.com/watch?v=MoXTbensX9M",
+      "file_path": "data/sessions/MoXTbensX9M.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FabHo56AYmY",
       "title": "Assemblywoman Diana Jácome - Session 091 - Information Point",
       "date": "",
@@ -6416,6 +6430,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "WRZoxEeh1ro",
+      "title": "Assemblyman Jorge Chamba - Session 091",
+      "date": "",
+      "duration": 330.09,
+      "url": "https://www.youtube.com/watch?v=WRZoxEeh1ro",
+      "file_path": "data/sessions/WRZoxEeh1ro.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "dRzepRIqlhQ",
       "title": "Assemblyman Eckenner Recalde - Session 091",
       "date": "",
@@ -6424,6 +6452,20 @@
       "file_path": "data/sessions/dRzepRIqlhQ.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "QxyqnErbsNU",
+      "title": "Swearing-in of the principal and alternate members of the Council of the Judiciary - Session 090",
+      "date": "",
+      "duration": 622.83,
+      "url": "https://www.youtube.com/watch?v=QxyqnErbsNU",
+      "file_path": "data/sessions/QxyqnErbsNU.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6836,6 +6878,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "iQP4XcZ6IuE",
+      "title": "Assemblyman Blasco Luna - Session 091",
+      "date": "",
+      "duration": 633.88,
+      "url": "https://www.youtube.com/watch?v=iQP4XcZ6IuE",
+      "file_path": "data/sessions/iQP4XcZ6IuE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "OHhWL4oqZ6E",
       "title": "Assemblywoman Gabriela Molina - Session 094",
       "date": "",
@@ -6990,6 +7046,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "ZOtVOAH_I-U",
+      "title": "Assemblywoman Diana Jácome Session 091",
+      "date": "",
+      "duration": 1137.13,
+      "url": "https://www.youtube.com/watch?v=ZOtVOAH_I-U",
+      "file_path": "data/sessions/ZOtVOAH_I-U.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Bvoh99lMkYg",
       "title": "Assemblyman Edmundo Cerda - Session 091",
       "date": "",
@@ -7116,6 +7186,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "cjV0-qljBao",
+      "title": "Assemblyman Juan Gonzaga - Session 089",
+      "date": "",
+      "duration": 500.69,
+      "url": "https://www.youtube.com/watch?v=cjV0-qljBao",
+      "file_path": "data/sessions/cjV0-qljBao.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "D6iXN9Pvhm4",
       "title": "Assemblywoman Camila León - Session 094",
       "date": "",
@@ -7220,6 +7304,20 @@
       "duration": 614.86,
       "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
       "file_path": "data/sessions/X45qVMPHm9w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "RbqmQ-r2b4E",
+      "title": "Assemblywoman Esperanza Rogel - Session 089",
+      "date": "",
+      "duration": 209.03,
+      "url": "https://www.youtube.com/watch?v=RbqmQ-r2b4E",
+      "file_path": "data/sessions/RbqmQ-r2b4E.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7754,6 +7852,20 @@
       "file_path": "data/sessions/fUWaOQFxBrE.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "vE1br4ROVPU",
+      "title": "President of the Council of the Judiciary - Mercedes Caicedo - Session 090",
+      "date": "",
+      "duration": 1108.82,
+      "url": "https://www.youtube.com/watch?v=vE1br4ROVPU",
+      "file_path": "data/sessions/vE1br4ROVPU.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
