@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente, colegas legisladores, muy buenas tardes.  Qué gusto y qué virtud poder debatir este tema tan importante el día de hoy.  Y hoy quiero hablar de oportunidades, las oportunidades que los 151 legisladores hemos tenido en toda nuestra trayectoria para el día de hoy estar aquí sirviendo a la ciudadanía.  Tuvimos la oportunidad de tener una familia, la oportunidad de educarnos, educación primaria, secundaria, la oportunidad de poder hacer deporte, de escoger un sueño, la oportunidad de formarnos en educación superior.  Y hoy la oportunidad de servir a nuestra comunidad, a nuestras provincias.  La pregunta es, ¿vamos a darles esa oportunidad a aquellos niños, niñas y adolescentes que actualmente están en proceso de adopción?  Claro que sí, es nuestra responsabilidad darles a nuestros jóvenes la facilidad de poder acceder a esas oportunidades que todos nosotros hemos tenido.  Recuerdo haber visitado una casa hogar en mi provincia de Santo Domingo de los Táchilas y haber dialogado con una adolescente.  Y me manifestaba el sueño que ella tenía y su preocupación como tal.  Ella manifestaba que deseaba ser doctora y que su preocupación era que en el momento de cumplir los 18 años,  ¿cómo iba a poder estudiar? ¿Cómo iba a poder acceder a la educación superior?  Hoy, este proyecto de ley cumple una responsabilidad muy grande y les da esa oportunidad de educarse a aquellos jóvenes  que lastimosamente han cumplido su mayoría de edad en una casa de acogida.  Estamos avanzando, colegas legisladores.  Y es aquí, en este foro de la democracia, en este parlamento, en donde realmente estamos construyendo un país mejor mediante esta modalidad.  Quiero felicitar, por supuesto, a la proponente de este proyecto de ley, la asambleísta Lucía Pozo,  a la asambleísta Diana Jacome, que ha presidido la comisión en búsqueda de beneficios reales para nuestros niños, niñas y adolescentes de mi patria.  Todo mi respaldo a este proyecto de ley, por supuesto, y a seguir debatiendo por un futuro mejor.  Un futuro en donde nuestros jóvenes sean parte de ese cambio y donde tengan esas oportunidades que todos merecemos.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 168.16,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 165.95,
+      "text": "Gracias, señor presidente, colegas legisladores, muy buenas tardes.  Qué gusto y qué virtud poder debatir este tema tan importante el día de hoy.  Y hoy quiero hablar de oportunidades, las oportunidades que los 151 legisladores hemos tenido en toda nuestra trayectoria para el día de hoy estar aquí sirviendo a la ciudadanía.  Tuvimos la oportunidad de tener una familia, la oportunidad de educarnos, educación primaria, secundaria, la oportunidad de poder hacer deporte, de escoger un sueño, la oportunidad de formarnos en educación superior.  Y hoy la oportunidad de servir a nuestra comunidad, a nuestras provincias.  La pregunta es, ¿vamos a darles esa oportunidad a aquellos niños, niñas y adolescentes que actualmente están en proceso de adopción?  Claro que sí, es nuestra responsabilidad darles a nuestros jóvenes la facilidad de poder acceder a esas oportunidades que todos nosotros hemos tenido.  Recuerdo haber visitado una casa hogar en mi provincia de Santo Domingo de los Táchilas y haber dialogado con una adolescente.  Y me manifestaba el sueño que ella tenía y su preocupación como tal.  Ella manifestaba que deseaba ser doctora y que su preocupación era que en el momento de cumplir los 18 años,  ¿cómo iba a poder estudiar? ¿Cómo iba a poder acceder a la educación superior?  Hoy, este proyecto de ley cumple una responsabilidad muy grande y les da esa oportunidad de educarse a aquellos jóvenes  que lastimosamente han cumplido su mayoría de edad en una casa de acogida.  Estamos avanzando, colegas legisladores.  Y es aquí, en este foro de la democracia, en este parlamento, en donde realmente estamos construyendo un país mejor mediante esta modalidad.  Quiero felicitar, por supuesto, a la proponente de este proyecto de ley, la asambleísta Lucía Pozo,  a la asambleísta Diana Jacome, que ha presidido la comisión en búsqueda de beneficios reales para nuestros niños, niñas y adolescentes de mi patria.  Todo mi respaldo a este proyecto de ley, por supuesto, y a seguir debatiendo por un futuro mejor.  Un futuro en donde nuestros jóvenes sean parte de ese cambio y donde tengan esas oportunidades que todos merecemos.  Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Christopher Manuel Jaramillo Gómez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "h8Y0eDFYras",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "confidence": 1.0,
+      "votes": {
+        "Christopher Manuel Jaramillo Gómez": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Christopher Jaramillo - Session 091",
+  "url": "https://www.youtube.com/watch?v=h8Y0eDFYras",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "h8Y0eDFYras",
+  "source_url": "https://www.youtube.com/watch?v=h8Y0eDFYras",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 165.92,
+      "interventions": 1,
+      "word_count": 346
+    }
+  ]
+}
