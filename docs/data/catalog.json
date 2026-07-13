@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:43:54.123186",
-  "total_sessions": 476,
+  "generated_at": "2026-07-13T05:53:28.840121",
+  "total_sessions": 484,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5646,6 +5646,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "fH2pZInho9U",
+      "title": "Assemblyman Roque Ordoñez - Session 094",
+      "date": "",
+      "duration": 610.68,
+      "url": "https://www.youtube.com/watch?v=fH2pZInho9U",
+      "file_path": "data/sessions/fH2pZInho9U.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7DTDnqQC-oc",
       "title": "Assemblywoman Diana Jácome - Session 095",
       "date": "",
@@ -5842,6 +5856,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "wDW3N5jOnDs",
+      "title": "Assemblyman Esteban Torres - Session 094",
+      "date": "",
+      "duration": 575.09,
+      "url": "https://www.youtube.com/watch?v=wDW3N5jOnDs",
+      "file_path": "data/sessions/wDW3N5jOnDs.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rviWLBI0NlU",
       "title": "Assemblywoman Mariana Yumbay - Session 094",
       "date": "",
@@ -5884,6 +5912,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "F4ZUzjIpwwE",
+      "title": "Assemblyman Steven Ordoñez - Session 094",
+      "date": "",
+      "duration": 502.99,
+      "url": "https://www.youtube.com/watch?v=F4ZUzjIpwwE",
+      "file_path": "data/sessions/F4ZUzjIpwwE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "OfRxk3vdsDw",
       "title": "Assemblyman Sergio Peña - Session 098",
       "date": "",
@@ -5918,6 +5960,20 @@
       "duration": 729.45,
       "url": "https://www.youtube.com/watch?v=WmREmOBcVL4",
       "file_path": "data/sessions/WmREmOBcVL4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ys9h8yMLkws",
+      "title": "Assemblyman Juan Reyes - Session 094",
+      "date": "",
+      "duration": 356.01,
+      "url": "https://www.youtube.com/watch?v=ys9h8yMLkws",
+      "file_path": "data/sessions/ys9h8yMLkws.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6004,6 +6060,20 @@
       "file_path": "data/sessions/ittqRwT5QJU.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "vThpKE77tDk",
+      "title": "Assemblywoman Rosa Torres - Session 094",
+      "date": "",
+      "duration": 710.48,
+      "url": "https://www.youtube.com/watch?v=vThpKE77tDk",
+      "file_path": "data/sessions/vThpKE77tDk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6304,6 +6374,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "59t5QbBIJhk",
+      "title": "Assemblyman Andrés Guschmer - Session 094",
+      "date": "",
+      "duration": 466.88,
+      "url": "https://www.youtube.com/watch?v=59t5QbBIJhk",
+      "file_path": "data/sessions/59t5QbBIJhk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "RAPL9IbAVJA",
       "title": "Assemblywoman Karolina Dueñas - Session 096",
       "date": "",
@@ -6366,6 +6450,20 @@
       "duration": 614.86,
       "url": "https://www.youtube.com/watch?v=X45qVMPHm9w",
       "file_path": "data/sessions/X45qVMPHm9w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "rEvSgc5tCSg",
+      "title": "Assemblyman Alex Morán - Session 094",
+      "date": "",
+      "duration": 219.47,
+      "url": "https://www.youtube.com/watch?v=rEvSgc5tCSg",
+      "file_path": "data/sessions/rEvSgc5tCSg.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6646,6 +6744,20 @@
       "duration": 281.43,
       "url": "https://www.youtube.com/watch?v=es-nFNQBrks",
       "file_path": "data/sessions/es-nFNQBrks.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "fUWaOQFxBrE",
+      "title": "Assemblyman Jorge Chamba - Session 094",
+      "date": "",
+      "duration": 271.09,
+      "url": "https://www.youtube.com/watch?v=fUWaOQFxBrE",
+      "file_path": "data/sessions/fUWaOQFxBrE.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
