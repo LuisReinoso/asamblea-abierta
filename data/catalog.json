@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:57:46.845216",
-  "total_sessions": 540,
+  "generated_at": "2026-07-13T07:05:25.204022",
+  "total_sessions": 548,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -6052,6 +6052,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "h8Y0eDFYras",
+      "title": "Assemblyman Christopher Jaramillo - Session 091",
+      "date": "",
+      "duration": 168.16,
+      "url": "https://www.youtube.com/watch?v=h8Y0eDFYras",
+      "file_path": "data/sessions/h8Y0eDFYras.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rviWLBI0NlU",
       "title": "Assemblywoman Mariana Yumbay - Session 094",
       "date": "",
@@ -6164,6 +6178,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Y0yHlZwsa7g",
+      "title": "Assemblywoman Jhajaira Urresta - Session 091",
+      "date": "",
+      "duration": 324.55,
+      "url": "https://www.youtube.com/watch?v=Y0yHlZwsa7g",
+      "file_path": "data/sessions/Y0yHlZwsa7g.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "F4ZUzjIpwwE",
       "title": "Assemblyman Steven Ordoñez - Session 094",
       "date": "",
@@ -6206,12 +6234,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "FDLQbqfdqSU",
+      "title": "Assemblyman Andrés Castillo - Session 091",
+      "date": "",
+      "duration": 653.97,
+      "url": "https://www.youtube.com/watch?v=FDLQbqfdqSU",
+      "file_path": "data/sessions/FDLQbqfdqSU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Z2AMic0hwIg",
       "title": "Assemblyman Andrés Castillo - Session 092",
       "date": "",
       "duration": 722.72,
       "url": "https://www.youtube.com/watch?v=Z2AMic0hwIg",
       "file_path": "data/sessions/Z2AMic0hwIg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "4_e05I9Itok",
+      "title": "Assemblyman Cristián Benavides - Session 091",
+      "date": "",
+      "duration": 543.49,
+      "url": "https://www.youtube.com/watch?v=4_e05I9Itok",
+      "file_path": "data/sessions/4_e05I9Itok.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6626,6 +6682,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "58STBCSn7b0",
+      "title": "Assemblywoman Pamela Aguirre - Session 091",
+      "date": "",
+      "duration": 597.43,
+      "url": "https://www.youtube.com/watch?v=58STBCSn7b0",
+      "file_path": "data/sessions/58STBCSn7b0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "LrPOZRZ-jDM",
       "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
       "date": "",
@@ -6730,6 +6800,20 @@
       "duration": 280.82,
       "url": "https://www.youtube.com/watch?v=64jnHwerM3s",
       "file_path": "data/sessions/64jnHwerM3s.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Fpe0qiLuOsQ",
+      "title": "Assemblywoman Diana Jácome - Session 091 - 3rd Speech",
+      "date": "",
+      "duration": 271.72,
+      "url": "https://www.youtube.com/watch?v=Fpe0qiLuOsQ",
+      "file_path": "data/sessions/Fpe0qiLuOsQ.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6912,6 +6996,34 @@
       "duration": 337.11,
       "url": "https://www.youtube.com/watch?v=Z-sOGKzKaiI",
       "file_path": "data/sessions/Z-sOGKzKaiI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "QR5CJmW_UFc",
+      "title": "Assemblyman Ricardo Patiño - Session 091",
+      "date": "",
+      "duration": 714.94,
+      "url": "https://www.youtube.com/watch?v=QR5CJmW_UFc",
+      "file_path": "data/sessions/QR5CJmW_UFc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dp0IYvb0txM",
+      "title": "Assemblywoman Nathaly Farinango - Session 091",
+      "date": "",
+      "duration": 376.44,
+      "url": "https://www.youtube.com/watch?v=dp0IYvb0txM",
+      "file_path": "data/sessions/dp0IYvb0txM.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
