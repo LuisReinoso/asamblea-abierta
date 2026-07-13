@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:05:25.048269",
-  "total_sessions": 548,
+  "generated_at": "2026-07-13T07:12:39.998919",
+  "total_sessions": 556,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -63,6 +63,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
+      "name": "Diana Angélica Jácome Silva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 3878.77,
+      "total_interventions": 17,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
       "name": "Janeth Paola Cabezas Castillo",
       "type": "asambleísta",
@@ -109,18 +121,6 @@
       "total_interventions": 15,
       "sessions_attended": 10,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
-      "name": "Diana Angélica Jácome Silva",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 3420.3900000000003,
-      "total_interventions": 15,
-      "sessions_attended": 6,
-      "topics_discussed": 0
     },
     {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
@@ -327,6 +327,30 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
+      "name": "Otto Santiago Vera Palacios",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Únete",
+      "province": "Santa Elena",
+      "total_time": 1519.95,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LUIS-FERNANDO-MOLINA-ONOFA",
+      "name": "Luis Fernando Molina Onofa",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Resto",
+      "total_time": 1513.4299999999998,
+      "total_interventions": 4,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
       "name": "Nathaly Estefanía Farinango Delgado",
       "type": "asambleísta",
@@ -495,6 +519,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
+      "name": "Isaac Vladimir Solano Calle",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 1252.3,
+      "total_interventions": 8,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
       "name": "Mireya Katerine Pazmiño Arregui",
       "type": "asambleísta",
@@ -531,18 +567,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-LUIS-FERNANDO-MOLINA-ONOFA",
-      "name": "Luis Fernando Molina Onofa",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Pichincha Resto",
-      "total_time": 1126.03,
-      "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
       "name": "María Verónica Iñiguez Gallardo",
       "type": "asambleísta",
@@ -550,18 +574,6 @@
       "party": "RC",
       "province": "Loja",
       "total_time": 1053.41,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
-      "name": "Otto Santiago Vera Palacios",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Únete",
-      "province": "Santa Elena",
-      "total_time": 1015.6600000000001,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -747,6 +759,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-BLASCO-REMIGIO-LUNA-AREVALO",
+      "name": "Blasco Remigio Luna Arévalo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Cañar",
+      "total_time": 788.47,
+      "total_interventions": 4,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
       "name": "Alejandro Lorenzo Vanegas Cortazar",
       "type": "asambleísta",
@@ -755,18 +779,6 @@
       "province": "Guayas",
       "total_time": 777.8399999999999,
       "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
-      "name": "Isaac Vladimir Solano Calle",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 777.3199999999999,
-      "total_interventions": 7,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -891,18 +903,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-BLASCO-REMIGIO-LUNA-AREVALO",
-      "name": "Blasco Remigio Luna Arévalo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Cañar",
-      "total_time": 557.65,
-      "total_interventions": 3,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-NURIA-SUSANA-BUTINA-MARTINEZ",
       "name": "Nuria Susana Butiñá Martínez",
       "type": "asambleísta",
@@ -947,6 +947,18 @@
       "province": "Manabí",
       "total_time": 485.02000000000004,
       "total_interventions": 4,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JORGE-EDMUNDO-CERDA-TAPUY",
+      "name": "Jorge Edmundo Cerda Tapuy",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Napo",
+      "total_time": 461.89,
+      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
@@ -1066,6 +1078,18 @@
       "party": "ADN",
       "province": "Nacional",
       "total_time": 358.95,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ANELISSE-JOSEBETH-JARAMILLO-RODRIGUEZ",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Loja",
+      "total_time": 351.51,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:05:25.204022",
-  "total_sessions": 548,
+  "generated_at": "2026-07-13T07:12:40.158170",
+  "total_sessions": 556,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5548,6 +5548,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "FabHo56AYmY",
+      "title": "Assemblywoman Diana Jácome - Session 091 - Information Point",
+      "date": "",
+      "duration": 201.22,
+      "url": "https://www.youtube.com/watch?v=FabHo56AYmY",
+      "file_path": "data/sessions/FabHo56AYmY.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "KS6TOziChHQ",
       "title": "Assemblywoman Paola Jaramillo - Session 094",
       "date": "",
@@ -5836,6 +5850,20 @@
       "file_path": "data/sessions/vqjaZWfXXd4.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "PYOdNp60A48",
+      "title": "Assemblyman Blasco Luna - Session 091 - II Intervention",
+      "date": "",
+      "duration": 233.73,
+      "url": "https://www.youtube.com/watch?v=PYOdNp60A48",
+      "file_path": "data/sessions/PYOdNp60A48.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6234,6 +6262,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "nqZY7RIgsyc",
+      "title": "Assemblyman Isaac Solano - Session 091",
+      "date": "",
+      "duration": 475.78,
+      "url": "https://www.youtube.com/watch?v=nqZY7RIgsyc",
+      "file_path": "data/sessions/nqZY7RIgsyc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FDLQbqfdqSU",
       "title": "Assemblyman Andrés Castillo - Session 091",
       "date": "",
@@ -6492,6 +6534,20 @@
       "duration": 710.48,
       "url": "https://www.youtube.com/watch?v=vThpKE77tDk",
       "file_path": "data/sessions/vThpKE77tDk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "y-enV8Tg-6E",
+      "title": "Assemblyman Luis Molina - Session 091",
+      "date": "",
+      "duration": 388.89,
+      "url": "https://www.youtube.com/watch?v=y-enV8Tg-6E",
+      "file_path": "data/sessions/y-enV8Tg-6E.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6934,6 +6990,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Bvoh99lMkYg",
+      "title": "Assemblyman Edmundo Cerda - Session 091",
+      "date": "",
+      "duration": 463.87,
+      "url": "https://www.youtube.com/watch?v=Bvoh99lMkYg",
+      "file_path": "data/sessions/Bvoh99lMkYg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "roQrPGbEbeI",
       "title": "Assemblywoman Ana Belén Tapia - Session 098 - Point of Information",
       "date": "",
@@ -7228,6 +7298,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "GAsVes3roDM",
+      "title": "Assemblyman Otto Vera - Session 091",
+      "date": "",
+      "duration": 504.36,
+      "url": "https://www.youtube.com/watch?v=GAsVes3roDM",
+      "file_path": "data/sessions/GAsVes3roDM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c1eIY0MwPFE",
       "title": "Assemblyman Cristian Benavides - Session 098",
       "date": "",
@@ -7332,6 +7416,34 @@
       "duration": 616.19,
       "url": "https://www.youtube.com/watch?v=Q4vE63175Lk",
       "file_path": "data/sessions/Q4vE63175Lk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "HX3R9mVz82I",
+      "title": "Assemblywoman Diana Jacome - Session 091 - II Intervention",
+      "date": "",
+      "duration": 262.15,
+      "url": "https://www.youtube.com/watch?v=HX3R9mVz82I",
+      "file_path": "data/sessions/HX3R9mVz82I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "XmqQWm6CzjQ",
+      "title": "Assemblywoman Josebeth Jaramillo - Session 091",
+      "date": "",
+      "duration": 355.24,
+      "url": "https://www.youtube.com/watch?v=XmqQWm6CzjQ",
+      "file_path": "data/sessions/XmqQWm6CzjQ.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
