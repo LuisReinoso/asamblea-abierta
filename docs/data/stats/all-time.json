@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:29:05.340013",
-  "total_sessions": 516,
+  "generated_at": "2026-07-13T06:39:53.784210",
+  "total_sessions": 524,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Nacional",
-      "total_time": 3877.54,
-      "total_interventions": 11,
-      "sessions_attended": 11,
+      "total_time": 4315.74,
+      "total_interventions": 12,
+      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -195,6 +195,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
+      "name": "Diana Angélica Jácome Silva",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 1981.04,
+      "total_interventions": 13,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
       "name": "Mariana Yumbay Yallico",
       "type": "asambleísta",
@@ -231,6 +243,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
+      "name": "Brígida Lucía Pozo Moreta",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Carchi",
+      "total_time": 1894.1200000000001,
+      "total_interventions": 13,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROSA-ALEGRIA-TORRES-CADENA",
       "name": "Rosa Alegría Torres Cadena",
       "type": "asambleísta",
@@ -252,18 +276,6 @@
       "total_time": 1859.6000000000001,
       "total_interventions": 8,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
-      "name": "Brígida Lucía Pozo Moreta",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Carchi",
-      "total_time": 1804.19,
-      "total_interventions": 10,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -339,15 +351,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-DIANA-ANGELICA-JACOME-SILVA",
-      "name": "Diana Angélica Jácome Silva",
+      "id": "AN-JUAN-MARCO-GONZAGA-SALAZAR",
+      "name": "Juan Marco Gonzaga Salazar",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 1395.73,
-      "total_interventions": 12,
-      "sessions_attended": 3,
+      "party": "AC",
+      "province": "Sucumbíos",
+      "total_time": 1428.01,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -579,6 +591,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
+      "name": "Eliana Katherine Correa González",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "América Latina, Caribe y África",
+      "total_time": 917.1600000000001,
+      "total_interventions": 7,
+      "sessions_attended": 5,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
       "name": "Rosa Cecilia Baltazar Yucailla",
       "type": "asambleísta",
@@ -649,18 +673,6 @@
       "total_interventions": 4,
       "sessions_attended": 2,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
-      "name": "Eliana Katherine Correa González",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "América Latina, Caribe y África",
-      "total_time": 809.1500000000001,
-      "total_interventions": 4,
-      "sessions_attended": 4,
-      "topics_discussed": 0
     },
     {
       "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
@@ -744,18 +756,6 @@
       "total_time": 711.81,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-MARCO-GONZAGA-SALAZAR",
-      "name": "Juan Marco Gonzaga Salazar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "AC",
-      "province": "Sucumbíos",
-      "total_time": 674.61,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1131,6 +1131,30 @@
       "topics_discussed": 0
     },
     {
+      "id": "BEATRIZ-AGUIRRE",
+      "name": "Beatriz Aguirre",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 273.31,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "JERICCO-ROSERO",
+      "name": "Jericco Rosero",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 272.24,
+      "total_interventions": 3,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JANETH-KATHERINE-BUSTOS-SALAZAR",
       "name": "Janeth Katherine Bustos Salazar",
       "type": "asambleísta",
@@ -1199,6 +1223,18 @@
       "province": null,
       "total_time": 233.6,
       "total_interventions": 2,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "CECILIA-TORRES",
+      "name": "Cecilia Torres",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 232.55,
+      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
