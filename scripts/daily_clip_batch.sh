@@ -23,6 +23,33 @@ START_TIME=$(date +%s)
 log "=== daily clip batch starting ==="
 notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y-%m-%d %H:%M'))"
 
+# diarization-server shares the GPU with ornith-35b (systemd Conflicts= handles
+# the swap): starting it auto-stops ornith-35b, we restore ornith-35b on exit.
+log "starting diarization-server (stops ornith-35b via Conflicts=)"
+systemctl --user start diarization-server.service
+restore_llm() {
+    systemctl --user stop diarization-server.service
+    systemctl --user start ornith-35b.service
+    log "diarization-server stopped, ornith-35b restored"
+}
+trap restore_llm EXIT
+
+DIARIZE_READY=0
+for i in $(seq 1 20); do
+    if curl -s -m 3 http://localhost:8001/ >/dev/null 2>&1; then
+        DIARIZE_READY=1
+        break
+    fi
+    sleep 3
+done
+
+if [ "$DIARIZE_READY" -ne 1 ]; then
+    log "diarization-server failed to come up after 60s, aborting batch"
+    notify "Asamblea Abierta - ERROR" "diarization-server no levantó a tiempo. Batch abortado."
+    exit 1
+fi
+log "diarization-server ready"
+
 source "$REPO_DIR/.venv/bin/activate"
 
 OUTPUT=$(python3 scripts/run_batch.py --limit "$BATCH_LIMIT" --video-type clip 2>&1)
