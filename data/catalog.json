@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:53:28.840121",
-  "total_sessions": 484,
+  "generated_at": "2026-07-13T06:01:54.174149",
+  "total_sessions": 492,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5450,6 +5450,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "HXqyObf2Vn0",
+      "title": "Assemblyman Henry Bósquez - Session 094",
+      "date": "",
+      "duration": 416.15,
+      "url": "https://www.youtube.com/watch?v=HXqyObf2Vn0",
+      "file_path": "data/sessions/HXqyObf2Vn0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "oCuv6ONYHyI",
       "title": "Assemblywoman Cecilia Baltazar - Session 097",
       "date": "",
@@ -5624,6 +5638,20 @@
       "duration": 523.52,
       "url": "https://www.youtube.com/watch?v=D9MPLNAczXE",
       "file_path": "data/sessions/D9MPLNAczXE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "nJdP77uNVh8",
+      "title": "Assemblywoman María Paula Villacreses - Session 094",
+      "date": "",
+      "duration": 279.15,
+      "url": "https://www.youtube.com/watch?v=nJdP77uNVh8",
+      "file_path": "data/sessions/nJdP77uNVh8.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5814,6 +5842,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "VYpouvFfiUA",
+      "title": "Assemblyman Edwin Jarrín - Session 094",
+      "date": "",
+      "duration": 266.87,
+      "url": "https://www.youtube.com/watch?v=VYpouvFfiUA",
+      "file_path": "data/sessions/VYpouvFfiUA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "V07AoYGJZJQ",
       "title": "Assemblyman Andrés Castillo - Session 095 - Rebuttal",
       "date": "",
@@ -5878,6 +5920,34 @@
       "file_path": "data/sessions/rviWLBI0NlU.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "AJvFZ-KETss",
+      "title": "Assemblywoman Viviana Veloz - Session 094",
+      "date": "",
+      "duration": 702.54,
+      "url": "https://www.youtube.com/watch?v=AJvFZ-KETss",
+      "file_path": "data/sessions/AJvFZ-KETss.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Gf1lnAxO_vM",
+      "title": "Assemblywoman Carmen Tiupul - Session 094",
+      "date": "",
+      "duration": 356.52,
+      "url": "https://www.youtube.com/watch?v=Gf1lnAxO_vM",
+      "file_path": "data/sessions/Gf1lnAxO_vM.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6248,6 +6318,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "rrAu5SRHyt4",
+      "title": "Assemblywoman Liliana Durán - Session 094",
+      "date": "",
+      "duration": 678.19,
+      "url": "https://www.youtube.com/watch?v=rrAu5SRHyt4",
+      "file_path": "data/sessions/rrAu5SRHyt4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "cFqDvZy7Auo",
       "title": "Assemblywoman Viviana Veloz - Session 095",
       "date": "",
@@ -6458,6 +6542,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "O4eJq-joB_c",
+      "title": "Assemblyman Sergio Peña - Session 094",
+      "date": "",
+      "duration": 447.03,
+      "url": "https://www.youtube.com/watch?v=O4eJq-joB_c",
+      "file_path": "data/sessions/O4eJq-joB_c.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rEvSgc5tCSg",
       "title": "Assemblyman Alex Morán - Session 094",
       "date": "",
@@ -6604,6 +6702,20 @@
       "duration": 250.5,
       "url": "https://www.youtube.com/watch?v=HccLhtm3xIA",
       "file_path": "data/sessions/HccLhtm3xIA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "rpb0kW26cl8",
+      "title": "Assemblyman Alfredo Serrano - Session 094",
+      "date": "",
+      "duration": 722.42,
+      "url": "https://www.youtube.com/watch?v=rpb0kW26cl8",
+      "file_path": "data/sessions/rpb0kW26cl8.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
