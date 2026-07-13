@@ -1,0 +1,50 @@
+{
+  "text": "La Federación Ecuatoriana de Exportadores fue constituida en abril de 1976, consolidándose  durante cinco décadas como una institución referente en la representación y fortalecimiento  del sector exportador ecuatoriano.  Su gestión institucional ha contribuido significativamente al desarrollo del comercio  exterior del Ecuador, mediante la participación en la construcción del marco normativo del  sector, la promoción de programas de internacionalización y el fortalecimiento de cadenas productivas  nacionales.  El presidente de la Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer  a la Federación Ecuatoriana de Exportadores al conmemorar su quincuagésimo aniversario  de fundación, destacando su trayectoria institucional y su valioso aporte al fortalecimiento del  comercio exterior, la generación de empleo y el desarrollo económico del Ecuador.  Hace entrega de este reconocimiento el señor asambleísta Nils Olsenpid, presidente de  de la Asamblea Nacional.  Agradecemos la participación del señor Javier Rosero y la señora Carla Barbotó, en  representación de la Federación Ecuatoriana de Exportadores, FedExport.",
+  "language": "es",
+  "duration": 187.45,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 28.84,
+      "end": 186.37,
+      "text": "La Federación Ecuatoriana de Exportadores fue constituida en abril de 1976, consolidándose  durante cinco décadas como una institución referente en la representación y fortalecimiento  del sector exportador ecuatoriano.  Su gestión institucional ha contribuido significativamente al desarrollo del comercio  exterior del Ecuador, mediante la participación en la construcción del marco normativo del  sector, la promoción de programas de internacionalización y el fortalecimiento de cadenas productivas  nacionales.  El presidente de la Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer  a la Federación Ecuatoriana de Exportadores al conmemorar su quincuagésimo aniversario  de fundación, destacando su trayectoria institucional y su valioso aporte al fortalecimiento del  comercio exterior, la generación de empleo y el desarrollo económico del Ecuador.  Hace entrega de este reconocimiento el señor asambleísta Nils Olsenpid, presidente de  de la Asamblea Nacional.  Agradecemos la participación del señor Javier Rosero y la señora Carla Barbotó, en  representación de la Federación Ecuatoriana de Exportadores, FedExport.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "tHdsj2zt6BE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Condecoración - Sesión 093 - Comisión General",
+  "url": "https://www.youtube.com/watch?v=tHdsj2zt6BE",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "tHdsj2zt6BE",
+  "source_url": "https://www.youtube.com/watch?v=tHdsj2zt6BE",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 157.53,
+      "interventions": 1,
+      "word_count": 151
+    }
+  ]
+}
