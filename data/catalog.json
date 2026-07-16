@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T06:40:47.755582",
-  "total_sessions": 576,
+  "generated_at": "2026-07-16T07:10:50.789030",
+  "total_sessions": 584,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5898,6 +5898,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "R080lbuHX4Y",
+      "title": "Assemblywoman Camila Cueva - Session 088 - Change of agenda",
+      "date": "",
+      "duration": 755.35,
+      "url": "https://www.youtube.com/watch?v=R080lbuHX4Y",
+      "file_path": "data/sessions/R080lbuHX4Y.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7STPxfJ_PBQ",
       "title": "Assemblywoman Katherine Pacheco - Session 095",
       "date": "",
@@ -6206,6 +6220,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "553yq2hON_M",
+      "title": "Assemblyman Andres Guschmer - Session 088 - Change of agenda",
+      "date": "",
+      "duration": 838.57,
+      "url": "https://www.youtube.com/watch?v=553yq2hON_M",
+      "file_path": "data/sessions/553yq2hON_M.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Gf1lnAxO_vM",
       "title": "Assemblywoman Carmen Tiupul - Session 094",
       "date": "",
@@ -6424,6 +6452,20 @@
       "file_path": "data/sessions/1Zs7_Bcn0-4.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "JaCky2w_NiA",
+      "title": "Assemblyman Xavier Ordóñez - Session 087",
+      "date": "",
+      "duration": 572.72,
+      "url": "https://www.youtube.com/watch?v=JaCky2w_NiA",
+      "file_path": "data/sessions/JaCky2w_NiA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6696,6 +6738,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "mW1zNkxCRxU",
+      "title": "Assemblywoman Ana Belén Tapia - Session 087",
+      "date": "",
+      "duration": 403.56,
+      "url": "https://www.youtube.com/watch?v=mW1zNkxCRxU",
+      "file_path": "data/sessions/mW1zNkxCRxU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "HZSUa8ZFZKk",
       "title": "Votación de la moción del asambleísta Mario Zambrano - Sesión 089",
       "date": "",
@@ -6808,12 +6864,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "DwENNyvKUcY",
+      "title": "Voting on the motion of Assemblyman José Nango - Session 087",
+      "date": "",
+      "duration": 665.79,
+      "url": "https://www.youtube.com/watch?v=DwENNyvKUcY",
+      "file_path": "data/sessions/DwENNyvKUcY.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "l2q3XiZMBEc",
       "title": "Assemblywoman Esperanza Rogel - Session 095",
       "date": "",
       "duration": 313.05,
       "url": "https://www.youtube.com/watch?v=l2q3XiZMBEc",
       "file_path": "data/sessions/l2q3XiZMBEc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "NsajAA28Dwc",
+      "title": "Assemblyman Isaac Solano - Session 088",
+      "date": "",
+      "duration": 43.82,
+      "url": "https://www.youtube.com/watch?v=NsajAA28Dwc",
+      "file_path": "data/sessions/NsajAA28Dwc.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6984,6 +7068,20 @@
       "file_path": "data/sessions/iQP4XcZ6IuE.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "jywMlF-JjRU",
+      "title": "Assemblywoman Domenica Escobar - Session 088 - Change of agenda",
+      "date": "",
+      "duration": 728.13,
+      "url": "https://www.youtube.com/watch?v=jywMlF-JjRU",
+      "file_path": "data/sessions/jywMlF-JjRU.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -7360,6 +7458,20 @@
       "duration": 261.39,
       "url": "https://www.youtube.com/watch?v=RAPL9IbAVJA",
       "file_path": "data/sessions/RAPL9IbAVJA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "muiIc1jkGOk",
+      "title": "Voting on the motion of Assemblyman Isaac Solano - Session 088",
+      "date": "",
+      "duration": 875.76,
+      "url": "https://www.youtube.com/watch?v=muiIc1jkGOk",
+      "file_path": "data/sessions/muiIc1jkGOk.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

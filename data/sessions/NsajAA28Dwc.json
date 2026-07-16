@@ -1,0 +1,50 @@
+{
+  "text": "Sí, se le escucha, asambleísta.  Gracias, presidenta.  Colegas asambleístas, pueblo ecuatoriano que nos está viendo a través de los diferentes medios de comunicación  que tiene la Asamblea Nacional, como bien leyó el secretario o señorita presidenta,  la moción fue presentada conforme al artículo 135 de la Ley Orgánica de la Función Legislativa  en base al segundo punto del orden del día, presidenta,  lo cual también fue enviada por el sistema de gestión documental  y solicito de manera respetuosa que se someta a la votación respectiva.",
+  "language": "es",
+  "duration": 43.82,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.44,
+      "end": 36.16,
+      "text": "Sí, se le escucha, asambleísta.  Gracias, presidenta.  Colegas asambleístas, pueblo ecuatoriano que nos está viendo a través de los diferentes medios de comunicación  que tiene la Asamblea Nacional, como bien leyó el secretario o señorita presidenta,  la moción fue presentada conforme al artículo 135 de la Ley Orgánica de la Función Legislativa  en base al segundo punto del orden del día, presidenta,  lo cual también fue enviada por el sistema de gestión documental  y solicito de manera respetuosa que se someta a la votación respectiva.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Isaac Vladimir Solano Calle",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "NsajAA28Dwc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Isaac Vladimir Solano Calle",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Isaac Solano - Session 088",
+  "url": "https://www.youtube.com/watch?v=NsajAA28Dwc",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "NsajAA28Dwc",
+  "source_url": "https://www.youtube.com/watch?v=NsajAA28Dwc",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Isaac Vladimir Solano Calle",
+      "party": null,
+      "province": null,
+      "total_time": 35.72,
+      "interventions": 1,
+      "word_count": 85
+    }
+  ]
+}
