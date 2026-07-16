@@ -1,0 +1,196 @@
+{
+  "text": "Angleísta y Saxo. Gracias, presidenta. Solicito la reconsideración de la votación de la moción presentada. Gracias. Señor secretario, tome votación sobre la reconsideración planteada. Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Isaac Solano.  Señoras y señores asambleístas, por favor consignar su voto. Señor secretario, por favor, proclame resultados. Señor operador presente, los resultados.  Señora presidenta, me permite informar que de un total de 143 asambleístas presentes,  contamos con 56 votos afirmativos, 84 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Isaac Solano no ha sido aprobada. Gracias, señor secretario. Se suspende la presentación.",
+  "language": "es",
+  "duration": 467.81,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Angleísta y Saxo.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5115,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.58,
+      "end": 15.76,
+      "text": "Gracias, presidenta. Solicito la reconsideración de la votación de la moción presentada. Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Isaac Vladimir Solano Calle",
+        "confidence": 0.5925,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 17.72,
+      "end": 20.91,
+      "text": "Señor secretario, tome votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5115,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 22.41,
+      "end": 30.81,
+      "text": "Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.5653,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 289.05,
+      "end": 290.72,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5115,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 293.86,
+      "end": 309.7,
+      "text": "Me permito informar, señora presidenta, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Isaac Solano.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.5653,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 435.17,
+      "end": 437.68,
+      "text": "Señor secretario, por favor, proclame resultados.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5115,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 439.08,
+      "end": 459.38,
+      "text": "Señor operador presente, los resultados.  Señora presidenta, me permite informar que de un total de 143 asambleístas presentes,  contamos con 56 votos afirmativos, 84 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Isaac Solano no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.5653,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 8,
+      "start": 465.27,
+      "end": 467.69,
+      "text": "Gracias, señor secretario. Se suspende la presentación.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5115,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "oj788_NUT7Y",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Ana María Raffo Guevara": 1,
+        "del Cisne Rogel Esperanza": 1,
+        "José Luis Nango Cuji": 4,
+        "[OOV] Yela Ana": 1
+      },
+      "samples": 17,
+      "successful_reads": 7,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] All Soporte Tics": 1
+      },
+      "samples": 4,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Reconsideration of the vote by Assemblyman Isaac Solano - Session 088",
+  "url": "https://www.youtube.com/watch?v=oj788_NUT7Y",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "oj788_NUT7Y",
+  "source_url": "https://www.youtube.com/watch?v=oj788_NUT7Y",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 44.54,
+      "interventions": 3,
+      "word_count": 104
+    },
+    {
+      "id": "speaker_2",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 10.79,
+      "interventions": 5,
+      "word_count": 29
+    },
+    {
+      "id": "speaker_1",
+      "name": "Isaac Vladimir Solano Calle",
+      "party": null,
+      "province": null,
+      "total_time": 6.18,
+      "interventions": 1,
+      "word_count": 13
+    }
+  ]
+}

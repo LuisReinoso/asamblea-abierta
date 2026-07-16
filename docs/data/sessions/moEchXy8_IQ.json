@@ -1,0 +1,183 @@
+{
+  "text": "Muchas gracias, presidente. Solicito que se tome votación de la reconsideración de la votación. Señor Secretario, tomé votación sobre la reconsideración planteada. Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre, registro, señor secretario. Me permito informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Mario Amado Zambrano Vera.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador presidente, los resultados.  Señor presidente, me permite informar que de un total de 144 asambleístas presentes  contamos con 58 votos afirmativos, 83 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Mario Amado Zambrano no ha sido aprobada. Gracias, señor secretario. Por favor, siguiente punto del orden.",
+  "language": "es",
+  "duration": 530.65,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.83,
+      "end": 14.31,
+      "text": "Muchas gracias, presidente. Solicito que se tome votación de la reconsideración de la votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mario Amado Zambrano Vera",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 15.39,
+      "end": 18.36,
+      "text": "Señor Secretario, tomé votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5881,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 19.86,
+      "end": 27.99,
+      "text": "Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6391,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 214.48,
+      "end": 216.4,
+      "text": "Cierre, registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5881,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 219.78,
+      "end": 237.82,
+      "text": "Me permito informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Mario Amado Zambrano Vera.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6391,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 499.7,
+      "end": 501.5,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5881,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 502.42,
+      "end": 526.84,
+      "text": "Señor operador presidente, los resultados.  Señor presidente, me permite informar que de un total de 144 asambleístas presentes  contamos con 58 votos afirmativos, 83 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Mario Amado Zambrano no ha sido aprobada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6391,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 527.75,
+      "end": 530.73,
+      "text": "Gracias, señor secretario. Por favor, siguiente punto del orden.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5881,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "moEchXy8_IQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mario Amado Zambrano Vera",
+      "confidence": 1.0,
+      "votes": {
+        "Mario Amado Zambrano Vera": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "José Luis Nango Cuji": 1,
+        "Mario Amado Zambrano Vera": 1
+      },
+      "samples": 3,
+      "successful_reads": 2,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "del Cisne Rogel Esperanza": 2,
+        "José Luis Nango Cuji": 2
+      },
+      "samples": 19,
+      "successful_reads": 4,
+      "source": null
+    }
+  },
+  "title": "Reconsideration of the vote - Session 089",
+  "url": "https://www.youtube.com/watch?v=moEchXy8_IQ",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "moEchXy8_IQ",
+  "source_url": "https://www.youtube.com/watch?v=moEchXy8_IQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_2",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 50.59,
+      "interventions": 3,
+      "word_count": 107
+    },
+    {
+      "id": "speaker_1",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 9.67,
+      "interventions": 4,
+      "word_count": 25
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mario Amado Zambrano Vera",
+      "party": null,
+      "province": null,
+      "total_time": 6.48,
+      "interventions": 1,
+      "word_count": 14
+    }
+  ]
+}

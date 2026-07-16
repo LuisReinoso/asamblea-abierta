@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T07:27:33.965201",
-  "total_sessions": 568,
+  "generated_at": "2026-07-16T06:40:47.755582",
+  "total_sessions": 576,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5548,6 +5548,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "qvxIZ6sfL34",
+      "title": "Asambleísta Mario Zambrano - Sesión 089",
+      "date": "",
+      "duration": 435.49,
+      "url": "https://www.youtube.com/watch?v=qvxIZ6sfL34",
+      "file_path": "data/sessions/qvxIZ6sfL34.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "MoXTbensX9M",
       "title": "Assemblyman Juan José Reyes - Session 089",
       "date": "",
@@ -5982,6 +5996,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "-twb9HifS0I",
+      "title": "Assemblyman Fabricio Tamayo - Session 089",
+      "date": "",
+      "duration": 322.71,
+      "url": "https://www.youtube.com/watch?v=-twb9HifS0I",
+      "file_path": "data/sessions/-twb9HifS0I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "XXr5Jtk-l5s",
       "title": "Assemblywoman Mariana Yumbay - Session 092",
       "date": "",
@@ -6136,6 +6164,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "b5Zi0CwD_Dc",
+      "title": "Decoration - Session 089 - General Commission",
+      "date": "",
+      "duration": 649.97,
+      "url": "https://www.youtube.com/watch?v=b5Zi0CwD_Dc",
+      "file_path": "data/sessions/b5Zi0CwD_Dc.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "AJvFZ-KETss",
       "title": "Assemblywoman Viviana Veloz - Session 094",
       "date": "",
@@ -6186,6 +6228,20 @@
       "file_path": "data/sessions/ESJrZyEy_z4.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "oj788_NUT7Y",
+      "title": "Reconsideration of the vote by Assemblyman Isaac Solano - Session 088",
+      "date": "",
+      "duration": 467.81,
+      "url": "https://www.youtube.com/watch?v=oj788_NUT7Y",
+      "file_path": "data/sessions/oj788_NUT7Y.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6640,6 +6696,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "HZSUa8ZFZKk",
+      "title": "Votación de la moción del asambleísta Mario Zambrano - Sesión 089",
+      "date": "",
+      "duration": 745.06,
+      "url": "https://www.youtube.com/watch?v=HZSUa8ZFZKk",
+      "file_path": "data/sessions/HZSUa8ZFZKk.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "7Rbe36f6ud4",
       "title": "Assemblyman Milton Aguas - Session 096",
       "date": "",
@@ -6926,6 +6996,20 @@
       "duration": 366.69,
       "url": "https://www.youtube.com/watch?v=OHhWL4oqZ6E",
       "file_path": "data/sessions/OHhWL4oqZ6E.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "JplOhcNrdGk",
+      "title": "Rectification of the vote - Session 088",
+      "date": "",
+      "duration": 673.8,
+      "url": "https://www.youtube.com/watch?v=JplOhcNrdGk",
+      "file_path": "data/sessions/JplOhcNrdGk.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7508,6 +7592,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "moEchXy8_IQ",
+      "title": "Reconsideration of the vote - Session 089",
+      "date": "",
+      "duration": 530.65,
+      "url": "https://www.youtube.com/watch?v=moEchXy8_IQ",
+      "file_path": "data/sessions/moEchXy8_IQ.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "d4yP1m-WWAk",
       "title": "Assemblyman Alejandro Lara - Session 097",
       "date": "",
@@ -7584,6 +7682,20 @@
       "duration": 262.15,
       "url": "https://www.youtube.com/watch?v=HX3R9mVz82I",
       "file_path": "data/sessions/HX3R9mVz82I.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "2PWfYwg7ki0",
+      "title": "Assemblyman Juan Jose Reyes - Session 089",
+      "date": "",
+      "duration": 598.05,
+      "url": "https://www.youtube.com/watch?v=2PWfYwg7ki0",
+      "file_path": "data/sessions/2PWfYwg7ki0.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
