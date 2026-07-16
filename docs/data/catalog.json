@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:15:35.153048",
-  "total_sessions": 587,
+  "generated_at": "2026-07-16T07:21:31.405308",
+  "total_sessions": 595,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5604,6 +5604,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Nz2nvNKKSNI",
+      "title": "Assemblyman Andrés Castillo - Session 087",
+      "date": "",
+      "duration": 484.41,
+      "url": "https://www.youtube.com/watch?v=Nz2nvNKKSNI",
+      "file_path": "data/sessions/Nz2nvNKKSNI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "KS6TOziChHQ",
       "title": "Assemblywoman Paola Jaramillo - Session 094",
       "date": "",
@@ -5778,6 +5792,20 @@
       "duration": 507.87,
       "url": "https://www.youtube.com/watch?v=oROf84trX7M",
       "file_path": "data/sessions/oROf84trX7M.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Rey-u5I94fo",
+      "title": "Assemblywoman Viviana Veloz - Session 087",
+      "date": "",
+      "duration": 627.89,
+      "url": "https://www.youtube.com/watch?v=Rey-u5I94fo",
+      "file_path": "data/sessions/Rey-u5I94fo.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6206,6 +6234,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "rYbyfFHoHzw",
+      "title": "Voting on the motion of Assemblyman Alejandro Vanegas - Session 087",
+      "date": "",
+      "duration": 615.68,
+      "url": "https://www.youtube.com/watch?v=rYbyfFHoHzw",
+      "file_path": "data/sessions/rYbyfFHoHzw.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rviWLBI0NlU",
       "title": "Assemblywoman Mariana Yumbay - Session 094",
       "date": "",
@@ -6284,6 +6326,20 @@
       "file_path": "data/sessions/Gf1lnAxO_vM.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "smZDFf4AI48",
+      "title": "Assemblyman Juan José Reyes - Session 087",
+      "date": "",
+      "duration": 399.08,
+      "url": "https://www.youtube.com/watch?v=smZDFf4AI48",
+      "file_path": "data/sessions/smZDFf4AI48.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -7116,6 +7172,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "rZGoZzGqf8M",
+      "title": "Assemblyman José Nango - Session 087",
+      "date": "",
+      "duration": 476.47,
+      "url": "https://www.youtube.com/watch?v=rZGoZzGqf8M",
+      "file_path": "data/sessions/rZGoZzGqf8M.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "jywMlF-JjRU",
       "title": "Assemblywoman Domenica Escobar - Session 088 - Change of agenda",
       "date": "",
@@ -7262,6 +7332,20 @@
       "duration": 653.13,
       "url": "https://www.youtube.com/watch?v=wi-rBP5Bz38",
       "file_path": "data/sessions/wi-rBP5Bz38.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "il2uwA6exUc",
+      "title": "Assemblyman Manuel Choro - Session 087",
+      "date": "",
+      "duration": 288.32,
+      "url": "https://www.youtube.com/watch?v=il2uwA6exUc",
+      "file_path": "data/sessions/il2uwA6exUc.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7928,6 +8012,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Z2U5bDSq7y0",
+      "title": "Assemblywoman Paola Jaramillo - Session 087",
+      "date": "",
+      "duration": 317.16,
+      "url": "https://www.youtube.com/watch?v=Z2U5bDSq7y0",
+      "file_path": "data/sessions/Z2U5bDSq7y0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "0fAlTJacY1w",
       "title": "Vote on Assemblyman Mario Zambrano's motion - Session 093",
       "date": "",
@@ -8172,6 +8270,20 @@
       "duration": 271.09,
       "url": "https://www.youtube.com/watch?v=fUWaOQFxBrE",
       "file_path": "data/sessions/fUWaOQFxBrE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "q2saKlDY2ug",
+      "title": "Assemblywoman María Paula Villacreses - Session 087",
+      "date": "",
+      "duration": 245.09,
+      "url": "https://www.youtube.com/watch?v=q2saKlDY2ug",
+      "file_path": "data/sessions/q2saKlDY2ug.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

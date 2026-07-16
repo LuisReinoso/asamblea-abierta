@@ -1,0 +1,172 @@
+{
+  "text": "Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada mediante memorando  número AN-BCAL-2026-0029-M de 22 de abril de 2026.  Asunto, moción de aprobación del texto final del proyecto de ley orgánica de promoción,  prevención y atención psicosocial para niñas, niños y adolescentes.  De mi consideración, por medio de la presente en mi calidad de asambleísta por la provincia  del Guayas y proponente del proyecto de ley orgánica de promoción, prevención y atención  psicosocial para niñas, niños y adolescentes y al amparo con lo establecido en el artículo  135 de la ley orgánica de la función legislativa y en el marco sesión número 087-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada el día miércoles 22 de abril de 2026, presento  la siguiente moción.  Moción.  Aprobar el informe para segundo debate del proyecto de ley orgánica de promoción, prevención  y atención psicosocial para niñas, niñas y adolescentes de la Comisión Especializada  Permanente de Protección Integral a Niñas, Niños y Adolescentes.  Con sentimientos de distinguida consideración, atentamente, doctor Alejandro Lorenzo Banegas  Cortázar, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules  electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  ¡Gracias!  ¡Gracias! Cierre el registro, señor secretario. las fundas de caramelo. Cierre el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Alejandro Banegas.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor Operador, presente los resultados.  Señora Presidenta, me permito informar que la moción presentada por el asamblista Alejandro Banegas  ha sido aprobada por unanimidad.",
+  "language": "es",
+  "duration": 615.68,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.23,
+      "end": 4.2,
+      "text": "Sí, señora presidenta, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6101,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.86,
+      "end": 12.6,
+      "text": "Señores asambleístas, ¿tiene apoyo la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6304,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.03,
+      "end": 93.33,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante memorando  número AN-BCAL-2026-0029-M de 22 de abril de 2026.  Asunto, moción de aprobación del texto final del proyecto de ley orgánica de promoción,  prevención y atención psicosocial para niñas, niños y adolescentes.  De mi consideración, por medio de la presente en mi calidad de asambleísta por la provincia  del Guayas y proponente del proyecto de ley orgánica de promoción, prevención y atención  psicosocial para niñas, niños y adolescentes y al amparo con lo establecido en el artículo  135 de la ley orgánica de la función legislativa y en el marco sesión número 087-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada el día miércoles 22 de abril de 2026, presento  la siguiente moción.  Moción.  Aprobar el informe para segundo debate del proyecto de ley orgánica de promoción, prevención  y atención psicosocial para niñas, niñas y adolescentes de la Comisión Especializada  Permanente de Protección Integral a Niñas, Niños y Adolescentes.  Con sentimientos de distinguida consideración, atentamente, doctor Alejandro Lorenzo Banegas  Cortázar, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules  electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  ¡Gracias!  ¡Gracias!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6101,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 395.99,
+      "end": 397.84,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6304,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 399.07,
+      "end": 400.42,
+      "text": "las fundas de caramelo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6101,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 443.27,
+      "end": 445.06,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6304,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 446.15,
+      "end": 461.68,
+      "text": "Me permito informar, señora presidenta, que contamos con 145 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Alejandro Banegas.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6101,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 564.26,
+      "end": 566.24,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6304,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 8,
+      "start": 585.34,
+      "end": 596.46,
+      "text": "Señor Operador, presente los resultados.  Señora Presidenta, me permito informar que la moción presentada por el asamblista Alejandro Banegas  ha sido aprobada por unanimidad.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.6101,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "rYbyfFHoHzw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 20,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voting on the motion of Assemblyman Alejandro Vanegas - Session 087",
+  "url": "https://www.youtube.com/watch?v=rYbyfFHoHzw",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "rYbyfFHoHzw",
+  "source_url": "https://www.youtube.com/watch?v=rYbyfFHoHzw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 112.27,
+      "interventions": 5,
+      "word_count": 287
+    },
+    {
+      "id": "speaker_1",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 13.36,
+      "interventions": 4,
+      "word_count": 33
+    }
+  ]
+}
