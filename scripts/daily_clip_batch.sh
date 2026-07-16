@@ -1,6 +1,11 @@
 #!/bin/bash
 set -uo pipefail
 
+# cron runs with no session bus — systemctl --user needs these to reach the
+# user's systemd instance, otherwise it fails silently (exit 1, no journal entry).
+export XDG_RUNTIME_DIR="/run/user/$(id -u)"
+export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
+
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
@@ -26,7 +31,11 @@ notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y
 # diarization-server shares the GPU with ornith-35b (systemd Conflicts= handles
 # the swap): starting it auto-stops ornith-35b, we restore ornith-35b on exit.
 log "starting diarization-server (stops ornith-35b via Conflicts=)"
-systemctl --user start diarization-server.service
+if ! systemctl --user start diarization-server.service 2>>"$LOG_FILE"; then
+    log "systemctl --user start diarization-server.service failed (exit $?)"
+    notify "Asamblea Abierta - ERROR" "No se pudo iniciar diarization-server (systemctl falló). Batch abortado."
+    exit 1
+fi
 restore_llm() {
     systemctl --user stop diarization-server.service
     systemctl --user start ornith-35b.service

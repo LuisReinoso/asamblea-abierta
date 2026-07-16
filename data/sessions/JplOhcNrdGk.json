@@ -1,0 +1,131 @@
+{
+  "text": "Muy buenas tardes, señora presidenta. Solicito de manera especial la rectificación de mi voto.  Señor secretario, tome votación. A su disposición, señora presidenta, señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Isaac Solano.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 142 asambleístas presentes  contamos con 55 votos afirmativos, 84 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Isaac Solano no ha sido aprobada.",
+  "language": "es",
+  "duration": 673.8,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 10.7,
+      "end": 29.39,
+      "text": "Muy buenas tardes, señora presidenta. Solicito de manera especial la rectificación de mi voto.  Señor secretario, tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 31.82,
+      "end": 42.08,
+      "text": "A su disposición, señora presidenta, señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 2,
+      "start": 361.53,
+      "end": 363.3,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 365.61,
+      "end": 382.2,
+      "text": "Me permito informar, señora presidenta, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Isaac Solano.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 4,
+      "start": 647.05,
+      "end": 648.89,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 650.8,
+      "end": 671.27,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 142 asambleístas presentes  contamos con 55 votos afirmativos, 84 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Isaac Solano no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "JplOhcNrdGk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 9,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "José Luis Nango Cuji",
+      "confidence": 0.67,
+      "votes": {
+        "José Luis Nango Cuji": 4,
+        "Ana María Raffo Guevara": 1,
+        "del Cisne Rogel Esperanza": 1
+      },
+      "samples": 18,
+      "successful_reads": 6,
+      "source": "db"
+    }
+  },
+  "title": "Rectification of the vote - Session 088",
+  "url": "https://www.youtube.com/watch?v=JplOhcNrdGk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "JplOhcNrdGk",
+  "source_url": "https://www.youtube.com/watch?v=JplOhcNrdGk",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "José Luis Nango Cuji",
+      "party": null,
+      "province": null,
+      "total_time": 47.32,
+      "interventions": 3,
+      "word_count": 109
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 22.3,
+      "interventions": 3,
+      "word_count": 27
+    }
+  ]
+}

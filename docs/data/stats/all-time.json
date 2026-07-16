@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-13T07:27:33.797086",
-  "total_sessions": 568,
+  "generated_at": "2026-07-16T06:40:47.218203",
+  "total_sessions": 576,
   "speaker_stats": [
+    {
+      "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
+      "name": "Mario Amado Zambrano Vera",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 6885.359999999999,
+      "total_interventions": 86,
+      "sessions_attended": 7,
+      "topics_discussed": 3
+    },
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
       "name": "Andrés Felipe Castillo Maldonado",
@@ -12,18 +24,6 @@
       "total_time": 6748.929999999999,
       "total_interventions": 67,
       "sessions_attended": 17,
-      "topics_discussed": 3
-    },
-    {
-      "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
-      "name": "Mario Amado Zambrano Vera",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Manabí",
-      "total_time": 6465.339999999999,
-      "total_interventions": 84,
-      "sessions_attended": 5,
       "topics_discussed": 3
     },
     {
@@ -72,6 +72,18 @@
       "total_time": 4103.3,
       "total_interventions": 9,
       "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 3951.540000000001,
+      "total_interventions": 23,
+      "sessions_attended": 16,
       "topics_discussed": 0
     },
     {
@@ -132,18 +144,6 @@
       "total_time": 3313.71,
       "total_interventions": 7,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 3148.55,
-      "total_interventions": 18,
-      "sessions_attended": 14,
       "topics_discussed": 0
     },
     {
@@ -237,9 +237,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 1988.8,
-      "total_interventions": 25,
-      "sessions_attended": 10,
+      "total_time": 2008.8700000000001,
+      "total_interventions": 32,
+      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -327,6 +327,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 1635.6499999999999,
+      "total_interventions": 24,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
       "name": "Edwin Estuardo Jarrín Rivadeneira",
       "type": "asambleísta",
@@ -369,9 +381,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Quito Rural",
-      "total_time": 1495.69,
-      "total_interventions": 4,
-      "sessions_attended": 4,
+      "total_time": 1506.48,
+      "total_interventions": 9,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -477,9 +489,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Pastaza",
-      "total_time": 1344.8600000000001,
-      "total_interventions": 3,
-      "sessions_attended": 3,
+      "total_time": 1392.18,
+      "total_interventions": 6,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -519,18 +531,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 1317.39,
-      "total_interventions": 16,
-      "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JOHN-EDISON-POLANCO-LARA",
       "name": "John Edison Polanco Lara",
       "type": "asambleísta",
@@ -561,9 +561,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Guayas",
-      "total_time": 1252.3,
-      "total_interventions": 8,
-      "sessions_attended": 3,
+      "total_time": 1258.48,
+      "total_interventions": 9,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -879,6 +879,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JORGE-FABRICIO-TAMAYO-TRIVINO",
+      "name": "Jorge Fabricio Tamayo Triviño",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Santa Elena",
+      "total_time": 616.02,
+      "total_interventions": 6,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARCO-PATRICIO-OLMEDO-ARIAS",
       "name": "Marco Patricio Olmedo Arias",
       "type": "asambleísta",
@@ -1140,18 +1152,6 @@
       "total_time": 312.41,
       "total_interventions": 16,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JORGE-FABRICIO-TAMAYO-TRIVINO",
-      "name": "Jorge Fabricio Tamayo Triviño",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Santa Elena",
-      "total_time": 303.02,
-      "total_interventions": 5,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
