@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:10:50.623327",
-  "total_sessions": 584,
+  "generated_at": "2026-07-16T07:15:34.990023",
+  "total_sessions": 587,
   "speaker_stats": [
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -207,6 +207,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 2385.89,
+      "total_interventions": 11,
+      "sessions_attended": 7,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
       "name": "Franklin Omar Samaniego Maigua",
       "type": "asambleísta",
@@ -279,18 +291,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
-      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 1926.36,
-      "total_interventions": 8,
-      "sessions_attended": 6,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
       "name": "Brígida Lucía Pozo Moreta",
       "type": "asambleísta",
@@ -336,6 +336,18 @@
       "total_time": 1825.5300000000002,
       "total_interventions": 4,
       "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
+      "name": "Luigi Edu Garcia Velasquez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 1712.4,
+      "total_interventions": 7,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -420,18 +432,6 @@
       "total_time": 1495.12,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-LUIGI-EDU-GARCIA-VELASQUEZ",
-      "name": "Luigi Edu Garcia Velasquez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 1485.7800000000002,
-      "total_interventions": 6,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -927,6 +927,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Cañar",
+      "total_time": 596.3,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIA-PAULA-VILLACRESES-HERRERA",
       "name": "María Paula Villacreses Herrera",
       "type": "asambleísta",
@@ -1114,18 +1126,6 @@
       "party": "ADN",
       "province": "Loja",
       "total_time": 351.51,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
-      "name": "Fabiola Maribel Sanmartín Parra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Cañar",
-      "total_time": 327.48,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

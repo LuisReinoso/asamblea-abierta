@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:10:50.789030",
-  "total_sessions": 584,
+  "generated_at": "2026-07-16T07:15:35.153048",
+  "total_sessions": 587,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5562,6 +5562,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Rfj6X8Li-G8",
+      "title": "Assemblywoman Fabiola Sanmartín - Session 087",
+      "date": "",
+      "duration": 269.24,
+      "url": "https://www.youtube.com/watch?v=Rfj6X8Li-G8",
+      "file_path": "data/sessions/Rfj6X8Li-G8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "MoXTbensX9M",
       "title": "Assemblyman Juan José Reyes - Session 089",
       "date": "",
@@ -5736,6 +5750,20 @@
       "duration": 523.52,
       "url": "https://www.youtube.com/watch?v=D9MPLNAczXE",
       "file_path": "data/sessions/D9MPLNAczXE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ez7W6BMTDug",
+      "title": "Assemblyman Luigi García - Session 087",
+      "date": "",
+      "duration": 231.09,
+      "url": "https://www.youtube.com/watch?v=ez7W6BMTDug",
+      "file_path": "data/sessions/ez7W6BMTDug.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -6004,6 +6032,20 @@
       "file_path": "data/sessions/7USWmrLe1rk.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "GftEGYJiq3w",
+      "title": "Assemblyman Xavier Lasso - Session 087",
+      "date": "",
+      "duration": 476.22,
+      "url": "https://www.youtube.com/watch?v=GftEGYJiq3w",
+      "file_path": "data/sessions/GftEGYJiq3w.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
