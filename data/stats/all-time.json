@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T04:27:35.745817",
-  "total_sessions": 603,
+  "generated_at": "2026-07-18T04:30:59.833893",
+  "total_sessions": 611,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 5015.889999999999,
-      "total_interventions": 18,
-      "sessions_attended": 9,
+      "total_time": 5371.530000000001,
+      "total_interventions": 23,
+      "sessions_attended": 10,
       "topics_discussed": 0
     },
     {
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 4350.140000000001,
-      "total_interventions": 24,
-      "sessions_attended": 17,
+      "total_time": 4521.680000000001,
+      "total_interventions": 28,
+      "sessions_attended": 18,
       "topics_discussed": 0
     },
     {
@@ -237,9 +237,33 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Zamora Chinchipe",
-      "total_time": 2282.9800000000005,
-      "total_interventions": 47,
-      "sessions_attended": 14,
+      "total_time": 2375.8700000000003,
+      "total_interventions": 64,
+      "sessions_attended": 17,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
+      "name": "Milton Javier Aguas Flores",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Galápagos",
+      "total_time": 2323.33,
+      "total_interventions": 9,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "América Latina, Caribe y África",
+      "total_time": 2312.78,
+      "total_interventions": 9,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -267,27 +291,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
-      "name": "Mauricio Javier Ordóñez Fuentes",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "América Latina, Caribe y África",
-      "total_time": 2017.31,
-      "total_interventions": 7,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2008.8700000000001,
-      "total_interventions": 32,
-      "sessions_attended": 12,
+      "total_time": 2026.28,
+      "total_interventions": 37,
+      "sessions_attended": 13,
       "topics_discussed": 0
     },
     {
@@ -336,18 +348,6 @@
       "total_time": 1868.1200000000001,
       "total_interventions": 7,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
-      "name": "Milton Javier Aguas Flores",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Galápagos",
-      "total_time": 1859.6000000000001,
-      "total_interventions": 8,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -639,6 +639,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CHRISTOPHER-MANUEL-JARAMILLO-GOMEZ",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Santo Domingo",
+      "total_time": 1052.88,
+      "total_interventions": 6,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
       "name": "Jorge Enrique Chamba Cabanilla",
       "type": "asambleísta",
@@ -648,18 +660,6 @@
       "total_time": 1044.38,
       "total_interventions": 4,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CHRISTOPHER-MANUEL-JARAMILLO-GOMEZ",
-      "name": "Christopher Manuel Jaramillo Gómez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Santo Domingo",
-      "total_time": 1041.77,
-      "total_interventions": 5,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -696,6 +696,18 @@
       "total_time": 1004.37,
       "total_interventions": 1,
       "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 981.4000000000001,
+      "total_interventions": 6,
+      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -744,18 +756,6 @@
       "total_time": 930.53,
       "total_interventions": 5,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ALEX-MORAN-GALARZA",
-      "name": "Alex Moran Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 924.65,
-      "total_interventions": 5,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -1155,6 +1155,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
+      "name": "José Fernando Nantipia Chumpi",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Morona Santiago",
+      "total_time": 368.52,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SADE-RASHEL-FRITSCHI-NARANJO",
       "name": "Sade Rashel Fritschi Naranjo",
       "type": "asambleísta",
@@ -1174,6 +1186,18 @@
       "party": "ADN",
       "province": "Loja",
       "total_time": 351.51,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
+      "name": "Sandra Elizabeth Figueroa Aguilar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 316.02,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

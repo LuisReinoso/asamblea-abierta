@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T04:27:36.293612",
-  "total_sessions": 603,
+  "generated_at": "2026-07-18T04:31:00.390209",
+  "total_sessions": 611,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5478,6 +5478,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "wT0Agw9UciU",
+      "title": "Assemblyman Alex Morán - Session 086",
+      "date": "",
+      "duration": 58.17,
+      "url": "https://www.youtube.com/watch?v=wT0Agw9UciU",
+      "file_path": "data/sessions/wT0Agw9UciU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "lV-A-xEci8Q",
+      "title": "Assemblywoman Diana Jácome - Session 087 - Change of agenda",
+      "date": "",
+      "duration": 735.49,
+      "url": "https://www.youtube.com/watch?v=lV-A-xEci8Q",
+      "file_path": "data/sessions/lV-A-xEci8Q.json",
+      "video_type": "clip",
+      "speaker_count": 4,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "",
       "title": "",
       "date": "",
@@ -6178,6 +6206,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "GVekMO-5-QQ",
+      "title": "Voting on the motion of Assemblyman Alex Moran - Session 086",
+      "date": "",
+      "duration": 468.53,
+      "url": "https://www.youtube.com/watch?v=GVekMO-5-QQ",
+      "file_path": "data/sessions/GVekMO-5-QQ.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "nHP9Cpf_dFw",
       "title": "Asambleísta Diana Jácome - Sesión 092 - II Intervención",
       "date": "",
@@ -6346,6 +6388,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "GveQkRHGkf0",
+      "title": "Assemblyman Fernando Nantipia - Session 087",
+      "date": "",
+      "duration": 395.62,
+      "url": "https://www.youtube.com/watch?v=GveQkRHGkf0",
+      "file_path": "data/sessions/GveQkRHGkf0.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Gf1lnAxO_vM",
       "title": "Assemblywoman Carmen Tiupul - Session 094",
       "date": "",
@@ -6366,6 +6422,20 @@
       "duration": 399.08,
       "url": "https://www.youtube.com/watch?v=smZDFf4AI48",
       "file_path": "data/sessions/smZDFf4AI48.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "pxPi-BiBdU8",
+      "title": "Assemblywoman Sandra Figueroa - Session 086",
+      "date": "",
+      "duration": 318.14,
+      "url": "https://www.youtube.com/watch?v=pxPi-BiBdU8",
+      "file_path": "data/sessions/pxPi-BiBdU8.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7172,6 +7242,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "stPtzzdXoBg",
+      "title": "Assemblyman Xavier Ordóñez - Session 087 - Change of agenda",
+      "date": "",
+      "duration": 703.56,
+      "url": "https://www.youtube.com/watch?v=stPtzzdXoBg",
+      "file_path": "data/sessions/stPtzzdXoBg.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "wBqlDucKwiI",
       "title": "Assemblywoman Besibell Mendoza - Session 098 - Change of agenda",
       "date": "",
@@ -7432,6 +7516,20 @@
       "file_path": "data/sessions/svWLCpSxinI.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "w_6Vvc_jNuw",
+      "title": "Assemblyman Milton Aguas - Session 086",
+      "date": "",
+      "duration": 463.75,
+      "url": "https://www.youtube.com/watch?v=w_6Vvc_jNuw",
+      "file_path": "data/sessions/w_6Vvc_jNuw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -8314,6 +8412,20 @@
       "file_path": "data/sessions/EQ28U8R4Htw.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Ca5XNxkJRSs",
+      "title": "Hector Garcia - Session 087 - General Commission",
+      "date": "",
+      "duration": 515.48,
+      "url": "https://www.youtube.com/watch?v=Ca5XNxkJRSs",
+      "file_path": "data/sessions/Ca5XNxkJRSs.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",

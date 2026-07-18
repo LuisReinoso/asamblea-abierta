@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, señor presidente. En mi calidad asamblista de la República del Ecuador, por la provincia de Guaya, sin ejercicio de mis facultades, conforme al artículo 135 de la ley orgánica de fusión legislativa, tengo a bien proponer la siguiente moción.  Aprobar el contenido de la resolución a junta, mediante la cual se acepta la renuncia representada por la asamblista Sandra Elizabeth Figueroa Aguilar a la Comisión de Calificación de la Iniciativa Popular Normativa, Fortalecimiento de la Comisión Seguridad Ciudadana y Convivencia Social.  Y se designe en reemplazo al asambleísta de la provincia de Galápagos, Jesús David Arias Montero, a fin de que pueda viabilizarse esta comisión.  La debida moción fue presentada por los medios pertinentes para que tomemos votación cuando quiera pertinente, señor presidente. Muchas gracias.",
+  "language": "es",
+  "duration": 58.17,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 56.78,
+      "text": "Gracias, señor presidente. En mi calidad asamblista de la República del Ecuador, por la provincia de Guaya, sin ejercicio de mis facultades, conforme al artículo 135 de la ley orgánica de fusión legislativa, tengo a bien proponer la siguiente moción.  Aprobar el contenido de la resolución a junta, mediante la cual se acepta la renuncia representada por la asamblista Sandra Elizabeth Figueroa Aguilar a la Comisión de Calificación de la Iniciativa Popular Normativa, Fortalecimiento de la Comisión Seguridad Ciudadana y Convivencia Social.  Y se designe en reemplazo al asambleísta de la provincia de Galápagos, Jesús David Arias Montero, a fin de que pueda viabilizarse esta comisión.  La debida moción fue presentada por los medios pertinentes para que tomemos votación cuando quiera pertinente, señor presidente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Alex Moran Galarza",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "wT0Agw9UciU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Alex Moran Galarza",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Steven Morán": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Alex Morán - Session 086",
+  "url": "https://www.youtube.com/watch?v=wT0Agw9UciU",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wT0Agw9UciU",
+  "source_url": "https://www.youtube.com/watch?v=wT0Agw9UciU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Alex Moran Galarza",
+      "party": null,
+      "province": null,
+      "total_time": 56.75,
+      "interventions": 1,
+      "word_count": 126
+    }
+  ]
+}
