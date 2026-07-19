@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T04:30:59.833893",
-  "total_sessions": 611,
+  "generated_at": "2026-07-19T04:30:51.403048",
+  "total_sessions": 619,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -111,6 +111,30 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 3882.87,
+      "total_interventions": 8,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Imbabura",
+      "total_time": 3832.96,
+      "total_interventions": 10,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
       "name": "Janeth Paola Cabezas Castillo",
       "type": "asambleísta",
@@ -147,15 +171,15 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "id": "AN-MARIANA-YUMBAY-YALLICO",
+      "name": "Mariana Yumbay Yallico",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 3313.71,
+      "party": "MUPP",
+      "province": "Bolívar",
+      "total_time": 3250.97,
       "total_interventions": 7,
-      "sessions_attended": 7,
+      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -165,33 +189,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 3119.81,
-      "total_interventions": 20,
-      "sessions_attended": 10,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
-      "name": "Roberto Fernando Jaramillo Martínez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Imbabura",
-      "total_time": 2941.83,
-      "total_interventions": 7,
-      "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIANA-YUMBAY-YALLICO",
-      "name": "Mariana Yumbay Yallico",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "MUPP",
-      "province": "Bolívar",
-      "total_time": 2637.55,
-      "total_interventions": 6,
-      "sessions_attended": 5,
+      "total_time": 3213.75,
+      "total_interventions": 21,
+      "sessions_attended": 11,
       "topics_discussed": 0
     },
     {
@@ -219,6 +219,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 2545.36,
+      "total_interventions": 68,
+      "sessions_attended": 18,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
       "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
       "type": "asambleísta",
@@ -229,18 +241,6 @@
       "total_interventions": 11,
       "sessions_attended": 7,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 2375.8700000000003,
-      "total_interventions": 64,
-      "sessions_attended": 17,
-      "topics_discussed": 0
     },
     {
       "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
@@ -279,6 +279,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "total_time": 2045.63,
+      "total_interventions": 42,
+      "sessions_attended": 15,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
       "name": "Torre de la Torre Fernando de la",
       "type": "asambleísta",
@@ -288,18 +300,6 @@
       "total_time": 2039.29,
       "total_interventions": 49,
       "sessions_attended": 11,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
-      "name": "Carmen Yolanda Tiupul Urquizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Chimborazo",
-      "total_time": 2026.28,
-      "total_interventions": 37,
-      "sessions_attended": 13,
       "topics_discussed": 0
     },
     {
@@ -315,15 +315,27 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
+      "name": "Silvia Patricia Nuñez Ramos",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Chimborazo",
+      "total_time": 1934.5699999999997,
+      "total_interventions": 7,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
       "name": "Brígida Lucía Pozo Moreta",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Carchi",
-      "total_time": 1894.1200000000001,
-      "total_interventions": 13,
-      "sessions_attended": 6,
+      "total_time": 1902.7600000000002,
+      "total_interventions": 15,
+      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -396,6 +408,18 @@
       "total_time": 1691.25,
       "total_interventions": 6,
       "sessions_attended": 5,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
+      "name": "María Verónica Iñiguez Gallardo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Loja",
+      "total_time": 1686.77,
+      "total_interventions": 3,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -519,18 +543,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
-      "name": "Silvia Patricia Nuñez Ramos",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Chimborazo",
-      "total_time": 1336.4099999999999,
-      "total_interventions": 3,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
       "name": "Pamela Alejandra Aguirre Zambonino",
       "type": "asambleísta",
@@ -624,18 +636,6 @@
       "total_time": 1053.4699999999998,
       "total_interventions": 9,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
-      "name": "María Verónica Iñiguez Gallardo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Loja",
-      "total_time": 1053.41,
-      "total_interventions": 2,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {

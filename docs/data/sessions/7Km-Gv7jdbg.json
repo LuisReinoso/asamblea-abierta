@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, presidente.  Bueno, sí, a mí ya no me llama la atención porque definitivamente a esta ley,  a todas las leyes que se vengan proponiendo le van a decir no.  Por más positivas, por más buenas que sean, le van a seguir diciendo no.  La idea es tratar de dañar la gestión del gobierno en este caso.  Y claro, ¿y qué les molesta?  Les molesta y habla de la estatización dentro de los mercados de carbono  o de que se habla de que se crea un comité interinstitucional de cambio climático.  Pero claro, ¿quién tiene que regular en este caso?  ¿Quién tiene que crear este marco habilitante?  ¿Es el Estado?  ¿O acaso quieren que le transfieran esta facultad, por poner un ejemplo, al bloque de la RC5?  ¿O quieren que posiblemente le entreguemos al alcalde Pavel Muñoz  para que haga y compre las bicicletas, hablando del cambio del medio ambiente?  Porque he mencionado en esta ley de que uno de los sectores más contaminantes  es justamente del transporte y una de las variaciones es justamente utilizar las bicicletas.  Entonces, entreguémosle a Pavelito para que compre las bicicletas en 25 mil dólares cada una,  cuando el precio en Bogotá dentro de las mismas condiciones cuesta alrededor de 6 mil dólares.  Ahí está, asambleísta Íñiguez, cuando usted habla de desfilfarro y desfalco y de descentralización,  ahí está el ejemplo que usted tiene de sus propios coidearios.  Así que no venga aquí a tratar de indelgar presuntos delitos dentro de la conformación de esta ley.  Y segundo, estamos, asambleístas, dentro de un primer debate.  Yo le agradecería convenidamente que mande una observación,  que usted no lo ha hecho en más de las 18 sesiones que hemos tenido y más de 20 comparecencias.  Entonces, por favor, asambleísta, tenga la bondad, porque no sólo hay que ser, sino que hay que parecer.  Nada, hasta aquí la intervención, señora presidenta. Muchas gracias.",
+  "language": "es",
+  "duration": 126.08,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 9.92,
+      "end": 124.87,
+      "text": "Gracias, presidente.  Bueno, sí, a mí ya no me llama la atención porque definitivamente a esta ley,  a todas las leyes que se vengan proponiendo le van a decir no.  Por más positivas, por más buenas que sean, le van a seguir diciendo no.  La idea es tratar de dañar la gestión del gobierno en este caso.  Y claro, ¿y qué les molesta?  Les molesta y habla de la estatización dentro de los mercados de carbono  o de que se habla de que se crea un comité interinstitucional de cambio climático.  Pero claro, ¿quién tiene que regular en este caso?  ¿Quién tiene que crear este marco habilitante?  ¿Es el Estado?  ¿O acaso quieren que le transfieran esta facultad, por poner un ejemplo, al bloque de la RC5?  ¿O quieren que posiblemente le entreguemos al alcalde Pavel Muñoz  para que haga y compre las bicicletas, hablando del cambio del medio ambiente?  Porque he mencionado en esta ley de que uno de los sectores más contaminantes  es justamente del transporte y una de las variaciones es justamente utilizar las bicicletas.  Entonces, entreguémosle a Pavelito para que compre las bicicletas en 25 mil dólares cada una,  cuando el precio en Bogotá dentro de las mismas condiciones cuesta alrededor de 6 mil dólares.  Ahí está, asambleísta Íñiguez, cuando usted habla de desfilfarro y desfalco y de descentralización,  ahí está el ejemplo que usted tiene de sus propios coidearios.  Así que no venga aquí a tratar de indelgar presuntos delitos dentro de la conformación de esta ley.  Y segundo, estamos, asambleístas, dentro de un primer debate.  Yo le agradecería convenidamente que mande una observación,  que usted no lo ha hecho en más de las 18 sesiones que hemos tenido y más de 20 comparecencias.  Entonces, por favor, asambleísta, tenga la bondad, porque no sólo hay que ser, sino que hay que parecer.  Nada, hasta aquí la intervención, señora presidenta. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Roberto Fernando Jaramillo Martínez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "7Km-Gv7jdbg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "confidence": 1.0,
+      "votes": {
+        "Roberto Fernando Jaramillo Martínez": 2
+      },
+      "samples": 10,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Fernando Jaramillo - Session 086 - II Intervention",
+  "url": "https://www.youtube.com/watch?v=7Km-Gv7jdbg",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7Km-Gv7jdbg",
+  "source_url": "https://www.youtube.com/watch?v=7Km-Gv7jdbg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "party": null,
+      "province": null,
+      "total_time": 114.95,
+      "interventions": 1,
+      "word_count": 316
+    }
+  ]
+}

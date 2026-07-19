@@ -1,0 +1,158 @@
+{
+  "text": "Así la moción presentada por la asamblea Inés Alarcón ha sido ingresada por escrito. Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, ¿tiene apoyo a la moción? Señor secretario, dé lectura a la moción presentada y tome votación, por favor. Con su autorización, señor presidente, procedo a dar lectura y tomar votación.  Memorando, número AN-ABIM-2026-0084-M, Quito, Distrito Metropolitano, 15 de abril de 2026.  Para, magistra Nilo Cempit, presidente de la Asamblea Nacional.  Asunto.  Moción respecto del informe para primer debate del proyecto de ley interpretativa a la disposición general undécima  de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas para acoger a los militares retirados en 2019, 2020, 2021 y 2022.  De mi consideración, deseándoles éxitos en sus funciones, en atención al punto del orden del día de la sesión 86 AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para el miércoles 15 de abril de 2026, en lo que corresponde.  Conocer el informe para primer debate del proyecto de ley interpretativa a la disposición general undécima  de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas para acoger a los militares retirados  en 2019, 2020, 2021 y 2022, y en cumplimiento al artículo 60 y 135 de la Ley Orgánica de la Fusión Legislativa,  me permito presentar la siguiente moción.  archivar el proyecto de ley interpretativa a la disposición general undécima de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas  para acoger a los militares retirados en 2019, 2020, 2021 y 2022.  Con sentimientos de distinguida consideración, atentamente, Inés Margarita Alarcón Bueno, asambleísta.  Con su disposición, señor presidente, procedo a tomar votación.  Se pone a consideración la moción presentada por la asambleísta Inés Alarcón. Cierre el registro, señor secretario. Me permito informar, señor presidente, que contamos con 148 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleista Inés Alarcón.  Señores asambleistas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 148 asambleístas presentes  contamos con 88 votos afirmativos, 60 negativos, 0 blancos y 0 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada por la asambleísta Inés Alarcón.",
+  "language": "es",
+  "duration": 577.83,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 3.79,
+      "text": "Así la moción presentada por la asamblea Inés Alarcón ha sido ingresada por escrito.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5899,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.64,
+      "end": 9.38,
+      "text": "Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.8
+      }
+    },
+    {
+      "id": 2,
+      "start": 38.84,
+      "end": 45.09,
+      "text": "Señores asambleístas, ¿tiene apoyo a la moción? Señor secretario, dé lectura a la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5899,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 46.77,
+      "end": 173.56,
+      "text": "Con su autorización, señor presidente, procedo a dar lectura y tomar votación.  Memorando, número AN-ABIM-2026-0084-M, Quito, Distrito Metropolitano, 15 de abril de 2026.  Para, magistra Nilo Cempit, presidente de la Asamblea Nacional.  Asunto.  Moción respecto del informe para primer debate del proyecto de ley interpretativa a la disposición general undécima  de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas para acoger a los militares retirados en 2019, 2020, 2021 y 2022.  De mi consideración, deseándoles éxitos en sus funciones, en atención al punto del orden del día de la sesión 86 AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para el miércoles 15 de abril de 2026, en lo que corresponde.  Conocer el informe para primer debate del proyecto de ley interpretativa a la disposición general undécima  de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas para acoger a los militares retirados  en 2019, 2020, 2021 y 2022, y en cumplimiento al artículo 60 y 135 de la Ley Orgánica de la Fusión Legislativa,  me permito presentar la siguiente moción.  archivar el proyecto de ley interpretativa a la disposición general undécima de la Ley Orgánica de Personal y Disciplina de las Fuerzas Armadas  para acoger a los militares retirados en 2019, 2020, 2021 y 2022.  Con sentimientos de distinguida consideración, atentamente, Inés Margarita Alarcón Bueno, asambleísta.  Con su disposición, señor presidente, procedo a tomar votación.  Se pone a consideración la moción presentada por la asambleísta Inés Alarcón.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.8
+      }
+    },
+    {
+      "id": 4,
+      "start": 432.54,
+      "end": 434.29,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5899,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 437.36,
+      "end": 453.21,
+      "text": "Me permito informar, señor presidente, que contamos con 148 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleista Inés Alarcón.  Señores asambleistas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.8
+      }
+    },
+    {
+      "id": 6,
+      "start": 543.0,
+      "end": 545.06,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5899,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 548.3,
+      "end": 570.41,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 148 asambleístas presentes  contamos con 88 votos afirmativos, 60 negativos, 0 blancos y 0 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada por la asambleísta Inés Alarcón.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 0.8
+      }
+    }
+  ],
+  "video_id": "MCnnwJRUqhg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "del Cisne Rogel Esperanza",
+      "confidence": 0.8,
+      "votes": {
+        "del Cisne Rogel Esperanza": 4,
+        "Juan José Reyes Baquerizo": 1
+      },
+      "samples": 25,
+      "successful_reads": 5,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 6,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voting on the motion of Assemblywoman Ines Alarcón - Session 086",
+  "url": "https://www.youtube.com/watch?v=MCnnwJRUqhg",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MCnnwJRUqhg",
+  "source_url": "https://www.youtube.com/watch?v=MCnnwJRUqhg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 169.49,
+      "interventions": 4,
+      "word_count": 336
+    },
+    {
+      "id": "speaker_1",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 13.82,
+      "interventions": 4,
+      "word_count": 43
+    }
+  ]
+}
