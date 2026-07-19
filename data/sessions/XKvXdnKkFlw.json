@@ -1,0 +1,50 @@
+{
+  "text": "Asambleísta Inés Alarcón.  Gracias, señor presidente.  Bueno, en efecto, a la legisladora que ingresó el proyecto de ley  e hizo uso de la palabra, me gustaría comunicarle a la legisladora  que el 24 de febrero, dentro de la sesión 73,  se recibió al colectivo de servicio pasivo.  Todas las voces son escuchadas en la comisión que me honro en presidir,  la comisión de seguridad.  Y sí le voy a pedir, legisladora, que no confunda justicia  con inconstitucionalidad.  Yo le voy a decir a usted lo que es injusto.  Injusto es votar en contra de viviendas dignas para los más necesitados.  Lo que es injusto es que ustedes, la revolución ciudadana,  se opongan a acuerdos estratégicos, como por ejemplo el de Corea,  en donde se van a generar más de 150 mil empleos.  Eso es injusto.  ¿Sabe qué es injusto?  Llenar de falsas expectativas a la gente.  Que como usted conoce, o bueno, no sé si conozca,  nosotros no podemos tener impacto presupuestario en las leyes.  ¿Y sabe qué?  Va a ser injusto también en pocos momentos,  que seguramente van a votar en contra de la ley de educación financiera.  ¿Sabe por qué?  Porque nos quieren ignorantes, por eso.  Y porque mienten a la gente.  Eso es injusto.  Y le voy a pedir que si va a ingresar nuevas propuestas de ley,  lo haga conforme a la ley.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 93.86,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 93.97,
+      "text": "Asambleísta Inés Alarcón.  Gracias, señor presidente.  Bueno, en efecto, a la legisladora que ingresó el proyecto de ley  e hizo uso de la palabra, me gustaría comunicarle a la legisladora  que el 24 de febrero, dentro de la sesión 73,  se recibió al colectivo de servicio pasivo.  Todas las voces son escuchadas en la comisión que me honro en presidir,  la comisión de seguridad.  Y sí le voy a pedir, legisladora, que no confunda justicia  con inconstitucionalidad.  Yo le voy a decir a usted lo que es injusto.  Injusto es votar en contra de viviendas dignas para los más necesitados.  Lo que es injusto es que ustedes, la revolución ciudadana,  se opongan a acuerdos estratégicos, como por ejemplo el de Corea,  en donde se van a generar más de 150 mil empleos.  Eso es injusto.  ¿Sabe qué es injusto?  Llenar de falsas expectativas a la gente.  Que como usted conoce, o bueno, no sé si conozca,  nosotros no podemos tener impacto presupuestario en las leyes.  ¿Y sabe qué?  Va a ser injusto también en pocos momentos,  que seguramente van a votar en contra de la ley de educación financiera.  ¿Sabe por qué?  Porque nos quieren ignorantes, por eso.  Y porque mienten a la gente.  Eso es injusto.  Y le voy a pedir que si va a ingresar nuevas propuestas de ley,  lo haga conforme a la ley.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "XKvXdnKkFlw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblywoman Inés Alarcón - Session 086 - Information Point",
+  "url": "https://www.youtube.com/watch?v=XKvXdnKkFlw",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "XKvXdnKkFlw",
+  "source_url": "https://www.youtube.com/watch?v=XKvXdnKkFlw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 93.94,
+      "interventions": 1,
+      "word_count": 230
+    }
+  ]
+}
