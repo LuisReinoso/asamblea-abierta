@@ -1,0 +1,51 @@
+{
+  "text": "Lectura del acuerdo.  El presidente, considerando que la unidad educativa técnico salesiano, fundada en 1933 en la ciudad de Cuenca, provincia de La Sual, constituye una de las instituciones educativas más representativas del país, formando durante 90 años a generaciones de niños, adolescentes y jóvenes bajo el modelo pedagógico de Don Bosco.  Acuerda. Felicitar y rendir homenaje a la unidad educativa técnico salesiano de la ciudad de Cuenca, con motivo de su 90º aniversario de fundación, exaltando su aporte histórico en la educación técnica, la formación de la juventud ecuatoriana y la construcción de valores ciudadanos.  Hace entrega del acuerdo el señor presidente de la Asamblea Nacional, asambleísta Nils Olsen-Pitt.  Agradecemos la presencia del padre Marcelo Farfán Pacheco, que acudió al pleno de la Asamblea Nacional en representación de la unidad técnico salesiano de la ciudad de Cuenca, provincia de Azuay.  Se reinstalan la sesión.  Señor secretario, siguiente punto del orden del día.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 194.58,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 49.88,
+      "end": 194.62,
+      "text": "Lectura del acuerdo.  El presidente, considerando que la unidad educativa técnico salesiano, fundada en 1933 en la ciudad de Cuenca, provincia de La Sual, constituye una de las instituciones educativas más representativas del país, formando durante 90 años a generaciones de niños, adolescentes y jóvenes bajo el modelo pedagógico de Don Bosco.  Acuerda. Felicitar y rendir homenaje a la unidad educativa técnico salesiano de la ciudad de Cuenca, con motivo de su 90º aniversario de fundación, exaltando su aporte histórico en la educación técnica, la formación de la juventud ecuatoriana y la construcción de valores ciudadanos.  Hace entrega del acuerdo el señor presidente de la Asamblea Nacional, asambleísta Nils Olsen-Pitt.  Agradecemos la presencia del padre Marcelo Farfán Pacheco, que acudió al pleno de la Asamblea Nacional en representación de la unidad técnico salesiano de la ciudad de Cuenca, provincia de Azuay.  Se reinstalan la sesión.  Señor secretario, siguiente punto del orden del día.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 0.8771,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "_O7_Gyhig6E",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Recognition of the Salesian Technical Educational Unit, in the city of Cuenca - Session 085",
+  "url": "https://www.youtube.com/watch?v=_O7_Gyhig6E",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "_O7_Gyhig6E",
+  "source_url": "https://www.youtube.com/watch?v=_O7_Gyhig6E",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 144.74,
+      "interventions": 1,
+      "word_count": 155
+    }
+  ]
+}
