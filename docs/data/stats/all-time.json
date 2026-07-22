@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T04:31:21.190299",
-  "total_sessions": 635,
+  "generated_at": "2026-07-22T04:29:24.327824",
+  "total_sessions": 643,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 5755.43,
-      "total_interventions": 110,
-      "sessions_attended": 30,
+      "total_time": 5977.320000000001,
+      "total_interventions": 114,
+      "sessions_attended": 31,
       "topics_discussed": 0
     },
     {
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 5371.530000000001,
-      "total_interventions": 23,
-      "sessions_attended": 10,
+      "total_time": 5855.030000000001,
+      "total_interventions": 25,
+      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -171,6 +171,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 3632.23,
+      "total_interventions": 90,
+      "sessions_attended": 23,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
       "name": "Ana Belén Tapia Vallejo",
       "type": "asambleísta",
@@ -192,18 +204,6 @@
       "total_time": 3250.97,
       "total_interventions": 7,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 3013.2400000000002,
-      "total_interventions": 77,
-      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -243,6 +243,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
+      "name": "Brígida Lucía Pozo Moreta",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Carchi",
+      "total_time": 2374.68,
+      "total_interventions": 18,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
       "name": "Milton Javier Aguas Flores",
       "type": "asambleísta",
@@ -252,6 +264,18 @@
       "total_time": 2323.33,
       "total_interventions": 9,
       "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 2313.8999999999996,
+      "total_interventions": 25,
+      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -279,27 +303,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
-      "name": "Brígida Lucía Pozo Moreta",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Carchi",
-      "total_time": 2104.8599999999997,
-      "total_interventions": 17,
-      "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2063.2900000000004,
-      "total_interventions": 47,
-      "sessions_attended": 16,
+      "total_time": 2118.4000000000005,
+      "total_interventions": 61,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -312,18 +324,6 @@
       "total_time": 2039.29,
       "total_interventions": 49,
       "sessions_attended": 11,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
-      "name": "Nathaly Estefanía Farinango Delgado",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 2029.0800000000002,
-      "total_interventions": 24,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
