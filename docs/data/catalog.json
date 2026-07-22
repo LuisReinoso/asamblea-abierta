@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T04:31:21.777280",
-  "total_sessions": 635,
+  "generated_at": "2026-07-22T04:29:24.896622",
+  "total_sessions": 643,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5744,6 +5744,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "0h8C86vqh-Y",
+      "title": "Assemblywoman Nathaly Farinango - Session 084",
+      "date": "",
+      "duration": 293.78,
+      "url": "https://www.youtube.com/watch?v=0h8C86vqh-Y",
+      "file_path": "data/sessions/0h8C86vqh-Y.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "mFygxANBAUY",
       "title": "Jericco Rosero - Session 093 - General Commission",
       "date": "",
@@ -7088,12 +7102,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "g6lrmU5u_YM",
+      "title": "Voting on the motion of Assemblywoman Diana Jácome - Session 084",
+      "date": "",
+      "duration": 442.04,
+      "url": "https://www.youtube.com/watch?v=g6lrmU5u_YM",
+      "file_path": "data/sessions/g6lrmU5u_YM.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "vThpKE77tDk",
       "title": "Assemblywoman Rosa Torres - Session 094",
       "date": "",
       "duration": 710.48,
       "url": "https://www.youtube.com/watch?v=vThpKE77tDk",
       "file_path": "data/sessions/vThpKE77tDk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "3LR75yAnOgw",
+      "title": "Assemblywoman Diana Jácome - Session 084",
+      "date": "",
+      "duration": 240.7,
+      "url": "https://www.youtube.com/watch?v=3LR75yAnOgw",
+      "file_path": "data/sessions/3LR75yAnOgw.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7438,6 +7480,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "vx-6w7KV8e4",
+      "title": "Asambleísta Lucía Pozo - Sesión 084",
+      "date": "",
+      "duration": 270.84,
+      "url": "https://www.youtube.com/watch?v=vx-6w7KV8e4",
+      "file_path": "data/sessions/vx-6w7KV8e4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "wBqlDucKwiI",
       "title": "Assemblywoman Besibell Mendoza - Session 098 - Change of agenda",
       "date": "",
@@ -7668,6 +7724,20 @@
       "duration": 529.81,
       "url": "https://www.youtube.com/watch?v=HFTnwhdBSD4",
       "file_path": "data/sessions/HFTnwhdBSD4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "j3sjy-YJEMs",
+      "title": "Assemblywoman Diana Jácome - Session 084",
+      "date": "",
+      "duration": 249.75,
+      "url": "https://www.youtube.com/watch?v=j3sjy-YJEMs",
+      "file_path": "data/sessions/j3sjy-YJEMs.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -8292,6 +8362,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "-dMLIYdsGW0",
+      "title": "Voting on the motion of Assemblywoman Nathaly Farinango - Session 084",
+      "date": "",
+      "duration": 622.9,
+      "url": "https://www.youtube.com/watch?v=-dMLIYdsGW0",
+      "file_path": "data/sessions/-dMLIYdsGW0.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c1eIY0MwPFE",
       "title": "Assemblyman Cristian Benavides - Session 098",
       "date": "",
@@ -8502,6 +8586,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "N7ztpBRpit8",
+      "title": "Voting on the motion of Assemblywoman Diana Jácome - Session 084",
+      "date": "",
+      "duration": 393.58,
+      "url": "https://www.youtube.com/watch?v=N7ztpBRpit8",
+      "file_path": "data/sessions/N7ztpBRpit8.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "HccLhtm3xIA",
       "title": "Assemblyman Juan José Reyes - Session 097",
       "date": "",
@@ -8524,6 +8622,20 @@
       "file_path": "data/sessions/rpb0kW26cl8.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "bDbwRA-j4PY",
+      "title": "Voting on the motion of Assemblywoman Lucía Pozo - Session 084",
+      "date": "",
+      "duration": 870.12,
+      "url": "https://www.youtube.com/watch?v=bDbwRA-j4PY",
+      "file_path": "data/sessions/bDbwRA-j4PY.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
