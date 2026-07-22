@@ -1,0 +1,147 @@
+{
+  "text": "Asambleístas, por favor, registrar su participación en las colores electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señor presidente, que contamos con 139 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Cecilia Baltasar.  Señores asambleístas, por favor consignar su voto. Señor Secretario, proclame resultados. Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 139 asambleístas presentes,  contamos con 85 votos afirmativos, 53 votos negativos, 80 y 0 votos blancos y 0 abstención.  Por lo tanto, no ha sido aprobada la reconsideración planteada por la asambleísta Cecilia Baltazar. Señor Secretario, certifique si existen puntos adicionales en el orden del día de la presente sesión. Señor Presidente, cumplo con certificar que se ha agotado el orden de...",
+  "language": "es",
+  "duration": 182.72,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 8.65,
+      "text": "Asambleístas, por favor, registrar su participación en las colores electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 92.12,
+      "end": 94.03,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6155,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 97.67,
+      "end": 115.27,
+      "text": "Me permito informar, señor presidente, que contamos con 139 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Cecilia Baltasar.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 144.36,
+      "end": 146.39,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6155,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 148.34,
+      "end": 173.71,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 139 asambleístas presentes,  contamos con 85 votos afirmativos, 53 votos negativos, 80 y 0 votos blancos y 0 abstención.  Por lo tanto, no ha sido aprobada la reconsideración planteada por la asambleísta Cecilia Baltazar.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 173.79,
+      "end": 178.5,
+      "text": "Señor Secretario, certifique si existen puntos adicionales en el orden del día de la presente sesión.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6155,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 179.02,
+      "end": 182.72,
+      "text": "Señor Presidente, cumplo con certificar que se ha agotado el orden de...",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "José Luis Nango Cuji",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Iwtse-itD_0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "José Luis Nango Cuji": 1,
+        "[OOV] L Asamblea Nacional": 1
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "José Luis Nango Cuji",
+      "confidence": 1.0,
+      "votes": {
+        "José Luis Nango Cuji": 3
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Vote on the reconsideration of the vote of Assemblywoman Cecilia Baltazar - Session 083",
+  "url": "https://www.youtube.com/watch?v=Iwtse-itD_0",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Iwtse-itD_0",
+  "source_url": "https://www.youtube.com/watch?v=Iwtse-itD_0",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "José Luis Nango Cuji",
+      "party": null,
+      "province": null,
+      "total_time": 55.29,
+      "interventions": 4,
+      "word_count": 117
+    },
+    {
+      "id": "speaker_0",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 8.65,
+      "interventions": 3,
+      "word_count": 25
+    }
+  ]
+}

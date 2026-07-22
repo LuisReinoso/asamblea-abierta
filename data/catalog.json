@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T04:29:24.896622",
-  "total_sessions": 643,
+  "generated_at": "2026-07-22T18:38:57.211601",
+  "total_sessions": 651,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5912,6 +5912,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "mlI3PsMcSso",
+      "title": "Votación de la moción del asambleísta Edwin Jarrín - Sesión 084",
+      "date": "",
+      "duration": 520.57,
+      "url": "https://www.youtube.com/watch?v=mlI3PsMcSso",
+      "file_path": "data/sessions/mlI3PsMcSso.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c4gu9QA8a6E",
       "title": "Assemblyman Diego Franco - Session 097",
       "date": "",
@@ -6130,6 +6144,34 @@
       "file_path": "data/sessions/WwwLlQWQ8Wg.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Iwtse-itD_0",
+      "title": "Vote on the reconsideration of the vote of Assemblywoman Cecilia Baltazar - Session 083",
+      "date": "",
+      "duration": 182.72,
+      "url": "https://www.youtube.com/watch?v=Iwtse-itD_0",
+      "file_path": "data/sessions/Iwtse-itD_0.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "2truRBvbf0U",
+      "title": "Voting on the motion of Assemblyman Edwin Jarrín - Session 084",
+      "date": "",
+      "duration": 560.27,
+      "url": "https://www.youtube.com/watch?v=2truRBvbf0U",
+      "file_path": "data/sessions/2truRBvbf0U.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6368,6 +6410,20 @@
       "file_path": "data/sessions/MylkLNgGmm4.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "pjMDCo7R1rk",
+      "title": "Rectification of the vote on the motion of Assemblyman Edwin Jarrín - Session 084",
+      "date": "",
+      "duration": 424.79,
+      "url": "https://www.youtube.com/watch?v=pjMDCo7R1rk",
+      "file_path": "data/sessions/pjMDCo7R1rk.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -7704,6 +7760,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "BuWDTPQl8Hw",
+      "title": "Voting on the motion of Assemblywoman Inés Alarcón - Session 084",
+      "date": "",
+      "duration": 550.01,
+      "url": "https://www.youtube.com/watch?v=BuWDTPQl8Hw",
+      "file_path": "data/sessions/BuWDTPQl8Hw.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "cFqDvZy7Auo",
       "title": "Assemblywoman Viviana Veloz - Session 095",
       "date": "",
@@ -8110,6 +8180,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "a7RY1vaSZdQ",
+      "title": "Assemblyman Edwin Jarrín - Session 084",
+      "date": "",
+      "duration": 387.05,
+      "url": "https://www.youtube.com/watch?v=a7RY1vaSZdQ",
+      "file_path": "data/sessions/a7RY1vaSZdQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "WQ55X0hsXWw",
       "title": "Assemblyman Pablo Jurado - Session 087",
       "date": "",
@@ -8376,6 +8460,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "8asJ9_ZniI8",
+      "title": "Assemblywoman Inés Alarcón - Session 084",
+      "date": "",
+      "duration": 485.62,
+      "url": "https://www.youtube.com/watch?v=8asJ9_ZniI8",
+      "file_path": "data/sessions/8asJ9_ZniI8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c1eIY0MwPFE",
       "title": "Assemblyman Cristian Benavides - Session 098",
       "date": "",
@@ -8620,6 +8718,20 @@
       "duration": 722.42,
       "url": "https://www.youtube.com/watch?v=rpb0kW26cl8",
       "file_path": "data/sessions/rpb0kW26cl8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "wG5jx4UGrt0",
+      "title": "Assemblyman Edwin Jarrín - Session 084",
+      "date": "",
+      "duration": 408.49,
+      "url": "https://www.youtube.com/watch?v=wG5jx4UGrt0",
+      "file_path": "data/sessions/wG5jx4UGrt0.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

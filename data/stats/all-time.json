@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T04:29:24.327824",
-  "total_sessions": 643,
+  "generated_at": "2026-07-22T18:38:56.652837",
+  "total_sessions": 651,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 4356.999999999999,
+      "total_interventions": 23,
+      "sessions_attended": 13,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SERGIO-JESUS-PENA-VELOZ",
       "name": "Sergio Jesús Peña Veloz",
       "type": "asambleísta",
@@ -84,6 +96,18 @@
       "total_time": 4315.74,
       "total_interventions": 12,
       "sessions_attended": 12,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 4309.330000000001,
+      "total_interventions": 106,
+      "sessions_attended": 27,
       "topics_discussed": 0
     },
     {
@@ -135,18 +159,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 3873.4099999999994,
-      "total_interventions": 22,
-      "sessions_attended": 12,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
       "name": "Roberto Fernando Jaramillo Martínez",
       "type": "asambleísta",
@@ -171,18 +183,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 3632.23,
-      "total_interventions": 90,
-      "sessions_attended": 23,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
       "name": "Ana Belén Tapia Vallejo",
       "type": "asambleísta",
@@ -204,6 +204,18 @@
       "total_time": 3250.97,
       "total_interventions": 7,
       "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "total_time": 2748.8199999999997,
+      "total_interventions": 9,
+      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -255,6 +267,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 2370.51,
+      "total_interventions": 42,
+      "sessions_attended": 12,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
       "name": "Milton Javier Aguas Flores",
       "type": "asambleísta",
@@ -264,18 +288,6 @@
       "total_time": 2323.33,
       "total_interventions": 9,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
-      "name": "Nathaly Estefanía Farinango Delgado",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 2313.8999999999996,
-      "total_interventions": 25,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -309,9 +321,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2118.4000000000005,
-      "total_interventions": 61,
-      "sessions_attended": 20,
+      "total_time": 2127.0500000000006,
+      "total_interventions": 64,
+      "sessions_attended": 21,
       "topics_discussed": 0
     },
     {
@@ -339,14 +351,14 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
-      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "id": "AN-JOSE-LUIS-NANGO-CUJI",
+      "name": "José Luis Nango Cuji",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "PSP",
-      "province": "Morona Santiago",
-      "total_time": 1954.98,
-      "total_interventions": 7,
+      "party": "Ind.",
+      "province": "Pastaza",
+      "total_time": 1940.6600000000003,
+      "total_interventions": 17,
       "sessions_attended": 7,
       "topics_discussed": 0
     },
@@ -360,18 +372,6 @@
       "total_time": 1934.5699999999997,
       "total_interventions": 7,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOSE-LUIS-NANGO-CUJI",
-      "name": "José Luis Nango Cuji",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pastaza",
-      "total_time": 1885.3700000000001,
-      "total_interventions": 13,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -795,6 +795,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
+      "name": "César Gustavo Palacios Alejandro",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Santa Elena",
+      "total_time": 908.9200000000001,
+      "total_interventions": 4,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
       "name": "Rosa Cecilia Baltazar Yucailla",
       "type": "asambleísta",
@@ -816,18 +828,6 @@
       "total_time": 906.66,
       "total_interventions": 8,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
-      "name": "César Gustavo Palacios Alejandro",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Santa Elena",
-      "total_time": 902.48,
-      "total_interventions": 3,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {

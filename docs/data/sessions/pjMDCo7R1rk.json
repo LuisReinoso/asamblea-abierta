@@ -1,0 +1,175 @@
+{
+  "text": "Señora Presidenta, por favor estoy pidiendo la rectificación al voto emitido.  Gracias. Señor secretario, tomé votación de la rectificación de la votación. Señores asamblistas, por favor, registrar su participación en las clubes de electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierra el registro, señor secretario. Me permito informar, señora presidenta, que contamos con 138 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la rectificación de la votación de la moción presentada por el asambleísta Edwin Jarrín.  Señoras asambleístas, por favor consignar su voto. Señor Secretario, proclame resultados. Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 138 asambleístas presentes  contamos con 83 votos afirmativos, 0 negativos, 0 blancos y 55 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada. Señor secretario, siguiente punto del orden del día.",
+  "language": "es",
+  "duration": 424.79,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.23,
+      "end": 8.67,
+      "text": "Señora Presidenta, por favor estoy pidiendo la rectificación al voto emitido.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "César Gustavo Palacios Alejandro",
+        "confidence": 0.7832,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.28,
+      "end": 12.42,
+      "text": "Señor secretario, tomé votación de la rectificación de la votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5383,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 14.56,
+      "end": 24.97,
+      "text": "Señores asamblistas, por favor, registrar su participación en las clubes de electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 218.29,
+      "end": 219.93,
+      "text": "Cierra el registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5383,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 222.97,
+      "end": 242.86,
+      "text": "Me permito informar, señora presidenta, que contamos con 138 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la rectificación de la votación de la moción presentada por el asambleísta Edwin Jarrín.  Señoras asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 390.4,
+      "end": 392.58,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5383,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 393.79,
+      "end": 415.12,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 138 asambleístas presentes  contamos con 83 votos afirmativos, 0 negativos, 0 blancos y 55 abstenciones.  Por lo tanto, ha sido aprobada la moción presentada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 420.45,
+      "end": 422.97,
+      "text": "Señor secretario, siguiente punto del orden del día.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5383,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "pjMDCo7R1rk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "del Cisne Rogel Esperanza",
+      "confidence": 1.0,
+      "votes": {
+        "del Cisne Rogel Esperanza": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Rectification of the vote on the motion of Assemblyman Edwin Jarrín - Session 084",
+  "url": "https://www.youtube.com/watch?v=pjMDCo7R1rk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "pjMDCo7R1rk",
+  "source_url": "https://www.youtube.com/watch?v=pjMDCo7R1rk",
+  "speaker_stats": [
+    {
+      "id": "speaker_2",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 51.63,
+      "interventions": 3,
+      "word_count": 103
+    },
+    {
+      "id": "speaker_0",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 9.48,
+      "interventions": 4,
+      "word_count": 27
+    },
+    {
+      "id": "speaker_1",
+      "name": "César Gustavo Palacios Alejandro",
+      "party": null,
+      "province": null,
+      "total_time": 6.44,
+      "interventions": 1,
+      "word_count": 12
+    }
+  ]
+}
