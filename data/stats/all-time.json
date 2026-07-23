@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T18:38:56.652837",
-  "total_sessions": 651,
+  "generated_at": "2026-07-23T04:28:44.723079",
+  "total_sessions": 659,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 4938.050000000001,
-      "total_interventions": 29,
-      "sessions_attended": 19,
+      "total_time": 5086.180000000001,
+      "total_interventions": 33,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -111,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 4130.31,
+      "total_interventions": 28,
+      "sessions_attended": 13,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -135,16 +147,28 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
-      "name": "Adrián Ernesto Castro Piedra",
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
-      "province": "Azuay",
-      "total_time": 3935.8900000000003,
-      "total_interventions": 27,
-      "sessions_attended": 12,
+      "province": "Napo",
+      "total_time": 3891.5400000000004,
+      "total_interventions": 39,
+      "sessions_attended": 14,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
+      "name": "Janeth Paola Cabezas Castillo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 3885.7899999999995,
+      "total_interventions": 12,
+      "sessions_attended": 9,
+      "topics_discussed": 0
     },
     {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
@@ -169,30 +193,6 @@
       "total_interventions": 10,
       "sessions_attended": 8,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
-      "name": "Janeth Paola Cabezas Castillo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 3704.12,
-      "total_interventions": 8,
-      "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 3512.6200000000003,
-      "total_interventions": 38,
-      "sessions_attended": 13,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
@@ -321,9 +321,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2127.0500000000006,
-      "total_interventions": 64,
-      "sessions_attended": 21,
+      "total_time": 2145.9000000000005,
+      "total_interventions": 69,
+      "sessions_attended": 22,
       "topics_discussed": 0
     },
     {
@@ -394,6 +394,18 @@
       "party": "ADN",
       "province": "Pichincha Centro-Sur",
       "total_time": 1825.5300000000002,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 1807.1899999999998,
       "total_interventions": 4,
       "sessions_attended": 4,
       "topics_discussed": 0
@@ -567,18 +579,6 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-ALEJANDRO-LORENZO-VANEGAS-CORTAZAR",
-      "name": "Alejandro Lorenzo Vanegas Cortazar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 1355.26,
-      "total_interventions": 3,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-PAMELA-ALEJANDRA-AGUIRRE-ZAMBONINO",
       "name": "Pamela Alejandra Aguirre Zambonino",
       "type": "asambleísta",
@@ -661,6 +661,18 @@
       "total_interventions": 6,
       "sessions_attended": 3,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Tungurahua",
+      "total_time": 1157.1599999999999,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
     },
     {
       "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
@@ -804,18 +816,6 @@
       "total_time": 908.9200000000001,
       "total_interventions": 4,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
-      "name": "Rosa Cecilia Baltazar Yucailla",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Tungurahua",
-      "total_time": 908.54,
-      "total_interventions": 2,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {

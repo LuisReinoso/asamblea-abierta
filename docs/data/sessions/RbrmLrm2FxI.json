@@ -1,0 +1,52 @@
+{
+  "text": "Quiero agradecer a todos los colegas quienes apuestan por esta legislación  para poder fortalecer el sistema de educación a nivel nacional,  escuelas, colegios y universidades.  Es más, también fortalecer el proceso de formación a nivel de todo el territorio nacional  con hombres y mujeres emprendedores que hoy más que nunca necesitan de la Asamblea Nacional.  Con ello, señor presidente, previo al agradecimiento,  informar a todos los ciudadanos ecuatorianos que hoy estamos entregando una herramienta fundamental para el país.  Pido la reconsideración, señor presidente, a esta legislación.  Gracias, asambleísta. Señor secretario, tome votación.",
+  "language": "es",
+  "duration": 42.1,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 42.08,
+      "text": "Quiero agradecer a todos los colegas quienes apuestan por esta legislación  para poder fortalecer el sistema de educación a nivel nacional,  escuelas, colegios y universidades.  Es más, también fortalecer el proceso de formación a nivel de todo el territorio nacional  con hombres y mujeres emprendedores que hoy más que nunca necesitan de la Asamblea Nacional.  Con ello, señor presidente, previo al agradecimiento,  informar a todos los ciudadanos ecuatorianos que hoy estamos entregando una herramienta fundamental para el país.  Pido la reconsideración, señor presidente, a esta legislación.  Gracias, asambleísta. Señor secretario, tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rosa Cecilia Baltazar Yucailla",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "RbrmLrm2FxI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "confidence": 1.0,
+      "votes": {
+        "Rosa Cecilia Baltazar Yucailla": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Cecilia Baltazar - Session 083 - Third Intervention",
+  "url": "https://www.youtube.com/watch?v=RbrmLrm2FxI",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "RbrmLrm2FxI",
+  "source_url": "https://www.youtube.com/watch?v=RbrmLrm2FxI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "party": null,
+      "province": null,
+      "total_time": 42.05,
+      "interventions": 1,
+      "word_count": 92
+    }
+  ]
+}

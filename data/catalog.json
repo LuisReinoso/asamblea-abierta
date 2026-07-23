@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T18:38:57.211601",
-  "total_sessions": 651,
+  "generated_at": "2026-07-23T04:28:44.918777",
+  "total_sessions": 659,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5744,6 +5744,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "m-s_GSWnLrY",
+      "title": "Voting on the motion of Assemblywoman Cecilia Baltazar - Session 083",
+      "date": "",
+      "duration": 689.42,
+      "url": "https://www.youtube.com/watch?v=m-s_GSWnLrY",
+      "file_path": "data/sessions/m-s_GSWnLrY.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "0h8C86vqh-Y",
       "title": "Assemblywoman Nathaly Farinango - Session 084",
       "date": "",
@@ -6010,6 +6024,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "7jS7JecY0rM",
+      "title": "Assemblywoman Paola Cabezas - Session 083 - Information Point",
+      "date": "",
+      "duration": 187.29,
+      "url": "https://www.youtube.com/watch?v=7jS7JecY0rM",
+      "file_path": "data/sessions/7jS7JecY0rM.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "e9SEDrkQoIw",
       "title": "Assemblyman Andrés Guschmer - Session 095",
       "date": "",
@@ -6172,6 +6200,20 @@
       "file_path": "data/sessions/2truRBvbf0U.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "futT8O37L-M",
+      "title": "Assemblyman Alejandro Vanegas - Session 083",
+      "date": "",
+      "duration": 453.16,
+      "url": "https://www.youtube.com/watch?v=futT8O37L-M",
+      "file_path": "data/sessions/futT8O37L-M.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6976,6 +7018,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "p8MeBGn7gDc",
+      "title": "Assembly Member Annabella Azín - Session 083",
+      "date": "",
+      "duration": 391.84,
+      "url": "https://www.youtube.com/watch?v=p8MeBGn7gDc",
+      "file_path": "data/sessions/p8MeBGn7gDc.json",
+      "video_type": "clip",
+      "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "U00jjK9G-rQ",
       "title": "Assemblywoman Nuvia Vega - Session 087",
       "date": "",
@@ -7494,6 +7550,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "RbrmLrm2FxI",
+      "title": "Assemblywoman Cecilia Baltazar - Session 083 - Third Intervention",
+      "date": "",
+      "duration": 42.1,
+      "url": "https://www.youtube.com/watch?v=RbrmLrm2FxI",
+      "file_path": "data/sessions/RbrmLrm2FxI.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "LrPOZRZ-jDM",
       "title": "Assemblyman Sergio Peña - Session 097 - 2nd Intervention",
       "date": "",
@@ -7724,6 +7794,20 @@
       "duration": 271.72,
       "url": "https://www.youtube.com/watch?v=Fpe0qiLuOsQ",
       "file_path": "data/sessions/Fpe0qiLuOsQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "8sbRsyFjyGc",
+      "title": "Assemblywoman Ana Belén Tapia - Session 083",
+      "date": "",
+      "duration": 388.26,
+      "url": "https://www.youtube.com/watch?v=8sbRsyFjyGc",
+      "file_path": "data/sessions/8sbRsyFjyGc.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -9040,6 +9124,34 @@
       "duration": 271.09,
       "url": "https://www.youtube.com/watch?v=fUWaOQFxBrE",
       "file_path": "data/sessions/fUWaOQFxBrE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "QX3uDowj_YU",
+      "title": "Assemblyman Adrián Castro - Session 083",
+      "date": "",
+      "duration": 194.82,
+      "url": "https://www.youtube.com/watch?v=QX3uDowj_YU",
+      "file_path": "data/sessions/QX3uDowj_YU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "BaD6rE44AyU",
+      "title": "Assemblywoman Cecilia Baltazar - Session 083 - II Intervention",
+      "date": "",
+      "duration": 208.45,
+      "url": "https://www.youtube.com/watch?v=BaD6rE44AyU",
+      "file_path": "data/sessions/BaD6rE44AyU.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

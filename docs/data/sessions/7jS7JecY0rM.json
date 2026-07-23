@@ -1,0 +1,107 @@
+{
+  "text": "Gracias, señor presidente. Oiga, a mí me preocupa mucho porque parece que hay una decisión institucionalizada de conspirar contra nuestra bancada.  Así que, relajaos.  Yo creo que una cosa es la parte institucional y otra son las decisiones políticas que tomemos como bancada.  Entonces, me parece inapropiado que alguien de su bancada esté presionando sobre decisiones  que son primeramente políticas internas de nuestra organización y de nuestro bloque.  Entonces, la verdad, desatinado todo.  Como desatinado presidente es que permanentemente, por decisión política seguramente de su bloque,  que lo dirige, bueno, usted es el presidente, por eso también es parte del bloque,  tomar decisiones deliberadas sobre cuando deciden una comisión, sobre los nombres.  Y a mí me pareció interesante lo que dijo mi compañera Sandra.  Yo creo que hay que llegar a mínimos, mínimos, porque no pueden ustedes imponernos.  Imagínense que usted tiene un equipo de fútbol y resulta que el director técnico del otro equipo  le impone a usted con quién jugar en su equipo.  Eso es lo que están haciendo ustedes.  Eso hacen permanentemente. Eso está mal, presidente.  Porque eso viola todos los principios democráticos de cualquier parlamento.  Mire, yo ya estoy de ahí, este es mi último PEPA.  Yo tuve que pasar con Iori, con Zaguisela, con Henry.  Y les juro que ningunos abusaron de su poder como lo hace usted.  Ningunos.  Había mínimos, mínimos, presidente.  Mínimos. Déjenla hablar por favor, que se exprese por favor, continúe asambleísta. Hay mínimos, presidente.  Eso es hacer política, llegar a puntos intermedios, gestionar la política,  que por eso, más allá de algunas cosas que mi compañera Sandra dijo,  que yo entendí lo que quiso.  Porque creo, presidente, que somos una fuerza política, primero democrática,  que tenemos procedimientos internos para todo lo que hacemos dentro de nuestra labor parlamentaria,  pero entiendo que ustedes ya decidieron, o es parte de la estrategia,  ponernos a discutir sobre las cosas nuestras, dedíquense ustedes a hacer políticas de su bancada  y déjenos a nosotros con nuestros procedimientos, con nuestras decisiones  sobre lo que determinemos en el ámbito interno.  Pero parece que ahora más importante es un tema político de la revolución ciudadana  y ahora nos tienen hablando de una ley de educación financiera.  La gente se educa financieramente cuando tiene plata, suban los sueldos,  den la indignidad a la gente, una persona pobre, empobrecida, no tiene que administrar.  Dejen de perdonarse impuestos, porque obviamente es muy fácil.  Denle más bien esas clases de administración financiera al presidente de la República,  que dejen de perdonarse impuestos, porque seguramente él sí necesita estudiar  para que sepa que la ley se respeta.  La gente empobrecida no tiene que administrar, por eso vamos a votar en contra de esta ley.  Me anticipo.  Gracias, señor presidente, por haberme dejado intervenir democráticamente en este punto.",
+  "language": "es",
+  "duration": 187.29,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.53,
+      "end": 3.52,
+      "text": "Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 0.5786,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.5,
+      "end": 89.0,
+      "text": "Oiga, a mí me preocupa mucho porque parece que hay una decisión institucionalizada de conspirar contra nuestra bancada.  Así que, relajaos.  Yo creo que una cosa es la parte institucional y otra son las decisiones políticas que tomemos como bancada.  Entonces, me parece inapropiado que alguien de su bancada esté presionando sobre decisiones  que son primeramente políticas internas de nuestra organización y de nuestro bloque.  Entonces, la verdad, desatinado todo.  Como desatinado presidente es que permanentemente, por decisión política seguramente de su bloque,  que lo dirige, bueno, usted es el presidente, por eso también es parte del bloque,  tomar decisiones deliberadas sobre cuando deciden una comisión, sobre los nombres.  Y a mí me pareció interesante lo que dijo mi compañera Sandra.  Yo creo que hay que llegar a mínimos, mínimos, porque no pueden ustedes imponernos.  Imagínense que usted tiene un equipo de fútbol y resulta que el director técnico del otro equipo  le impone a usted con quién jugar en su equipo.  Eso es lo que están haciendo ustedes.  Eso hacen permanentemente. Eso está mal, presidente.  Porque eso viola todos los principios democráticos de cualquier parlamento.  Mire, yo ya estoy de ahí, este es mi último PEPA.  Yo tuve que pasar con Iori, con Zaguisela, con Henry.  Y les juro que ningunos abusaron de su poder como lo hace usted.  Ningunos.  Había mínimos, mínimos, presidente.  Mínimos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 2,
+      "start": 90.31,
+      "end": 100.34,
+      "text": "Déjenla hablar por favor, que se exprese por favor, continúe asambleísta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 0.5786,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 100.34,
+      "end": 185.49,
+      "text": "Hay mínimos, presidente.  Eso es hacer política, llegar a puntos intermedios, gestionar la política,  que por eso, más allá de algunas cosas que mi compañera Sandra dijo,  que yo entendí lo que quiso.  Porque creo, presidente, que somos una fuerza política, primero democrática,  que tenemos procedimientos internos para todo lo que hacemos dentro de nuestra labor parlamentaria,  pero entiendo que ustedes ya decidieron, o es parte de la estrategia,  ponernos a discutir sobre las cosas nuestras, dedíquense ustedes a hacer políticas de su bancada  y déjenos a nosotros con nuestros procedimientos, con nuestras decisiones  sobre lo que determinemos en el ámbito interno.  Pero parece que ahora más importante es un tema político de la revolución ciudadana  y ahora nos tienen hablando de una ley de educación financiera.  La gente se educa financieramente cuando tiene plata, suban los sueldos,  den la indignidad a la gente, una persona pobre, empobrecida, no tiene que administrar.  Dejen de perdonarse impuestos, porque obviamente es muy fácil.  Denle más bien esas clases de administración financiera al presidente de la República,  que dejen de perdonarse impuestos, porque seguramente él sí necesita estudiar  para que sepa que la ley se respeta.  La gente empobrecida no tiene que administrar, por eso vamos a votar en contra de esta ley.  Me anticipo.  Gracias, señor presidente, por haberme dejado intervenir democráticamente en este punto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "7jS7JecY0rM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Janeth Paola Cabezas Castillo",
+      "confidence": 0.75,
+      "votes": {
+        "Janeth Paola Cabezas Castillo": 1
+      },
+      "samples": 20,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Assemblywoman Paola Cabezas - Session 083 - Information Point",
+  "url": "https://www.youtube.com/watch?v=7jS7JecY0rM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7jS7JecY0rM",
+  "source_url": "https://www.youtube.com/watch?v=7jS7JecY0rM",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Janeth Paola Cabezas Castillo",
+      "party": null,
+      "province": null,
+      "total_time": 169.65,
+      "interventions": 2,
+      "word_count": 449
+    },
+    {
+      "id": "speaker_0",
+      "name": "Janeth Paola Cabezas Castillo",
+      "party": null,
+      "province": null,
+      "total_time": 12.02,
+      "interventions": 2,
+      "word_count": 14
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "text": "Señor Secretario, certifique si la moción presentada por la Asamblea Cecilia Baltazar ha sido ingresada por escrito. Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría. Señores asambleístas, ¿tiene apoyo a la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada.  Memorando número AN-CST-2026-0162-M, Quito, Distrito Metropolitano, 15 de abril de 2026.  Para, Magíster Nilo Olsenpid, Presidente de la Asamblea Nacional.  Asunto, moción de aprobación del texto final de la Lía Orgánica de Educación Financiera.  De mi consideración, en mi calidad de asambleísta y en ejercicio de las facultades que me confieren los artículos 61 y 135 de la Ley Orgánica de la Acción Legislativa,  respecto a la convocatoria a la continuación de la sesión 083-AN-25-2029 del Pleno de la Asamblea Nacional,  y en atención del punto del orden del día 3, conocer y resolver respecto del texto final del proyecto de Ley Orgánica de Educación Financiera,  me permito proponer la siguiente moción.  La aprobación del texto final del proyecto de Ley Orgánica de Educación Financiera,  aprobado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología e Innovación y Saberes Ancestrales,  en sesión ordinaria número 2025-2027-051, de fecha 13 de abril de 2026.  Con sentimientos de distinguida consideración, atentamente, Rosa Cecilia Baltazar,  Presidenta de la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación y Saberes Ancestrales.  Señores asamblistas, por favor, registrar su participación en las culturas electrónicas.  Si existiera alguna novedad, por favor, informar a esta Secretaría.  ¡Gracias!  ¡Gracias! Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Cecilia Baltazar.  Señores asambleístas, por favor consignar su voto. Proclame el resultado, señor Secretario. Señor Operador, presente los resultados.  Señor Presidente, me permite informar que de un total de 143 asambleístas presentes  contamos con 88 votos afirmativos, 54 votos negativos, 0 blancos y 0 abstenciones.  Ha sido aprobada la moción presentada por la asambleísta Cecilia Baltazar. Tiene la palabra la asambleísta Cecilia Baltasar.",
+  "language": "es",
+  "duration": 689.42,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 5.62,
+      "text": "Señor Secretario, certifique si la moción presentada por la Asamblea Cecilia Baltazar ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6028,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 6.75,
+      "end": 11.56,
+      "text": "Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 11.79,
+      "end": 18.68,
+      "text": "Señores asambleístas, ¿tiene apoyo a la moción?  Señor secretario, dé lectura de la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6028,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 19.42,
+      "end": 125.18,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada.  Memorando número AN-CST-2026-0162-M, Quito, Distrito Metropolitano, 15 de abril de 2026.  Para, Magíster Nilo Olsenpid, Presidente de la Asamblea Nacional.  Asunto, moción de aprobación del texto final de la Lía Orgánica de Educación Financiera.  De mi consideración, en mi calidad de asambleísta y en ejercicio de las facultades que me confieren los artículos 61 y 135 de la Ley Orgánica de la Acción Legislativa,  respecto a la convocatoria a la continuación de la sesión 083-AN-25-2029 del Pleno de la Asamblea Nacional,  y en atención del punto del orden del día 3, conocer y resolver respecto del texto final del proyecto de Ley Orgánica de Educación Financiera,  me permito proponer la siguiente moción.  La aprobación del texto final del proyecto de Ley Orgánica de Educación Financiera,  aprobado por la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología e Innovación y Saberes Ancestrales,  en sesión ordinaria número 2025-2027-051, de fecha 13 de abril de 2026.  Con sentimientos de distinguida consideración, atentamente, Rosa Cecilia Baltazar,  Presidenta de la Comisión Especializada Permanente de Educación, Cultura, Ciencia, Tecnología, Innovación y Saberes Ancestrales.  Señores asamblistas, por favor, registrar su participación en las culturas electrónicas.  Si existiera alguna novedad, por favor, informar a esta Secretaría.  ¡Gracias!  ¡Gracias!",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 471.89,
+      "end": 473.71,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6028,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 477.04,
+      "end": 492.68,
+      "text": "Me permito informar, señor presidente, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Cecilia Baltazar.  Señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 655.39,
+      "end": 657.31,
+      "text": "Proclame el resultado, señor Secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6028,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 658.56,
+      "end": 680.48,
+      "text": "Señor Operador, presente los resultados.  Señor Presidente, me permite informar que de un total de 143 asambleístas presentes  contamos con 88 votos afirmativos, 54 votos negativos, 0 blancos y 0 abstenciones.  Ha sido aprobada la moción presentada por la asambleísta Cecilia Baltazar.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 686.29,
+      "end": 688.92,
+      "text": "Tiene la palabra la asambleísta Cecilia Baltasar.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.6028,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "m-s_GSWnLrY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 6,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 1.0,
+      "votes": {
+        "Juan José Reyes Baquerizo": 2
+      },
+      "samples": 24,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Voting on the motion of Assemblywoman Cecilia Baltazar - Session 083",
+  "url": "https://www.youtube.com/watch?v=m-s_GSWnLrY",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "m-s_GSWnLrY",
+  "source_url": "https://www.youtube.com/watch?v=m-s_GSWnLrY",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 148.13,
+      "interventions": 4,
+      "word_count": 302
+    },
+    {
+      "id": "speaker_0",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 18.85,
+      "interventions": 5,
+      "word_count": 53
+    }
+  ]
+}
