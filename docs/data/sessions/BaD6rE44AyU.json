@@ -1,0 +1,50 @@
+{
+  "text": "La palabra la asambleísta Cecilia Baltasar.  La palabra la asambleísta Cecilia Baltasar.  La palabra la asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.",
+  "language": "es",
+  "duration": 208.45,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 206.6,
+      "text": "La palabra la asambleísta Cecilia Baltasar.  La palabra la asambleísta Cecilia Baltasar.  La palabra la asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.  La asambleísta Cecilia Baltasar.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rosa Cecilia Baltazar Yucailla",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "BaD6rE44AyU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblywoman Cecilia Baltazar - Session 083 - II Intervention",
+  "url": "https://www.youtube.com/watch?v=BaD6rE44AyU",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "BaD6rE44AyU",
+  "source_url": "https://www.youtube.com/watch?v=BaD6rE44AyU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "party": null,
+      "province": null,
+      "total_time": 206.57,
+      "interventions": 1,
+      "word_count": 34
+    }
+  ]
+}
