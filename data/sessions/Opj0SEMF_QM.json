@@ -1,0 +1,52 @@
+{
+  "text": "Asambleísta Cecilia Baltasar.  Muchísimas gracias, señor presidente.  Toda vez que en el pleno hemos logrado escuchar algunos aportes y sobre todo pedidos.  Uno, que se elabore el informe de archivo y el otro, que se ajuste este informe,  pues solicito en el marco de lo que determina el artículo 61 de la Ley Orgánica de la Función Legislativa,  que se suspenda el punto y se autorice más bien el retorno de este informe a la comisión  para que todos los asamblistas podamos tomar la decisión pertinente.  Obviamente, recoger las propuestas que sí caben y pues las otras tratar de justificarlos  en función de lo que dice la Constitución y las normativas incluso a nivel internacional.  Por cuanto no puede ser que solamente estemos satisfechos con saber sumar, restar, multiplicar y dividir  y cuando queremos hacer inversión o al menos hacer un seguimiento de un proceso de formación  que le permita a niños, niñas, jóvenes, a hombres y mujeres del país  pasar por un proceso de capacitación y formación para no solo centrarse en qué es el ahorro,  porque efectivamente no hay recursos para el ahorro, sino que puedan analizar temas de créditos,  inversión, administración de recursos financieros, tengamos que estar con cuestionamientos que no son pertinentes.  No queremos limitaciones de derechos, queremos más bien normativa y legislación  que facilite la vida de los ciudadanos ecuatorianos.  ¿Qué pasa en el sector público cuando uno dice, apliquen lo que dice la Ley Orgánica de Educación Intercultural?  Es que necesitamos normativa escrita, no hay legislación, queremos mayor desarrollo  y entonces bajo esas excusas queremos cerrar las puertas a un proceso de formación, capacitación,  acompañamiento a los ciudadanos ecuatorianos, lo cual no me parece pertinente.  Por ello, señor presidente, entonces pido que se autorice la suspensión de este punto  y que se nos permita en ocho días regresar nuevamente al pleno y que se observe realmente la votación  de todos los asambleístas, porque es momento de dar respuestas a los ciudadanos, de escuchar la demanda que tienen.  No es suficiente tampoco decir que vayan y que estén en las universidades, en los colegios.  No todos los ciudadanos tienen los privilegios que han tenido ustedes, señores legisladores.  Varios solamente van a la escuela, muchos van de pronto a institutos o a formaciones particulares  o a distancia y no logran tener la formación y la especialización y los conocimientos profundos y expeditos  que ustedes han señalado.  Así que muchas gracias, señor presidente, presento mi requerimiento.",
+  "language": "es",
+  "duration": 180.0,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 179.7,
+      "text": "Asambleísta Cecilia Baltasar.  Muchísimas gracias, señor presidente.  Toda vez que en el pleno hemos logrado escuchar algunos aportes y sobre todo pedidos.  Uno, que se elabore el informe de archivo y el otro, que se ajuste este informe,  pues solicito en el marco de lo que determina el artículo 61 de la Ley Orgánica de la Función Legislativa,  que se suspenda el punto y se autorice más bien el retorno de este informe a la comisión  para que todos los asamblistas podamos tomar la decisión pertinente.  Obviamente, recoger las propuestas que sí caben y pues las otras tratar de justificarlos  en función de lo que dice la Constitución y las normativas incluso a nivel internacional.  Por cuanto no puede ser que solamente estemos satisfechos con saber sumar, restar, multiplicar y dividir  y cuando queremos hacer inversión o al menos hacer un seguimiento de un proceso de formación  que le permita a niños, niñas, jóvenes, a hombres y mujeres del país  pasar por un proceso de capacitación y formación para no solo centrarse en qué es el ahorro,  porque efectivamente no hay recursos para el ahorro, sino que puedan analizar temas de créditos,  inversión, administración de recursos financieros, tengamos que estar con cuestionamientos que no son pertinentes.  No queremos limitaciones de derechos, queremos más bien normativa y legislación  que facilite la vida de los ciudadanos ecuatorianos.  ¿Qué pasa en el sector público cuando uno dice, apliquen lo que dice la Ley Orgánica de Educación Intercultural?  Es que necesitamos normativa escrita, no hay legislación, queremos mayor desarrollo  y entonces bajo esas excusas queremos cerrar las puertas a un proceso de formación, capacitación,  acompañamiento a los ciudadanos ecuatorianos, lo cual no me parece pertinente.  Por ello, señor presidente, entonces pido que se autorice la suspensión de este punto  y que se nos permita en ocho días regresar nuevamente al pleno y que se observe realmente la votación  de todos los asambleístas, porque es momento de dar respuestas a los ciudadanos, de escuchar la demanda que tienen.  No es suficiente tampoco decir que vayan y que estén en las universidades, en los colegios.  No todos los ciudadanos tienen los privilegios que han tenido ustedes, señores legisladores.  Varios solamente van a la escuela, muchos van de pronto a institutos o a formaciones particulares  o a distancia y no logran tener la formación y la especialización y los conocimientos profundos y expeditos  que ustedes han señalado.  Así que muchas gracias, señor presidente, presento mi requerimiento.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rosa Cecilia Baltazar Yucailla",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Opj0SEMF_QM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "confidence": 1.0,
+      "votes": {
+        "Rosa Cecilia Baltazar Yucailla": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Cecilia Baltazar - Session 083 - II Intervention",
+  "url": "https://www.youtube.com/watch?v=Opj0SEMF_QM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Opj0SEMF_QM",
+  "source_url": "https://www.youtube.com/watch?v=Opj0SEMF_QM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "party": null,
+      "province": null,
+      "total_time": 179.67,
+      "interventions": 1,
+      "word_count": 409
+    }
+  ]
+}

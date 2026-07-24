@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T04:28:44.723079",
-  "total_sessions": 659,
+  "generated_at": "2026-07-24T04:30:15.760345",
+  "total_sessions": 667,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -57,9 +57,33 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 5086.180000000001,
-      "total_interventions": 33,
-      "sessions_attended": 20,
+      "total_time": 5611.580000000001,
+      "total_interventions": 34,
+      "sessions_attended": 21,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 4630.84,
+      "total_interventions": 9,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 4586.159999999999,
+      "total_interventions": 111,
+      "sessions_attended": 29,
       "topics_discussed": 0
     },
     {
@@ -96,18 +120,6 @@
       "total_time": 4315.74,
       "total_interventions": 12,
       "sessions_attended": 12,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 4309.330000000001,
-      "total_interventions": 106,
-      "sessions_attended": 27,
       "topics_discussed": 0
     },
     {
@@ -168,18 +180,6 @@
       "total_time": 3885.7899999999995,
       "total_interventions": 12,
       "sessions_attended": 9,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 3882.87,
-      "total_interventions": 8,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -315,15 +315,27 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Tungurahua",
+      "total_time": 2171.01,
+      "total_interventions": 6,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2145.9000000000005,
-      "total_interventions": 69,
-      "sessions_attended": 22,
+      "total_time": 2167.6100000000006,
+      "total_interventions": 72,
+      "sessions_attended": 23,
       "topics_discussed": 0
     },
     {
@@ -408,6 +420,18 @@
       "total_time": 1807.1899999999998,
       "total_interventions": 4,
       "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SAMUEL-ELIAS-CELLERI-GOMEZ",
+      "name": "Samuel Elías Celleri Gómez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Esmeraldas",
+      "total_time": 1715.1799999999998,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -519,6 +543,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
+      "name": "Milena Cristina Jácome Benítez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 1468.8500000000004,
+      "total_interventions": 25,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-RICARDO-ARMANDO-PATINO-AROCA",
       "name": "Ricardo Armando Patiño Aroca",
       "type": "asambleísta",
@@ -528,18 +564,6 @@
       "total_time": 1454.99,
       "total_interventions": 9,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
-      "name": "Milena Cristina Jácome Benítez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 1448.6600000000003,
-      "total_interventions": 23,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -663,18 +687,6 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
-      "name": "Rosa Cecilia Baltazar Yucailla",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Tungurahua",
-      "total_time": 1157.1599999999999,
-      "total_interventions": 4,
-      "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
       "name": "María Gabriela Molina Menéndez",
       "type": "asambleísta",
@@ -720,18 +732,6 @@
       "total_time": 1044.38,
       "total_interventions": 4,
       "sessions_attended": 4,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SAMUEL-ELIAS-CELLERI-GOMEZ",
-      "name": "Samuel Elías Celleri Gómez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Esmeraldas",
-      "total_time": 1004.37,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1163,6 +1163,18 @@
       "province": "Santo Domingo",
       "total_time": 379.48,
       "total_interventions": 5,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-VALENTINA-CENTENO-ARTEAGA",
+      "name": "Valentina Centeno Arteaga",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 378.17,
+      "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
     },
