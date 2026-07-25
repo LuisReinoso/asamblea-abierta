@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:30:16.340202",
-  "total_sessions": 667,
+  "generated_at": "2026-07-25T04:26:56.660355",
+  "total_sessions": 675,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -5982,6 +5982,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "l9v64FaqyJs",
+      "title": "Assemblyman Adrián Castro - Session 083",
+      "date": "",
+      "duration": 306.34,
+      "url": "https://www.youtube.com/watch?v=l9v64FaqyJs",
+      "file_path": "data/sessions/l9v64FaqyJs.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "fH2pZInho9U",
       "title": "Assemblyman Roque Ordoñez - Session 094",
       "date": "",
@@ -7102,6 +7116,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Xn7A7mIND6w",
+      "title": "Assemblyman Andrés Guschmer - Session 083",
+      "date": "",
+      "duration": 618.58,
+      "url": "https://www.youtube.com/watch?v=Xn7A7mIND6w",
+      "file_path": "data/sessions/Xn7A7mIND6w.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "slo7MKIM9Rc",
       "title": "Assemblyman Vicente Báez - Session 087",
       "date": "",
@@ -7396,6 +7424,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Ny-qyqPnD8k",
+      "title": "Assemblywoman Pamela Aguirre - Session 083",
+      "date": "",
+      "duration": 302.76,
+      "url": "https://www.youtube.com/watch?v=Ny-qyqPnD8k",
+      "file_path": "data/sessions/Ny-qyqPnD8k.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "MfrrKhLyMR4",
       "title": "Asambleísta Naila Quintana - Sesión 093",
       "date": "",
@@ -7620,6 +7662,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Bqf87QZApj4",
+      "title": "Asambleísta John Polanco - Sesión 083",
+      "date": "",
+      "duration": 320.51,
+      "url": "https://www.youtube.com/watch?v=Bqf87QZApj4",
+      "file_path": "data/sessions/Bqf87QZApj4.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FXfAatVRAgI",
       "title": "Assemblyman Esteban Torres - Session 092",
       "date": "",
@@ -7754,6 +7810,20 @@
       "file_path": "data/sessions/jywMlF-JjRU.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "PCZP2LX8baw",
+      "title": "Asambleísta Comps Córdova - Sesión 083",
+      "date": "",
+      "duration": 380.99,
+      "url": "https://www.youtube.com/watch?v=PCZP2LX8baw",
+      "file_path": "data/sessions/PCZP2LX8baw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -8214,6 +8284,20 @@
       "duration": 322.22,
       "url": "https://www.youtube.com/watch?v=FgsX0UibKTk",
       "file_path": "data/sessions/FgsX0UibKTk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "m7Rli3YKjjo",
+      "title": "Assembly Members Milton Aguas - Session 083",
+      "date": "",
+      "duration": 262.01,
+      "url": "https://www.youtube.com/watch?v=m7Rli3YKjjo",
+      "file_path": "data/sessions/m7Rli3YKjjo.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -9076,6 +9160,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "2LphGIBRCqY",
+      "title": "Assembly Member Xavier Ordóñez - Session 083",
+      "date": "",
+      "duration": 223.86,
+      "url": "https://www.youtube.com/watch?v=2LphGIBRCqY",
+      "file_path": "data/sessions/2LphGIBRCqY.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "p6Uq2PQhRrU",
       "title": "Assemblyman Isaac Solano - Session 095",
       "date": "",
@@ -9124,6 +9222,20 @@
       "duration": 619.72,
       "url": "https://www.youtube.com/watch?v=-603TM7DrAw",
       "file_path": "data/sessions/-603TM7DrAw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Qrfiq0Kc6Sk",
+      "title": "Assemblywoman Inés Alarcón - Session 083",
+      "date": "",
+      "duration": 432.68,
+      "url": "https://www.youtube.com/watch?v=Qrfiq0Kc6Sk",
+      "file_path": "data/sessions/Qrfiq0Kc6Sk.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
