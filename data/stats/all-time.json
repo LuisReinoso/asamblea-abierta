@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:26:56.070070",
-  "total_sessions": 675,
+  "generated_at": "2026-07-26T04:28:40.641365",
+  "total_sessions": 683,
   "speaker_stats": [
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 6885.359999999999,
-      "total_interventions": 86,
-      "sessions_attended": 7,
+      "total_time": 6932.319999999999,
+      "total_interventions": 87,
+      "sessions_attended": 8,
       "topics_discussed": 3
     },
     {
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 5611.580000000001,
-      "total_interventions": 34,
-      "sessions_attended": 21,
+      "total_time": 5777.580000000001,
+      "total_interventions": 37,
+      "sessions_attended": 22,
       "topics_discussed": 0
     },
     {
@@ -207,6 +207,30 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 2889.86,
+      "total_interventions": 43,
+      "sessions_attended": 13,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
+      "name": "Rosa Cecilia Baltazar Yucailla",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Tungurahua",
+      "total_time": 2755.09,
+      "total_interventions": 7,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
       "name": "Edwin Estuardo Jarrín Rivadeneira",
       "type": "asambleísta",
@@ -291,18 +315,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
-      "name": "Nathaly Estefanía Farinango Delgado",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 2370.51,
-      "total_interventions": 42,
-      "sessions_attended": 12,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-MARCELO-ANDRES-GUSCHMER-TAMARIZ",
       "name": "Marcelo Andrés Guschmer Tamariz",
       "type": "asambleísta",
@@ -327,27 +339,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
-      "name": "Rosa Cecilia Baltazar Yucailla",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Tungurahua",
-      "total_time": 2171.01,
-      "total_interventions": 6,
-      "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
       "name": "Carmen Yolanda Tiupul Urquizo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2167.6100000000006,
-      "total_interventions": 72,
-      "sessions_attended": 23,
+      "total_time": 2175.9100000000008,
+      "total_interventions": 74,
+      "sessions_attended": 24,
       "topics_discussed": 0
     },
     {
@@ -699,6 +699,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
+      "name": "José Fernando Nantipia Chumpi",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Morona Santiago",
+      "total_time": 1091.88,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "PRESIDENTA-DEL-CONSEJO",
       "name": "Presidenta Del Consejo",
       "type": "desconocido",
@@ -889,18 +901,6 @@
       "total_interventions": 24,
       "sessions_attended": 1,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
-      "name": "José Fernando Nantipia Chumpi",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Morona Santiago",
-      "total_time": 675.6800000000001,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
     },
     {
       "id": "AN-CAMILA-ANAHI-CUEVA-TARCO",
@@ -1203,6 +1203,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANA-MARIA-RAFFO-GUEVARA",
+      "name": "Ana María Raffo Guevara",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 368.1,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SADE-RASHEL-FRITSCHI-NARANJO",
       "name": "Sade Rashel Fritschi Naranjo",
       "type": "asambleísta",
@@ -1272,6 +1284,18 @@
       "total_time": 303.61,
       "total_interventions": 7,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ANDREW-MORLEY",
+      "name": "Andrew Morley",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 301.51,
+      "total_interventions": 38,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1390,6 +1414,18 @@
       "party": null,
       "province": null,
       "total_time": 232.55,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "ELIZABETH-ORELLANA",
+      "name": "Elizabeth Orellana",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 199.11,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0

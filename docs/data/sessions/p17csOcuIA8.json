@@ -1,0 +1,52 @@
+{
+  "text": "la asambleísta Elizabeth Orellana. Señor Presidente, colegas asambleístas, más que  como una legisladora hablo como una ciudadana convencida de que la libertad  real de un pueblo comienza cuando éste entiende cómo gestionar su propio  destino económico. Esta ley sin duda será una herramienta de  justicia social y reducción de pobreza. No sólo es enseñar a ahorrar, es adoptar  a nuestros ciudadanos, adoptar la capacidad para que enfrenten un sistema  con conocimiento. En países como Brasil y Colombia, el uso de herramientas  digitales y metodologías basadas en la experiencia ha demostrado que la  educación financiera es más efectiva cuando se sale de la teoría y se aplica  a la realidad cotidiana. Países con marcos legales sólidos como los europeos han  integrado la educación financiera como el primer anillo de defensa para la  protección al consumidor, reduciendo drásticamente el fraude y el  sobreendeudamiento. En la implementación de esta ley sería importante integrar un  concepto que no se menciona explícitamente en el proyecto, pero que  es tendencia global, como es la resiliencia financiera frente al cambio  climático. En naciones de alta vulnerabilidad agrícola como la nuestra, se  enseña a los ciudadanos a utilizar microseguros climáticos y fondos de  emergencia específicos para desastres naturales. Dado que nuestra ley ya  contempla la sostenibilidad, debemos asegurar que los ecuatorianos aprendan a  proteger su patrimonio frente a las crisis ambientales que afectan directamente  nuestra economía popular y solidaria. Mi apoyo viene acompañado de una alerta  sobre la aplicabilidad. Colegas, el mayor riesgo de esta ley es que se convierta en  una carga burocrática más para el Ministerio de Educación. Como bien  señalaron los expertos en la comisión, el Ministerio de Educación no puede ser el  único responsable. Solicito especial atención en fortalecer la Comisión  Asesora de Educación Financiera como el verdadero eje articulador  interinstitucional. Y por último, una ley sin recursos es una ilusión.  Deberíamos garantizar que el mandato de esta ley llegue a las comunidades rurales,  indígenas y afroecuatorianas, donde la exclusión es mayor y donde hoy  necesitamos representantes en las mesas de decisión.  Para concluir, espero que esta herramienta sirva a la población joven, no solo busque  un empleo, sino que sepan cómo invertir en su emprendimiento sin caer en las garras de  prestamistas informales o en publicidad engañosa. Pero exijo que esta Asamblea fiscalice de  cerca que los reglamentos secundarios den la agilidad y la flexibilidad que el mercado  financiero actual demanda. Gracias.",
+  "language": "es",
+  "duration": 200.43,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 199.14,
+      "text": "la asambleísta Elizabeth Orellana. Señor Presidente, colegas asambleístas, más que  como una legisladora hablo como una ciudadana convencida de que la libertad  real de un pueblo comienza cuando éste entiende cómo gestionar su propio  destino económico. Esta ley sin duda será una herramienta de  justicia social y reducción de pobreza. No sólo es enseñar a ahorrar, es adoptar  a nuestros ciudadanos, adoptar la capacidad para que enfrenten un sistema  con conocimiento. En países como Brasil y Colombia, el uso de herramientas  digitales y metodologías basadas en la experiencia ha demostrado que la  educación financiera es más efectiva cuando se sale de la teoría y se aplica  a la realidad cotidiana. Países con marcos legales sólidos como los europeos han  integrado la educación financiera como el primer anillo de defensa para la  protección al consumidor, reduciendo drásticamente el fraude y el  sobreendeudamiento. En la implementación de esta ley sería importante integrar un  concepto que no se menciona explícitamente en el proyecto, pero que  es tendencia global, como es la resiliencia financiera frente al cambio  climático. En naciones de alta vulnerabilidad agrícola como la nuestra, se  enseña a los ciudadanos a utilizar microseguros climáticos y fondos de  emergencia específicos para desastres naturales. Dado que nuestra ley ya  contempla la sostenibilidad, debemos asegurar que los ecuatorianos aprendan a  proteger su patrimonio frente a las crisis ambientales que afectan directamente  nuestra economía popular y solidaria. Mi apoyo viene acompañado de una alerta  sobre la aplicabilidad. Colegas, el mayor riesgo de esta ley es que se convierta en  una carga burocrática más para el Ministerio de Educación. Como bien  señalaron los expertos en la comisión, el Ministerio de Educación no puede ser el  único responsable. Solicito especial atención en fortalecer la Comisión  Asesora de Educación Financiera como el verdadero eje articulador  interinstitucional. Y por último, una ley sin recursos es una ilusión.  Deberíamos garantizar que el mandato de esta ley llegue a las comunidades rurales,  indígenas y afroecuatorianas, donde la exclusión es mayor y donde hoy  necesitamos representantes en las mesas de decisión.  Para concluir, espero que esta herramienta sirva a la población joven, no solo busque  un empleo, sino que sepan cómo invertir en su emprendimiento sin caer en las garras de  prestamistas informales o en publicidad engañosa. Pero exijo que esta Asamblea fiscalice de  cerca que los reglamentos secundarios den la agilidad y la flexibilidad que el mercado  financiero actual demanda. Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Elizabeth Orellana",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "p17csOcuIA8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Elizabeth Orellana",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Elizabeth Orellana": 5
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Assemblywoman Elizabeth Orellana - Session 083",
+  "url": "https://www.youtube.com/watch?v=p17csOcuIA8",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "p17csOcuIA8",
+  "source_url": "https://www.youtube.com/watch?v=p17csOcuIA8",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Elizabeth Orellana",
+      "party": null,
+      "province": null,
+      "total_time": 199.11,
+      "interventions": 1,
+      "word_count": 399
+    }
+  ]
+}
