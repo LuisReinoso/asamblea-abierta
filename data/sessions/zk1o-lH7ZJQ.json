@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, Presidente. Me sumo a lo que comentaba Valentina Centeno.  Qué indignación, qué indolencia, qué pena que se pongan del lado de sus amigos alcaldes y no del lado de los ciudadanos.  Compañero asambleísta Steven Ordóñez, hemos escuchado su intervención  y hemos acogido también las observaciones que usted mencionaba para iniciar esos procesos de fiscalización acá en la provincia del Oro.  Definitivamente es un problema que no solo afecta a Manaví, sino a muchas más provincias del país.  En ese contexto, Presidente, he enviado por el sistema de gestión documental la moción pertinente  y solicito que se pueda tomar votación de la misma. Muchísimas gracias.",
+  "language": "es",
+  "duration": 50.04,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 46.99,
+      "text": "Gracias, Presidente. Me sumo a lo que comentaba Valentina Centeno.  Qué indignación, qué indolencia, qué pena que se pongan del lado de sus amigos alcaldes y no del lado de los ciudadanos.  Compañero asambleísta Steven Ordóñez, hemos escuchado su intervención  y hemos acogido también las observaciones que usted mencionaba para iniciar esos procesos de fiscalización acá en la provincia del Oro.  Definitivamente es un problema que no solo afecta a Manaví, sino a muchas más provincias del país.  En ese contexto, Presidente, he enviado por el sistema de gestión documental la moción pertinente  y solicito que se pueda tomar votación de la misma. Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mario Amado Zambrano Vera",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "zk1o-lH7ZJQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mario Amado Zambrano Vera",
+      "confidence": 1.0,
+      "votes": {
+        "Mario Amado Zambrano Vera": 3
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Mario Zambrano - Session 082 - II Intervention",
+  "url": "https://www.youtube.com/watch?v=zk1o-lH7ZJQ",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "zk1o-lH7ZJQ",
+  "source_url": "https://www.youtube.com/watch?v=zk1o-lH7ZJQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mario Amado Zambrano Vera",
+      "party": null,
+      "province": null,
+      "total_time": 46.96,
+      "interventions": 1,
+      "word_count": 105
+    }
+  ]
+}
