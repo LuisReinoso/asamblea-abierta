@@ -1,0 +1,272 @@
+{
+  "text": "Buenos días. Presidente, me confirma si... Si tengo audio. Buenos días, asambleístas. Perfecto, presidente. Agradecer por el espacio. El pleno de esta Asamblea Nacional está en la obligación de debatir con respecto de las acciones tomadas por el presidente de la República con la finalidad de determinar el ataque que se lo está realizando de manera directa contra los grupos de delincuencia organizada, el narcoterrorismo y la minería ilegal.  Para ello, señor presidente, con su autorización he presentado un video a secretaría con la finalidad de que pueda ser reproducido. Autorizado. Marzo marca el inicio de una nueva etapa decisiva contra el crimen organizado.  Este mes se inician operaciones conjuntas con aliados de la región,  incluidos los Estados Unidos, para enfrentar el narcoterrorismo y la minería.  Más cooperación, más capacidad y acciones directas en el territorio.  Este avance se fortalece tras la visita del comandante del United States Southern Command,  General Francis L. Donovan,  quien en Ecuador mantuvo reuniones con el presidente Daniel Novoa y autoridades de defensa,  reafirmando el respaldo de los Estados Unidos a los esfuerzos del país,  contra el narcoterrorismo y el crimen transnacional. La opinión le merece que estamos aquí cuidándole a ustedes. Es una buena idea que nos apoya. para terminarle con ustedes. Tanques de guerra golpean la minería ilegal y generan pérdidas de 3 millones de dólares a las mafras.  En Santo Domingo, la operación IMPAR golpeó directamente a estructuras dedicadas a la minería ilegal que operaban en la zona. El despliegue de tanques de guerra permitió inhabilitar 15 gobernadores. y destruir miles de sacos de material aurífero utilizados en estas actividades ilícitas.  Estas acciones afectaron a una red vinculada al grupo armado, Los Lobos,  que mantenía el control mediante amenazas e intimidación para sostener su operación ilegal.  Golpe que debilita sus economías ilícitas y reduce su presencia en el territorio.  Operación histórica fue letal.  Golpeó a la minería ilegal en la frontera norte.  Primera vez que el ejército ecuatoriano emplea tanques de guerra en una operación sin precedentes  que genera cerca de 110 millones de dólares en pérdidas anuales.  En la frontera norte, en el sector El Chical,  una operación militar ejecutada durante cuatro días marcó un antes y un después  en la lucha contra la minería ilegal,  permitiendo destruir alrededor de 50 bocaminas y afectar directamente estas economías ilícitas.  Estas acciones responden a la disposición del presidente Daniel Novoa  y la conducción del ministro de Defensa Giancarlo Lofren,  orientadas a proteger la seguridad y la soberanía del país. Colegas legisladores, ese es el trabajo efectivo que viene realizando el presidente de la República  y que esta bancada legislativa sí lo respalda también.  Los ecuatorianos, los ciudadanos de a pie, quienes invierten en sus negocios  y que el día de hoy se encuentran sometidos bajo la cultura del miedo, del peligro, de la extorsión.  Esa es la lucha valiente y eficaz que le ha dado el presidente de la República  en cerca de dos años a los grupos de delincuencia organizada,  a los grupos narcoterroristas, a quienes han hecho de la minería ilegal su fuente de financiamiento.  Y es aquí también poder indicar y decirle al país  quienes se encuentran apoyando el trabajo contra la delincuencia organizada  que, como decía el doctor Banegas, perteneciente a la bancada de la Revolución Ciudadana,  aplaude también la gestión que hace el presidente de la República  en beneficio de la seguridad de todos los ecuatorianos.  En este punto de debate, señora presidenta y colegas legisladores,  la finalidad es identificar a los colegas que se encuentran apoyando,  en este caso, la lucha de frente contra los grupos de delincuencia organizada,  pero también identificar a través de esta votación a los colegas legisladores  que respaldan a los grupos de delincuencia organizada  y recordar nuevamente a los ecuatorianos.  Fue la bancada de la Revolución Ciudadana en su momento  quien impulsó a Ronnie Aliaga, que pertenecía a un grupo de delincuencia organizada  en el Consejo de Administración Legislativa.  Mi palabra, presidenta.",
+  "language": "es",
+  "duration": 281.59,
+  "speakers_detected": 5,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.12,
+      "end": 6.53,
+      "text": "Buenos días. Presidente, me confirma si...",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 6.53,
+      "end": 7.39,
+      "text": "Si tengo audio.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.55,
+      "end": 10.51,
+      "text": "Buenos días, asambleístas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.59,
+      "end": 37.85,
+      "text": "Perfecto, presidente. Agradecer por el espacio. El pleno de esta Asamblea Nacional está en la obligación de debatir con respecto de las acciones tomadas por el presidente de la República con la finalidad de determinar el ataque que se lo está realizando de manera directa contra los grupos de delincuencia organizada, el narcoterrorismo y la minería ilegal.  Para ello, señor presidente, con su autorización he presentado un video a secretaría con la finalidad de que pueda ser reproducido.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 39.3,
+      "end": 40.88,
+      "text": "Autorizado.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 44.14,
+      "end": 76.47,
+      "text": "Marzo marca el inicio de una nueva etapa decisiva contra el crimen organizado.  Este mes se inician operaciones conjuntas con aliados de la región,  incluidos los Estados Unidos, para enfrentar el narcoterrorismo y la minería.  Más cooperación, más capacidad y acciones directas en el territorio.  Este avance se fortalece tras la visita del comandante del United States Southern Command,  General Francis L. Donovan,  quien en Ecuador mantuvo reuniones con el presidente Daniel Novoa y autoridades de defensa,  reafirmando el respaldo de los Estados Unidos a los esfuerzos del país,  contra el narcoterrorismo y el crimen transnacional.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 95.63,
+      "end": 97.99,
+      "text": "La opinión le merece que estamos aquí cuidándole a ustedes.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 98.06,
+      "end": 101.01,
+      "text": "Es una buena idea que nos apoya.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 101.01,
+      "end": 102.41,
+      "text": "para terminarle con ustedes.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 9,
+      "start": 109.11,
+      "end": 121.08,
+      "text": "Tanques de guerra golpean la minería ilegal y generan pérdidas de 3 millones de dólares a las mafras.  En Santo Domingo, la operación IMPAR golpeó directamente a estructuras dedicadas a la minería ilegal que operaban en la zona.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 10,
+      "start": 121.08,
+      "end": 124.03,
+      "text": "El despliegue de tanques de guerra permitió inhabilitar 15 gobernadores.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 11,
+      "start": 124.03,
+      "end": 180.44,
+      "text": "y destruir miles de sacos de material aurífero utilizados en estas actividades ilícitas.  Estas acciones afectaron a una red vinculada al grupo armado, Los Lobos,  que mantenía el control mediante amenazas e intimidación para sostener su operación ilegal.  Golpe que debilita sus economías ilícitas y reduce su presencia en el territorio.  Operación histórica fue letal.  Golpeó a la minería ilegal en la frontera norte.  Primera vez que el ejército ecuatoriano emplea tanques de guerra en una operación sin precedentes  que genera cerca de 110 millones de dólares en pérdidas anuales.  En la frontera norte, en el sector El Chical,  una operación militar ejecutada durante cuatro días marcó un antes y un después  en la lucha contra la minería ilegal,  permitiendo destruir alrededor de 50 bocaminas y afectar directamente estas economías ilícitas.  Estas acciones responden a la disposición del presidente Daniel Novoa  y la conducción del ministro de Defensa Giancarlo Lofren,  orientadas a proteger la seguridad y la soberanía del país.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 12,
+      "start": 183.78,
+      "end": 275.21,
+      "text": "Colegas legisladores, ese es el trabajo efectivo que viene realizando el presidente de la República  y que esta bancada legislativa sí lo respalda también.  Los ecuatorianos, los ciudadanos de a pie, quienes invierten en sus negocios  y que el día de hoy se encuentran sometidos bajo la cultura del miedo, del peligro, de la extorsión.  Esa es la lucha valiente y eficaz que le ha dado el presidente de la República  en cerca de dos años a los grupos de delincuencia organizada,  a los grupos narcoterroristas, a quienes han hecho de la minería ilegal su fuente de financiamiento.  Y es aquí también poder indicar y decirle al país  quienes se encuentran apoyando el trabajo contra la delincuencia organizada  que, como decía el doctor Banegas, perteneciente a la bancada de la Revolución Ciudadana,  aplaude también la gestión que hace el presidente de la República  en beneficio de la seguridad de todos los ecuatorianos.  En este punto de debate, señora presidenta y colegas legisladores,  la finalidad es identificar a los colegas que se encuentran apoyando,  en este caso, la lucha de frente contra los grupos de delincuencia organizada,  pero también identificar a través de esta votación a los colegas legisladores  que respaldan a los grupos de delincuencia organizada  y recordar nuevamente a los ecuatorianos.  Fue la bancada de la Revolución Ciudadana en su momento  quien impulsó a Ronnie Aliaga, que pertenecía a un grupo de delincuencia organizada  en el Consejo de Administración Legislativa.  Mi palabra, presidenta.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "s8sECSw5w74",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "confidence": 1.0,
+      "votes": {
+        "Keevin Fernando Gallardo Ruiz": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "confidence": 1.0,
+      "votes": {
+        "Keevin Fernando Gallardo Ruiz": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_2": {
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "confidence": 1.0,
+      "votes": {
+        "Keevin Fernando Gallardo Ruiz": 2
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": "db"
+    },
+    "speaker_3": {
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "confidence": 1.0,
+      "votes": {
+        "Keevin Fernando Gallardo Ruiz": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_4": {
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "confidence": 1.0,
+      "votes": {
+        "Keevin Fernando Gallardo Ruiz": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Keevin Gallardo - Session 082 - II Intervention",
+  "url": "https://www.youtube.com/watch?v=s8sECSw5w74",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "s8sECSw5w74",
+  "source_url": "https://www.youtube.com/watch?v=s8sECSw5w74",
+  "speaker_stats": [
+    {
+      "id": "speaker_4",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 121.5,
+      "interventions": 4,
+      "word_count": 335
+    },
+    {
+      "id": "speaker_3",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 100.71,
+      "interventions": 3,
+      "word_count": 294
+    },
+    {
+      "id": "speaker_2",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 7.17,
+      "interventions": 3,
+      "word_count": 20
+    },
+    {
+      "id": "speaker_0",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 3.54,
+      "interventions": 2,
+      "word_count": 4
+    },
+    {
+      "id": "speaker_1",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 2.95,
+      "interventions": 1,
+      "word_count": 7
+    }
+  ]
+}

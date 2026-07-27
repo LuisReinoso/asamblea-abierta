@@ -1,0 +1,52 @@
+{
+  "text": "Buenos días. Gracias, señor presidente. Ruego, por favor, me confirmen si se me escucha.  Confirmado.  Muchas gracias. Bien, yo creo que lo que ha dicho la asambleísta Herrera sería básicamente lo que determine que deba suceder después de sobre la votación que quisiéramos tomar al respecto a este cambio del orden del día, ya que queda claro que es un proceso que ya tiene un algo de fiscalización.  Ya se ha iniciado un proceso de fiscalización y que por lo tanto no deberíamos tratarlo. Pero quiero aprovechar las palabras que ha dicho el asambleísta Zambrano, ya que también es un poco de cinismo lo que se utiliza detrás de estas participaciones y es importante siempre hablarle al pueblo ecuatoriano como lo hacemos en esta Asamblea Nacional para decirle que su indignación tampoco le ha alcanzado el momento que tuvo que votar por la ley de minería, ya que él menciona que el agua es vida, menciona que el agua es importante.  Para todas las poblaciones en lo cual concordamos y estamos plenamente de acuerdo. Sin embargo, votaron por una ley que lo que primero hace es atentar justamente contra las zonas de captación, las áreas de recarga hídrica, lo cual afecta seriamente a la disponibilidad de agua y también a la disponibilidad del servicio de agua potable dentro de cada una de las ciudades.  Así que esta indignación realmente es de doble rasero y no cabe dentro de este pleno. Además, también votó a favor de una ley de que buscaba una reforma respecto al cambio de uso de ordenamiento territorial y de uso y gestión del suelo,  en donde también se atenta directamente sobre un suelo urbano que se prioriza sobre el suelo rural, es decir, en esta reforma donde se buscaba claramente y se busque, ya se aprobó nada más el día de ayer y que no tuvo ningún empacho tampoco en aprobarla,  que lo que hace es poner en riesgo justamente los territorios del suelo rural que abarcan dentro de este espacio la conservación justamente de las zonas de captación de agua que nuevamente son aquellas que dan el agua hacia las ciudades.  Por lo tanto, considero yo que este cambio de orden del día que se ha propuesto a más, como ya insisto, lo había mencionado la asambleísta Herrera, está fuera del debate porque estamos hablando de una contradicción que ocurre en pocos días,  en donde el mismo asambleísta que ahora se preocupa por proteger el agua también ha votado a favor de que se vulneren todos los sitios que son aquellos que brindan el agua.  Por lo tanto, considero yo que este cambio de orden del día, y si usted también lo considera así, presidente, más bien deberíamos someterlo inmediatamente a votación porque aquí no estamos tratando de ningún tipo de debate  y creo yo además que el pueblo ecuatoriano merece respeto porque no estamos aquí salvaguardando el agua, sino que lo que queremos es nuevamente hablar sobre los GAT y cómo los GAT quieren ser sometidos hacia ciertos caprichos,  que no es la competencia que nosotros tenemos como asambleístas.  Esta nada más devuelvo mi palabra, señor presidente.  Tiene la palabra el asambleísta.",
+  "language": "es",
+  "duration": 189.78,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.22,
+      "end": 189.74,
+      "text": "Buenos días. Gracias, señor presidente. Ruego, por favor, me confirmen si se me escucha.  Confirmado.  Muchas gracias. Bien, yo creo que lo que ha dicho la asambleísta Herrera sería básicamente lo que determine que deba suceder después de sobre la votación que quisiéramos tomar al respecto a este cambio del orden del día, ya que queda claro que es un proceso que ya tiene un algo de fiscalización.  Ya se ha iniciado un proceso de fiscalización y que por lo tanto no deberíamos tratarlo. Pero quiero aprovechar las palabras que ha dicho el asambleísta Zambrano, ya que también es un poco de cinismo lo que se utiliza detrás de estas participaciones y es importante siempre hablarle al pueblo ecuatoriano como lo hacemos en esta Asamblea Nacional para decirle que su indignación tampoco le ha alcanzado el momento que tuvo que votar por la ley de minería, ya que él menciona que el agua es vida, menciona que el agua es importante.  Para todas las poblaciones en lo cual concordamos y estamos plenamente de acuerdo. Sin embargo, votaron por una ley que lo que primero hace es atentar justamente contra las zonas de captación, las áreas de recarga hídrica, lo cual afecta seriamente a la disponibilidad de agua y también a la disponibilidad del servicio de agua potable dentro de cada una de las ciudades.  Así que esta indignación realmente es de doble rasero y no cabe dentro de este pleno. Además, también votó a favor de una ley de que buscaba una reforma respecto al cambio de uso de ordenamiento territorial y de uso y gestión del suelo,  en donde también se atenta directamente sobre un suelo urbano que se prioriza sobre el suelo rural, es decir, en esta reforma donde se buscaba claramente y se busque, ya se aprobó nada más el día de ayer y que no tuvo ningún empacho tampoco en aprobarla,  que lo que hace es poner en riesgo justamente los territorios del suelo rural que abarcan dentro de este espacio la conservación justamente de las zonas de captación de agua que nuevamente son aquellas que dan el agua hacia las ciudades.  Por lo tanto, considero yo que este cambio de orden del día que se ha propuesto a más, como ya insisto, lo había mencionado la asambleísta Herrera, está fuera del debate porque estamos hablando de una contradicción que ocurre en pocos días,  en donde el mismo asambleísta que ahora se preocupa por proteger el agua también ha votado a favor de que se vulneren todos los sitios que son aquellos que brindan el agua.  Por lo tanto, considero yo que este cambio de orden del día, y si usted también lo considera así, presidente, más bien deberíamos someterlo inmediatamente a votación porque aquí no estamos tratando de ningún tipo de debate  y creo yo además que el pueblo ecuatoriano merece respeto porque no estamos aquí salvaguardando el agua, sino que lo que queremos es nuevamente hablar sobre los GAT y cómo los GAT quieren ser sometidos hacia ciertos caprichos,  que no es la competencia que nosotros tenemos como asambleístas.  Esta nada más devuelvo mi palabra, señor presidente.  Tiene la palabra el asambleísta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Verónica Iñiguez Gallardo",
+        "confidence": 0.6
+      }
+    }
+  ],
+  "video_id": "Knmt-DZPS2E",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "María Verónica Iñiguez Gallardo",
+      "confidence": 0.6,
+      "votes": {
+        "María Verónica Iñiguez Gallardo": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Verónica Iñiguez - Session 082",
+  "url": "https://www.youtube.com/watch?v=Knmt-DZPS2E",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Knmt-DZPS2E",
+  "source_url": "https://www.youtube.com/watch?v=Knmt-DZPS2E",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María Verónica Iñiguez Gallardo",
+      "party": null,
+      "province": null,
+      "total_time": 185.52,
+      "interventions": 1,
+      "word_count": 528
+    }
+  ]
+}

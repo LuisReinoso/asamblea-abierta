@@ -1,0 +1,52 @@
+{
+  "text": "Gracias, Presidente, compañeros legisladores.  Qué oportuno este cambio del orden del día.  Justo el día de ayer presencié y participé de una comisión especializada de seguridad,  pero este cambio del orden del día es para felicitar el accionar del gobierno nacional,  pero faltan razones para felicitar y sobran cifras para darnos cuenta  que las estrategias no están funcionando en nuestra provincia del oro.  Resulta que en lo que va del año tenemos 254 muertes violentas,  a diferencia del 2025 que teníamos 174 muertes violentas,  lo que resulta un incremento del 46% de la criminalidad.  Pero hace apenas una década existían 15 muertes por cada 100.000 habitantes,  aunque nos duela reconocerlos en el gobierno del presidente Rafael Correa.  Pero esta situación se vuelve más crítica cuando revisamos que existen explosiones con artefactos  que en la provincia del oro son 72, suman 72 y solo en Machala tenemos 56 explosiones con artefactos.  ¿Cuánto tiempo más va a esperar la provincia del oro para ver resultados?  El día de ayer, en una comisión muy importante, y agradezco al asambleísta Inés Alarcón que haya convocado,  pero nos faltó asambleísta.  Necesitábamos al ministro de Finanzas que nos diga cuánto del 3% del IVA está destinado en nuestra provincia.  No asistió el gobernador, mandó un delegado, porque parece que las circunstancias de la violencia no son importantes para el señor presidente.  No se puede felicitar la falta de resultados en nuestra provincia.  Por eso, nosotros, y desde mi curul, que siempre he defendido a la ciudadanía y a mi provincia del oro,  estamos en contra de lavar la cara al gobierno, porque incluso el señor intendente refirió  que solicitaba las donaciones de las empresas privadas porque no estaban llegando,  pese a que aprobamos la ley de integridad pública, el fortalecimiento a las Fuerzas Armadas y a la Policía Nacional.  ¿Qué está pasando?  Que las estrategias del gobierno no le están funcionando a los territorios más olvidados, como es la provincia del oro.  Por eso, me niego a felicitar esto, porque en mi provincia no ha disminuido la criminalidad,  todo lo contrario, ha aumentado el 46%.  Esa es mi palabra, presidente.",
+  "language": "es",
+  "duration": 210.51,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 207.56,
+      "text": "Gracias, Presidente, compañeros legisladores.  Qué oportuno este cambio del orden del día.  Justo el día de ayer presencié y participé de una comisión especializada de seguridad,  pero este cambio del orden del día es para felicitar el accionar del gobierno nacional,  pero faltan razones para felicitar y sobran cifras para darnos cuenta  que las estrategias no están funcionando en nuestra provincia del oro.  Resulta que en lo que va del año tenemos 254 muertes violentas,  a diferencia del 2025 que teníamos 174 muertes violentas,  lo que resulta un incremento del 46% de la criminalidad.  Pero hace apenas una década existían 15 muertes por cada 100.000 habitantes,  aunque nos duela reconocerlos en el gobierno del presidente Rafael Correa.  Pero esta situación se vuelve más crítica cuando revisamos que existen explosiones con artefactos  que en la provincia del oro son 72, suman 72 y solo en Machala tenemos 56 explosiones con artefactos.  ¿Cuánto tiempo más va a esperar la provincia del oro para ver resultados?  El día de ayer, en una comisión muy importante, y agradezco al asambleísta Inés Alarcón que haya convocado,  pero nos faltó asambleísta.  Necesitábamos al ministro de Finanzas que nos diga cuánto del 3% del IVA está destinado en nuestra provincia.  No asistió el gobernador, mandó un delegado, porque parece que las circunstancias de la violencia no son importantes para el señor presidente.  No se puede felicitar la falta de resultados en nuestra provincia.  Por eso, nosotros, y desde mi curul, que siempre he defendido a la ciudadanía y a mi provincia del oro,  estamos en contra de lavar la cara al gobierno, porque incluso el señor intendente refirió  que solicitaba las donaciones de las empresas privadas porque no estaban llegando,  pese a que aprobamos la ley de integridad pública, el fortalecimiento a las Fuerzas Armadas y a la Policía Nacional.  ¿Qué está pasando?  Que las estrategias del gobierno no le están funcionando a los territorios más olvidados, como es la provincia del oro.  Por eso, me niego a felicitar esto, porque en mi provincia no ha disminuido la criminalidad,  todo lo contrario, ha aumentado el 46%.  Esa es mi palabra, presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Sara Noemi Cabrera Chacón",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "LtEArphXitY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Sara Noemi Cabrera Chacón",
+      "confidence": 1.0,
+      "votes": {
+        "Sara Noemi Cabrera Chacón": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Noemí Cabrera - Session 082",
+  "url": "https://www.youtube.com/watch?v=LtEArphXitY",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "LtEArphXitY",
+  "source_url": "https://www.youtube.com/watch?v=LtEArphXitY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Sara Noemi Cabrera Chacón",
+      "party": null,
+      "province": null,
+      "total_time": 207.53,
+      "interventions": 1,
+      "word_count": 354
+    }
+  ]
+}

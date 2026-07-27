@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:28:41.224079",
-  "total_sessions": 683,
+  "generated_at": "2026-07-27T04:28:31.172541",
+  "total_sessions": 691,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -6010,6 +6010,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "jzwgGhJCf9g",
+      "title": "Assemblyman Mario Zambrano - Session 082 - II Intervention",
+      "date": "",
+      "duration": 278.43,
+      "url": "https://www.youtube.com/watch?v=jzwgGhJCf9g",
+      "file_path": "data/sessions/jzwgGhJCf9g.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "l9v64FaqyJs",
       "title": "Assemblyman Adrián Castro - Session 083",
       "date": "",
@@ -6892,6 +6906,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Uckjg-3UlhM",
+      "title": "Assemblywoman Valentina Centeno - Session 082",
+      "date": "",
+      "duration": 193.49,
+      "url": "https://www.youtube.com/watch?v=Uckjg-3UlhM",
+      "file_path": "data/sessions/Uckjg-3UlhM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "OfRxk3vdsDw",
       "title": "Assemblyman Sergio Peña - Session 098",
       "date": "",
@@ -7256,12 +7284,40 @@
       "bills_mentioned": 0
     },
     {
+      "id": "LtEArphXitY",
+      "title": "Assemblywoman Noemí Cabrera - Session 082",
+      "date": "",
+      "duration": 210.51,
+      "url": "https://www.youtube.com/watch?v=LtEArphXitY",
+      "file_path": "data/sessions/LtEArphXitY.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "lomZ11ovEW8",
       "title": "Asambleísta Franklin Samaniego - Sesión 092",
       "date": "",
       "duration": 582.31,
       "url": "https://www.youtube.com/watch?v=lomZ11ovEW8",
       "file_path": "data/sessions/lomZ11ovEW8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "BZMNIzwqNzs",
+      "title": "Vote on the motion Keevin Gallardo - Session 082",
+      "date": "",
+      "duration": 668.9,
+      "url": "https://www.youtube.com/watch?v=BZMNIzwqNzs",
+      "file_path": "data/sessions/BZMNIzwqNzs.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -7542,6 +7598,20 @@
       "duration": 519.13,
       "url": "https://www.youtube.com/watch?v=_3OgKWStOT8",
       "file_path": "data/sessions/_3OgKWStOT8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Knmt-DZPS2E",
+      "title": "Assemblywoman Verónica Iñiguez - Session 082",
+      "date": "",
+      "duration": 189.78,
+      "url": "https://www.youtube.com/watch?v=Knmt-DZPS2E",
+      "file_path": "data/sessions/Knmt-DZPS2E.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -8376,6 +8446,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "s8sECSw5w74",
+      "title": "Assemblyman Keevin Gallardo - Session 082 - II Intervention",
+      "date": "",
+      "duration": 281.59,
+      "url": "https://www.youtube.com/watch?v=s8sECSw5w74",
+      "file_path": "data/sessions/s8sECSw5w74.json",
+      "video_type": "clip",
+      "speaker_count": 5,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "FgsX0UibKTk",
       "title": "Assemblyman José Nantipia - Session 085",
       "date": "",
@@ -8978,6 +9062,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "mTGuXkpSBDM",
+      "title": "Assemblyman Steven Ordoñez - Session 082",
+      "date": "",
+      "duration": 397.71,
+      "url": "https://www.youtube.com/watch?v=mTGuXkpSBDM",
+      "file_path": "data/sessions/mTGuXkpSBDM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "HX3R9mVz82I",
       "title": "Assemblywoman Diana Jacome - Session 091 - II Intervention",
       "date": "",
@@ -9056,6 +9154,20 @@
       "file_path": "data/sessions/w2SlLmqYI_g.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "8gCSkGEX-bo",
+      "title": "Voting on the motion of Assemblywoman Camila Cueva - Session 082",
+      "date": "",
+      "duration": 791.96,
+      "url": "https://www.youtube.com/watch?v=8gCSkGEX-bo",
+      "file_path": "data/sessions/8gCSkGEX-bo.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
