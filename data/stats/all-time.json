@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-27T04:28:30.603311",
-  "total_sessions": 691,
+  "generated_at": "2026-07-28T04:31:45.173679",
+  "total_sessions": 699,
   "speaker_stats": [
+    {
+      "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
+      "name": "Mario Amado Zambrano Vera",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 7518.869999999998,
+      "total_interventions": 91,
+      "sessions_attended": 10,
+      "topics_discussed": 3
+    },
     {
       "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
       "name": "Andrés Felipe Castillo Maldonado",
@@ -15,16 +27,16 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
-      "name": "Mario Amado Zambrano Vera",
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
-      "province": "Manabí",
-      "total_time": 7201.759999999998,
-      "total_interventions": 88,
-      "sessions_attended": 9,
-      "topics_discussed": 3
+      "province": "Nacional",
+      "total_time": 6978.99,
+      "total_interventions": 44,
+      "sessions_attended": 24,
+      "topics_discussed": 0
     },
     {
       "id": "AN-CAMILA-LEON-CUEVA",
@@ -33,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 6166.120000000001,
-      "total_interventions": 115,
-      "sessions_attended": 32,
+      "total_time": 6693.0599999999995,
+      "total_interventions": 116,
+      "sessions_attended": 33,
       "topics_discussed": 0
     },
     {
@@ -51,27 +63,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 5777.580000000001,
-      "total_interventions": 37,
-      "sessions_attended": 22,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-INES-MARGARITA-ALARCON-BUENO",
       "name": "Inés Margarita Alarcón Bueno",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 4783.579999999999,
-      "total_interventions": 24,
-      "sessions_attended": 14,
+      "total_time": 5336.13,
+      "total_interventions": 25,
+      "sessions_attended": 15,
       "topics_discussed": 0
     },
     {
@@ -147,6 +147,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Napo",
+      "total_time": 4019.2000000000003,
+      "total_interventions": 43,
+      "sessions_attended": 15,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
       "name": "Pablo Aníbal Jurado Moreno",
       "type": "asambleísta",
@@ -157,18 +169,6 @@
       "total_interventions": 12,
       "sessions_attended": 12,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 3891.5400000000004,
-      "total_interventions": 39,
-      "sessions_attended": 14,
-      "topics_discussed": 3
     },
     {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
@@ -291,6 +291,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
+      "name": "Silvia Patricia Nuñez Ramos",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Chimborazo",
+      "total_time": 2487.0299999999997,
+      "total_interventions": 8,
+      "sessions_attended": 5,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
       "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
       "type": "asambleísta",
@@ -327,6 +339,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Chimborazo",
+      "total_time": 2186.9000000000005,
+      "total_interventions": 77,
+      "sessions_attended": 25,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-FRANKLIN-OMAR-SAMANIEGO-MAIGUA",
       "name": "Franklin Omar Samaniego Maigua",
       "type": "asambleísta",
@@ -336,18 +360,6 @@
       "total_time": 2181.54,
       "total_interventions": 5,
       "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CARMEN-YOLANDA-TIUPUL-URQUIZO",
-      "name": "Carmen Yolanda Tiupul Urquizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Chimborazo",
-      "total_time": 2175.9100000000008,
-      "total_interventions": 74,
-      "sessions_attended": 24,
       "topics_discussed": 0
     },
     {
@@ -384,18 +396,6 @@
       "total_time": 1940.6600000000003,
       "total_interventions": 17,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
-      "name": "Silvia Patricia Nuñez Ramos",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Chimborazo",
-      "total_time": 1934.5699999999997,
-      "total_interventions": 7,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -627,6 +627,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Azuay",
+      "total_time": 1388.45,
+      "total_interventions": 7,
+      "sessions_attended": 4,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
       "name": "Johnny Alfredo Lavayen Tamayo",
       "type": "asambleísta",
@@ -673,18 +685,6 @@
       "total_interventions": 33,
       "sessions_attended": 11,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
-      "name": "Gerardo Eugenio Machado Clavijo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Azuay",
-      "total_time": 1186.47,
-      "total_interventions": 6,
-      "sessions_attended": 3,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
@@ -795,6 +795,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
+      "name": "Eliana Katherine Correa González",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "América Latina, Caribe y África",
+      "total_time": 939.01,
+      "total_interventions": 8,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-FERNANDO-ENRIQUE-CEDENO-RIVADENEIRA",
       "name": "Fernando Enrique Cedeño Rivadeneira",
       "type": "asambleísta",
@@ -804,18 +816,6 @@
       "total_time": 930.53,
       "total_interventions": 5,
       "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
-      "name": "Eliana Katherine Correa González",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "América Latina, Caribe y África",
-      "total_time": 917.1600000000001,
-      "total_interventions": 7,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -921,9 +921,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Cotopaxi",
-      "total_time": 633.44,
-      "total_interventions": 4,
-      "sessions_attended": 3,
+      "total_time": 696.74,
+      "total_interventions": 5,
+      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -1605,8 +1605,8 @@
     },
     {
       "month": "2026-06",
-      "sessions_count": 158,
-      "total_duration": 66555.76999999999,
+      "sessions_count": 159,
+      "total_duration": 67083.13999999998,
       "unique_speakers": 5,
       "unique_topics": 0
     },

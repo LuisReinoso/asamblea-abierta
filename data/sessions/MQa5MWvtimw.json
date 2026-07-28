@@ -1,0 +1,145 @@
+{
+  "text": "a esta secretaría. Señoras y señores asambleístas, tiene apoyo de la moción. Señor secretario, de lectura de la moción presentada, tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada mediante Memorando Número AN-ABIM-2026-069-M del 31 de marzo de 2026.  Asunto, moción de allanamiento a la objeción parcial al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  De mi consideración, en virtud de la convocatoria de la sesión número 082-AN-2025-2029 del Pleno de la Asamblea Nacional para el día martes 31 de marzo de 2026,  que dentro del orden del día, respecto a conocer y resolver respecto del informe no vinculante sobre la objeción parcial al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  De conformidad con el artículo 135 de la ley orgánica de la función legislativa, me permito presentar la siguiente moción para su aprobación.  Moción.  Allanarse a la objeción parcial por inconveniencia al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad,  específicamente respecto al artículo 6, que comprende los artículos 20-A, 20-Q, 20-S, 20-T, 20-U y 20-X,  así como el artículo 13 y de la disposición general primera del referido proyecto.  Con sentimientos de distinguida consideración, atentamente señora Inés Margarita Darconbueno, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.  Secretaría. Cierre, registro, señor secretario. Me permite informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 144 asambleístas presentes,  contamos con 83 votos afirmativos, 58 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por la asambleísta Inés Alarcón ha sido aprobada.",
+  "language": "es",
+  "duration": 966.48,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.62,
+      "text": "a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 1,
+      "start": 2.53,
+      "end": 9.92,
+      "text": "Señoras y señores asambleístas, tiene apoyo de la moción. Señor secretario, de lectura de la moción presentada, tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5017,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 10.22,
+      "end": 100.57,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante Memorando Número AN-ABIM-2026-069-M del 31 de marzo de 2026.  Asunto, moción de allanamiento a la objeción parcial al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  De mi consideración, en virtud de la convocatoria de la sesión número 082-AN-2025-2029 del Pleno de la Asamblea Nacional para el día martes 31 de marzo de 2026,  que dentro del orden del día, respecto a conocer y resolver respecto del informe no vinculante sobre la objeción parcial al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  De conformidad con el artículo 135 de la ley orgánica de la función legislativa, me permito presentar la siguiente moción para su aprobación.  Moción.  Allanarse a la objeción parcial por inconveniencia al proyecto de ley orgánica para el fortalecimiento de la ciberseguridad,  específicamente respecto al artículo 6, que comprende los artículos 20-A, 20-Q, 20-S, 20-T, 20-U y 20-X,  así como el artículo 13 y de la disposición general primera del referido proyecto.  Con sentimientos de distinguida consideración, atentamente señora Inés Margarita Darconbueno, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.  Secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 3,
+      "start": 500.73,
+      "end": 502.57,
+      "text": "Cierre, registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5017,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 508.02,
+      "end": 523.46,
+      "text": "Me permite informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 5,
+      "start": 934.82,
+      "end": 936.58,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5017,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 945.2,
+      "end": 965.48,
+      "text": "Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 144 asambleístas presentes,  contamos con 83 votos afirmativos, 58 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por la asambleísta Inés Alarcón ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.62
+      }
+    }
+  ],
+  "video_id": "MQa5MWvtimw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 0.62,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 5,
+        "del Cisne Rogel Esperanza": 3
+      },
+      "samples": 24,
+      "successful_reads": 8,
+      "source": "db"
+    }
+  },
+  "title": "Voting on the motion of Assemblywoman Inés Alarcón - Session 082",
+  "url": "https://www.youtube.com/watch?v=MQa5MWvtimw",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MQa5MWvtimw",
+  "source_url": "https://www.youtube.com/watch?v=MQa5MWvtimw",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 127.66,
+      "interventions": 4,
+      "word_count": 300
+    },
+    {
+      "id": "speaker_0",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 10.99,
+      "interventions": 3,
+      "word_count": 29
+    }
+  ]
+}

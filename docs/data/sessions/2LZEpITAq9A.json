@@ -1,0 +1,52 @@
+{
+  "text": "Muchas gracias, señor presidente, compañeras y compañeros asambleístas.  Qué gusto nuevamente poder dirigir las palabras aquí en la Asamblea Nacional  a los tiempos sobre un tema que ya lo tuvimos en consideración  en semanas anteriores como miembro de la Comisión de Seguridad  de la Asamblea Nacional, un arduo trabajo.  Nosotros habíamos propuesto ir construyendo esta ley de la ciberseguridad  que tuvo muchísima concurrencia, muchos actores, profesionales, academia,  las cooperativas, el sector bancario, toda la sociedad civil ecuatoriana  se comprometió en ir sumando, dar sus esfuerzos a la ley de ciberseguridad  que realmente tuvo una connotación bastante importante y, por supuesto,  en la Comisión se trabajó intensamente por parte de la presidenta  y de los compañeros asambleístas para lograr este objetivo.  Sin embargo, la vez anterior nosotros tuvimos la posibilidad de votar en contra  solo por la posibilidad de que se siga manteniendo el artículo 13,  que era un artículo que realmente desdibujaba muchísimo el tema  de la propuesta inicial de la ciberseguridad.  Y esta virtud, el señor presidente de la República, pues, ha hecho un veto  parcial a la misma. Yo creo que son cuestiones simplemente de forma,  no de fondo en el asunto.  Y nosotros seguimos preocupados por la mantención de este artículo 13,  que efectivamente representa una especie de espada de doble filo.  Esta reforma, en un estado democrático, moderniza el acceso al Internet satelital  de órbita baja. Sin embargo, en un contexto autoritario, al declarar estas redes  como infraestructura bajo violencia a las Cuerzas Armadas,  otorga al Estado una facultad para crecer el control social.  Al vincular la conectividad con la soberanía nacional y permitir la intervención militar  en un espectro radioeléctrico, el gobierno adquiere las herramientas necesarias  para implementar, rastrear la ubicación de terminales móviles,  condicionar la operación de empresas tecnológicas a su conveniencia política.  En definitiva, podría tratarse o transformarse un mecanismo de vigilancia masiva y censura,  donde la seguridad del Estado se prioriza sobre la libertad de comunicación de los ciudadanos.  Esto hace que se desdibuje muchísimo el tema de la propuesta inicial que nosotros siempre teníamos  de mantener esa necesidad de la ciberseguridad de nuestro medio  y que iba a beneficiar muchísimo a millones de ecuatorianos.  Yo creo que la ley es bastante buena, bastante buena.  Sin embargo, de ello, esta objeción al artículo 13 nos permite seguir manteniendo  esta realmente duda de que no se haya clarificado y sobre todo de que sirva  como un instrumento en el que la ciberseguridad permita coartar las libertades  de todos los ecuatorianos.  Esa es mi propuesta, la intervención mía, compañero presidente.  Muchas gracias a usted.",
+  "language": "es",
+  "duration": 206.36,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.88,
+      "end": 204.86,
+      "text": "Muchas gracias, señor presidente, compañeras y compañeros asambleístas.  Qué gusto nuevamente poder dirigir las palabras aquí en la Asamblea Nacional  a los tiempos sobre un tema que ya lo tuvimos en consideración  en semanas anteriores como miembro de la Comisión de Seguridad  de la Asamblea Nacional, un arduo trabajo.  Nosotros habíamos propuesto ir construyendo esta ley de la ciberseguridad  que tuvo muchísima concurrencia, muchos actores, profesionales, academia,  las cooperativas, el sector bancario, toda la sociedad civil ecuatoriana  se comprometió en ir sumando, dar sus esfuerzos a la ley de ciberseguridad  que realmente tuvo una connotación bastante importante y, por supuesto,  en la Comisión se trabajó intensamente por parte de la presidenta  y de los compañeros asambleístas para lograr este objetivo.  Sin embargo, la vez anterior nosotros tuvimos la posibilidad de votar en contra  solo por la posibilidad de que se siga manteniendo el artículo 13,  que era un artículo que realmente desdibujaba muchísimo el tema  de la propuesta inicial de la ciberseguridad.  Y esta virtud, el señor presidente de la República, pues, ha hecho un veto  parcial a la misma. Yo creo que son cuestiones simplemente de forma,  no de fondo en el asunto.  Y nosotros seguimos preocupados por la mantención de este artículo 13,  que efectivamente representa una especie de espada de doble filo.  Esta reforma, en un estado democrático, moderniza el acceso al Internet satelital  de órbita baja. Sin embargo, en un contexto autoritario, al declarar estas redes  como infraestructura bajo violencia a las Cuerzas Armadas,  otorga al Estado una facultad para crecer el control social.  Al vincular la conectividad con la soberanía nacional y permitir la intervención militar  en un espectro radioeléctrico, el gobierno adquiere las herramientas necesarias  para implementar, rastrear la ubicación de terminales móviles,  condicionar la operación de empresas tecnológicas a su conveniencia política.  En definitiva, podría tratarse o transformarse un mecanismo de vigilancia masiva y censura,  donde la seguridad del Estado se prioriza sobre la libertad de comunicación de los ciudadanos.  Esto hace que se desdibuje muchísimo el tema de la propuesta inicial que nosotros siempre teníamos  de mantener esa necesidad de la ciberseguridad de nuestro medio  y que iba a beneficiar muchísimo a millones de ecuatorianos.  Yo creo que la ley es bastante buena, bastante buena.  Sin embargo, de ello, esta objeción al artículo 13 nos permite seguir manteniendo  esta realmente duda de que no se haya clarificado y sobre todo de que sirva  como un instrumento en el que la ciberseguridad permita coartar las libertades  de todos los ecuatorianos.  Esa es mi propuesta, la intervención mía, compañero presidente.  Muchas gracias a usted.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Gerardo Eugenio Machado Clavijo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "2LZEpITAq9A",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "confidence": 1.0,
+      "votes": {
+        "Gerardo Eugenio Machado Clavijo": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Gerardo Machado - Session 082",
+  "url": "https://www.youtube.com/watch?v=2LZEpITAq9A",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "2LZEpITAq9A",
+  "source_url": "https://www.youtube.com/watch?v=2LZEpITAq9A",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "party": null,
+      "province": null,
+      "total_time": 201.98,
+      "interventions": 1,
+      "word_count": 430
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Muy buenos días. Muchas gracias, señor presidente, por el uso de la palabra.  Quiero iniciar agradeciendo a la provincia de Loro, en especial a Machala,  por su hospitalidad y buen recibimiento estos días de sesión aquí.  También quiero aprovechar para enviar un caluroso saludo a mi provincia de Cotopaxi,  que el día de mañana está cumpliendo 175 años de provincialización.  Señor presidente, me he permitido ingresar por el sistema de DTS  una moción para la aprobación de la resolución que adjunta que el Pleno de la Asamblea Nacional  designe a los delegados que conformarán parte de la Comisión de Calificación  de la Propuesta de Iniciativa Popular, normativa para el fortalecimiento de seguridad ciudadana  y convivencia social pacífica.  Con su permiso, señor presidente, solicito que por medio de la Secretaría General  se dé la lectura de esta moción y se tome la votación correspondiente.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 86.84,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.38,
+      "end": 68.68,
+      "text": "Muy buenos días. Muchas gracias, señor presidente, por el uso de la palabra.  Quiero iniciar agradeciendo a la provincia de Loro, en especial a Machala,  por su hospitalidad y buen recibimiento estos días de sesión aquí.  También quiero aprovechar para enviar un caluroso saludo a mi provincia de Cotopaxi,  que el día de mañana está cumpliendo 175 años de provincialización.  Señor presidente, me he permitido ingresar por el sistema de DTS  una moción para la aprobación de la resolución que adjunta que el Pleno de la Asamblea Nacional  designe a los delegados que conformarán parte de la Comisión de Calificación  de la Propuesta de Iniciativa Popular, normativa para el fortalecimiento de seguridad ciudadana  y convivencia social pacífica.  Con su permiso, señor presidente, solicito que por medio de la Secretaría General  se dé la lectura de esta moción y se tome la votación correspondiente.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila Anahi Cueva Tarco",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "sHuQ9cw8DPU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Camila Anahi Cueva Tarco",
+      "confidence": 1.0,
+      "votes": {
+        "Camila Anahi Cueva Tarco": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Camila Cueva - Session 082",
+  "url": "https://www.youtube.com/watch?v=sHuQ9cw8DPU",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "sHuQ9cw8DPU",
+  "source_url": "https://www.youtube.com/watch?v=sHuQ9cw8DPU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila Anahi Cueva Tarco",
+      "party": null,
+      "province": null,
+      "total_time": 63.3,
+      "interventions": 1,
+      "word_count": 145
+    }
+  ]
+}
