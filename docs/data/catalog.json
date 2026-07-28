@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T04:28:31.172541",
-  "total_sessions": 691,
+  "generated_at": "2026-07-28T04:31:45.753731",
+  "total_sessions": 699,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -2347,6 +2347,20 @@
       "duration": 704.05,
       "url": "https://www.youtube.com/watch?v=Xrp5luODkKw",
       "file_path": "data/sessions/Xrp5luODkKw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Bdp-iz-rYg0",
+      "title": "Votación de la moción del asambleísta Adrián Castro - Sesión 078",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 527.37,
+      "url": "https://www.youtube.com/watch?v=Bdp-iz-rYg0",
+      "file_path": "data/sessions/Bdp-iz-rYg0.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -5982,6 +5996,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "2LZEpITAq9A",
+      "title": "Assemblyman Gerardo Machado - Session 082",
+      "date": "",
+      "duration": 206.36,
+      "url": "https://www.youtube.com/watch?v=2LZEpITAq9A",
+      "file_path": "data/sessions/2LZEpITAq9A.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "c4gu9QA8a6E",
       "title": "Assemblyman Diego Franco - Session 097",
       "date": "",
@@ -6066,6 +6094,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "sHuQ9cw8DPU",
+      "title": "Assemblywoman Camila Cueva - Session 082",
+      "date": "",
+      "duration": 86.84,
+      "url": "https://www.youtube.com/watch?v=sHuQ9cw8DPU",
+      "file_path": "data/sessions/sHuQ9cw8DPU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "rwEtL-reJ1E",
       "title": "Assemblywoman Inés Alarcón - Session 096 - Change of Agenda",
       "date": "",
@@ -6144,6 +6186,20 @@
       "file_path": "data/sessions/4l4PvwSV2Jo.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "0mPHHeLnCxo",
+      "title": "Assemblyman Mario Zambrano - Session 082 - Change of agenda",
+      "date": "",
+      "duration": 670.59,
+      "url": "https://www.youtube.com/watch?v=0mPHHeLnCxo",
+      "file_path": "data/sessions/0mPHHeLnCxo.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -6366,6 +6422,20 @@
       "duration": 164.26,
       "url": "https://www.youtube.com/watch?v=7USWmrLe1rk",
       "file_path": "data/sessions/7USWmrLe1rk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "eehB_FVFM-Q",
+      "title": "Assemblywoman Inés Alarcón - Session 082",
+      "date": "",
+      "duration": 558.67,
+      "url": "https://www.youtube.com/watch?v=eehB_FVFM-Q",
+      "file_path": "data/sessions/eehB_FVFM-Q.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -8376,6 +8446,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "6D10u1BfewI",
+      "title": "Assemblywoman Patricia Nuñez - Session 080",
+      "date": "",
+      "duration": 579.15,
+      "url": "https://www.youtube.com/watch?v=6D10u1BfewI",
+      "file_path": "data/sessions/6D10u1BfewI.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "QR5CJmW_UFc",
       "title": "Assemblyman Ricardo Patiño - Session 091",
       "date": "",
@@ -8866,6 +8950,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Unc94wi-13g",
+      "title": "Decorations - Session 082 - General Commission",
+      "date": "",
+      "duration": 1343.74,
+      "url": "https://www.youtube.com/watch?v=Unc94wi-13g",
+      "file_path": "data/sessions/Unc94wi-13g.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "GAsVes3roDM",
       "title": "Assemblyman Otto Vera - Session 091",
       "date": "",
@@ -8956,6 +9054,20 @@
       "duration": 634.18,
       "url": "https://www.youtube.com/watch?v=2I-3nRYYKss",
       "file_path": "data/sessions/2I-3nRYYKss.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "MQa5MWvtimw",
+      "title": "Voting on the motion of Assemblywoman Inés Alarcón - Session 082",
+      "date": "",
+      "duration": 966.48,
+      "url": "https://www.youtube.com/watch?v=MQa5MWvtimw",
+      "file_path": "data/sessions/MQa5MWvtimw.json",
       "video_type": "clip",
       "speaker_count": 2,
       "topics": [],
