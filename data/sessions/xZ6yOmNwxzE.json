@@ -1,0 +1,53 @@
+{
+  "text": "Gracias señora Presidente, hola, perdón, no estaba cuando me nombraron, no, es divertido, hace rato estaba riéndome porque primero estornudé, milagro que no dijeron nada de que estornudé, me estaba riendo cuando me dijeron compañero Ordóñez, no se ría, primero compañero, yo soy compañero de estas personas, de las que trabajan.  Exacto, yo soy compañero de quien defiende los ideales de la paz, de la justicia, no lo sé, infringen todo esto, y por ahí veo que para salir del anonimato me tienen que nombrar, primero, seguro ya me van a mandar alcalde porque siempre que me mandan un hito de esos de medio pelo, terminan quejándose, salen llorando y me toca atenderles doble.  Aquí en el video y en el cal, tres, dos, dos.  Entonces, asambleísta Molina, a ver, le voy a contar, me escribió un periodista que claramente está alineado a los ideales de ustedes a pedir una entrevista a mi equipo.  Yo nunca digo que no a una entrevista, sin importar quién sea, pero resulta que quieren una entrevista conmigo a las 8 y 30 de la mañana del día de mañana.  Y aquí está la presidenta de la Comisión de Relaciones Internacionales a la que yo me pertenezco, nos había citado a las 8 y 20 de la mañana, es decir, no podía estar en una entrevista de esa hora.  Pese a lo cual, le dije a mi equipo que le diga que encantado de hacerles una entrevista, que podíamos estar unos 10 minutos pidiendo permiso para atender a la prensa, porque siempre les digo que sí.  Resulta que luego ha sido debate, pero para hacer debate hay que ser Cotejas, ¿sí o no?  Yo encantado de atenderles, pero ahí sí yo les voy a pedir como le pidió mi colega y amigo Sergio, con condiciones, porque si no después andan llorando.  Entonces, ya que quieren debatir conmigo, insisto, primero cualquier periodista, cualquier medio, siempre abierto, si quieren debatir, que me abiden obviamente, para decirles en el horario, con el tiempo necesario,  porque hasta me divierte, tengo una mala costumbre, nunca me corro, y lo he demostrado.  Pero ya que estamos en estas, no solo hay que ser Coteja en estatura, en intelectualidad, también en valores, porque aprovecho y le pregunto de frente,  ya, ¿qué más toca? ¿Será verdad? ¿Cómo me voy a poner yo a debatir con un personaje del cual acabo de recibir información?  De una denuncia, velada, que no le dejaron salir a la luz, de acoso.  Y esa persona, que me está contactando, que fue asesora, incluso me está enviando información, que no sé si será verdad, tendré que verificar.  Pero más allá de eso, también con una asambleísta de funciones, hablé serio, tan necesitado está.  Quería que le atiendan, encantado.  Pero, hacen los perros de razas. Muchas gracias.",
+  "language": "es",
+  "duration": 219.96,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 10.34,
+      "end": 215.49,
+      "text": "Gracias señora Presidente, hola, perdón, no estaba cuando me nombraron, no, es divertido, hace rato estaba riéndome porque primero estornudé, milagro que no dijeron nada de que estornudé, me estaba riendo cuando me dijeron compañero Ordóñez, no se ría, primero compañero, yo soy compañero de estas personas, de las que trabajan.  Exacto, yo soy compañero de quien defiende los ideales de la paz, de la justicia, no lo sé, infringen todo esto, y por ahí veo que para salir del anonimato me tienen que nombrar, primero, seguro ya me van a mandar alcalde porque siempre que me mandan un hito de esos de medio pelo, terminan quejándose, salen llorando y me toca atenderles doble.  Aquí en el video y en el cal, tres, dos, dos.  Entonces, asambleísta Molina, a ver, le voy a contar, me escribió un periodista que claramente está alineado a los ideales de ustedes a pedir una entrevista a mi equipo.  Yo nunca digo que no a una entrevista, sin importar quién sea, pero resulta que quieren una entrevista conmigo a las 8 y 30 de la mañana del día de mañana.  Y aquí está la presidenta de la Comisión de Relaciones Internacionales a la que yo me pertenezco, nos había citado a las 8 y 20 de la mañana, es decir, no podía estar en una entrevista de esa hora.  Pese a lo cual, le dije a mi equipo que le diga que encantado de hacerles una entrevista, que podíamos estar unos 10 minutos pidiendo permiso para atender a la prensa, porque siempre les digo que sí.  Resulta que luego ha sido debate, pero para hacer debate hay que ser Cotejas, ¿sí o no?  Yo encantado de atenderles, pero ahí sí yo les voy a pedir como le pidió mi colega y amigo Sergio, con condiciones, porque si no después andan llorando.  Entonces, ya que quieren debatir conmigo, insisto, primero cualquier periodista, cualquier medio, siempre abierto, si quieren debatir, que me abiden obviamente, para decirles en el horario, con el tiempo necesario,  porque hasta me divierte, tengo una mala costumbre, nunca me corro, y lo he demostrado.  Pero ya que estamos en estas, no solo hay que ser Coteja en estatura, en intelectualidad, también en valores, porque aprovecho y le pregunto de frente,  ya, ¿qué más toca? ¿Será verdad? ¿Cómo me voy a poner yo a debatir con un personaje del cual acabo de recibir información?  De una denuncia, velada, que no le dejaron salir a la luz, de acoso.  Y esa persona, que me está contactando, que fue asesora, incluso me está enviando información, que no sé si será verdad, tendré que verificar.  Pero más allá de eso, también con una asambleísta de funciones, hablé serio, tan necesitado está.  Quería que le atiendan, encantado.  Pero, hacen los perros de razas. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mauricio Javier Ordóñez Fuentes",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "xZ6yOmNwxzE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "confidence": 1.0,
+      "votes": {
+        "Mauricio Javier Ordóñez Fuentes": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Xavier Ordoñez - Sesión 078 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=xZ6yOmNwxzE",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "xZ6yOmNwxzE",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=xZ6yOmNwxzE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "party": null,
+      "province": null,
+      "total_time": 205.15,
+      "interventions": 1,
+      "word_count": 467
+    }
+  ]
+}
