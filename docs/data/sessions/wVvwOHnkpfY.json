@@ -1,0 +1,51 @@
+{
+  "text": "palabra la asambleísta Naila Quintana.  Buenos días, señora Presidente, colegas legisladores, a todos quienes nos ven a través  de los diferentes medios de comunicación y tomando las palabras de quien antecedió  en la intervención, quiero decirle que el tema de las tasas son de interés general  porque todos hacemos uso de los servicios básicos y estamos llamados a vigilar, si  bien es cierto, no podemos hacer cambios en las normas internas de los municipios, pero  sí estamos llamados a poner el dedo en la llaga cuando las cosas no se están llevando  como se debe y quiero hablar sobre el tema en Durán, que se cobre una tasa de seguridad  y no se rinde cuenta de a dónde se está llevando ese uso, el uso de ese dinero.  Entonces, mi intervención creo que va a ser corta, específicamente, que se tome en cuenta  que se haga una rendición de cuentas, de la tasa de seguridad que se cobra en los municipios  y en ese uso de ese dinero. Como ciudadana, lo digo, a nivel nacional se debe hacer eso.  Y si no tenemos el derecho, como se dice, de poder entrar al municipio, lo pongo sobre  la mesa y felicito a mi compañero, a la asambleísta Ordóñez por poner sobre la mesa este tema  y que quede claro que estamos aquí para luchar por los derechos de los ciudadanos a nivel nacional.  En este caso, la Cámara de Industrias en Durán paga una tasa de seguridad que no se refleja  en la famosa seguridad que debe tener. No puedo dar más detalles porque dicen que estamos nosotros  fiscalizando el municipio. Lo pongo sobre la mesa para que se considere y que se tomen correctivos  para que los municipios respondan en relación a cómo se utiliza ese dinero.  Gracias, señora Presidenta.",
+  "language": "es",
+  "duration": 128.03,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 126.12,
+      "text": "palabra la asambleísta Naila Quintana.  Buenos días, señora Presidente, colegas legisladores, a todos quienes nos ven a través  de los diferentes medios de comunicación y tomando las palabras de quien antecedió  en la intervención, quiero decirle que el tema de las tasas son de interés general  porque todos hacemos uso de los servicios básicos y estamos llamados a vigilar, si  bien es cierto, no podemos hacer cambios en las normas internas de los municipios, pero  sí estamos llamados a poner el dedo en la llaga cuando las cosas no se están llevando  como se debe y quiero hablar sobre el tema en Durán, que se cobre una tasa de seguridad  y no se rinde cuenta de a dónde se está llevando ese uso, el uso de ese dinero.  Entonces, mi intervención creo que va a ser corta, específicamente, que se tome en cuenta  que se haga una rendición de cuentas, de la tasa de seguridad que se cobra en los municipios  y en ese uso de ese dinero. Como ciudadana, lo digo, a nivel nacional se debe hacer eso.  Y si no tenemos el derecho, como se dice, de poder entrar al municipio, lo pongo sobre  la mesa y felicito a mi compañero, a la asambleísta Ordóñez por poner sobre la mesa este tema  y que quede claro que estamos aquí para luchar por los derechos de los ciudadanos a nivel nacional.  En este caso, la Cámara de Industrias en Durán paga una tasa de seguridad que no se refleja  en la famosa seguridad que debe tener. No puedo dar más detalles porque dicen que estamos nosotros  fiscalizando el municipio. Lo pongo sobre la mesa para que se considere y que se tomen correctivos  para que los municipios respondan en relación a cómo se utiliza ese dinero.  Gracias, señora Presidenta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Naila Victoria Quintana Tapia",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "wVvwOHnkpfY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Naila Victoria Quintana Tapia",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Naila Quintana - Sesión 078",
+  "url": "https://www.youtube.com/watch?v=wVvwOHnkpfY",
+  "published_at": "2026-06-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wVvwOHnkpfY",
+  "date": "2026-06-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=wVvwOHnkpfY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Naila Victoria Quintana Tapia",
+      "party": null,
+      "province": null,
+      "total_time": 126.09,
+      "interventions": 1,
+      "word_count": 300
+    }
+  ]
+}
