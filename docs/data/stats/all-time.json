@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-30T04:28:50.577904",
-  "total_sessions": 715,
+  "generated_at": "2026-07-31T04:30:26.801036",
+  "total_sessions": 723,
   "speaker_stats": [
+    {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 8093.289999999999,
+      "total_interventions": 50,
+      "sessions_attended": 26,
+      "topics_discussed": 0
+    },
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
       "name": "Mario Amado Zambrano Vera",
@@ -39,15 +51,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
-      "province": "Nacional",
-      "total_time": 6978.99,
-      "total_interventions": 44,
-      "sessions_attended": 24,
+      "province": "Pichincha Centro-Norte",
+      "total_time": 6356.18,
+      "total_interventions": 27,
+      "sessions_attended": 17,
       "topics_discussed": 0
     },
     {
@@ -63,27 +75,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 5336.13,
-      "total_interventions": 25,
-      "sessions_attended": 15,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
       "name": "Adrián Ernesto Castro Piedra",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 4840.3,
-      "total_interventions": 30,
-      "sessions_attended": 15,
+      "total_time": 4995.62,
+      "total_interventions": 31,
+      "sessions_attended": 16,
       "topics_discussed": 3
     },
     {
@@ -96,6 +96,18 @@
       "total_time": 4760.119999999999,
       "total_interventions": 116,
       "sessions_attended": 31,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Imbabura",
+      "total_time": 4652.5199999999995,
+      "total_interventions": 13,
+      "sessions_attended": 13,
       "topics_discussed": 0
     },
     {
@@ -157,18 +169,6 @@
       "total_interventions": 43,
       "sessions_attended": 15,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
-      "name": "Pablo Aníbal Jurado Moreno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Imbabura",
-      "total_time": 3995.42,
-      "total_interventions": 12,
-      "sessions_attended": 12,
-      "topics_discussed": 0
     },
     {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
@@ -237,9 +237,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Quito Rural",
-      "total_time": 2889.86,
-      "total_interventions": 43,
-      "sessions_attended": 13,
+      "total_time": 2896.15,
+      "total_interventions": 46,
+      "sessions_attended": 14,
       "topics_discussed": 0
     },
     {
@@ -627,6 +627,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
+      "name": "José Fernando Nantipia Chumpi",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Morona Santiago",
+      "total_time": 1416.2,
+      "total_interventions": 6,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-BLASCO-REMIGIO-LUNA-AREVALO",
       "name": "Blasco Remigio Luna Arévalo",
       "type": "asambleísta",
@@ -719,18 +731,6 @@
       "province": "Pichincha Quito Rural",
       "total_time": 1093.1599999999999,
       "total_interventions": 7,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
-      "name": "José Fernando Nantipia Chumpi",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Morona Santiago",
-      "total_time": 1091.88,
-      "total_interventions": 3,
       "sessions_attended": 3,
       "topics_discussed": 0
     },
@@ -879,6 +879,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Cañar",
+      "total_time": 873.6700000000001,
+      "total_interventions": 3,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KATHERINE-ALEXANDRA-PACHECO-MACHUCA",
       "name": "Katherine Alexandra Pacheco Machuca",
       "type": "asambleísta",
@@ -888,6 +900,18 @@
       "total_time": 870.79,
       "total_interventions": 3,
       "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SARA-NOEMI-CABRERA-CHACON",
+      "name": "Sara Noemi Cabrera Chacón",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "El Oro",
+      "total_time": 844.86,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -982,18 +1006,6 @@
       "party": "ADN",
       "province": "Guayas",
       "total_time": 604.81,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
-      "name": "Fabiola Maribel Sanmartín Parra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Cañar",
-      "total_time": 596.3,
       "total_interventions": 2,
       "sessions_attended": 2,
       "topics_discussed": 0
@@ -1431,18 +1443,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-SARA-NOEMI-CABRERA-CHACON",
-      "name": "Sara Noemi Cabrera Chacón",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "El Oro",
-      "total_time": 207.53,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "ELIZABETH-ORELLANA",
       "name": "Elizabeth Orellana",
       "type": "desconocido",
@@ -1603,9 +1603,9 @@
     },
     {
       "month": "2026-03",
-      "sessions_count": 118,
-      "total_duration": 51049.86000000001,
-      "unique_speakers": 2,
+      "sessions_count": 126,
+      "total_duration": 55469.12000000002,
+      "unique_speakers": 4,
       "unique_topics": 0
     },
     {

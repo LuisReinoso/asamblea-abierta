@@ -1,0 +1,53 @@
+{
+  "text": "Muchas gracias, presidenta, colegas asambleístas.  Rápidamente, en este tercer cambio, el orden del día que se presente el día de hoy,  yo quiero recordar que hace algunos días los municipios fueron noticia a nivel nacional  y no precisamente por las marchas que hicieron varios municipios  oponiéndose a la ley que les obliga a invertir ahora la plata en obras  y ya no en sus ainetes, en sus circos,  sino más bien por la revelación que hiciera la Contraloría General del Estado  tanto en la Comisión de Desarrollo Económico  cuanto en la Comisión de Régimen Económico de la Asamblea Nacional.  En las dos comisiones, la Contraloría General del Estado reveló algo que sí nos preocupa.  Se trata de 206 responsabilidades penales,  206 indicios de responsabilidad penal dentro de distintos gobiernos autónomos  descentralizados de este país, entre provinciales, municipales, parroquiales.  Dentro de ese ranking, porque es realmente algo espantoso,  existen números que realmente asustan.  En la provincia del Oro, 26 informes con indicios de responsabilidad penal.  La que le sigue, lamentablemente, nuestra provincia de la SOI con 18 informes,  seguido por Pichincha con 7, Sucumbiros con 6, Loja con 9,  Guayas con 8 y así, y así sucesivamente en todo el país.  Lo que no se dijo, colegas asambleístas, y lo que seguramente todos nosotros recibimos  a raíz de nuestras redes sociales, a raíz de nuestras intervenciones  en distintos medios de comunicación, es que la gente dice, bueno, ¿y de qué?  ¿De qué son estos indicios de responsabilidad penal?  Y aquí sí creo que el país merece un baño de verdad.  No solamente son los casos mediáticos que se llegan a tratar en el día a día  dentro de este país, en distintas áreas y en distintas zonas,  sino además son los casos en donde realmente la Contraloría  no aterriza en glosas o en sanciones administrativas,  que son parte de responsabilidades civiles o administrativas,  sino en responsabilidades penales.  Esto realmente significa, colegas, que se están cometiendo ilícitos  o presuntos delitos dentro de algunos gobiernos autónomos.  No podemos nosotros suponer que la autonomía de ciertos gobiernos autónomos,  valga la redundancia, es una patente de corso  para hacer lo que quieran con nuestros fondos públicos.  En esa medida, lo que se solicita a través de lo que usted acabó de leer,  señor secretario, es precisamente un baño de verdad,  de transparencia para el país, y en función de aquello he presentado  el cambio del orden del día, para el cual solicito  el apoyo de todos ustedes, queridos colegas.  Hasta aquí mi palabra, señora presidenta y colegas asambleístas.  Muchas gracias.",
+  "language": "es",
+  "duration": 162.28,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.19,
+      "end": 161.51,
+      "text": "Muchas gracias, presidenta, colegas asambleístas.  Rápidamente, en este tercer cambio, el orden del día que se presente el día de hoy,  yo quiero recordar que hace algunos días los municipios fueron noticia a nivel nacional  y no precisamente por las marchas que hicieron varios municipios  oponiéndose a la ley que les obliga a invertir ahora la plata en obras  y ya no en sus ainetes, en sus circos,  sino más bien por la revelación que hiciera la Contraloría General del Estado  tanto en la Comisión de Desarrollo Económico  cuanto en la Comisión de Régimen Económico de la Asamblea Nacional.  En las dos comisiones, la Contraloría General del Estado reveló algo que sí nos preocupa.  Se trata de 206 responsabilidades penales,  206 indicios de responsabilidad penal dentro de distintos gobiernos autónomos  descentralizados de este país, entre provinciales, municipales, parroquiales.  Dentro de ese ranking, porque es realmente algo espantoso,  existen números que realmente asustan.  En la provincia del Oro, 26 informes con indicios de responsabilidad penal.  La que le sigue, lamentablemente, nuestra provincia de la SOI con 18 informes,  seguido por Pichincha con 7, Sucumbiros con 6, Loja con 9,  Guayas con 8 y así, y así sucesivamente en todo el país.  Lo que no se dijo, colegas asambleístas, y lo que seguramente todos nosotros recibimos  a raíz de nuestras redes sociales, a raíz de nuestras intervenciones  en distintos medios de comunicación, es que la gente dice, bueno, ¿y de qué?  ¿De qué son estos indicios de responsabilidad penal?  Y aquí sí creo que el país merece un baño de verdad.  No solamente son los casos mediáticos que se llegan a tratar en el día a día  dentro de este país, en distintas áreas y en distintas zonas,  sino además son los casos en donde realmente la Contraloría  no aterriza en glosas o en sanciones administrativas,  que son parte de responsabilidades civiles o administrativas,  sino en responsabilidades penales.  Esto realmente significa, colegas, que se están cometiendo ilícitos  o presuntos delitos dentro de algunos gobiernos autónomos.  No podemos nosotros suponer que la autonomía de ciertos gobiernos autónomos,  valga la redundancia, es una patente de corso  para hacer lo que quieran con nuestros fondos públicos.  En esa medida, lo que se solicita a través de lo que usted acabó de leer,  señor secretario, es precisamente un baño de verdad,  de transparencia para el país, y en función de aquello he presentado  el cambio del orden del día, para el cual solicito  el apoyo de todos ustedes, queridos colegas.  Hasta aquí mi palabra, señora presidenta y colegas asambleístas.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Adrián Ernesto Castro Piedra",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "MS5eDKU_2YE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Adrián Ernesto Castro Piedra",
+      "confidence": 1.0,
+      "votes": {
+        "Adrián Ernesto Castro Piedra": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Adrian Castro - Sesión 078 - cambio del orden del día",
+  "url": "https://www.youtube.com/watch?v=MS5eDKU_2YE",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MS5eDKU_2YE",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=MS5eDKU_2YE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Adrián Ernesto Castro Piedra",
+      "party": null,
+      "province": null,
+      "total_time": 155.32,
+      "interventions": 1,
+      "word_count": 425
+    }
+  ]
+}
