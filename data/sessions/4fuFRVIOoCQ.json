@@ -1,0 +1,53 @@
+{
+  "text": "Del día presentado.  Procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en sus curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.  Cierra el registro, señor secretario.  Me permito informar, señora presidenta, que contamos con 146 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por el asambleísta Adrián Castro.  Señoras y señores asambleístas, por favor consignar su voto.  Proclame resultados, señor secretario.  Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 146 asambleístas presentes, contamos con 81 votos afirmativos, 60 negativos, 0 blancos, 5 abstenciones.  Por tanto, el cambio de orden del día presentado por el asambleísta Adrián Castro ha sido aprobado.",
+  "language": "es",
+  "duration": 395.04,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.44,
+      "end": 391.73,
+      "text": "Del día presentado.  Procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en sus curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.  Cierra el registro, señor secretario.  Me permito informar, señora presidenta, que contamos con 146 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por el asambleísta Adrián Castro.  Señoras y señores asambleístas, por favor consignar su voto.  Proclame resultados, señor secretario.  Señor operador, presente los resultados.  Señora presidenta, me permito informar que de un total de 146 asambleístas presentes, contamos con 81 votos afirmativos, 60 negativos, 0 blancos, 5 abstenciones.  Por tanto, el cambio de orden del día presentado por el asambleísta Adrián Castro ha sido aprobado.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "4fuFRVIOoCQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 1.0,
+      "votes": {
+        "Juan José Reyes Baquerizo": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Votación de la moción del asambleísta Adrian Castro - Sesión 078 - Cambio del orden del día",
+  "url": "https://www.youtube.com/watch?v=4fuFRVIOoCQ",
+  "published_at": "2026-03-17T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "4fuFRVIOoCQ",
+  "date": "2026-03-17T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=4fuFRVIOoCQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 391.29,
+      "interventions": 1,
+      "word_count": 127
+    }
+  ]
+}

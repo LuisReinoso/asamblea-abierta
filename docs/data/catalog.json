@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T04:28:51.181709",
-  "total_sessions": 715,
+  "generated_at": "2026-07-31T04:30:27.414754",
+  "total_sessions": 723,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -4693,6 +4693,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "4fuFRVIOoCQ",
+      "title": "Votación de la moción del asambleísta Adrian Castro - Sesión 078 - Cambio del orden del día",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 395.04,
+      "url": "https://www.youtube.com/watch?v=4fuFRVIOoCQ",
+      "file_path": "data/sessions/4fuFRVIOoCQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "jb0bAUYTtAI",
       "title": "Asambleísta Andres Castillo - Sesión 078",
       "date": "2026-03-17T00:00:00Z",
@@ -4749,6 +4763,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "MS5eDKU_2YE",
+      "title": "Asambleísta Adrian Castro - Sesión 078 - cambio del orden del día",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 162.28,
+      "url": "https://www.youtube.com/watch?v=MS5eDKU_2YE",
+      "file_path": "data/sessions/MS5eDKU_2YE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "y2EqIy7GGLU",
       "title": "Asambleísta Ledy Zuñiga - Sesión 078 - Parte 2",
       "date": "2026-03-17T00:00:00Z",
@@ -4785,6 +4813,20 @@
       "file_path": "data/sessions/ro8dB5f-ddQ.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "xd4zPsYJyEw",
+      "title": "Asamblísta Pablo Jurado - Sesión 078",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 662.37,
+      "url": "https://www.youtube.com/watch?v=xd4zPsYJyEw",
+      "file_path": "data/sessions/xd4zPsYJyEw.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -4833,6 +4875,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "3i_cPqBeipU",
+      "title": "Asambleísta Inés Alarcón - Sesión 078",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 874.39,
+      "url": "https://www.youtube.com/watch?v=3i_cPqBeipU",
+      "file_path": "data/sessions/3i_cPqBeipU.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "5eflc_5ekUY",
       "title": "Asambleísta Jahiren Noriega - Sesión 078",
       "date": "2026-03-17T00:00:00Z",
@@ -4841,6 +4897,20 @@
       "file_path": "data/sessions/5eflc_5ekUY.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "GlJ0oWtZez8",
+      "title": "Asambleísta Noemí Cabrera - Sesión 078",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 645.77,
+      "url": "https://www.youtube.com/watch?v=GlJ0oWtZez8",
+      "file_path": "data/sessions/GlJ0oWtZez8.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -4869,6 +4939,20 @@
       "file_path": "data/sessions/JqBNdHswTIk.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "wHHm5ftWAM8",
+      "title": "Condecoraciones  - Sesión 078 - Comisiones Generales",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 1232.19,
+      "url": "https://www.youtube.com/watch?v=wHHm5ftWAM8",
+      "file_path": "data/sessions/wHHm5ftWAM8.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -4917,6 +5001,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Up1mCWV3UpA",
+      "title": "Asambleísta Fabiola Sanmartín - Sesión 078",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 286.0,
+      "url": "https://www.youtube.com/watch?v=Up1mCWV3UpA",
+      "file_path": "data/sessions/Up1mCWV3UpA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "DEiFvb5S8dA",
       "title": "Asambleísta Ana Belen Tapia - Sesión 078",
       "date": "2026-03-17T00:00:00Z",
@@ -4953,6 +5051,20 @@
       "file_path": "data/sessions/rJ6_g5mjhaI.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "fN9pK4bBlEk",
+      "title": "Asambleísta Inés Alarcón - Sesión 078 - II Intervención",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 161.22,
+      "url": "https://www.youtube.com/watch?v=fN9pK4bBlEk",
+      "file_path": "data/sessions/fN9pK4bBlEk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
