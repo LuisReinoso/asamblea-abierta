@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T04:30:26.801036",
-  "total_sessions": 723,
+  "generated_at": "2026-08-01T04:31:50.125280",
+  "total_sessions": 731,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 8093.289999999999,
-      "total_interventions": 50,
-      "sessions_attended": 26,
+      "total_time": 8284.88,
+      "total_interventions": 57,
+      "sessions_attended": 28,
       "topics_discussed": 0
     },
     {
@@ -57,9 +57,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Norte",
-      "total_time": 6356.18,
-      "total_interventions": 27,
-      "sessions_attended": 17,
+      "total_time": 6542.56,
+      "total_interventions": 28,
+      "sessions_attended": 18,
       "topics_discussed": 0
     },
     {
@@ -69,9 +69,21 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 5855.030000000001,
-      "total_interventions": 25,
-      "sessions_attended": 12,
+      "total_time": 6157.280000000001,
+      "total_interventions": 26,
+      "sessions_attended": 13,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
+      "name": "del Cisne Rogel Esperanza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Zamora Chinchipe",
+      "total_time": 5260.529999999999,
+      "total_interventions": 117,
+      "sessions_attended": 32,
       "topics_discussed": 0
     },
     {
@@ -85,18 +97,6 @@
       "total_interventions": 31,
       "sessions_attended": 16,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
-      "name": "del Cisne Rogel Esperanza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Zamora Chinchipe",
-      "total_time": 4760.119999999999,
-      "total_interventions": 116,
-      "sessions_attended": 31,
-      "topics_discussed": 0
     },
     {
       "id": "AN-PABLO-ANIBAL-JURADO-MORENO",
@@ -195,6 +195,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
+      "name": "Mauricio Javier Ordóñez Fuentes",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "América Latina, Caribe y África",
+      "total_time": 3452.76,
+      "total_interventions": 17,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
       "name": "Mariana Yumbay Yallico",
       "type": "asambleísta",
@@ -204,18 +216,6 @@
       "total_time": 3250.97,
       "total_interventions": 7,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
-      "name": "Mauricio Javier Ordóñez Fuentes",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "América Latina, Caribe y África",
-      "total_time": 3145.05,
-      "total_interventions": 12,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -237,9 +237,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Quito Rural",
-      "total_time": 2896.15,
-      "total_interventions": 46,
-      "sessions_attended": 14,
+      "total_time": 2913.64,
+      "total_interventions": 52,
+      "sessions_attended": 16,
       "topics_discussed": 0
     },
     {
@@ -375,6 +375,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOSE-LUIS-NANGO-CUJI",
+      "name": "José Luis Nango Cuji",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pastaza",
+      "total_time": 2077.3100000000004,
+      "total_interventions": 21,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-TORRE-DE-LA-TORRE-FERNANDO-DE-LA",
       "name": "Torre de la Torre Fernando de la",
       "type": "asambleísta",
@@ -396,18 +408,6 @@
       "total_time": 1962.75,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOSE-LUIS-NANGO-CUJI",
-      "name": "José Luis Nango Cuji",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pastaza",
-      "total_time": 1940.6600000000003,
-      "total_interventions": 17,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -591,6 +591,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
+      "name": "Milena Cristina Jácome Benítez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 1504.3300000000002,
+      "total_interventions": 35,
+      "sessions_attended": 10,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LIZARDO-MANUEL-CASANOVA-MONTESINO",
       "name": "Lizardo Manuel Casanova Montesino",
       "type": "asambleísta",
@@ -600,18 +612,6 @@
       "total_time": 1495.12,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MILENA-CRISTINA-JACOME-BENITEZ",
-      "name": "Milena Cristina Jácome Benítez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 1483.1800000000003,
-      "total_interventions": 29,
-      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -791,6 +791,18 @@
       "province": "Azuay",
       "total_time": 976.49,
       "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MONICA-DE-JESUS-SALAZAR-HIDALGO",
+      "name": "Mónica de Jesús Salazar Hidalgo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Los Ríos",
+      "total_time": 969.3399999999999,
+      "total_interventions": 6,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -1007,6 +1019,18 @@
       "province": "Guayas",
       "total_time": 604.81,
       "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ANTHONY-SEBASTIAN-BECERRA-CONTRERAS",
+      "name": "Anthony Sebastián Becerra Contreras",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 592.4799999999999,
+      "total_interventions": 25,
       "sessions_attended": 2,
       "topics_discussed": 0
     },
@@ -1251,18 +1275,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ANTHONY-SEBASTIAN-BECERRA-CONTRERAS",
-      "name": "Anthony Sebastián Becerra Contreras",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 345.75,
-      "total_interventions": 15,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
       "name": "Sandra Elizabeth Figueroa Aguilar",
       "type": "asambleísta",
@@ -1407,18 +1419,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MONICA-DE-JESUS-SALAZAR-HIDALGO",
-      "name": "Mónica de Jesús Salazar Hidalgo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Los Ríos",
-      "total_time": 241.16,
-      "total_interventions": 3,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "MARTHA-MERCEDES-CHAVEZ",
       "name": "Martha Mercedes Chavez",
       "type": "desconocido",
@@ -1476,6 +1476,18 @@
       "total_time": 184.17000000000002,
       "total_interventions": 3,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-HERNAN-PATRICIO-ZAPATA-ROJAS",
+      "name": "Hernán Patricio Zapata Rojas",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Resto",
+      "total_time": 170.2,
+      "total_interventions": 1,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1603,9 +1615,9 @@
     },
     {
       "month": "2026-03",
-      "sessions_count": 126,
-      "total_duration": 55469.12000000002,
-      "unique_speakers": 4,
+      "sessions_count": 134,
+      "total_duration": 59734.35000000002,
+      "unique_speakers": 5,
       "unique_topics": 0
     },
     {
