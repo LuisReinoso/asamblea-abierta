@@ -1,0 +1,53 @@
+{
+  "text": "pueblo ecuatoriano que nos sigue por los diferentes medios de comunicación, hoy me dirijo a este pleno  para referirme al cumplimiento de la disposición contenida en la sentencia 1732-25-EP-26 de la  Corte Constitucional del Ecuador, relacionada con el caso de los niños Josué, Ismael, Steven y Né  Níñez. Como corresponde y ejerciendo la representación del pueblo ecuatoriano en este  parlamento, nuestro deber es actuar con responsabilidad institucional. Y en este sentido, la Corte  Constitucional en su sentencia ha establecido una serie de medidas orientadas a la reparación  integral y a la preservación de la memoria. Dentro de estas medidas se ha dispuesto que la  Asamblea Nacional declare el 8 de diciembre como día conmemorativo en memoria de los cuatro  niños. Esta declaratoria busca que el Ecuador tenga un espacio para recordar, para reflexionar  y para ratificar el compromiso de todas las instituciones con la protección a la vida,  a la dignidad y a los derechos de las personas. También la sentencia dispone que la Asamblea  Nacional impulsa reformas a la ley orgánica de actuación en casos de personas desaparecidas  y extraviadas, con el propósito de fortalecer el marco normativo en estos casos. La Corte plantea  la necesidad de mejorar los mecanismos para identificar posibles casos de desaparición forzada,  garantizar el acceso oportuno a información necesaria para la búsqueda de personas desaparecidas  y mejorar la coordinación entre las instituciones encargadas de actuar en estos casos. Se trata  en definitiva, compañeros legisladores, de seguir fortaleciendo las herramientas del Estado.  Este es el rol del legislador. Escuchar, reflexionar y mejorar las normas cuando la realidad nos demuestra  que es necesario hacer. Hoy, desde esta Asamblea Nacional, nos corresponde cumplir con lo dispuesto  por la Corte Constitucional en el ámbito de nuestras competencias y, sobre todo, hacerlo con respeto  y responsabilidad institucional. Por estas razones, señora Presidenta, corresponde a este Parlamento  la resolución necesaria para declarar el 8 de diciembre como día conmemorativo en memoria  de los cuatro menores y que avancemos en el análisis de las reformas legales que permitan  fortalecer la respuesta institucional frente a los casos de personas desaparecidas.  En tal sentido, señora Presidenta, emociono la aprobación de la resolución que he enviado  formalmente respecto al cumplimiento de la sentencia número 1732-25-EP-26 de la Corte Constitucional del Ecuador.  He enviado esta moción de manera formal, señora Presidenta, para cuando usted considere enviar la votación.  Gracias, señora Presidenta. Gracias, compañeros legisladores.  Se cierra el debate, señor secretario, certifique si la moción presentada por la Asamblea de la Corte Constitucional",
+  "language": "es",
+  "duration": 186.5,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 186.41,
+      "text": "pueblo ecuatoriano que nos sigue por los diferentes medios de comunicación, hoy me dirijo a este pleno  para referirme al cumplimiento de la disposición contenida en la sentencia 1732-25-EP-26 de la  Corte Constitucional del Ecuador, relacionada con el caso de los niños Josué, Ismael, Steven y Né  Níñez. Como corresponde y ejerciendo la representación del pueblo ecuatoriano en este  parlamento, nuestro deber es actuar con responsabilidad institucional. Y en este sentido, la Corte  Constitucional en su sentencia ha establecido una serie de medidas orientadas a la reparación  integral y a la preservación de la memoria. Dentro de estas medidas se ha dispuesto que la  Asamblea Nacional declare el 8 de diciembre como día conmemorativo en memoria de los cuatro  niños. Esta declaratoria busca que el Ecuador tenga un espacio para recordar, para reflexionar  y para ratificar el compromiso de todas las instituciones con la protección a la vida,  a la dignidad y a los derechos de las personas. También la sentencia dispone que la Asamblea  Nacional impulsa reformas a la ley orgánica de actuación en casos de personas desaparecidas  y extraviadas, con el propósito de fortalecer el marco normativo en estos casos. La Corte plantea  la necesidad de mejorar los mecanismos para identificar posibles casos de desaparición forzada,  garantizar el acceso oportuno a información necesaria para la búsqueda de personas desaparecidas  y mejorar la coordinación entre las instituciones encargadas de actuar en estos casos. Se trata  en definitiva, compañeros legisladores, de seguir fortaleciendo las herramientas del Estado.  Este es el rol del legislador. Escuchar, reflexionar y mejorar las normas cuando la realidad nos demuestra  que es necesario hacer. Hoy, desde esta Asamblea Nacional, nos corresponde cumplir con lo dispuesto  por la Corte Constitucional en el ámbito de nuestras competencias y, sobre todo, hacerlo con respeto  y responsabilidad institucional. Por estas razones, señora Presidenta, corresponde a este Parlamento  la resolución necesaria para declarar el 8 de diciembre como día conmemorativo en memoria  de los cuatro menores y que avancemos en el análisis de las reformas legales que permitan  fortalecer la respuesta institucional frente a los casos de personas desaparecidas.  En tal sentido, señora Presidenta, emociono la aprobación de la resolución que he enviado  formalmente respecto al cumplimiento de la sentencia número 1732-25-EP-26 de la Corte Constitucional del Ecuador.  He enviado esta moción de manera formal, señora Presidenta, para cuando usted considere enviar la votación.  Gracias, señora Presidenta. Gracias, compañeros legisladores.  Se cierra el debate, señor secretario, certifique si la moción presentada por la Asamblea de la Corte Constitucional",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "CPS94pHrc1Y",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Asamblea Nacio": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 077",
+  "url": "https://www.youtube.com/watch?v=CPS94pHrc1Y",
+  "published_at": "2026-03-13T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "CPS94pHrc1Y",
+  "date": "2026-03-13T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=CPS94pHrc1Y",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 186.38,
+      "interventions": 1,
+      "word_count": 417
+    }
+  ]
+}
