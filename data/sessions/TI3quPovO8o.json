@@ -1,0 +1,53 @@
+{
+  "text": "Muchas gracias señora Presidenta, y bueno, aquí respondiéndole con el respeto y el cariño  al ser integrante de la Comisión de Justicia, la Asambleísta Palacios,  le invito a que no desinforme, asambleísta, usted cita el artículo 35  y habla de persecución política, no le mienta a los ecuatorianos que están viendo  esta transmisión, asambleísta, le invito, y sobre todo aún con muchísima más responsabilidad  al pertenecer evidentemente a la Comisión de Justicia, le invito a que lea  el artículo 19 de la misma Ley Orgánica de Extradición, donde habla, y me permito  en este momento leerlo, condiciones generales para denegar la extradición pasiva, denegar,  no se concederá la extradición en los siguientes casos, primero, cuando se trate  de delitos de carácter político. Una vez más, se cae la narrativa queriendo imponer  cosas que no son verdad. Y así también, asambleísta, y también a los ecuatorianos,  esta misma ley está con sujeción a la Convención Interamericana sobre Extradición,  donde en su artículo 4 ya habla sobre la improcedencia de la extradición, y es súper  clara al hablar sobre el tema de persecución política. Así que es importante hablar con  responsabilidad, hablar con la verdad y no mentir, o cambiar o tergiversar el propósito  de esta norma. Muy bien lo decía el asambleísta Reyes, esto no es por un gobierno, esto no es  por la Asamblea Nacional, esto es por los ecuatorianos que necesitan esta herramienta  actualizada. Y así también hablar y decir, esto es instrumento, como lo decía usted asambleísta,  de persecución política. Yo creo que por muchos años, con este candado constitucional  que existía, antes del referéndum propuesto por el presidente Daniel Novoa,  sí era un instrumento de, más que de persecución, de impunidad. Y ahora, gracias a este gobierno,  o gracias al referéndum propuesto por el presidente Daniel Novoa, rompió ese candado  de impunidad. Así que, yo le pregunto al asambleísta, ¿de qué persecución está hablando?  A la extradición de alias Fito, a la extradición de alias Fede, a la extradición de alias  gerente, máximos cabecillas criminales. Yo pienso que es nuestra responsabilidad,  como asambleístas, hablar con la verdad. Y esta es la verdad, una herramienta que deja  un mensaje claro al ecuatoriano, es que nadie está por encima de la ley. Muchísimas gracias.",
+  "language": "es",
+  "duration": 186.04,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.77,
+      "end": 184.1,
+      "text": "Muchas gracias señora Presidenta, y bueno, aquí respondiéndole con el respeto y el cariño  al ser integrante de la Comisión de Justicia, la Asambleísta Palacios,  le invito a que no desinforme, asambleísta, usted cita el artículo 35  y habla de persecución política, no le mienta a los ecuatorianos que están viendo  esta transmisión, asambleísta, le invito, y sobre todo aún con muchísima más responsabilidad  al pertenecer evidentemente a la Comisión de Justicia, le invito a que lea  el artículo 19 de la misma Ley Orgánica de Extradición, donde habla, y me permito  en este momento leerlo, condiciones generales para denegar la extradición pasiva, denegar,  no se concederá la extradición en los siguientes casos, primero, cuando se trate  de delitos de carácter político. Una vez más, se cae la narrativa queriendo imponer  cosas que no son verdad. Y así también, asambleísta, y también a los ecuatorianos,  esta misma ley está con sujeción a la Convención Interamericana sobre Extradición,  donde en su artículo 4 ya habla sobre la improcedencia de la extradición, y es súper  clara al hablar sobre el tema de persecución política. Así que es importante hablar con  responsabilidad, hablar con la verdad y no mentir, o cambiar o tergiversar el propósito  de esta norma. Muy bien lo decía el asambleísta Reyes, esto no es por un gobierno, esto no es  por la Asamblea Nacional, esto es por los ecuatorianos que necesitan esta herramienta  actualizada. Y así también hablar y decir, esto es instrumento, como lo decía usted asambleísta,  de persecución política. Yo creo que por muchos años, con este candado constitucional  que existía, antes del referéndum propuesto por el presidente Daniel Novoa,  sí era un instrumento de, más que de persecución, de impunidad. Y ahora, gracias a este gobierno,  o gracias al referéndum propuesto por el presidente Daniel Novoa, rompió ese candado  de impunidad. Así que, yo le pregunto al asambleísta, ¿de qué persecución está hablando?  A la extradición de alias Fito, a la extradición de alias Fede, a la extradición de alias  gerente, máximos cabecillas criminales. Yo pienso que es nuestra responsabilidad,  como asambleístas, hablar con la verdad. Y esta es la verdad, una herramienta que deja  un mensaje claro al ecuatoriano, es que nadie está por encima de la ley. Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rosa Alegría Torres Cadena",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "TI3quPovO8o",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rosa Alegría Torres Cadena",
+      "confidence": 1.0,
+      "votes": {
+        "Rosa Alegría Torres Cadena": 3
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Rosa Torres - Sesión 076 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=TI3quPovO8o",
+  "published_at": "2026-03-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "TI3quPovO8o",
+  "date": "2026-03-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=TI3quPovO8o",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rosa Alegría Torres Cadena",
+      "party": null,
+      "province": null,
+      "total_time": 178.33,
+      "interventions": 1,
+      "word_count": 375
+    }
+  ]
+}
