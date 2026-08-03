@@ -1,0 +1,53 @@
+{
+  "text": "Gracias señor presidente, un saludo a usted, a todos los compañeros legisladores, quiero en este punto, de acuerdo a lo que estipula el artículo 135 de la ley orgánica de la función legislativa, en razón de la posibilidad a nosotros como asambleístas de presentar mociones, quiero presentar la siguiente moción con el fin de que sea tratada y que sea votada por el pleno en este punto.  Aprobar la autorización previa solicitada por la jueza de la Corte Nacional de Justicia, doctora Mercedes Johanna Caicedo Aldaz, dentro de la causa número 17721-2026-0006, solicitada mediante oficio número 0453-SSP-PM-CCOCNJMJP-MC-2026,  de fecha 5 de febrero de 2026, suscrita por la abogada Andrea Rosas Juma, secretaria relatora de la sala especializada de lo penal, penal militar, penal policial, tránsito, corrupción y crimen organizado de la Corte Nacional de Justicia.  Y de esta manera proceder con el enjuiciamiento penal en contra de la ciudadana Mónica Estefanía Palacio Zambrano por el presunto delito de columna en los términos establecidos en el artículo 120 de la Constitución de la República del Ecuador  y el 111 de la Ley Orgánica de la Función Legislativa. Esto con la mayoría calificada de la función legislativa, es decir, señor presidente, emociono que se levante la inmunidad parlamentaria de la asamblea instantes mencionada  y por otro lado, que se disponga también a Secretaría General, se notifica la doctora Mercedes Joana Caiceda Aldaz, jueza de la Corte Nacional de Justicia,  que es juega exponente en la causa que mencioné hace un momento, sobre la decisión de conceder o no la autorización previa contenida en el numeral 1 de la presente resolución.  Hasta aquí mi intervención, señor presidente. Muchas gracias.",
+  "language": "es",
+  "duration": 130.06,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.26,
+      "end": 124.57,
+      "text": "Gracias señor presidente, un saludo a usted, a todos los compañeros legisladores, quiero en este punto, de acuerdo a lo que estipula el artículo 135 de la ley orgánica de la función legislativa, en razón de la posibilidad a nosotros como asambleístas de presentar mociones, quiero presentar la siguiente moción con el fin de que sea tratada y que sea votada por el pleno en este punto.  Aprobar la autorización previa solicitada por la jueza de la Corte Nacional de Justicia, doctora Mercedes Johanna Caicedo Aldaz, dentro de la causa número 17721-2026-0006, solicitada mediante oficio número 0453-SSP-PM-CCOCNJMJP-MC-2026,  de fecha 5 de febrero de 2026, suscrita por la abogada Andrea Rosas Juma, secretaria relatora de la sala especializada de lo penal, penal militar, penal policial, tránsito, corrupción y crimen organizado de la Corte Nacional de Justicia.  Y de esta manera proceder con el enjuiciamiento penal en contra de la ciudadana Mónica Estefanía Palacio Zambrano por el presunto delito de columna en los términos establecidos en el artículo 120 de la Constitución de la República del Ecuador  y el 111 de la Ley Orgánica de la Función Legislativa. Esto con la mayoría calificada de la función legislativa, es decir, señor presidente, emociono que se levante la inmunidad parlamentaria de la asamblea instantes mencionada  y por otro lado, que se disponga también a Secretaría General, se notifica la doctora Mercedes Joana Caiceda Aldaz, jueza de la Corte Nacional de Justicia,  que es juega exponente en la causa que mencioné hace un momento, sobre la decisión de conceder o no la autorización previa contenida en el numeral 1 de la presente resolución.  Hasta aquí mi intervención, señor presidente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "aRQTu8K0wEQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Belén Tapia - Sesión 075",
+  "url": "https://www.youtube.com/watch?v=aRQTu8K0wEQ",
+  "published_at": "2026-03-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "aRQTu8K0wEQ",
+  "date": "2026-03-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=aRQTu8K0wEQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 119.31,
+      "interventions": 1,
+      "word_count": 276
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "El crimen organizado y el narcotráfico no reconocen fronteras.  Cada vez avanzan más rápido, corrompen instituciones públicas,  operan con redes internacionales que involucran al narcotráfico  con lavado de activos, corrupción, extorsión, secuestros, minería ilegal.  Pero lo más grave, utilizan a nuestros jóvenes para que sean parte  de estas estructuras criminales.  Estos grupos delictivos durante años se han aprovechado  de los vacíos legales que existen.  La limitación con la cooperación internacional,  la sustitución de las medidas cautelares, entre otros,  para convertir nuestro territorio en zonas de acopio de drogas.  Este proyecto de ley que aplaudo a la Comisión  responde a la necesidad de fortalecer al Estado.  Y como ya lo mencionó anteriormente el presidente de la República,  Daniel Novoa, quienes cometan delitos graves deben enfrentar a la justicia.  Que no intenten esconderse en nuestro país o que se fuguen  con los recursos de los más necesitados de nuestro país.  Eso ya no lo vamos a permitir.  El Ecuador no puede ser un refugio de criminales,  así como ningún ecuatoriano puede llevar nuestra bandera  manchada de corrupción por sus actos.  La extradición evita la impunidad de los delincuentes  que cruzan la frontera para evadir la justicia,  como algunos personajes nefastos de la historia de este país  que tienen que regresar a cumplir su sentencia.  Las redes criminales que hoy operan en el país  están integradas por estructuras transnacionales  que utilizan diferentes rutas migratorias,  plataformas logísticas y sistemas financieros  para expandir sus operaciones.  Por eso, señores, la política migratoria del Ecuador  debe seguir basada en los principios y respeto a los derechos humanos.  Pero esos principios no pueden confundirse con impunidad.  Aprobar esta ley tiene un mensaje claro y un valor simbólico.  No vengan a delinquir en nuestro país.  Ya no lo vamos a permitir.  Vamos a luchar hasta el final  para devolverle la paz a los 18 millones de ecuatorianos.  Muchísimas gracias.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 158.62,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.45,
+      "end": 157.19,
+      "text": "El crimen organizado y el narcotráfico no reconocen fronteras.  Cada vez avanzan más rápido, corrompen instituciones públicas,  operan con redes internacionales que involucran al narcotráfico  con lavado de activos, corrupción, extorsión, secuestros, minería ilegal.  Pero lo más grave, utilizan a nuestros jóvenes para que sean parte  de estas estructuras criminales.  Estos grupos delictivos durante años se han aprovechado  de los vacíos legales que existen.  La limitación con la cooperación internacional,  la sustitución de las medidas cautelares, entre otros,  para convertir nuestro territorio en zonas de acopio de drogas.  Este proyecto de ley que aplaudo a la Comisión  responde a la necesidad de fortalecer al Estado.  Y como ya lo mencionó anteriormente el presidente de la República,  Daniel Novoa, quienes cometan delitos graves deben enfrentar a la justicia.  Que no intenten esconderse en nuestro país o que se fuguen  con los recursos de los más necesitados de nuestro país.  Eso ya no lo vamos a permitir.  El Ecuador no puede ser un refugio de criminales,  así como ningún ecuatoriano puede llevar nuestra bandera  manchada de corrupción por sus actos.  La extradición evita la impunidad de los delincuentes  que cruzan la frontera para evadir la justicia,  como algunos personajes nefastos de la historia de este país  que tienen que regresar a cumplir su sentencia.  Las redes criminales que hoy operan en el país  están integradas por estructuras transnacionales  que utilizan diferentes rutas migratorias,  plataformas logísticas y sistemas financieros  para expandir sus operaciones.  Por eso, señores, la política migratoria del Ecuador  debe seguir basada en los principios y respeto a los derechos humanos.  Pero esos principios no pueden confundirse con impunidad.  Aprobar esta ley tiene un mensaje claro y un valor simbólico.  No vengan a delinquir en nuestro país.  Ya no lo vamos a permitir.  Vamos a luchar hasta el final  para devolverle la paz a los 18 millones de ecuatorianos.  Muchísimas gracias.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Paola Michael Jaramillo Zurita",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "L5e_bt9eUTk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Paola Michael Jaramillo Zurita",
+      "confidence": 1.0,
+      "votes": {
+        "Paola Michael Jaramillo Zurita": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Paola Jaramillo - Sesión 076",
+  "url": "https://www.youtube.com/watch?v=L5e_bt9eUTk",
+  "published_at": "2026-03-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "L5e_bt9eUTk",
+  "date": "2026-03-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=L5e_bt9eUTk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Paola Michael Jaramillo Zurita",
+      "party": null,
+      "province": null,
+      "total_time": 156.74,
+      "interventions": 1,
+      "word_count": 313
+    }
+  ]
+}

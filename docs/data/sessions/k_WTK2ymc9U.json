@@ -1,0 +1,96 @@
+{
+  "text": "la señora Norma Marlene Vallejo Jaramillo, a fin de que proceda a presentar las disculpas públicas correspondientes por sus actos. Señor presidente de la Asamblea Nacional, señores asambleístas, muy buenos días, que sea un día bendecido.  Espero y confío que me puedan escuchar lo mejor posible debido a mi estado de salud.  No poder, de la mejor manera, dar mis disculpas que me ha dispuesto la Corte Nacional.  Mi presencia en esta sesión es para cumplir la sentencia de la Corte Nacional,  en la cual se me dispuso pedir disculpas al pueblo ecuatoriano por la sentencia de concusión que se siguió en mi contra y se ejecutó.  Señores asambleístas, pueblo ecuatoriano, no solo quiero pedir disculpas, quiero pedir perdón.  Las disculpas son solamente para mí simplemente vagas y distantes,  pero pedir perdón es llegar al corazón de todos los ecuatorianos y los señores asambleístas presentes.  Yo fui asambleísta, me principalicé de asambleísta a mediados del año 2017.  Luché por todos los trabajadores y obreros del país, logrando la derogatoria de las enmiendas constitucionales aprobadas en el año 2015.  Mi trabajo lo hice, consta en la Asamblea Nacional, que no solo presenté un proyecto de ley, sino varios,  presenté varias actividades porque trabajé con conciencia.  Luego fui denunciada por el caso de concusión y como persona responsable y asumiendo mi error  y siendo que Dios ha permitido que se cumpla su palabra, que maldito el hombre, que confía en el hombre,  cometí errores que no debía haber hecho, pero que no fueron con intención de hacer daño.  Señores asambleístas, pueblo ecuatoriano, vuelvo a decir, perdónenme por lo que he hecho, he cometido errores,  pero no los hice con intención de hacer daño. Eso téngalo por seguro.  Vuelvo a pedir disculpas el no poder tener un hilo para hablar en vista de que mi situación de salud no me da.  Señor presidente, solicito a usted muy comedidamente que se dé a conocer a la Corte Nacional de Justicia  que he cumplido con lo que me han dispuesto y que he pedido las disculpas públicas respectivas.  Muchas gracias. Muchas gracias Norma por su intervención y en nombre de toda la Asamblea Nacional le agradecemos por su intervención y haber pedido disculpas públicas y les deseamos una pronta recuperación. Muchas gracias.",
+  "language": "es",
+  "duration": 290.64,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 8.1,
+      "text": "la señora Norma Marlene Vallejo Jaramillo, a fin de que proceda a presentar las disculpas públicas correspondientes por sus actos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5684,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 22.17,
+      "end": 269.19,
+      "text": "Señor presidente de la Asamblea Nacional, señores asambleístas, muy buenos días, que sea un día bendecido.  Espero y confío que me puedan escuchar lo mejor posible debido a mi estado de salud.  No poder, de la mejor manera, dar mis disculpas que me ha dispuesto la Corte Nacional.  Mi presencia en esta sesión es para cumplir la sentencia de la Corte Nacional,  en la cual se me dispuso pedir disculpas al pueblo ecuatoriano por la sentencia de concusión que se siguió en mi contra y se ejecutó.  Señores asambleístas, pueblo ecuatoriano, no solo quiero pedir disculpas, quiero pedir perdón.  Las disculpas son solamente para mí simplemente vagas y distantes,  pero pedir perdón es llegar al corazón de todos los ecuatorianos y los señores asambleístas presentes.  Yo fui asambleísta, me principalicé de asambleísta a mediados del año 2017.  Luché por todos los trabajadores y obreros del país, logrando la derogatoria de las enmiendas constitucionales aprobadas en el año 2015.  Mi trabajo lo hice, consta en la Asamblea Nacional, que no solo presenté un proyecto de ley, sino varios,  presenté varias actividades porque trabajé con conciencia.  Luego fui denunciada por el caso de concusión y como persona responsable y asumiendo mi error  y siendo que Dios ha permitido que se cumpla su palabra, que maldito el hombre, que confía en el hombre,  cometí errores que no debía haber hecho, pero que no fueron con intención de hacer daño.  Señores asambleístas, pueblo ecuatoriano, vuelvo a decir, perdónenme por lo que he hecho, he cometido errores,  pero no los hice con intención de hacer daño. Eso téngalo por seguro.  Vuelvo a pedir disculpas el no poder tener un hilo para hablar en vista de que mi situación de salud no me da.  Señor presidente, solicito a usted muy comedidamente que se dé a conocer a la Corte Nacional de Justicia  que he cumplido con lo que me han dispuesto y que he pedido las disculpas públicas respectivas.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Norma Marlene",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 277.74,
+      "end": 289.79,
+      "text": "Muchas gracias Norma por su intervención y en nombre de toda la Asamblea Nacional le agradecemos por su intervención y haber pedido disculpas públicas y les deseamos una pronta recuperación. Muchas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5684,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "k_WTK2ymc9U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Norma Marlene",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Norma Marlene": 8
+      },
+      "samples": 10,
+      "successful_reads": 8,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 8,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Norma Vallejo Jaramillo - Sesión 075 - Cumplimiento de la sentencia",
+  "url": "https://www.youtube.com/watch?v=k_WTK2ymc9U",
+  "published_at": "2026-03-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "k_WTK2ymc9U",
+  "date": "2026-03-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=k_WTK2ymc9U",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Norma Marlene",
+      "party": null,
+      "province": null,
+      "total_time": 247.02,
+      "interventions": 1,
+      "word_count": 325
+    },
+    {
+      "id": "speaker_1",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 20.12,
+      "interventions": 2,
+      "word_count": 52
+    }
+  ]
+}
