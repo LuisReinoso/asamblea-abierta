@@ -1,0 +1,162 @@
+{
+  "text": "Muchísimas gracias a todos los colegas asambleístas por apoyar mi moción.  Los recursos públicos, los recursos de las empresas públicas de energía eléctrica no se tocan.  Hoy y nunca se van a tocar esos recursos.  Estos recursos nos pertenecen a los cantones de la zona de influencia.  Muchísimas gracias, señor presidente. Pido la reconsideración de la votación. Señor Secretario, tomé votación sobre la reconsideración planteada. Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 149 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración de todo lo votado  planteada por el asambleísta Antony Becerra.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 149 asambleístas presentes,  contamos con 71 votos afirmativos, 76 negativos, 0 blancos, 2 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Anthony Becerra no ha sido aprobada.",
+  "language": "es",
+  "duration": 380.76,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.62,
+      "end": 24.2,
+      "text": "Muchísimas gracias a todos los colegas asambleístas por apoyar mi moción.  Los recursos públicos, los recursos de las empresas públicas de energía eléctrica no se tocan.  Hoy y nunca se van a tocar esos recursos.  Estos recursos nos pertenecen a los cantones de la zona de influencia.  Muchísimas gracias, señor presidente. Pido la reconsideración de la votación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anthony Sebastián Becerra Contreras",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 25.19,
+      "end": 28.23,
+      "text": "Señor Secretario, tomé votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 33.36,
+      "end": 41.68,
+      "text": "Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7279,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 184.42,
+      "end": 239.22,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 243.45,
+      "end": 262.69,
+      "text": "Me permito informar, señor presidente, que contamos con 149 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración de todo lo votado  planteada por el asambleísta Antony Becerra.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7279,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 356.63,
+      "end": 358.59,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 359.64,
+      "end": 380.21,
+      "text": "Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 149 asambleístas presentes,  contamos con 71 votos afirmativos, 76 negativos, 0 blancos, 2 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Anthony Becerra no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7279,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "1PUAAFT8qmA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 18,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Anthony Sebastián Becerra Contreras",
+      "confidence": 1.0,
+      "votes": {
+        "Anthony Sebastián Becerra Contreras": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 12,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la reconsideración de las votaciones - Sesión 074",
+  "url": "https://www.youtube.com/watch?v=1PUAAFT8qmA",
+  "published_at": "2026-02-27T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "1PUAAFT8qmA",
+  "date": "2026-02-27T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=1PUAAFT8qmA",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 59.8,
+      "interventions": 3,
+      "word_count": 16
+    },
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 48.13,
+      "interventions": 3,
+      "word_count": 108
+    },
+    {
+      "id": "speaker_1",
+      "name": "Anthony Sebastián Becerra Contreras",
+      "party": null,
+      "province": null,
+      "total_time": 18.58,
+      "interventions": 1,
+      "word_count": 57
+    }
+  ]
+}

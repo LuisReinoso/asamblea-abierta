@@ -1,0 +1,54 @@
+{
+  "text": "Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre registro, señor secretario.  Me permito informar, señor presidente, que contamos con 150 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la sección segunda de la moción presentada por el asambleísta Anthony Becerra.  Señoras y señores asambleístas, por favor, consignar su voto.  Proclame el resultado, señor secretario.  Señor presidente, estamos solventando un problema en una curul.  Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 150 asambleístas presentes, contamos con  cero votos afirmativos, 148 negativos, cero blancos, dos abstenciones.  Por tanto, la moción presentada por el asambleísta Anthony Becerra no ha sido aprobada.  Prenadada.",
+  "language": "es",
+  "duration": 469.76,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 468.85,
+      "text": "Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre registro, señor secretario.  Me permito informar, señor presidente, que contamos con 150 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la sección segunda de la moción presentada por el asambleísta Anthony Becerra.  Señoras y señores asambleístas, por favor, consignar su voto.  Proclame el resultado, señor secretario.  Señor presidente, estamos solventando un problema en una curul.  Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 150 asambleístas presentes, contamos con  cero votos afirmativos, 148 negativos, cero blancos, dos abstenciones.  Por tanto, la moción presentada por el asambleísta Anthony Becerra no ha sido aprobada.  Prenadada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.716,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "Me0J6Yx5yeY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Giovanny Bravo Rodricuez": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción 2 - Sesión 074",
+  "url": "https://www.youtube.com/watch?v=Me0J6Yx5yeY",
+  "published_at": "2026-02-27T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Me0J6Yx5yeY",
+  "date": "2026-02-27T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Me0J6Yx5yeY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 468.82,
+      "interventions": 1,
+      "word_count": 127
+    }
+  ]
+}
