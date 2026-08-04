@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:30:16.335735",
-  "total_sessions": 747,
+  "generated_at": "2026-08-04T04:30:32.923407",
+  "total_sessions": 755,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 8723.219999999996,
-      "total_interventions": 58,
-      "sessions_attended": 29,
+      "total_time": 9447.279999999999,
+      "total_interventions": 66,
+      "sessions_attended": 32,
       "topics_discussed": 0
     },
     {
@@ -75,6 +75,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 5500.48,
+      "total_interventions": 41,
+      "sessions_attended": 17,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
       "name": "del Cisne Rogel Esperanza",
       "type": "asambleísta",
@@ -85,18 +97,6 @@
       "total_interventions": 117,
       "sessions_attended": 32,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
-      "name": "Adrián Ernesto Castro Piedra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 4995.62,
-      "total_interventions": 31,
-      "sessions_attended": 16,
-      "topics_discussed": 3
     },
     {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
@@ -195,6 +195,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "total_time": 3555.89,
+      "total_interventions": 11,
+      "sessions_attended": 11,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
       "name": "Mauricio Javier Ordóñez Fuentes",
       "type": "asambleísta",
@@ -216,18 +228,6 @@
       "total_time": 3250.97,
       "total_interventions": 7,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
-      "name": "Edwin Estuardo Jarrín Rivadeneira",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "PSP",
-      "province": "Morona Santiago",
-      "total_time": 3082.72,
-      "total_interventions": 10,
-      "sessions_attended": 10,
       "topics_discussed": 0
     },
     {
@@ -357,9 +357,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Chimborazo",
-      "total_time": 2219.3400000000006,
-      "total_interventions": 81,
-      "sessions_attended": 27,
+      "total_time": 2232.5200000000004,
+      "total_interventions": 86,
+      "sessions_attended": 29,
       "topics_discussed": 0
     },
     {
@@ -723,6 +723,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-NURIA-SUSANA-BUTINA-MARTINEZ",
+      "name": "Nuria Susana Butiñá Martínez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 1238.3400000000001,
+      "total_interventions": 4,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIA-GABRIELA-MOLINA-MENENDEZ",
       "name": "María Gabriela Molina Menéndez",
       "type": "asambleísta",
@@ -1065,9 +1077,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 592.4799999999999,
-      "total_interventions": 25,
-      "sessions_attended": 2,
+      "total_time": 611.06,
+      "total_interventions": 26,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -1083,6 +1095,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANA-BELEN-YELA-DUARTE",
+      "name": "Ana Belén Yela Duarte",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 578.54,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-VALENTINA-CENTENO-ARTEAGA",
       "name": "Valentina Centeno Arteaga",
       "type": "asambleísta",
@@ -1095,18 +1119,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-NURIA-SUSANA-BUTINA-MARTINEZ",
-      "name": "Nuria Susana Butiñá Martínez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 539.51,
-      "total_interventions": 2,
-      "sessions_attended": 2,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ANA-CECILIA-HERRERA-GOMEZ",
       "name": "Ana Cecilia Herrera Gómez",
       "type": "asambleísta",
@@ -1114,6 +1126,18 @@
       "party": "RC",
       "province": "Cotopaxi",
       "total_time": 501.05,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "FERNANDO-DE-LA-TORRE",
+      "name": "Fernando De La Torre",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 495.43,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1527,18 +1551,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ANA-BELEN-YELA-DUARTE",
-      "name": "Ana Belén Yela Duarte",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 144.26,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-HERMEL-ANDRES-CAMPOS-TOBAR",
       "name": "Hermel Andrés Campos Tobar",
       "type": "asambleísta",
@@ -1624,6 +1636,13 @@
       "total_duration": 13947.16,
       "unique_speakers": 17,
       "unique_topics": 3
+    },
+    {
+      "month": "2026-02",
+      "sessions_count": 8,
+      "total_duration": 4856.099999999999,
+      "unique_speakers": 2,
+      "unique_topics": 0
     },
     {
       "month": "2026-03",
