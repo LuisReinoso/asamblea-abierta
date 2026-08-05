@@ -9,7 +9,7 @@ export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
-BATCH_LIMIT=8
+BATCH_LIMIT=40
 NTFY_URL="http://100.110.12.76:2586/asamblea"
 
 mkdir -p "$REPO_DIR/logs"
