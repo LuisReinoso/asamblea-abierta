@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente. No sé si es que se me escucha allá. No sé si me pueden confirmar.  Sí, la escuchamos, asambleísta.  Gracias, señor presidente. Un saludo a usted, a todos los colegas asambleístas del pueblo ecuatoriano.  Qué vergonzoso. Yo sí voy a decir qué vergonzosa. Cuánta hipocresía realmente de lo que acabo de escuchar.  Y sí, yo también le voy a decir lo mismo, asambleísta Palacios. No se puede esperar menos de usted.  Porque ahora defienden el tema de la minería ilegal y dicen que los ecuatorianos no nos merecemos.  Pero cuando yo presenté el cambio de orden del día, creo que la semana anterior, solicitando que se apoye a las suspensiones mineras en la provincia de Napo,  porque tenemos el río Napo con más del 70 por ciento de contaminación de mercurio y de cianuro por minería ilegal.  Ahí en cambio votaron en contra. Qué nivel de hipocresía la de ustedes, compañeros.  Qué nivel de hipocresía. Y hablan de que el Estado ecuatoriano no quiere, que con esta norma quiere hacer cosas indebidas.  Están realmente mintiéndole nuevamente al país. Ya les dije el otro día que la mitomanía es un trastorno del comportamiento.  Y hay que ser claros aquí. Usted habla de vías. Perdóneme, algún rato espero que venga a pasearse por aquí, por la Amazonía,  y vea la calidad de vías que estamos teniendo ahorita gracias al presidente Daniel Novoa.  ¿Por qué? Porque desde ahí se hace turismo, desde ahí se fomenta la producción, desde ahí se puede mejorar las condiciones económicas de los ecuatorianos.  Aunque no creo que venga acá a Napo, porque estoy segura que aquí en Napo no le han de recibir bien.  Porque realmente lo que usted ha convertido en esta asamblea es un show y es un circo.  Y le digo de frente, porque realmente para mí sí es vergonzoso escuchar lo que usted está diciendo.  Es como darnos una cachetada a los amazónicos que hemos vivido con minería ilegal todo el tiempo.  Entonces, ¿qué espera usted? Que las Fuerzas Armadas no estén en los territorios, que la Policía Nacional no esté controlando.  ¿Para qué? Para que los mineros ilegales, amiguitos de algunos, se tomen los espacios que no son legales.  Perdóneme, sea coherente y no venga a decir cosas que no tienen nada que ver con la realidad que nosotros vivimos.  Aquí en mi provincia, en la Amazonía, los ríos están totalmente contaminados.  ¿Qué esperan entonces? Que no haya ley, que nosotros no hagamos absolutamente nada para parar esto  o para que haya responsabilidad frente a este tipo de actividades.  Ya, usted lo dijo. Están en contra. Claro que están en contra. Están en contra de la legalidad y a favor de la ilegalidad.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 160.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.42,
+      "end": 159.13,
+      "text": "Gracias, señor presidente. No sé si es que se me escucha allá. No sé si me pueden confirmar.  Sí, la escuchamos, asambleísta.  Gracias, señor presidente. Un saludo a usted, a todos los colegas asambleístas del pueblo ecuatoriano.  Qué vergonzoso. Yo sí voy a decir qué vergonzosa. Cuánta hipocresía realmente de lo que acabo de escuchar.  Y sí, yo también le voy a decir lo mismo, asambleísta Palacios. No se puede esperar menos de usted.  Porque ahora defienden el tema de la minería ilegal y dicen que los ecuatorianos no nos merecemos.  Pero cuando yo presenté el cambio de orden del día, creo que la semana anterior, solicitando que se apoye a las suspensiones mineras en la provincia de Napo,  porque tenemos el río Napo con más del 70 por ciento de contaminación de mercurio y de cianuro por minería ilegal.  Ahí en cambio votaron en contra. Qué nivel de hipocresía la de ustedes, compañeros.  Qué nivel de hipocresía. Y hablan de que el Estado ecuatoriano no quiere, que con esta norma quiere hacer cosas indebidas.  Están realmente mintiéndole nuevamente al país. Ya les dije el otro día que la mitomanía es un trastorno del comportamiento.  Y hay que ser claros aquí. Usted habla de vías. Perdóneme, algún rato espero que venga a pasearse por aquí, por la Amazonía,  y vea la calidad de vías que estamos teniendo ahorita gracias al presidente Daniel Novoa.  ¿Por qué? Porque desde ahí se hace turismo, desde ahí se fomenta la producción, desde ahí se puede mejorar las condiciones económicas de los ecuatorianos.  Aunque no creo que venga acá a Napo, porque estoy segura que aquí en Napo no le han de recibir bien.  Porque realmente lo que usted ha convertido en esta asamblea es un show y es un circo.  Y le digo de frente, porque realmente para mí sí es vergonzoso escuchar lo que usted está diciendo.  Es como darnos una cachetada a los amazónicos que hemos vivido con minería ilegal todo el tiempo.  Entonces, ¿qué espera usted? Que las Fuerzas Armadas no estén en los territorios, que la Policía Nacional no esté controlando.  ¿Para qué? Para que los mineros ilegales, amiguitos de algunos, se tomen los espacios que no son legales.  Perdóneme, sea coherente y no venga a decir cosas que no tienen nada que ver con la realidad que nosotros vivimos.  Aquí en mi provincia, en la Amazonía, los ríos están totalmente contaminados.  ¿Qué esperan entonces? Que no haya ley, que nosotros no hagamos absolutamente nada para parar esto  o para que haya responsabilidad frente a este tipo de actividades.  Ya, usted lo dijo. Están en contra. Claro que están en contra. Están en contra de la legalidad y a favor de la ilegalidad.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "ZcnWChXOLcU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Tapia - Sesión 072",
+  "url": "https://www.youtube.com/watch?v=ZcnWChXOLcU",
+  "published_at": "2026-02-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ZcnWChXOLcU",
+  "date": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ZcnWChXOLcU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 151.71,
+      "interventions": 1,
+      "word_count": 457
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "Muchas gracias, señor presidente, la verdad no voy a tomar mucho tiempo, pero en vista de que he sido aludida de una forma que podría enmarcarse dentro de violencia política de género, quiero contestarle al señor Castro.  Y quiero decirle que parece que no entendió lo que yo dije, yo no voy a atacarlo de la misma forma en la que la he hecho, pero sí quiero decirle que técnicamente no se puede defender el agua y al mismo tiempo defender la minería sin regulación.  Así que lo que le invito es que si necesita hablar conmigo nos podemos sentar y más bien ampliar la pluralidad del debate y encontrar leyes que realmente vayan en favor de toda la población y no solo de un círculo cercano privilegiado. Muchas gracias.  Viene la palabra la santa.",
+  "language": "es",
+  "duration": 53.59,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 11.34,
+      "end": 53.56,
+      "text": "Muchas gracias, señor presidente, la verdad no voy a tomar mucho tiempo, pero en vista de que he sido aludida de una forma que podría enmarcarse dentro de violencia política de género, quiero contestarle al señor Castro.  Y quiero decirle que parece que no entendió lo que yo dije, yo no voy a atacarlo de la misma forma en la que la he hecho, pero sí quiero decirle que técnicamente no se puede defender el agua y al mismo tiempo defender la minería sin regulación.  Así que lo que le invito es que si necesita hablar conmigo nos podemos sentar y más bien ampliar la pluralidad del debate y encontrar leyes que realmente vayan en favor de toda la población y no solo de un círculo cercano privilegiado. Muchas gracias.  Viene la palabra la santa.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "SiY-cOozPIo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "confidence": 1.0,
+      "votes": {
+        "Julio Vicente Patricio Xavier Lasso Mendoza": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Verónica Iñiguez - Sesión 072 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=SiY-cOozPIo",
+  "published_at": "2026-02-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "SiY-cOozPIo",
+  "date": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=SiY-cOozPIo",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
+      "party": null,
+      "province": null,
+      "total_time": 42.22,
+      "interventions": 1,
+      "word_count": 135
+    }
+  ]
+}
