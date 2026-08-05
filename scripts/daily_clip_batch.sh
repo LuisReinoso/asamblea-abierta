@@ -88,6 +88,12 @@ if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git status --por
     git add -A
     git commit -q -m "data: daily clip batch $(date +%F)"
     log "committed changes"
+    if git push origin main >>"$LOG_FILE" 2>&1; then
+        log "pushed to GitHub"
+    else
+        log "git push failed, will retry next run"
+        notify "Asamblea Abierta - ERROR" "git push a GitHub falló. Los commits quedan locales, se reintenta mañana."
+    fi
 else
     log "no changes to commit"
 fi
