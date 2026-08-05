@@ -1,0 +1,53 @@
+{
+  "text": "Muchas gracias, señor presidente, compañeros legisladores y ciudadanía que nos observa y nos sigue a través de los diferentes medios digitales.  Una vez más, los compañeros de la Revolución Ciudadana han citado nuestros nombres.  Creo que quieren que trabajemos en función de que nuestro país no progrese.  Estamos, están equivocados en el sentido, compañeros legisladores.  Señor presidente, hoy intervengo como representante de la provincia amazónica de Napo en un debate que no es solo sobre artículos de ley, sino sobre la lucha histórica de nuestros pueblos y sobre justicia ambiental.  Como hijo de los pueblos amazónicos de Napo, conozco de primera mano que los derechos que hoy tiene la Amazonía son el resultado de luchas históricas de los pueblos y nacionalidades junto a sus autoridades, líderes y lideresas que han defendido su territorio, su cultura y su forma de vida.  Por eso, cualquier reforma legal debe partir de no retroceder en esos derechos.  Hemos dicho nosotros que esta asamblea no es una asamblea de retóricas.  Por tal razón, solicito la eliminación del artículo 29 del texto propuesto, ya que este artículo compromete recursos de los gobiernos autónomos descentralizados en relación al 30% de las regalías provenientes de los recursos eléctricos.  No podemos permitir que de esta asamblea se disponga sobre recursos que tienen una destinación específica y que son fundamentales para la planificación y ejecución de obras en nuestros territorios.  Combatir la minería ilegal no puede significar debilitar la autonomía territorial ni afectar los presupuestos locales.  Estoy convencido de que podemos perfeccionar este proyecto de ley, eliminando el artículo 29 y manteniendo intacto el objetivo central, erradicar la minería ilegal y proteger nuestros recursos naturales, nuestras comunidades y el futuro del Estado.  Legislar es equilibrar la justicia ambiental con responsabilidad fiscal y respeto institucional.  En cuanto a la consulta previa, libre e informada, estaré vigilante sobre su cumplimiento conforme lo dispone la Constitución de la República del Ecuador.  Con esta convicción, anuncio, me apoyo al proyecto, siempre y cuando se elimine el artículo 29 del texto de este proyecto de ley.  Señor Presidente y compañeros legisladores, la Amazonía no es una zona de sacrificio, es un territorio de vida, de dignidad y de derechos.  Por mi pueblo valiente de Napo, muchas gracias señor Presidente y compañeros legisladores.",
+  "language": "es",
+  "duration": 203.57,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.92,
+      "end": 203.14,
+      "text": "Muchas gracias, señor presidente, compañeros legisladores y ciudadanía que nos observa y nos sigue a través de los diferentes medios digitales.  Una vez más, los compañeros de la Revolución Ciudadana han citado nuestros nombres.  Creo que quieren que trabajemos en función de que nuestro país no progrese.  Estamos, están equivocados en el sentido, compañeros legisladores.  Señor presidente, hoy intervengo como representante de la provincia amazónica de Napo en un debate que no es solo sobre artículos de ley, sino sobre la lucha histórica de nuestros pueblos y sobre justicia ambiental.  Como hijo de los pueblos amazónicos de Napo, conozco de primera mano que los derechos que hoy tiene la Amazonía son el resultado de luchas históricas de los pueblos y nacionalidades junto a sus autoridades, líderes y lideresas que han defendido su territorio, su cultura y su forma de vida.  Por eso, cualquier reforma legal debe partir de no retroceder en esos derechos.  Hemos dicho nosotros que esta asamblea no es una asamblea de retóricas.  Por tal razón, solicito la eliminación del artículo 29 del texto propuesto, ya que este artículo compromete recursos de los gobiernos autónomos descentralizados en relación al 30% de las regalías provenientes de los recursos eléctricos.  No podemos permitir que de esta asamblea se disponga sobre recursos que tienen una destinación específica y que son fundamentales para la planificación y ejecución de obras en nuestros territorios.  Combatir la minería ilegal no puede significar debilitar la autonomía territorial ni afectar los presupuestos locales.  Estoy convencido de que podemos perfeccionar este proyecto de ley, eliminando el artículo 29 y manteniendo intacto el objetivo central, erradicar la minería ilegal y proteger nuestros recursos naturales, nuestras comunidades y el futuro del Estado.  Legislar es equilibrar la justicia ambiental con responsabilidad fiscal y respeto institucional.  En cuanto a la consulta previa, libre e informada, estaré vigilante sobre su cumplimiento conforme lo dispone la Constitución de la República del Ecuador.  Con esta convicción, anuncio, me apoyo al proyecto, siempre y cuando se elimine el artículo 29 del texto de este proyecto de ley.  Señor Presidente y compañeros legisladores, la Amazonía no es una zona de sacrificio, es un territorio de vida, de dignidad y de derechos.  Por mi pueblo valiente de Napo, muchas gracias señor Presidente y compañeros legisladores.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jorge Edmundo Cerda Tapuy",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "BD_KIvYa18I",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jorge Edmundo Cerda Tapuy",
+      "confidence": 1.0,
+      "votes": {
+        "Jorge Edmundo Cerda Tapuy": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Edmundo Cerda - Sesión 074",
+  "url": "https://www.youtube.com/watch?v=BD_KIvYa18I",
+  "published_at": "2026-02-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "BD_KIvYa18I",
+  "date": "2026-02-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=BD_KIvYa18I",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jorge Edmundo Cerda Tapuy",
+      "party": null,
+      "province": null,
+      "total_time": 197.22,
+      "interventions": 1,
+      "word_count": 377
+    }
+  ]
+}

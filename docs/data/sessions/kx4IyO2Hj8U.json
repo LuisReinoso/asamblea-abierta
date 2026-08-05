@@ -1,0 +1,163 @@
+{
+  "text": "Gracias, presidente. No sé si me escuchan bien. Tenemos algún problema con la conexión y hay un sonido, no sé si me pasa a mí. Quiero confirmar si me escuchan bien, por favor. Y la escuchamos, asambleista.  Hola.  La escuchamos, asambleista. Presidente, no sé si me escuchan, no logro escuchar. Le pido de la manera más comedida, me permita revisar la conexión a internet para poder intervenir si es tan amable. No sé si me escuchan. Asambleísta, se le escucha alto y claro. Puede continuar, por favor. Gracias. Bueno, realmente la ley que nos trae al día de hoy a la discusión en este pleno de la Asamblea Nacional es una ley que no se acoge o que no recoge de alguna manera las necesidades que tenemos en este momento en el país y que no respeta además la... Presidente, el asambleísta se desconectó, parece que tiene un problema de conexión. Listo, continuamos.",
+  "language": "es",
+  "duration": 95.25,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.72,
+      "end": 15.79,
+      "text": "Gracias, presidente. No sé si me escuchan bien. Tenemos algún problema con la conexión y hay un sonido, no sé si me pasa a mí. Quiero confirmar si me escuchan bien, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Cecilia Herrera Gómez",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 17.41,
+      "end": 26.78,
+      "text": "Y la escuchamos, asambleista.  Hola.  La escuchamos, asambleista.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5942,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 32.78,
+      "end": 44.21,
+      "text": "Presidente, no sé si me escuchan, no logro escuchar. Le pido de la manera más comedida, me permita revisar la conexión a internet para poder intervenir si es tan amable. No sé si me escuchan.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Cecilia Herrera Gómez",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 45.36,
+      "end": 49.31,
+      "text": "Asambleísta, se le escucha alto y claro. Puede continuar, por favor.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Ana Cecilia Herrera Gómez",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 56.71,
+      "end": 75.33,
+      "text": "Gracias. Bueno, realmente la ley que nos trae al día de hoy a la discusión en este pleno de la Asamblea Nacional es una ley que no se acoge o que no recoge de alguna manera las necesidades que tenemos en este momento en el país y que no respeta además la...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Cecilia Herrera Gómez",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 90.65,
+      "end": 93.91,
+      "text": "Presidente, el asambleísta se desconectó, parece que tiene un problema de conexión.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Ana Cecilia Herrera Gómez",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 94.34,
+      "end": 95.27,
+      "text": "Listo, continuamos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Carmen Yolanda Tiupul Urquizo",
+        "confidence": 0.5942,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "kx4IyO2Hj8U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Cecilia Herrera Gómez",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Cecilia Herrera Gómez": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "Ana Cecilia Herrera Gómez",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Cecilia Herrera Gómez": 2
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Herrera - Sesión 074",
+  "url": "https://www.youtube.com/watch?v=kx4IyO2Hj8U",
+  "published_at": "2026-02-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "kx4IyO2Hj8U",
+  "date": "2026-02-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=kx4IyO2Hj8U",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Cecilia Herrera Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 40.12,
+      "interventions": 3,
+      "word_count": 120
+    },
+    {
+      "id": "speaker_1",
+      "name": "Carmen Yolanda Tiupul Urquizo",
+      "party": null,
+      "province": null,
+      "total_time": 10.3,
+      "interventions": 2,
+      "word_count": 10
+    },
+    {
+      "id": "speaker_2",
+      "name": "Ana Cecilia Herrera Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 7.21,
+      "interventions": 2,
+      "word_count": 23
+    }
+  ]
+}

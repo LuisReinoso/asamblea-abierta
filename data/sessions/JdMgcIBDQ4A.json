@@ -1,0 +1,53 @@
+{
+  "text": "Señor Presidente, colegas asambleístas, ecuatorianos y ecuatorianas que nos siguen a través de los canales legislativos, muy buenos días.  En el proyecto de ley económica urgente que nos encontramos debatiendo el día de hoy, existe un cambio significativo a la ley orgánica del servicio público de energía eléctrica que no puede ser tomada a la ligera.  Las provincias generadoras de energía eléctrica como Azuay, Cañar, Morona, Santiago, Tunguragua, entre otras provincias, sufrimos de manera directa el impacto de esta actividad.  Es por ello que tenemos que recibir el 30% de los superávitos de las empresas públicas de energía eléctrica, recursos que deben ser destinados a proyectos de desarrollo territorial que benefician directamente a nuestra gente.  Con el artículo 29 se pretende eliminar este porcentaje que reciben los gas provinciales, cantonales y parroquiales, negando así el derecho que nos corresponde.  Mi compromiso por velar estos recursos ha sido constante, ya que yo vengo de un cantón que históricamente ha sido afectado por las hidroeléctricas.  Conozco de cerca las necesidades y la importancia de que estas zonas de influencia sean compensadas.  Es por esto que he presentado una moción para que se excluya el artículo 29 del articulado final, para que se protejan las asignaciones de nuestras provincias.  Mi moción ha sido enviada por el sistema DTS y señor presidente, solicito la lectura cuando usted lo considere pertinente y se someta a votación.  Muchísimas gracias, señor presidente.",
+  "language": "es",
+  "duration": 116.89,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 10.14,
+      "end": 116.5,
+      "text": "Señor Presidente, colegas asambleístas, ecuatorianos y ecuatorianas que nos siguen a través de los canales legislativos, muy buenos días.  En el proyecto de ley económica urgente que nos encontramos debatiendo el día de hoy, existe un cambio significativo a la ley orgánica del servicio público de energía eléctrica que no puede ser tomada a la ligera.  Las provincias generadoras de energía eléctrica como Azuay, Cañar, Morona, Santiago, Tunguragua, entre otras provincias, sufrimos de manera directa el impacto de esta actividad.  Es por ello que tenemos que recibir el 30% de los superávitos de las empresas públicas de energía eléctrica, recursos que deben ser destinados a proyectos de desarrollo territorial que benefician directamente a nuestra gente.  Con el artículo 29 se pretende eliminar este porcentaje que reciben los gas provinciales, cantonales y parroquiales, negando así el derecho que nos corresponde.  Mi compromiso por velar estos recursos ha sido constante, ya que yo vengo de un cantón que históricamente ha sido afectado por las hidroeléctricas.  Conozco de cerca las necesidades y la importancia de que estas zonas de influencia sean compensadas.  Es por esto que he presentado una moción para que se excluya el artículo 29 del articulado final, para que se protejan las asignaciones de nuestras provincias.  Mi moción ha sido enviada por el sistema DTS y señor presidente, solicito la lectura cuando usted lo considere pertinente y se someta a votación.  Muchísimas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anthony Sebastián Becerra Contreras",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "JdMgcIBDQ4A",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Anthony Sebastián Becerra Contreras",
+      "confidence": 1.0,
+      "votes": {
+        "Anthony Sebastián Becerra Contreras": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Anthony Becerra - Sesión 074",
+  "url": "https://www.youtube.com/watch?v=JdMgcIBDQ4A",
+  "published_at": "2026-02-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "JdMgcIBDQ4A",
+  "date": "2026-02-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=JdMgcIBDQ4A",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Anthony Sebastián Becerra Contreras",
+      "party": null,
+      "province": null,
+      "total_time": 106.36,
+      "interventions": 1,
+      "word_count": 235
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "text": "Gracias, señores asambleístas. Por favor, registrar su participación en las curules electrónicas. De existir alguna novedad, por favor, informar a esta Secretaría. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 149 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, cierre registro. Proclame el resultado, señor secretario. Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 149 asambleístas presentes  contamos con 70 votos afirmativos, 79 negativos, 0 blancos, 0 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada.",
+  "language": "es",
+  "duration": 511.74,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 7.41,
+      "text": "Gracias, señores asambleístas. Por favor, registrar su participación en las curules electrónicas. De existir alguna novedad, por favor, informar a esta Secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.717,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 289.0,
+      "end": 290.82,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 294.48,
+      "end": 310.45,
+      "text": "Me permito informar, señor presidente, que contamos con 149 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.717,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 409.55,
+      "end": 488.78,
+      "text": "Proclame el resultado, cierre registro. Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 489.41,
+      "end": 508.93,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 149 asambleístas presentes  contamos con 70 votos afirmativos, 79 negativos, 0 blancos, 0 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.717,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "HR3Aw7f5t8k",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 17,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 11,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de reconsideración asambleísta Valentina Centeno - Sesión 072",
+  "url": "https://www.youtube.com/watch?v=HR3Aw7f5t8k",
+  "published_at": "2026-02-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "HR3Aw7f5t8k",
+  "date": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=HR3Aw7f5t8k",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 81.05,
+      "interventions": 2,
+      "word_count": 14
+    },
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 42.87,
+      "interventions": 3,
+      "word_count": 103
+    }
+  ]
+}

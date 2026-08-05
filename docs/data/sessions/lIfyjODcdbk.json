@@ -1,0 +1,51 @@
+{
+  "text": "Consideración, por favor, de la votación. Gracias.  Señor secretario, tomé voto.",
+  "language": "es",
+  "duration": 7.76,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.83,
+      "end": 7.76,
+      "text": "Consideración, por favor, de la votación. Gracias.  Señor secretario, tomé voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Valentina Centeno Arteaga",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "lIfyjODcdbk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Valentina Centeno Arteaga",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Valentina Centeno - Sesión 072 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=lIfyjODcdbk",
+  "published_at": "2026-02-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "lIfyjODcdbk",
+  "date": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=lIfyjODcdbk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Valentina Centeno Arteaga",
+      "party": null,
+      "province": null,
+      "total_time": 3.93,
+      "interventions": 1,
+      "word_count": 11
+    }
+  ]
+}
