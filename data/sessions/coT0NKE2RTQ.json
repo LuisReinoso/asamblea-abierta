@@ -1,0 +1,82 @@
+{
+  "text": "Ana Belén Tapia. Adelante, asambleista Tapia, por favor. Gracias, señor presidente. Voy a ser muy precisa respecto de lo que voy a decir.  Entiendo que el asambleísta Cabezas no conoce a la provincia de Napo,  porque entre hueco y socavón hay una diferencia súper grande en primer lugar.  En segundo lugar, estoy segura que nunca ha pisado el Hospital José María Velasco Ibarro,  que es el único hospital general que tiene la provincia de Napo, y que no hace rifas.  Más bien, yo respeto y valoro el trabajo que hacen los médicos, las enfermeras  y todo el personal de este hospital, que se vio gravemente vulnerado en sus derechos  cuando sus compañeritos vinieron aquí a mi provincia a patear puertas  y a amedrentar a cada una de las personas que trabajan ahí.  Por otro lado, más bien, asambleísta Cabezas, le invito a que les diga a sus compañeritos  que dicen ser representantes de la Amazonía que votaron a favor de la minería ilegal  en la sesión anterior. Háganse cargo de eso antes de estar hablando cosas que no conocen.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 61.63,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 3.42,
+      "text": "Ana Belén Tapia. Adelante, asambleista Tapia, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 7.44,
+      "end": 59.92,
+      "text": "Gracias, señor presidente. Voy a ser muy precisa respecto de lo que voy a decir.  Entiendo que el asambleísta Cabezas no conoce a la provincia de Napo,  porque entre hueco y socavón hay una diferencia súper grande en primer lugar.  En segundo lugar, estoy segura que nunca ha pisado el Hospital José María Velasco Ibarro,  que es el único hospital general que tiene la provincia de Napo, y que no hace rifas.  Más bien, yo respeto y valoro el trabajo que hacen los médicos, las enfermeras  y todo el personal de este hospital, que se vio gravemente vulnerado en sus derechos  cuando sus compañeritos vinieron aquí a mi provincia a patear puertas  y a amedrentar a cada una de las personas que trabajan ahí.  Por otro lado, más bien, asambleísta Cabezas, le invito a que les diga a sus compañeritos  que dicen ser representantes de la Amazonía que votaron a favor de la minería ilegal  en la sesión anterior. Háganse cargo de eso antes de estar hablando cosas que no conocen.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "coT0NKE2RTQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 1.0,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Belén Tapia - Sesión 070 - II  Intervención",
+  "url": "https://www.youtube.com/watch?v=coT0NKE2RTQ",
+  "published_at": "2026-02-19T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "coT0NKE2RTQ",
+  "date": "2026-02-19T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=coT0NKE2RTQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 52.48,
+      "interventions": 1,
+      "word_count": 175
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 3.39,
+      "interventions": 1,
+      "word_count": 8
+    }
+  ]
+}
