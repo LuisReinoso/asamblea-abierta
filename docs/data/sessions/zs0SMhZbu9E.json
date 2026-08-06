@@ -1,0 +1,53 @@
+{
+  "text": "Presidente, nada más para que quede constancia, emociono la presentación del texto íntegro del proyecto de ley orgánica del Código Orgánico de Organización Territorial, Autonomía y Descentralización para la Sostenibilidad y Eficiencia del Gasto de los Gobiernos Autónomos Descentralizados. Muchas gracias.  Gracias.",
+  "language": "es",
+  "duration": 26.98,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.67,
+      "end": 26.96,
+      "text": "Presidente, nada más para que quede constancia, emociono la presentación del texto íntegro del proyecto de ley orgánica del Código Orgánico de Organización Territorial, Autonomía y Descentralización para la Sostenibilidad y Eficiencia del Gasto de los Gobiernos Autónomos Descentralizados. Muchas gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Valentina Centeno Arteaga",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "zs0SMhZbu9E",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Valentina Centeno Arteaga",
+      "confidence": 1.0,
+      "votes": {
+        "Valentina Centeno Arteaga": 1
+      },
+      "samples": 7,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Valentina Centeno - Sesión 072 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=zs0SMhZbu9E",
+  "published_at": "2026-02-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "zs0SMhZbu9E",
+  "date": "2026-02-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=zs0SMhZbu9E",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Valentina Centeno Arteaga",
+      "party": null,
+      "province": null,
+      "total_time": 18.29,
+      "interventions": 1,
+      "word_count": 42
+    }
+  ]
+}
