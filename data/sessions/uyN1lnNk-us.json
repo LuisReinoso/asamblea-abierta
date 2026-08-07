@@ -1,0 +1,51 @@
+{
+  "text": "la ley, la normativa, sobre la violencia y sobre el odio político.  Gracias, señor presidente. Pido la reconsideración, por favor.",
+  "language": "es",
+  "duration": 13.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.97,
+      "end": 11.98,
+      "text": "la ley, la normativa, sobre la violencia y sobre el odio político.  Gracias, señor presidente. Pido la reconsideración, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "uyN1lnNk-us",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 069 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=uyN1lnNk-us",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "uyN1lnNk-us",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=uyN1lnNk-us",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 9.01,
+      "interventions": 1,
+      "word_count": 20
+    }
+  ]
+}

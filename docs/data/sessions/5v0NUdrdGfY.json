@@ -1,0 +1,52 @@
+{
+  "text": "Cierra el registro, señor secretario.  Me permito informar, señor presidente, que contamos con 147 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto.  Por el pleno de resultados, señor secretario.  Señor operador presidente, los resultados.  Señor presidente, me permito informar que de un total de 147 asambleístas presentes, contamos con 61 votos afirmativos, 82 negativos, 0 blancos, 4 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada.",
+  "language": "es",
+  "duration": 332.49,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 228.5,
+      "end": 332.08,
+      "text": "Cierra el registro, señor secretario.  Me permito informar, señor presidente, que contamos con 147 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la reconsideración planteada por la asambleísta Valentina Centeno.  Señoras y señores asambleístas, por favor consignar su voto.  Por el pleno de resultados, señor secretario.  Señor operador presidente, los resultados.  Señor presidente, me permito informar que de un total de 147 asambleístas presentes, contamos con 61 votos afirmativos, 82 negativos, 0 blancos, 4 abstenciones.  Por tanto, la reconsideración planteada por la asambleísta Valentina Centeno no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.5304,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "5v0NUdrdGfY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Reconsideración de la votación - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=5v0NUdrdGfY",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "5v0NUdrdGfY",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=5v0NUdrdGfY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 103.58,
+      "interventions": 1,
+      "word_count": 93
+    }
+  ]
+}

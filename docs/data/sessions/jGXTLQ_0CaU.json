@@ -1,0 +1,54 @@
+{
+  "text": "Señor secretario, de lectura de la moción presentada y tome votación, por favor.  Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número  AN-RBJJ-2026-0013-M de 10 de febrero de 2026.  Para el señor Nils Olsen-Pitt, presidente de la Asamblea Nacional.  Asunto, moción de allanamiento a la objeción parcial al proyecto de ley orgánica del deporte  y la educación física y la recreación.  De mi consideración.  En virtud de la convocatoria a la sesión número 069-AN-2025-2029 del Pleno de la Asamblea Nacional  para el día martes 10 de febrero de 2026, que dentro del orden del día indica  conocer y resolver respecto del informe no vinculante sobre la objeción parcial  al proyecto de ley orgánica del deporte, la educación física y la recreación  de conformidad con el artículo 135 de la ley orgánica de la función legislativa,  me permito presentar la siguiente moción para su aprobación.  Moción.  Allanarse a la objeción parcial por inconveniencia al proyecto de ley orgánica del deporte,  la educación física y la recreación.  y enmendar los artículos 175, 231, 266 y 268 del referido proyecto,  conforme el texto sugerido por el señor presidente de la República, Daniel Novoa Sin.  Atentamente, señor Juan José Reyes Baquerizo, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre registro, señor secretario.  Me permito informar, señor presidente, que contamos con 132 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Juan José Reyes.  Señores y señoras asambleístas, por favor, consignar su voto.  Proclame resultados, señor secretario.  Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 132 asambleístas presentes,  contamos con 86 votos afirmativos, 43 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Juan José Reyes ha sido aprobada.",
+  "language": "es",
+  "duration": 494.77,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 493.86,
+      "text": "Señor secretario, de lectura de la moción presentada y tome votación, por favor.  Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número  AN-RBJJ-2026-0013-M de 10 de febrero de 2026.  Para el señor Nils Olsen-Pitt, presidente de la Asamblea Nacional.  Asunto, moción de allanamiento a la objeción parcial al proyecto de ley orgánica del deporte  y la educación física y la recreación.  De mi consideración.  En virtud de la convocatoria a la sesión número 069-AN-2025-2029 del Pleno de la Asamblea Nacional  para el día martes 10 de febrero de 2026, que dentro del orden del día indica  conocer y resolver respecto del informe no vinculante sobre la objeción parcial  al proyecto de ley orgánica del deporte, la educación física y la recreación  de conformidad con el artículo 135 de la ley orgánica de la función legislativa,  me permito presentar la siguiente moción para su aprobación.  Moción.  Allanarse a la objeción parcial por inconveniencia al proyecto de ley orgánica del deporte,  la educación física y la recreación.  y enmendar los artículos 175, 231, 266 y 268 del referido proyecto,  conforme el texto sugerido por el señor presidente de la República, Daniel Novoa Sin.  Atentamente, señor Juan José Reyes Baquerizo, asambleísta.  Hasta aquí la lectura de la moción, procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre registro, señor secretario.  Me permito informar, señor presidente, que contamos con 132 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Juan José Reyes.  Señores y señoras asambleístas, por favor, consignar su voto.  Proclame resultados, señor secretario.  Señor operador presente, los resultados.  Señor presidente, me permito informar que de un total de 132 asambleístas presentes,  contamos con 86 votos afirmativos, 43 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por el asambleísta Juan José Reyes ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7491,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "jGXTLQ_0CaU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Ill Asamblea Nacional": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Juan José Reyes - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=jGXTLQ_0CaU",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "jGXTLQ_0CaU",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=jGXTLQ_0CaU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 493.83,
+      "interventions": 1,
+      "word_count": 327
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "text": "Aquí está Alejandro Lara. Señor presidente, pido que se tome la reconsideración de la votación sin antes decirle a todos los asambleístas  que será un honor tenerles mañana en la provincia de Tungurau. Gracias. Señor Secretario, tome votación sobre la reconsideración planteada. Señoras y señores asambleístas, por favor,  registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre, registro, señor secretario. Me permite informar, señor presidente, que contamos con 130 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Lenin Lara Pérez.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 130 asambleístas presentes  contamos con 40 votos afirmativos, 79 negativos, 0 blancos, 11 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Lenin Lara no ha sido aprobada.",
+  "language": "es",
+  "duration": 150.26,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Aquí está Alejandro Lara.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 2.54,
+      "end": 11.12,
+      "text": "Señor presidente, pido que se tome la reconsideración de la votación sin antes decirle a todos los asambleístas  que será un honor tenerles mañana en la provincia de Tungurau. Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Lenin Alejandro Lara Pérez",
+        "confidence": 0.7232,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 14.38,
+      "end": 17.6,
+      "text": "Señor Secretario, tome votación sobre la reconsideración planteada.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 18.26,
+      "end": 26.2,
+      "text": "Señoras y señores asambleístas, por favor,  registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7171,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 90.8,
+      "end": 92.72,
+      "text": "Cierre, registro, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 97.38,
+      "end": 112.7,
+      "text": "Me permite informar, señor presidente, que contamos con 130 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Lenin Lara Pérez.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7171,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 128.7,
+      "end": 130.75,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "start": 132.41,
+      "end": 149.66,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 130 asambleístas presentes  contamos con 40 votos afirmativos, 79 negativos, 0 blancos, 11 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Lenin Lara no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7171,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "sCRp0uBtxcE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] All Asamblea Nacional": 1
+      },
+      "samples": 16,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de reconsideración del asambleísta Alejandro Lara - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=sCRp0uBtxcE",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "sCRp0uBtxcE",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=sCRp0uBtxcE",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 40.51,
+      "interventions": 3,
+      "word_count": 105
+    },
+    {
+      "id": "speaker_0",
+      "name": "Lenin Alejandro Lara Pérez",
+      "party": null,
+      "province": null,
+      "total_time": 8.58,
+      "interventions": 1,
+      "word_count": 30
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 8.19,
+      "interventions": 4,
+      "word_count": 20
+    }
+  ]
+}

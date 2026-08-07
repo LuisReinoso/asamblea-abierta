@@ -1,0 +1,133 @@
+{
+  "text": "Gracias a los hombres asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración plateada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presenten los resultados.  Señor presidente, me permito informar que de un total de 140 asambleístas presentes  contamos con 53 votos afirmativos, 80 negativos, 0 blancos, 7 abstenciones.  Por tanto, la moción presentada por la asambleísta Inés Alarcón no ha sido aprobada. Gracias, señor secretario.",
+  "language": "es",
+  "duration": 212.25,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 7.91,
+      "text": "Gracias a los hombres asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6756,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 112.96,
+      "end": 114.86,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 118.97,
+      "end": 134.76,
+      "text": "Me permito informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración plateada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6756,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 185.06,
+      "end": 187.02,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 188.27,
+      "end": 208.42,
+      "text": "Señor operador, presenten los resultados.  Señor presidente, me permito informar que de un total de 140 asambleístas presentes  contamos con 53 votos afirmativos, 80 negativos, 0 blancos, 7 abstenciones.  Por tanto, la moción presentada por la asambleísta Inés Alarcón no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6756,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 210.65,
+      "end": 212.27,
+      "text": "Gracias, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "q04RpZId6pI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Ll Asamblea Nacional": 1
+      },
+      "samples": 17,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de la reconsideración de la asambleísta Inés Alarcón - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=q04RpZId6pI",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "q04RpZId6pI",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=q04RpZId6pI",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 43.82,
+      "interventions": 3,
+      "word_count": 105
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 5.48,
+      "interventions": 3,
+      "word_count": 11
+    }
+  ]
+}

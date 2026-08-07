@@ -1,0 +1,53 @@
+{
+  "text": "Señor presidente, apreciado señor presidente, apreciado señor presidente, señores legisladores, celebro la visita del rector de la Universidad Católica de Cuenca, tierra de mi abuela, doña Mariana Crespo Chiriboga, y de mi tío abuelo, padre Germán Carrión.  Celebro también la intervención del doctor Adrián Castro, que tiene un concepto estrictamente jurídico y académico.  La criminología es una carrera de vital importancia para el Ecuador.  Nos va a permitir entender que existe una diferencia entre el derecho penal económico, el derecho penal tradicional y esta especialidad de criminología.  Acertados los conceptos en cuanto a que se debe estudiar las reformas al COIP y al Código Orgánico de la Función Judicial con absoluta seriedad.  En la comisión se está preparando un proyecto que es interesante, tiene sus fortalezas, tiene también cosas que deben mejorarse y que seguramente las podremos conversar y discutir con altura y con rigor académico.  Cuenca siempre ha sido una ciudad que se ha caracterizado por brindarle al país hombres y mujeres ilustres, gente que se ha dedicado a hacer el bien, a dedicarse al estudio, a contribuir con trabajo esforzado y con dedicación en la mejoría de su ciudad, una ciudad bella y del país.  Señor presidente, felicito a usted por esta iniciativa y por que la Asamblea Nacional entienda que solamente es a través de la unión de las grandes causas nacionales como podemos encontrar la paz, el progreso y por supuesto en la unidad es como vamos a hacer mejor al Ecuador.  Señor presidente, señores legisladores, muchas gracias.",
+  "language": "es",
+  "duration": 131.82,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 6.36,
+      "end": 131.03,
+      "text": "Señor presidente, apreciado señor presidente, apreciado señor presidente, señores legisladores, celebro la visita del rector de la Universidad Católica de Cuenca, tierra de mi abuela, doña Mariana Crespo Chiriboga, y de mi tío abuelo, padre Germán Carrión.  Celebro también la intervención del doctor Adrián Castro, que tiene un concepto estrictamente jurídico y académico.  La criminología es una carrera de vital importancia para el Ecuador.  Nos va a permitir entender que existe una diferencia entre el derecho penal económico, el derecho penal tradicional y esta especialidad de criminología.  Acertados los conceptos en cuanto a que se debe estudiar las reformas al COIP y al Código Orgánico de la Función Judicial con absoluta seriedad.  En la comisión se está preparando un proyecto que es interesante, tiene sus fortalezas, tiene también cosas que deben mejorarse y que seguramente las podremos conversar y discutir con altura y con rigor académico.  Cuenca siempre ha sido una ciudad que se ha caracterizado por brindarle al país hombres y mujeres ilustres, gente que se ha dedicado a hacer el bien, a dedicarse al estudio, a contribuir con trabajo esforzado y con dedicación en la mejoría de su ciudad, una ciudad bella y del país.  Señor presidente, felicito a usted por esta iniciativa y por que la Asamblea Nacional entienda que solamente es a través de la unión de las grandes causas nacionales como podemos encontrar la paz, el progreso y por supuesto en la unidad es como vamos a hacer mejor al Ecuador.  Señor presidente, señores legisladores, muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Alejandro Lorenzo Vanegas Cortazar",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Ll505JuAbIQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "confidence": 1.0,
+      "votes": {
+        "Alejandro Lorenzo Vanegas Cortazar": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Alejandro Vanegas - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=Ll505JuAbIQ",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Ll505JuAbIQ",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Ll505JuAbIQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "party": null,
+      "province": null,
+      "total_time": 124.67,
+      "interventions": 1,
+      "word_count": 252
+    }
+  ]
+}

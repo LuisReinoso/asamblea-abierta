@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente, colegas legisladores ecuatorianos y ecuatorianas  que nos siguen a través de los diferentes medios legislativos.  No puedo iniciar esta intervención sin antes celebrar esta iniciativa suya, señor presidente,  de traer el legislativo a esta provincia de Guayas  y acercar el primer poder del Estado a nuestros hermanos guayaquileños.  Quien sirve con lealtad a su país merece gratitud y consideración.  Colegas legisladores, creo que nosotros, los asambleístas,  debemos ser los primeros en dar el ejemplo, en respetar a nuestras Fuerzas Armadas.  Aquí no hay que olvidarnos que son ellos quienes se juegan la vida en las calles  luchando contra el narcotráfico.  Son ellos quienes dan sus vidas en nuestras fronteras defendiendo la soberanía nacional  y son ellos quienes, por cuidar de nosotros, no acuestan a sus hijos todas las noches.  Independientemente de nuestra posición política, independientemente de la bancada a la que hoy pertenezcamos,  es nuestro deber reconocer y fortalecer a nuestras Fuerzas Armadas.  Que no sean en vano las doscientas quince toneladas de sustancias sujetas a fiscalización,  doscientas quince toneladas sujetas a fiscalización,  que no sean en vano los seis mil millones de dólares en afectación económica a los grupos de delincuencia organizada,  que no sean en vano los trescientos ochenta y seis operativos en contra de la minería ilegal  y que tampoco sean en vano los cuatro mil trescientos ochenta y seis galones de diésel decomisados.  Señores legisladores, díganme ustedes si esto no es digno de celebrar,  si esto no es un logro que esta Asamblea debería aplaudir.  Respetar no es solo admirar, es valorar ese sacrificio silencioso que dan nuestras Fuerzas Armadas.  Las Fuerzas Armadas merecen aplausos, no insultos.  Merecen que desde esta Asamblea Nacional, que desde esta Asamblea no se le ataque,  que no se le intente desmerecer.  Merece que le apoyemos, merece que le demos el marco normativo apropiado.  Aquellos que atacan, aquellos que insultan, aquellos que hoy desmerecen el trabajo de las Fuerzas Armadas,  lamentablemente les informo que están incurriendo en un hijo y traición a la patria.  Presidente, desde esta curul, respaldo el accionar de nuestras Fuerzas Armadas  y hago un llamado al respeto irrestricto a nuestros hombres y mujeres honoros.  Gracias, presidente.  Gracias.",
+  "language": "es",
+  "duration": 187.06,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 14.29,
+      "end": 187.07,
+      "text": "Gracias, señor presidente, colegas legisladores ecuatorianos y ecuatorianas  que nos siguen a través de los diferentes medios legislativos.  No puedo iniciar esta intervención sin antes celebrar esta iniciativa suya, señor presidente,  de traer el legislativo a esta provincia de Guayas  y acercar el primer poder del Estado a nuestros hermanos guayaquileños.  Quien sirve con lealtad a su país merece gratitud y consideración.  Colegas legisladores, creo que nosotros, los asambleístas,  debemos ser los primeros en dar el ejemplo, en respetar a nuestras Fuerzas Armadas.  Aquí no hay que olvidarnos que son ellos quienes se juegan la vida en las calles  luchando contra el narcotráfico.  Son ellos quienes dan sus vidas en nuestras fronteras defendiendo la soberanía nacional  y son ellos quienes, por cuidar de nosotros, no acuestan a sus hijos todas las noches.  Independientemente de nuestra posición política, independientemente de la bancada a la que hoy pertenezcamos,  es nuestro deber reconocer y fortalecer a nuestras Fuerzas Armadas.  Que no sean en vano las doscientas quince toneladas de sustancias sujetas a fiscalización,  doscientas quince toneladas sujetas a fiscalización,  que no sean en vano los seis mil millones de dólares en afectación económica a los grupos de delincuencia organizada,  que no sean en vano los trescientos ochenta y seis operativos en contra de la minería ilegal  y que tampoco sean en vano los cuatro mil trescientos ochenta y seis galones de diésel decomisados.  Señores legisladores, díganme ustedes si esto no es digno de celebrar,  si esto no es un logro que esta Asamblea debería aplaudir.  Respetar no es solo admirar, es valorar ese sacrificio silencioso que dan nuestras Fuerzas Armadas.  Las Fuerzas Armadas merecen aplausos, no insultos.  Merecen que desde esta Asamblea Nacional, que desde esta Asamblea no se le ataque,  que no se le intente desmerecer.  Merece que le apoyemos, merece que le demos el marco normativo apropiado.  Aquellos que atacan, aquellos que insultan, aquellos que hoy desmerecen el trabajo de las Fuerzas Armadas,  lamentablemente les informo que están incurriendo en un hijo y traición a la patria.  Presidente, desde esta curul, respaldo el accionar de nuestras Fuerzas Armadas  y hago un llamado al respeto irrestricto a nuestros hombres y mujeres honoros.  Gracias, presidente.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "NpXSQjbRNV0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Luigi Edu Garcia Velasquez",
+      "confidence": 1.0,
+      "votes": {
+        "Luigi Edu Garcia Velasquez": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Luigi García - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=NpXSQjbRNV0",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "NpXSQjbRNV0",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=NpXSQjbRNV0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luigi Edu Garcia Velasquez",
+      "party": null,
+      "province": null,
+      "total_time": 172.78,
+      "interventions": 1,
+      "word_count": 363
+    }
+  ]
+}
