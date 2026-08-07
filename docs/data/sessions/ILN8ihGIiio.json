@@ -1,0 +1,53 @@
+{
+  "text": "A la palabra la asambleísta Jairén Noriega.  Gracias, presidente.  Que el día de hoy mi voz en este parlamento sirva para que el mundo entero sepa  que en Ecuador están metiendo presos a quienes denuncian que Daniel Novoa puso  y sostuvo a un operador del narcotráfico al frente de la justicia.  Asambleísta, le pido por favor que se remita el punto del debate.  A un empleado de la delincuencia organizada.  Que el mundo sepa el día de hoy que metieron preso al principal opositor al régimen de Daniel Novoa.  Al que en las urnas lo hubiera destruido.  Les pido, asambleísta, que por favor se puedan...",
+  "language": "es",
+  "duration": 53.73,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 53.96,
+      "text": "A la palabra la asambleísta Jairén Noriega.  Gracias, presidente.  Que el día de hoy mi voz en este parlamento sirva para que el mundo entero sepa  que en Ecuador están metiendo presos a quienes denuncian que Daniel Novoa puso  y sostuvo a un operador del narcotráfico al frente de la justicia.  Asambleísta, le pido por favor que se remita el punto del debate.  A un empleado de la delincuencia organizada.  Que el mundo sepa el día de hoy que metieron preso al principal opositor al régimen de Daniel Novoa.  Al que en las urnas lo hubiera destruido.  Les pido, asambleísta, que por favor se puedan...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jahiren Elizabeth Noriega Donoso",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "ILN8ihGIiio",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "confidence": 1.0,
+      "votes": {
+        "Jahiren Elizabeth Noriega Donoso": 2
+      },
+      "samples": 10,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Jahiren Noriega - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=ILN8ihGIiio",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ILN8ihGIiio",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ILN8ihGIiio",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "party": null,
+      "province": null,
+      "total_time": 53.93,
+      "interventions": 1,
+      "word_count": 105
+    }
+  ]
+}

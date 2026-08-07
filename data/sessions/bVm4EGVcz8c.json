@@ -1,0 +1,51 @@
+{
+  "text": "Gracias, señor presidente. Pido por favor la reconsideración de la votación de la moción presentada.  Señor secretario, tome votación sobre la...",
+  "language": "es",
+  "duration": 7.96,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 7.93,
+      "text": "Gracias, señor presidente. Pido por favor la reconsideración de la votación de la moción presentada.  Señor secretario, tome votación sobre la...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "bVm4EGVcz8c",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Juan Reyes - Sesión 069 - III Intervención",
+  "url": "https://www.youtube.com/watch?v=bVm4EGVcz8c",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "bVm4EGVcz8c",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=bVm4EGVcz8c",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 7.9,
+      "interventions": 1,
+      "word_count": 21
+    }
+  ]
+}

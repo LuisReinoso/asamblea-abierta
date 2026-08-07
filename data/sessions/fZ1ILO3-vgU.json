@@ -1,0 +1,156 @@
+{
+  "text": "Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría. Asambleístas, ¿tiene apoyo a la moción? Señor Secretario, de lectura de la moción presentada y tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada mediante  memorando número AN-ABIM-2026-0029-M, de 10 de febrero de 2026.  Asunto moción dentro de la sesión número 069-AN-2025-2029 del Pleno de la Asamblea Nacional.  De mi consideración, con respetuoso saludo en el contexto de la sesión número 069-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para este día martes 10 de febrero de 2026  a las 11 horas 45, en estricto apego a lo establecido en los artículos 61 y 135  de la Ley Orgánica de la Función Legislativa y con relación al tercer punto de orden del día,  el cual tiene por objeto conocer y resolver respecto del informe para segundo debate  del proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  En calidad de ponente, presento la siguiente moción.  Moción.  Que el Pleno de la Asamblea Nacional apruebe el texto íntegro del proyecto de ley orgánica  para el fortalecimiento de la ciberseguridad.  Consentimientos de distinguida consideración.  Atentamente, señora Inés Margarita Larcon Bueno, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. señor operador presente los resultados señor presidente me permito informar que  de un total de 142 asambleístas presentes contamos con 82 votos afirmativos 57  negativos cero blancos tres abstenciones por tanto la moción presentada por la  asambleísta inés alarcón ha sido aprobada Tiene la palabra.",
+  "language": "es",
+  "duration": 482.09,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 4.27,
+      "text": "Sí, señor presidente, la moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6691,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.97,
+      "end": 11.72,
+      "text": "Asambleístas, ¿tiene apoyo a la moción? Señor Secretario, de lectura de la moción presentada y tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.28,
+      "end": 97.06,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante  memorando número AN-ABIM-2026-0029-M, de 10 de febrero de 2026.  Asunto moción dentro de la sesión número 069-AN-2025-2029 del Pleno de la Asamblea Nacional.  De mi consideración, con respetuoso saludo en el contexto de la sesión número 069-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para este día martes 10 de febrero de 2026  a las 11 horas 45, en estricto apego a lo establecido en los artículos 61 y 135  de la Ley Orgánica de la Función Legislativa y con relación al tercer punto de orden del día,  el cual tiene por objeto conocer y resolver respecto del informe para segundo debate  del proyecto de ley orgánica para el fortalecimiento de la ciberseguridad.  En calidad de ponente, presento la siguiente moción.  Moción.  Que el Pleno de la Asamblea Nacional apruebe el texto íntegro del proyecto de ley orgánica  para el fortalecimiento de la ciberseguridad.  Consentimientos de distinguida consideración.  Atentamente, señora Inés Margarita Larcon Bueno, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6691,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 351.98,
+      "end": 354.08,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 366.64,
+      "end": 381.1,
+      "text": "Me permito informar, señor presidente, que contamos con 142 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por la asambleísta Inés Alarcón.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6691,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 456.5,
+      "end": 458.46,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 459.35,
+      "end": 478.27,
+      "text": "señor operador presente los resultados señor presidente me permito informar que  de un total de 142 asambleístas presentes contamos con 82 votos afirmativos 57  negativos cero blancos tres abstenciones por tanto la moción presentada por la  asambleísta inés alarcón ha sido aprobada",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6691,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 481.31,
+      "end": 482.08,
+      "text": "Tiene la palabra.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "fZ1ILO3-vgU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 22,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Inés Alarcón - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=fZ1ILO3-vgU",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "fZ1ILO3-vgU",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=fZ1ILO3-vgU",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 121.4,
+      "interventions": 4,
+      "word_count": 294
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 11.58,
+      "interventions": 4,
+      "word_count": 31
+    }
+  ]
+}

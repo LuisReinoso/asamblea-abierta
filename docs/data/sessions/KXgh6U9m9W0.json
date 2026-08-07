@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor Presidente de la Asamblea Nacional, compañeros legisladores o asambleístas,  hombres y mujeres, pueblo ecuatoriano.  Quiero expresarles en esta tarde el saludo desde la provincia verde de Esmeraldas  y muy especial al cantón que represento.  Quiero decirles que el día de hoy estoy en esta Asamblea Nacional  y precisamente discutiendo y resolviendo un proyecto de ley en segunda instancia  que se refiere a la ciberdelincuencia.  Creo que es un proyecto que debía haberselo discutido con antelación  porque en Budapest, este convenio de Budapest se fue aprobado en el 2001,  es decir, han transcurrido 25 años y recién la Asamblea Nacional ecuatoriana  está aprobando un proyecto de ley que en lo posterior debe ser más aumentado  por parte de los asambleístas del Ecuador,  con el propósito de salvaguardar la seguridad de todos los ecuatorianos  porque vivimos una época digital  donde realmente se cometen delitos de toda naturaleza a los ecuatorianos.  es por ello que yo aplaudo a la comisión que ha aprobado en primera  y la Asamblea Nacional aprobó en primera  y el día de hoy tenemos que aprobarlo en segunda instancia  porque cumple con los parámetros constitucionales y legales  este proyecto de ley, señor presidente,  y señores honorables asambleístas.  Muchas gracias.",
+  "language": "es",
+  "duration": 133.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 7.15,
+      "end": 133.43,
+      "text": "Gracias, señor Presidente de la Asamblea Nacional, compañeros legisladores o asambleístas,  hombres y mujeres, pueblo ecuatoriano.  Quiero expresarles en esta tarde el saludo desde la provincia verde de Esmeraldas  y muy especial al cantón que represento.  Quiero decirles que el día de hoy estoy en esta Asamblea Nacional  y precisamente discutiendo y resolviendo un proyecto de ley en segunda instancia  que se refiere a la ciberdelincuencia.  Creo que es un proyecto que debía haberselo discutido con antelación  porque en Budapest, este convenio de Budapest se fue aprobado en el 2001,  es decir, han transcurrido 25 años y recién la Asamblea Nacional ecuatoriana  está aprobando un proyecto de ley que en lo posterior debe ser más aumentado  por parte de los asambleístas del Ecuador,  con el propósito de salvaguardar la seguridad de todos los ecuatorianos  porque vivimos una época digital  donde realmente se cometen delitos de toda naturaleza a los ecuatorianos.  es por ello que yo aplaudo a la comisión que ha aprobado en primera  y la Asamblea Nacional aprobó en primera  y el día de hoy tenemos que aprobarlo en segunda instancia  porque cumple con los parámetros constitucionales y legales  este proyecto de ley, señor presidente,  y señores honorables asambleístas.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Wilson Cruz",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "KXgh6U9m9W0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Wilson Cruz",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Wilson Cruz": 2
+      },
+      "samples": 10,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Fredy Cruz - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=KXgh6U9m9W0",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "KXgh6U9m9W0",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=KXgh6U9m9W0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Wilson Cruz",
+      "party": null,
+      "province": null,
+      "total_time": 126.28,
+      "interventions": 1,
+      "word_count": 202
+    }
+  ]
+}

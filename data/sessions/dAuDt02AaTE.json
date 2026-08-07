@@ -1,0 +1,53 @@
+{
+  "text": "palabra el asambleísta Alejandro Lara. Señor presidente, estimadas y estimados  colegas, la resolución que se pone a consideración de este pleno responde a  una obligación institucional concreta de la Asamblea Nacional dentro de un  proceso constitucional en curso. Esto corresponde al proceso constitucional  para la designación de la primera autoridad de la Fiscalía General del  Estado que se encuentra en curso y que es conducido por el Consejo de  Participación Ciudadana y Control Social a través de una Comisión Ciudadana de  Selección. En una fase previa de este proceso, la Asamblea Nacional ha cumplido  con esa atribución constitucional y ha designado a sus delegados para integrar  dicha comisión. Posteriormente, el Consejo de Participación Ciudadana y Control  Social, en ejercicio de sus competencias, ha revisado esa conformación de la  comisión y ha definido a la principalidad de la delegada de la  función legislativa y como consecuencia de esa decisión técnica, se ha solicitado de  manera expresa a la Asamblea Nacional que designe un delegado suplente hombre, con el  fin de completar la integración de la comisión conforme a los principios de  paridad y regularidad institucional. Por lo tanto, la resolución que se somete a  consideración de este pleno no modifica ni deja sin efecto las decisiones  adoptadas anteriormente por esta Asamblea. Se trata de una resolución  complementaria que tiene como único objeto atender el requerimiento formal del  CPCSS y asegurar que la Comisión Ciudadana de Selección funcione en su  integración completa conforme a la ley, a la Constitución y a su reglamento.  Con ello, la Asamblea Nacional actúa dentro de sus competencias y respeta la  autonomía del Consejo de Participación Ciudadana y Control Social y contribuye que  el proceso de designación de la Fiscalía General del Estado avance con  seguridad jurídica y legitimidad institucional. Por estas razones,  presidente, mociono que se apruebe la resolución propuesta. Muchas gracias.",
+  "language": "es",
+  "duration": 141.22,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 134.47,
+      "text": "palabra el asambleísta Alejandro Lara. Señor presidente, estimadas y estimados  colegas, la resolución que se pone a consideración de este pleno responde a  una obligación institucional concreta de la Asamblea Nacional dentro de un  proceso constitucional en curso. Esto corresponde al proceso constitucional  para la designación de la primera autoridad de la Fiscalía General del  Estado que se encuentra en curso y que es conducido por el Consejo de  Participación Ciudadana y Control Social a través de una Comisión Ciudadana de  Selección. En una fase previa de este proceso, la Asamblea Nacional ha cumplido  con esa atribución constitucional y ha designado a sus delegados para integrar  dicha comisión. Posteriormente, el Consejo de Participación Ciudadana y Control  Social, en ejercicio de sus competencias, ha revisado esa conformación de la  comisión y ha definido a la principalidad de la delegada de la  función legislativa y como consecuencia de esa decisión técnica, se ha solicitado de  manera expresa a la Asamblea Nacional que designe un delegado suplente hombre, con el  fin de completar la integración de la comisión conforme a los principios de  paridad y regularidad institucional. Por lo tanto, la resolución que se somete a  consideración de este pleno no modifica ni deja sin efecto las decisiones  adoptadas anteriormente por esta Asamblea. Se trata de una resolución  complementaria que tiene como único objeto atender el requerimiento formal del  CPCSS y asegurar que la Comisión Ciudadana de Selección funcione en su  integración completa conforme a la ley, a la Constitución y a su reglamento.  Con ello, la Asamblea Nacional actúa dentro de sus competencias y respeta la  autonomía del Consejo de Participación Ciudadana y Control Social y contribuye que  el proceso de designación de la Fiscalía General del Estado avance con  seguridad jurídica y legitimidad institucional. Por estas razones,  presidente, mociono que se apruebe la resolución propuesta. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Lenin Alejandro Lara Pérez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "dAuDt02AaTE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Lenin Alejandro Lara Pérez",
+      "confidence": 1.0,
+      "votes": {
+        "Lenin Alejandro Lara Pérez": 3
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Alejandro Lara - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=dAuDt02AaTE",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "dAuDt02AaTE",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=dAuDt02AaTE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Lenin Alejandro Lara Pérez",
+      "party": null,
+      "province": null,
+      "total_time": 134.44,
+      "interventions": 1,
+      "word_count": 306
+    }
+  ]
+}

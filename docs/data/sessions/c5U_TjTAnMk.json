@@ -1,0 +1,80 @@
+{
+  "text": "¡Ani! Hola, gracias, señor presidente.  Bueno, hasta Elon Musk ha nombrado en este Pleno de la Asamblea Nacional  parte de un desconocimiento total de la normativa que hoy presentamos  ante este Pleno de la Asamblea Nacional.  Señor presidente, hoy estamos debatiendo una ley importante  para la seguridad nacional del país, para cuidar a nuestros niños  de todo lo que pasa en las plataformas digitales,  de todo lo que vivimos en cuanto a delincuencia organizada  por parte de estos narcotraficantes que hoy utilizan esas mismas redes sociales,  esas mismas plataformas para cooptar a nuestros niños,  para cooptarlos y llevarlos a ser parte de esta criminalidad.  Si eso no entiende la oposición, no podemos nosotros nada más que hacer  sentir un profundo desprecio ante esa actitud,  porque este es un problema estructural, sistemático, que vivimos como país.  Y a todos debe preocuparnos que en las plataformas digitales  haya esta cooptación de nuestros niños.  Y yo entiendo que hay preocupaciones acerca de la normativa,  pues bueno, todos fueron invitados a ser parte de las comisiones,  todos fueron invitados a ser parte de ingresar observaciones.  La misma, los mismos legisladores que están en la Comisión de Seguridad,  no ingresaron observaciones,  no les interesa hablar de la seguridad nacional del país.  Si en caso hubiese sido tanta la preocupación,  hubiesen ingresado a una observación para poder debatirla.  Pero en realidad no les interesa nada que tenga que ver con la seguridad nacional del país.  Y hoy inventan cualquier tipo de excusa para votar en contra de una ley de seguridad nacional,  lo cual es penoso y desastroso para nuestro país.  Porque si ellos no están en el poder,  si ellos no son quienes dominan,  si ellos no son quienes están al mando,  entonces que el país se incendie.  Porque ellos prefieren gobernar sobre las cenizas de un país.  No les importa lo que hoy viven nuestros niños,  no les importa lo que hoy viven los ciudadanos en cuanto a seguridad nacional.  Son capaces de inventarse cualquier tipo de excusa,  de inventar cualquier leguleyada dentro de una normativa importante en la seguridad nacional.  Y sí, les digo viéndoles a la cara,  es realmente lamentable que ustedes representen a los ecuatorianos,  que confiaron en ustedes en las urnas  y que hoy no le pueden responder con leyes y normativas de seguridad nacional.  Señor presidente, he mostrado, he enviado una moción  para que sea votada cuando usted considere necesario.",
+  "language": "es",
+  "duration": 187.13,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 4.77,
+      "end": 10.04,
+      "text": "¡Ani!",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 10.58,
+      "end": 185.06,
+      "text": "Hola, gracias, señor presidente.  Bueno, hasta Elon Musk ha nombrado en este Pleno de la Asamblea Nacional  parte de un desconocimiento total de la normativa que hoy presentamos  ante este Pleno de la Asamblea Nacional.  Señor presidente, hoy estamos debatiendo una ley importante  para la seguridad nacional del país, para cuidar a nuestros niños  de todo lo que pasa en las plataformas digitales,  de todo lo que vivimos en cuanto a delincuencia organizada  por parte de estos narcotraficantes que hoy utilizan esas mismas redes sociales,  esas mismas plataformas para cooptar a nuestros niños,  para cooptarlos y llevarlos a ser parte de esta criminalidad.  Si eso no entiende la oposición, no podemos nosotros nada más que hacer  sentir un profundo desprecio ante esa actitud,  porque este es un problema estructural, sistemático, que vivimos como país.  Y a todos debe preocuparnos que en las plataformas digitales  haya esta cooptación de nuestros niños.  Y yo entiendo que hay preocupaciones acerca de la normativa,  pues bueno, todos fueron invitados a ser parte de las comisiones,  todos fueron invitados a ser parte de ingresar observaciones.  La misma, los mismos legisladores que están en la Comisión de Seguridad,  no ingresaron observaciones,  no les interesa hablar de la seguridad nacional del país.  Si en caso hubiese sido tanta la preocupación,  hubiesen ingresado a una observación para poder debatirla.  Pero en realidad no les interesa nada que tenga que ver con la seguridad nacional del país.  Y hoy inventan cualquier tipo de excusa para votar en contra de una ley de seguridad nacional,  lo cual es penoso y desastroso para nuestro país.  Porque si ellos no están en el poder,  si ellos no son quienes dominan,  si ellos no son quienes están al mando,  entonces que el país se incendie.  Porque ellos prefieren gobernar sobre las cenizas de un país.  No les importa lo que hoy viven nuestros niños,  no les importa lo que hoy viven los ciudadanos en cuanto a seguridad nacional.  Son capaces de inventarse cualquier tipo de excusa,  de inventar cualquier leguleyada dentro de una normativa importante en la seguridad nacional.  Y sí, les digo viéndoles a la cara,  es realmente lamentable que ustedes representen a los ecuatorianos,  que confiaron en ustedes en las urnas  y que hoy no le pueden responder con leyes y normativas de seguridad nacional.  Señor presidente, he mostrado, he enviado una moción  para que sea votada cuando usted considere necesario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "c5U_TjTAnMk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 069 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=c5U_TjTAnMk",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "c5U_TjTAnMk",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=c5U_TjTAnMk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 174.48,
+      "interventions": 1,
+      "word_count": 400
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 5.27,
+      "interventions": 1,
+      "word_count": 1
+    }
+  ]
+}

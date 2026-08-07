@@ -1,0 +1,53 @@
+{
+  "text": "qué honor estar aquí. Señor presidente, esta Asamblea Nacional tiene el deber de dar un mensaje  muy importante para el Ecuador, y es que no vamos a ver hacia un lado cuando se trate de defender  los derechos de los ciudadanos de nuestro bello país, no vamos a observar hacia otro lado cuando  se vea la violencia ejercida contra nuestros militares que día a día arriesgan su vida,  por nosotros. Quiero dar un mensaje claro, y es que creo firmemente de que en esta Asamblea Nacional  no se deben debatir personas, se deben debatir ideas, y estoy convencido de que la idea aquí es  muy clara, exigir respeto para nuestras Fuerzas Armadas, respeto a los ciudadanos, y respeto a los  ciudadanos. Lo que vimos en ese video, señor presidente, no puede normalizarse, no podemos  permitir que sea una costumbre. Hemos visto como un funcionario público y un familiar ha agredido  física y verbalmente a un uniformado en el cumplimiento de sus funciones, y es que cuando  somos electos, cada uno de nosotros representamos a un gremio, a una comunidad, a una provincia,  y estoy convencido de que en ese video, la provincia del Guayas no se siente representada. Señores y  colegas asambleístas, estamos hablando de una humillación a nuestras líneas de defensa.  Y es que esto se realiza en un contexto en donde el Ecuador vive una época en donde la criminalidad  se encuentra arraigada debido a gobiernos anteriores. Desde la bancada de Acción Democrática Nacional,  creemos firmemente en las Fuerzas Armadas, le damos todo nuestro respaldo y estamos para elevar su  moral. Y es que cualquier autoridad debe ejercer su rol con el ejemplo.  Ser autoridad no eterga privilegios, no da licencia para insultar o amedrentar.  Ninguna autoridad, ningún ciudadano está por encima de la ley. Porque cuando nuestros militares se encuentran  patrullando en las calles, están en las cárceles, cuidándonos, no puede ser posible que desde la política  se los descalifique, se los intimide, se los menosprecie. Eso no es valentía, es cobardía institucional.  Este es el mensaje que enviamos hoy desde este órgano legislativo. En Ecuador, el uniforme se respeta.  La Asamblea Nacional no ampara abusos. Y la democracia no protege la prepotencia de nadie.  Y para quienes creemos en el derecho, no podemos callar cuando se ataca a quienes hacen cumplir la ley.  A cada soldado, a cada cuartel, a cada uniformado decirles, en cada rincón de este país, que no están solos.  Esta bancada los respalda. Y se irá legislando con fuerza por la seguridad y apoyándoles en el ejercicio de sus funciones.  Porque a las Fuerzas Armadas se las respeta, colegas legisladores. Que la ley se cumple.  Y porque en este nuevo Ecuador, este nuevo Ecuador de la bancada de N, del presidente Daniel Novo,  no se permite ni se tolera la arrogancia de ningún funcionario.  Sobre todo, lo que está en juego es el futuro de nuestra nación.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 252.7,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 15.15,
+      "end": 251.57,
+      "text": "qué honor estar aquí. Señor presidente, esta Asamblea Nacional tiene el deber de dar un mensaje  muy importante para el Ecuador, y es que no vamos a ver hacia un lado cuando se trate de defender  los derechos de los ciudadanos de nuestro bello país, no vamos a observar hacia otro lado cuando  se vea la violencia ejercida contra nuestros militares que día a día arriesgan su vida,  por nosotros. Quiero dar un mensaje claro, y es que creo firmemente de que en esta Asamblea Nacional  no se deben debatir personas, se deben debatir ideas, y estoy convencido de que la idea aquí es  muy clara, exigir respeto para nuestras Fuerzas Armadas, respeto a los ciudadanos, y respeto a los  ciudadanos. Lo que vimos en ese video, señor presidente, no puede normalizarse, no podemos  permitir que sea una costumbre. Hemos visto como un funcionario público y un familiar ha agredido  física y verbalmente a un uniformado en el cumplimiento de sus funciones, y es que cuando  somos electos, cada uno de nosotros representamos a un gremio, a una comunidad, a una provincia,  y estoy convencido de que en ese video, la provincia del Guayas no se siente representada. Señores y  colegas asambleístas, estamos hablando de una humillación a nuestras líneas de defensa.  Y es que esto se realiza en un contexto en donde el Ecuador vive una época en donde la criminalidad  se encuentra arraigada debido a gobiernos anteriores. Desde la bancada de Acción Democrática Nacional,  creemos firmemente en las Fuerzas Armadas, le damos todo nuestro respaldo y estamos para elevar su  moral. Y es que cualquier autoridad debe ejercer su rol con el ejemplo.  Ser autoridad no eterga privilegios, no da licencia para insultar o amedrentar.  Ninguna autoridad, ningún ciudadano está por encima de la ley. Porque cuando nuestros militares se encuentran  patrullando en las calles, están en las cárceles, cuidándonos, no puede ser posible que desde la política  se los descalifique, se los intimide, se los menosprecie. Eso no es valentía, es cobardía institucional.  Este es el mensaje que enviamos hoy desde este órgano legislativo. En Ecuador, el uniforme se respeta.  La Asamblea Nacional no ampara abusos. Y la democracia no protege la prepotencia de nadie.  Y para quienes creemos en el derecho, no podemos callar cuando se ataca a quienes hacen cumplir la ley.  A cada soldado, a cada cuartel, a cada uniformado decirles, en cada rincón de este país, que no están solos.  Esta bancada los respalda. Y se irá legislando con fuerza por la seguridad y apoyándoles en el ejercicio de sus funciones.  Porque a las Fuerzas Armadas se las respeta, colegas legisladores. Que la ley se cumple.  Y porque en este nuevo Ecuador, este nuevo Ecuador de la bancada de N, del presidente Daniel Novo,  no se permite ni se tolera la arrogancia de ningún funcionario.  Sobre todo, lo que está en juego es el futuro de nuestra nación.  Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Christopher Manuel Jaramillo Gómez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Uz7F6smVxcQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "confidence": 1.0,
+      "votes": {
+        "Christopher Manuel Jaramillo Gómez": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Christhoper Jaramillo - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=Uz7F6smVxcQ",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Uz7F6smVxcQ",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Uz7F6smVxcQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Christopher Manuel Jaramillo Gómez",
+      "party": null,
+      "province": null,
+      "total_time": 236.42,
+      "interventions": 1,
+      "word_count": 487
+    }
+  ]
+}

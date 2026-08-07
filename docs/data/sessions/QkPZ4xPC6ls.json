@@ -1,0 +1,51 @@
+{
+  "text": "Muchas gracias, señor presidente. Muy buenas tardes, compañeros legisladores, pueblo ecuatoriano.  Muchas gracias por otorgarme el uso de la palabra, sobre todo por la importancia  y sobre todo por el precedente que se tiene que dejar y el trabajo legislativo  que cada uno de los ecuatorianos nos han otorgado a través del voto popular.  Y sobre todo porque la inmunidad no puede convertirse en impunidad.  Es por eso que se ha presentado la querella que corresponde, que ha sido dada lectura.  Ante el actuar del asambleísta González, tomando en consideración  de que no es un tema en contra de una bancada, sino también agrede a la credibilidad de la Asamblea Nacional.  Y es por eso que la responsabilidad con la que tiene que actuar el pleno y cada uno de los legisladores  es actuar con firmeza y, por supuesto, permitiendo que el proceso siga su curso,  que sea la justicia con pruebas, con garantías, siguiendo el debido proceso  para que determinen lo que corresponda.  Es por eso que hoy los legisladores tenemos la oportunidad de dejarle un mensaje  y enviarle un mensaje muy claro a los ecuatorianos que la investidura parlamentaria  no otorga la licencia para agraviar ni calumniar a ninguna persona,  y mucho menos a ningún legislador.  Es por eso que creemos en la institucionalidad y eso debemos demostrarlo con hechos.  Y es por eso que, a través de este espacio, la Asamblea Nacional tiene que actuar de acuerdo  a lo que dice la función legislativa, obviamente con el objetivo de fortalecer la democracia  y también la credibilidad de este Parlamento.  Así que, compañeros asambleístas, no podemos permitir que se normalice este tipo de acciones,  que ningún compañero llame terrorista a otro legislador sin asumir ninguna responsabilidad.  En realidad, se abría una puerta a algo realmente preocupante.  Es por eso que he enviado una moción a través de DTS  para que pueda ser tomada lectura cuando considere, señor presidente.  Hasta aquí mi palabra. Muchas gracias.",
+  "language": "es",
+  "duration": 134.79,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.28,
+      "end": 130.88,
+      "text": "Muchas gracias, señor presidente. Muy buenas tardes, compañeros legisladores, pueblo ecuatoriano.  Muchas gracias por otorgarme el uso de la palabra, sobre todo por la importancia  y sobre todo por el precedente que se tiene que dejar y el trabajo legislativo  que cada uno de los ecuatorianos nos han otorgado a través del voto popular.  Y sobre todo porque la inmunidad no puede convertirse en impunidad.  Es por eso que se ha presentado la querella que corresponde, que ha sido dada lectura.  Ante el actuar del asambleísta González, tomando en consideración  de que no es un tema en contra de una bancada, sino también agrede a la credibilidad de la Asamblea Nacional.  Y es por eso que la responsabilidad con la que tiene que actuar el pleno y cada uno de los legisladores  es actuar con firmeza y, por supuesto, permitiendo que el proceso siga su curso,  que sea la justicia con pruebas, con garantías, siguiendo el debido proceso  para que determinen lo que corresponda.  Es por eso que hoy los legisladores tenemos la oportunidad de dejarle un mensaje  y enviarle un mensaje muy claro a los ecuatorianos que la investidura parlamentaria  no otorga la licencia para agraviar ni calumniar a ninguna persona,  y mucho menos a ningún legislador.  Es por eso que creemos en la institucionalidad y eso debemos demostrarlo con hechos.  Y es por eso que, a través de este espacio, la Asamblea Nacional tiene que actuar de acuerdo  a lo que dice la función legislativa, obviamente con el objetivo de fortalecer la democracia  y también la credibilidad de este Parlamento.  Así que, compañeros asambleístas, no podemos permitir que se normalice este tipo de acciones,  que ningún compañero llame terrorista a otro legislador sin asumir ninguna responsabilidad.  En realidad, se abría una puerta a algo realmente preocupante.  Es por eso que he enviado una moción a través de DTS  para que pueda ser tomada lectura cuando considere, señor presidente.  Hasta aquí mi palabra. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carlos Steve Villacres Salazar",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "QkPZ4xPC6ls",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Carlos Steve Villacres Salazar",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Carlos Villacres - Sesión 068",
+  "url": "https://www.youtube.com/watch?v=QkPZ4xPC6ls",
+  "published_at": "2026-02-19T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "QkPZ4xPC6ls",
+  "date": "2026-02-19T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=QkPZ4xPC6ls",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Carlos Steve Villacres Salazar",
+      "party": null,
+      "province": null,
+      "total_time": 122.6,
+      "interventions": 1,
+      "word_count": 326
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "text": "registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 136 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Juan José Reyes.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 136 asambleístas presentes,  contamos con 45 votos afirmativos, 88 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Juan José Reyes no ha sido aprobada.",
+  "language": "es",
+  "duration": 212.11,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 6.53,
+      "text": "registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7293,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 108.5,
+      "end": 110.5,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 113.57,
+      "end": 129.65,
+      "text": "Me permito informar, señor presidente, que contamos con 136 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por el asambleísta Juan José Reyes.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7293,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 187.26,
+      "end": 189.06,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 191.11,
+      "end": 211.47,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 136 asambleístas presentes,  contamos con 45 votos afirmativos, 88 negativos, 0 blancos, 3 abstenciones.  Por tanto, la reconsideración planteada por el asambleísta Juan José Reyes no ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.7293,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "7PXi-aVWg8U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 17,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Reconsideración de la votación de la moción del asambleísta Juan José Reyes - Sesión 069",
+  "url": "https://www.youtube.com/watch?v=7PXi-aVWg8U",
+  "published_at": "2026-02-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7PXi-aVWg8U",
+  "date": "2026-02-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=7PXi-aVWg8U",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 42.94,
+      "interventions": 3,
+      "word_count": 100
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 3.8,
+      "interventions": 2,
+      "word_count": 9
+    }
+  ]
+}
