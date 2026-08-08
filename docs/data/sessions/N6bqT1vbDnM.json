@@ -1,0 +1,106 @@
+{
+  "text": "Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Luis G. García.  Señoras y señores asambleístas, por favor consignar su voto. Proclame resultados, señor secretario. Señor operador, presente los resultados. Señor presidente, me permito informar que de un total de 140 asambleístas presentes, contamos con 76 votos afirmativos, 58 negativos, 0 blancos, 6 abstenciones.  Por tanto, la moción presentada por el asambleísta Luis García ha sido aprobada.",
+  "language": "es",
+  "duration": 392.72,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 273.57,
+      "end": 275.58,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 279.28,
+      "end": 293.18,
+      "text": "Me permito informar, señor presidente, que contamos con 140 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Luis G. García.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6976,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 359.96,
+      "end": 362.02,
+      "text": "Proclame resultados, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 371.53,
+      "end": 390.3,
+      "text": "Señor operador, presente los resultados. Señor presidente, me permito informar que de un total de 140 asambleístas presentes, contamos con 76 votos afirmativos, 58 negativos, 0 blancos, 6 abstenciones.  Por tanto, la moción presentada por el asambleísta Luis García ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6976,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "N6bqT1vbDnM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 12,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de Luigi García - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=N6bqT1vbDnM",
+  "published_at": "2026-02-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "N6bqT1vbDnM",
+  "date": "2026-02-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=N6bqT1vbDnM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 32.67,
+      "interventions": 2,
+      "word_count": 81
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 4.07,
+      "interventions": 2,
+      "word_count": 8
+    }
+  ]
+}

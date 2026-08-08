@@ -1,0 +1,55 @@
+{
+  "text": "asambleísta Raúl Chávez gracias gracias presidenta buenas buenas noches con  todos compañeros asambleístas primero que todo saludar a todas las  organizaciones solca que han venido acá a la asamblea a respaldar la ley pero un  saludo muy particular que desde aquí los veo al doctor Fabricio delegado y a la  doctora Glenda Ramos que más allá de que son unos excelentes profesionales son  primero que todo unas grandes seres humanos así que un saludo y muchas  gracias por estar aquí dicho esto yo creo que nadie hay que ser coherente entre  lo que se dice lo que se hace y así como dijo el asambleíste serrano de que en el  primer debate yo cuestioné esta ley porque a mi criterio faltaban temas por  incorporar hoy que los han incorporado como por ejemplo yo  tuve una observación sobre el tema del financiamiento hoy existe hoy es  incorporado un financiamiento adicional pero sobre todo se va a respetar la  autonomía de solca también se incluye a solca dentro del registro oncológico  nacional cuando en el primer debate no se incluía entonces eso es positivo por  supuesto el cuadro nacional de medicamentos ahora por obligación tendrá que ser actual  actualizado de manera periódica eso también es importante también se  incluye por obligación diferentes tipos de investigación como es la investigación de  cánceres de alta incidencia programas de vacunación tamizaje y estudios genéticos  adicional que no se deja por fuera la normativa sobre todo la más específica más importante de la ley  del cáncer uterino por eso es que yo voy a apoyar este proyecto pero me sumo a las palabras de muchos  colegas que han expresado hoy este proyecto no es un asambleísta no es una bancada no es un partido no es  la asamblea incluso este proyecto es de los ciudadanos este proyecto es de los  ecuatorianos pero sobre todo de los que han sufrido esta enfermedad y de sus  familiares en los cuales yo me incluyo por eso hoy esta ley contará con mi apoyo  buenas noches muchas gracias",
+  "language": "es",
+  "duration": 157.2,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 155.04,
+      "text": "asambleísta Raúl Chávez gracias gracias presidenta buenas buenas noches con  todos compañeros asambleístas primero que todo saludar a todas las  organizaciones solca que han venido acá a la asamblea a respaldar la ley pero un  saludo muy particular que desde aquí los veo al doctor Fabricio delegado y a la  doctora Glenda Ramos que más allá de que son unos excelentes profesionales son  primero que todo unas grandes seres humanos así que un saludo y muchas  gracias por estar aquí dicho esto yo creo que nadie hay que ser coherente entre  lo que se dice lo que se hace y así como dijo el asambleíste serrano de que en el  primer debate yo cuestioné esta ley porque a mi criterio faltaban temas por  incorporar hoy que los han incorporado como por ejemplo yo  tuve una observación sobre el tema del financiamiento hoy existe hoy es  incorporado un financiamiento adicional pero sobre todo se va a respetar la  autonomía de solca también se incluye a solca dentro del registro oncológico  nacional cuando en el primer debate no se incluía entonces eso es positivo por  supuesto el cuadro nacional de medicamentos ahora por obligación tendrá que ser actual  actualizado de manera periódica eso también es importante también se  incluye por obligación diferentes tipos de investigación como es la investigación de  cánceres de alta incidencia programas de vacunación tamizaje y estudios genéticos  adicional que no se deja por fuera la normativa sobre todo la más específica más importante de la ley  del cáncer uterino por eso es que yo voy a apoyar este proyecto pero me sumo a las palabras de muchos  colegas que han expresado hoy este proyecto no es un asambleísta no es una bancada no es un partido no es  la asamblea incluso este proyecto es de los ciudadanos este proyecto es de los  ecuatorianos pero sobre todo de los que han sufrido esta enfermedad y de sus  familiares en los cuales yo me incluyo por eso hoy esta ley contará con mi apoyo  buenas noches muchas gracias",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "José Fernando Nantipia Chumpi",
+        "confidence": 0.6236,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "1r1r7LcHsxA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "del Arco Raúl Arturo Chávez Núñez": 1,
+        "[OOV] Núñez Del Arco": 4
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Raúl Chávez - Sesión 066",
+  "url": "https://www.youtube.com/watch?v=1r1r7LcHsxA",
+  "published_at": "2026-02-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "1r1r7LcHsxA",
+  "date": "2026-02-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=1r1r7LcHsxA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "José Fernando Nantipia Chumpi",
+      "party": null,
+      "province": null,
+      "total_time": 155.01,
+      "interventions": 1,
+      "word_count": 338
+    }
+  ]
+}

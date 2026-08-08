@@ -1,0 +1,51 @@
+{
+  "text": "Gracias, estimado presidente, colegas asambleístas y ciudadanía que nos escuchan.  El día de hoy estamos hablando del futuro de nuestros jóvenes.  En todo el país, miles de jóvenes estudian con la esperanza de superarse y de poder salir adelante.  Sin embargo, al graduarse, se encuentran con una realidad bastante dura.  Al no contar con experiencia laboral, no logran acceder a un empleo digno y muchas veces no encuentran oportunidades laborales en su propio territorio.  Como ya lo han dicho también colegas asambleístas que me antecedieron en la palabra, en la Amazonía esta es una situación aún más compleja.  Nuestros jóvenes amazónicos enfrentan mayores distancias geográficas, menor acceso a la educación especializada y condiciones desiguales frente a quienes crecieron en ciudades con mayores ofertas educativas.  Nuestros jóvenes amazónicos compiten por los mismos empleos sin haber partido desde el mismo punto.  Por eso esta ley es necesaria, porque fortalece la formación técnica y tecnológica e impulsa la educación dual.  Un modelo que realmente es bastante sencillo de entender.  Aprender en el aula mientras se adquiere experiencia real en una empresa o en un espacio productivo.  La evidencia internacional muestra que este modelo mejora la empleabilidad juvenil y conecta la educación con las necesidades reales del sector productivo,  convirtiéndose en una herramienta concreta para enfrentar el desempleo y la informalidad.  Así lo señala un estudio comparativo internacional denominado Formación Profesional Dual en Austria, Alemania, Liechtenstein y Suiza,  que evidencia cómo la formación dual facilita la transición de los jóvenes hacia el trabajo  y se asocia a menores tasas de desempleo juvenil en estos países.  En territorios como mi provincia, la provincia de Pastaza, el alcance de la formación dual es aún mayor.  Cuando la educación se vincula con la bioeconomía amazónica, el turismo sostenible, la producción local, el conocimiento ancestral,  no solo que se generan ingresos, se genera arraigo, se genera dignidad y futuro  para que nuestros jóvenes no tengan que emigrar a construir sus propios proyectos de vida.  Reactivar la economía también significa reactivar la esperanza de una generación que quiere trabajar, emprender y construir país desde su propia tierra.  Esta ley es un mensaje claro para la juventud ecuatoriana, que sí creemos en los jóvenes,  que sí hay futuro en cada uno de sus territorios y que crecer en el Ecuador sí es posible.  Por la juventud y por la Amazonía que educa, produce y sostiene la vida, mi respaldo contundente a esta ley.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 223.49,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 14.26,
+      "end": 222.59,
+      "text": "Gracias, estimado presidente, colegas asambleístas y ciudadanía que nos escuchan.  El día de hoy estamos hablando del futuro de nuestros jóvenes.  En todo el país, miles de jóvenes estudian con la esperanza de superarse y de poder salir adelante.  Sin embargo, al graduarse, se encuentran con una realidad bastante dura.  Al no contar con experiencia laboral, no logran acceder a un empleo digno y muchas veces no encuentran oportunidades laborales en su propio territorio.  Como ya lo han dicho también colegas asambleístas que me antecedieron en la palabra, en la Amazonía esta es una situación aún más compleja.  Nuestros jóvenes amazónicos enfrentan mayores distancias geográficas, menor acceso a la educación especializada y condiciones desiguales frente a quienes crecieron en ciudades con mayores ofertas educativas.  Nuestros jóvenes amazónicos compiten por los mismos empleos sin haber partido desde el mismo punto.  Por eso esta ley es necesaria, porque fortalece la formación técnica y tecnológica e impulsa la educación dual.  Un modelo que realmente es bastante sencillo de entender.  Aprender en el aula mientras se adquiere experiencia real en una empresa o en un espacio productivo.  La evidencia internacional muestra que este modelo mejora la empleabilidad juvenil y conecta la educación con las necesidades reales del sector productivo,  convirtiéndose en una herramienta concreta para enfrentar el desempleo y la informalidad.  Así lo señala un estudio comparativo internacional denominado Formación Profesional Dual en Austria, Alemania, Liechtenstein y Suiza,  que evidencia cómo la formación dual facilita la transición de los jóvenes hacia el trabajo  y se asocia a menores tasas de desempleo juvenil en estos países.  En territorios como mi provincia, la provincia de Pastaza, el alcance de la formación dual es aún mayor.  Cuando la educación se vincula con la bioeconomía amazónica, el turismo sostenible, la producción local, el conocimiento ancestral,  no solo que se generan ingresos, se genera arraigo, se genera dignidad y futuro  para que nuestros jóvenes no tengan que emigrar a construir sus propios proyectos de vida.  Reactivar la economía también significa reactivar la esperanza de una generación que quiere trabajar, emprender y construir país desde su propia tierra.  Esta ley es un mensaje claro para la juventud ecuatoriana, que sí creemos en los jóvenes,  que sí hay futuro en cada uno de sus territorios y que crecer en el Ecuador sí es posible.  Por la juventud y por la Amazonía que educa, produce y sostiene la vida, mi respaldo contundente a esta ley.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "María Cristina Acuña Vaca",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "ojgtk7KgVl4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "María Cristina Acuña Vaca",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta María Cristina Acuña - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=ojgtk7KgVl4",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ojgtk7KgVl4",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ojgtk7KgVl4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "María Cristina Acuña Vaca",
+      "party": null,
+      "province": null,
+      "total_time": 208.33,
+      "interventions": 1,
+      "word_count": 407
+    }
+  ]
+}
