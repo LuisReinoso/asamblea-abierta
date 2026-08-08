@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente. A través de la Secretaría General he ingresado la moción para que se dé lectura y se proceda con la votación de la aprobación, espero unánimemente, del proyecto de ley orgánica para la atención integral del cáncer. Muchas gracias.",
+  "language": "es",
+  "duration": 28.1,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.99,
+      "end": 25.31,
+      "text": "Gracias, señor presidente. A través de la Secretaría General he ingresado la moción para que se dé lectura y se proceda con la votación de la aprobación, espero unánimemente, del proyecto de ley orgánica para la atención integral del cáncer. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Annabella Emma Azín Arce",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "8fCorpKtlMI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Annabella Emma Azín Arce",
+      "confidence": 1.0,
+      "votes": {
+        "Annabella Emma Azín Arce": 1
+      },
+      "samples": 9,
+      "successful_reads": 1,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Annabella Azín - Sesión 066 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=8fCorpKtlMI",
+  "published_at": "2026-02-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8fCorpKtlMI",
+  "date": "2026-02-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8fCorpKtlMI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Annabella Emma Azín Arce",
+      "party": null,
+      "province": null,
+      "total_time": 23.32,
+      "interventions": 1,
+      "word_count": 42
+    }
+  ]
+}

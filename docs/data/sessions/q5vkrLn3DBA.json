@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, presidente.  Ecuatorianos, ecuatorianas que nos miran a través de los diferentes medios,  colegas asambleístas.  El país merece respeto, el país merece claridad  y la Asamblea Nacional no puede quedarse callada,  no debe quedarse callada.  Estamos frente a una acusación que primero pone en riesgo  la institucionalidad de esta Asamblea Nacional  al significar que de configurarse, de perfeccionarse  o de confirmarse estas acusaciones,  estaríamos frente a la intromisión del crimen organizado transnacional  en el primer poder del Estado.  Segundo, porque configuraría un delito cometido,  un delito cometido en el marco de un proceso democrático en el país.  Y tercero, porque sería una acusación que nace a partir de un proceso democrático  en el que están involucrados autoridades nacionales  y que implicaría un golpe y un precedente nefasto en la historia democrática del Ecuador.  Hoy este Parlamento tiene la obligación de exhortar a las instituciones pertinentes,  llámese CNE, llámese UAFE, llámese SRI, llámese Tribunal Contencioso Electoral,  a fin de que garantice una investigación en la que se garantice,  en la que se aplique los más altos principios de celeridad, de objetividad y de transparencia.  Y esto, señor Presidente, a fin de que el país conozca las verdaderas causas de esta acusación,  de que el país conozca o que confirme estas acusaciones realizadas en medios de comunicación nacional,  en la que se involucra, nuevamente lo repito, a autoridades nacionales y a ciudadanos  que intentaron ser autoridades de este país mediante elección popular.  Señor Presidente, esta Asamblea Nacional tiene la obligación, debe emitir una resolución  a fin de que se rechace de manera categórica cualquier intento de intromisión,  de injerencia extranjera o de financiamiento irregular en los procesos democráticos del país.  Y tres, esta Asamblea Nacional debe emitir una resolución a fin de exponer la grave preocupación institucional  frente a las acusaciones realizadas por el señor Santiago Díaz Asque.  Y tres, debe instar a la Fiscalía General del Estado, al Consejo Nacional Electoral,  a la UAFE y al Tribunal Contencioso Electoral, a fin de que ejerzan una investigación y procesos  con los parámetros y los estándares de objetividad, celeridad y transparencia  que el país y esta Asamblea Nacional hoy exigen.  Señor Presidente, colegas legisladores, respetemos la democracia, respetemos al país,  respetemos a nuestros mandantes que hoy siguen esta sesión.  El país entero observa que esta Asamblea Nacional siga de cerca este proceso  y que se respeten todos los parámetros internacionales acerca del financiamiento  a las campañas electorales y a la prevención de la injerencia del crimen organizado  en las campañas y en los procesos democráticos.  Señor Presidente, colegas legisladores, está en nuestras manos, está en manos de este Parlamento  que esta resolución constituya un precedente en la historia democrática de este país.  Muchas gracias, señor Presidente.  Vuelvo al uso de la palabra.",
+  "language": "es",
+  "duration": 284.03,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 8.15,
+      "end": 283.46,
+      "text": "Gracias, presidente.  Ecuatorianos, ecuatorianas que nos miran a través de los diferentes medios,  colegas asambleístas.  El país merece respeto, el país merece claridad  y la Asamblea Nacional no puede quedarse callada,  no debe quedarse callada.  Estamos frente a una acusación que primero pone en riesgo  la institucionalidad de esta Asamblea Nacional  al significar que de configurarse, de perfeccionarse  o de confirmarse estas acusaciones,  estaríamos frente a la intromisión del crimen organizado transnacional  en el primer poder del Estado.  Segundo, porque configuraría un delito cometido,  un delito cometido en el marco de un proceso democrático en el país.  Y tercero, porque sería una acusación que nace a partir de un proceso democrático  en el que están involucrados autoridades nacionales  y que implicaría un golpe y un precedente nefasto en la historia democrática del Ecuador.  Hoy este Parlamento tiene la obligación de exhortar a las instituciones pertinentes,  llámese CNE, llámese UAFE, llámese SRI, llámese Tribunal Contencioso Electoral,  a fin de que garantice una investigación en la que se garantice,  en la que se aplique los más altos principios de celeridad, de objetividad y de transparencia.  Y esto, señor Presidente, a fin de que el país conozca las verdaderas causas de esta acusación,  de que el país conozca o que confirme estas acusaciones realizadas en medios de comunicación nacional,  en la que se involucra, nuevamente lo repito, a autoridades nacionales y a ciudadanos  que intentaron ser autoridades de este país mediante elección popular.  Señor Presidente, esta Asamblea Nacional tiene la obligación, debe emitir una resolución  a fin de que se rechace de manera categórica cualquier intento de intromisión,  de injerencia extranjera o de financiamiento irregular en los procesos democráticos del país.  Y tres, esta Asamblea Nacional debe emitir una resolución a fin de exponer la grave preocupación institucional  frente a las acusaciones realizadas por el señor Santiago Díaz Asque.  Y tres, debe instar a la Fiscalía General del Estado, al Consejo Nacional Electoral,  a la UAFE y al Tribunal Contencioso Electoral, a fin de que ejerzan una investigación y procesos  con los parámetros y los estándares de objetividad, celeridad y transparencia  que el país y esta Asamblea Nacional hoy exigen.  Señor Presidente, colegas legisladores, respetemos la democracia, respetemos al país,  respetemos a nuestros mandantes que hoy siguen esta sesión.  El país entero observa que esta Asamblea Nacional siga de cerca este proceso  y que se respeten todos los parámetros internacionales acerca del financiamiento  a las campañas electorales y a la prevención de la injerencia del crimen organizado  en las campañas y en los procesos democráticos.  Señor Presidente, colegas legisladores, está en nuestras manos, está en manos de este Parlamento  que esta resolución constituya un precedente en la historia democrática de este país.  Muchas gracias, señor Presidente.  Vuelvo al uso de la palabra.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "q5vkrLn3DBA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Luigi Edu Garcia Velasquez",
+      "confidence": 1.0,
+      "votes": {
+        "Luigi Edu Garcia Velasquez": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Luigi García - Sesión 067 - I intervención",
+  "url": "https://www.youtube.com/watch?v=q5vkrLn3DBA",
+  "published_at": "2026-02-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "q5vkrLn3DBA",
+  "date": "2026-02-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=q5vkrLn3DBA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luigi Edu Garcia Velasquez",
+      "party": null,
+      "province": null,
+      "total_time": 275.31,
+      "interventions": 1,
+      "word_count": 459
+    }
+  ]
+}

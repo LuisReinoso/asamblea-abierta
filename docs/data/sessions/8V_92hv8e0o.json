@@ -1,0 +1,119 @@
+{
+  "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número AN-CDEP-2026-0065-M  de 25 de febrero de 2026, asunto moción de aprobación de mi consideración.  En mi calidad de Presidenta de la Comisión de Desarrollo Económico, Productivo y la Microempresa  y como Asambleísta ponente en uso de mis facultades constitucionales y legales  de acuerdo a los artículos 61 y 135 de la Ley Orgánica de la Función Legislativa  dentro del primer punto del orden del día de la continuación de la sesión número 067-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para el día miércoles 25 de febrero de 2026 a las 10 horas,  elevo a usted la siguiente moción para que sea sometida a votación.  Aprobación del texto íntegro del Proyecto de Ley Orgánica para la Reactivación Económica  a través del fortalecimiento de la vinculación del sector económico productivo con la educación.  Con sentimientos de distinguida consideración, atentamente,  abogada Valentina Centeno Arteada, Presidenta de la Comisión Especializada Permanente  de Desarrollo Económico, Productivo y la Microempresa.  Hasta aquí el texto de la moción procederá a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Cierre de registro, señor secretario. Me permito informar, señor presidente, que contamos con 146 asambleístas registrados, 147 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la moción presentada por la asambleísta Valentina Centeno Arteaga.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador presente en los resultados.  Señor presidente, me permito informar que de un total de 147 asambleístas presentes  contamos con 83 votos afirmativos, 61 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por la asambleísta Valentina Centeno ha sido aprobada.",
+  "language": "es",
+  "duration": 958.54,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 86.38,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número AN-CDEP-2026-0065-M  de 25 de febrero de 2026, asunto moción de aprobación de mi consideración.  En mi calidad de Presidenta de la Comisión de Desarrollo Económico, Productivo y la Microempresa  y como Asambleísta ponente en uso de mis facultades constitucionales y legales  de acuerdo a los artículos 61 y 135 de la Ley Orgánica de la Función Legislativa  dentro del primer punto del orden del día de la continuación de la sesión número 067-AN-2025-2029  del Pleno de la Asamblea Nacional, convocada para el día miércoles 25 de febrero de 2026 a las 10 horas,  elevo a usted la siguiente moción para que sea sometida a votación.  Aprobación del texto íntegro del Proyecto de Ley Orgánica para la Reactivación Económica  a través del fortalecimiento de la vinculación del sector económico productivo con la educación.  Con sentimientos de distinguida consideración, atentamente,  abogada Valentina Centeno Arteada, Presidenta de la Comisión Especializada Permanente  de Desarrollo Económico, Productivo y la Microempresa.  Hasta aquí el texto de la moción procederá a tomar votación.  Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6269,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 724.04,
+      "end": 726.04,
+      "text": "Cierre de registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 733.74,
+      "end": 753.67,
+      "text": "Me permito informar, señor presidente, que contamos con 146 asambleístas registrados, 147 asambleístas registrados.  Se pone a consideración del pleno de la Asamblea Nacional la moción presentada por la asambleísta Valentina Centeno Arteaga.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6269,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 935.28,
+      "end": 937.2,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 938.82,
+      "end": 957.94,
+      "text": "Señor operador presente en los resultados.  Señor presidente, me permito informar que de un total de 147 asambleístas presentes  contamos con 83 votos afirmativos, 61 negativos, 0 blancos, 3 abstenciones.  Por tanto, la moción presentada por la asambleísta Valentina Centeno ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6269,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "8V_92hv8e0o",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 25,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Valentina Centeno - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=8V_92hv8e0o",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8V_92hv8e0o",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8V_92hv8e0o",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 125.4,
+      "interventions": 3,
+      "word_count": 288
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 3.92,
+      "interventions": 2,
+      "word_count": 10
+    }
+  ]
+}

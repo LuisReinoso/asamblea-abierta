@@ -1,0 +1,142 @@
+{
+  "text": "Muchas gracias, señor presidente, por concederme el uso de la palabra,  colegas legisladores, del pueblo catoriano y de manera especial a mi provincia de Zamora-Chinchipe.  Hago extensivo un fraterno saludo. La ley que propone una educa para transformar más educación en empleo.  La ley que propone una educa para transformar más educación en empleo. Gracias. nos lleva a regular  y procurar  que es  el beneficio de los talentos. No se encuentran con gran esfuerzo ni anhelan ningún título universitario, porque muchas de las veces se encuentran con una realidad. Gracias, tío. no diálogo con trabajo, trabajo no llega a sus hogares.  Esta ley justamente corrige esta desconexión histórica  y lo hace desde una visión estratégica y responsable,  vinculando al sector productivo con la educación,  fortaleciendo la formación técnica y tecnológica,  impulsando la modalidad dual y priorizando el empleo juvenil,  principalmente en los sectores rurales para promover la reactivación económica.  ¿Pero qué significa esto en términos concretos para el territorio?  Significa jóvenes formándose en carreras pertinentes,  vinculadas a la agroindustria sostenible, a la bioeconomía,  al turismo comunitario, a las energías limpias, entre otras.  Significa una educación dual que conecte el aula con el trabajo.  Significa menos informalidad y más trabajo digno, especialmente en las zonas rurales.  Desde la Amazonía decimos con firmeza,  queremos una educación, pero queremos quedarnos en nuestra tierra.  Queremos una reactivación económica, pero que se sienta en el campo,  en las comunidades y en los emprendimientos locales.  Que se reconozca las particularidades de la ruralidad,  de las economías populares y sobre todo de la región amazónica.  Este proyecto de ley propone algo profundamente justo,  conectar la educación con la economía real,  uniendo el aula con el territorio y la formación con la producción.  Compañeros y compañeras legisladoras y legisladores,  reactivar la economía no es solamente atraer la inversión,  es preparar a nuestros talentos para el futuro,  pero que sea con pertinencia territorial.  Por eso, esta ley es complementaria y estratégica,  porque fortalece la educación técnica, tecnológica y dual,  impulsando el empleo juvenil, sobre todo en las zonas rurales.  Y reconoce que no todos los territorios son iguales  y que la Amazonía necesita políticas públicas diferenciadas,  no recetas copiadas de las grandes ciudades.  Señoras y señores asambleístas, esta ley no improvisa nuevas,  ni tampoco genera nuevas cargas fiscales,  optimiza los recursos, articula al sector productivo con la educación  y apuesta a una formación con propósito.  Esta es una ley que mira a la juventud como la mayor riqueza que tiene nuestro país.  Esta ley también fortalece la visión con la que hemos estado trabajando  desde Zamora Chinchipe, la creación de las universidades amazónicas  vinculadas al territorio, con carreras alineadas a la producción local  y a las oportunidades reales para que nuestros jóvenes construyan su futuro  sin tener que emigrar ni abandonar su tierra.  Porque creemos en un Ecuador donde estudiar sirva para trabajar,  donde trabajar permita quedarnos en nuestra tierra  y donde el desarrollo llegue con dignidad a las regiones,  sobre todo históricamente olvidadas.  Hoy votamos por una política pública que une a la formación con la producción,  que conecta a la juventud con el desarrollo  y que dignifica el trabajo fortaleciendo la economía.  Mi voto será a favor porque creo en un Ecuador donde estudiar  significa progresar, donde progresar significa quedarse en nuestro territorio  y donde el desarrollo llegue con equidad a cada rincón de nuestro país.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 327.49,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 5.7,
+      "end": 16.92,
+      "text": "Muchas gracias, señor presidente, por concederme el uso de la palabra,  colegas legisladores, del pueblo catoriano y de manera especial a mi provincia de Zamora-Chinchipe.  Hago extensivo un fraterno saludo.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 17.9,
+      "end": 49.85,
+      "text": "La ley que propone una educa para transformar más educación en empleo.  La ley que propone una educa para transformar más educación en empleo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 51.53,
+      "end": 52.48,
+      "text": "Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 54.77,
+      "end": 67.51,
+      "text": "nos lleva a regular  y procurar  que es  el beneficio de los talentos.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 67.51,
+      "end": 78.18,
+      "text": "No se encuentran con gran esfuerzo ni anhelan ningún título universitario, porque muchas de las veces se encuentran con una realidad.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 78.18,
+      "end": 78.77,
+      "text": "Gracias, tío.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 78.77,
+      "end": 325.89,
+      "text": "no diálogo con trabajo, trabajo no llega a sus hogares.  Esta ley justamente corrige esta desconexión histórica  y lo hace desde una visión estratégica y responsable,  vinculando al sector productivo con la educación,  fortaleciendo la formación técnica y tecnológica,  impulsando la modalidad dual y priorizando el empleo juvenil,  principalmente en los sectores rurales para promover la reactivación económica.  ¿Pero qué significa esto en términos concretos para el territorio?  Significa jóvenes formándose en carreras pertinentes,  vinculadas a la agroindustria sostenible, a la bioeconomía,  al turismo comunitario, a las energías limpias, entre otras.  Significa una educación dual que conecte el aula con el trabajo.  Significa menos informalidad y más trabajo digno, especialmente en las zonas rurales.  Desde la Amazonía decimos con firmeza,  queremos una educación, pero queremos quedarnos en nuestra tierra.  Queremos una reactivación económica, pero que se sienta en el campo,  en las comunidades y en los emprendimientos locales.  Que se reconozca las particularidades de la ruralidad,  de las economías populares y sobre todo de la región amazónica.  Este proyecto de ley propone algo profundamente justo,  conectar la educación con la economía real,  uniendo el aula con el territorio y la formación con la producción.  Compañeros y compañeras legisladoras y legisladores,  reactivar la economía no es solamente atraer la inversión,  es preparar a nuestros talentos para el futuro,  pero que sea con pertinencia territorial.  Por eso, esta ley es complementaria y estratégica,  porque fortalece la educación técnica, tecnológica y dual,  impulsando el empleo juvenil, sobre todo en las zonas rurales.  Y reconoce que no todos los territorios son iguales  y que la Amazonía necesita políticas públicas diferenciadas,  no recetas copiadas de las grandes ciudades.  Señoras y señores asambleístas, esta ley no improvisa nuevas,  ni tampoco genera nuevas cargas fiscales,  optimiza los recursos, articula al sector productivo con la educación  y apuesta a una formación con propósito.  Esta es una ley que mira a la juventud como la mayor riqueza que tiene nuestro país.  Esta ley también fortalece la visión con la que hemos estado trabajando  desde Zamora Chinchipe, la creación de las universidades amazónicas  vinculadas al territorio, con carreras alineadas a la producción local  y a las oportunidades reales para que nuestros jóvenes construyan su futuro  sin tener que emigrar ni abandonar su tierra.  Porque creemos en un Ecuador donde estudiar sirva para trabajar,  donde trabajar permita quedarnos en nuestra tierra  y donde el desarrollo llegue con dignidad a las regiones,  sobre todo históricamente olvidadas.  Hoy votamos por una política pública que une a la formación con la producción,  que conecta a la juventud con el desarrollo  y que dignifica el trabajo fortaleciendo la economía.  Mi voto será a favor porque creo en un Ecuador donde estudiar  significa progresar, donde progresar significa quedarse en nuestro territorio  y donde el desarrollo llegue con equidad a cada rincón de nuestro país.  Muchísimas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "del Cisne Rogel Esperanza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "8_7LWdEmsUY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 16,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "del Cisne Rogel Esperanza",
+      "confidence": 1.0,
+      "votes": {
+        "del Cisne Rogel Esperanza": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Esperanza Rogel - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=8_7LWdEmsUY",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8_7LWdEmsUY",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8_7LWdEmsUY",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "del Cisne Rogel Esperanza",
+      "party": null,
+      "province": null,
+      "total_time": 269.96,
+      "interventions": 4,
+      "word_count": 522
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 45.28,
+      "interventions": 3,
+      "word_count": 39
+    }
+  ]
+}

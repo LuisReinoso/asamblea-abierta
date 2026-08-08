@@ -1,0 +1,51 @@
+{
+  "text": "Señor Presidente, aquí lamentablemente no hacen ni dejan hacer,  lamentablemente parece que no tienen un conocimiento de lo que necesitan  y piden los jóvenes en territorio.  Los jóvenes necesitan empleo y necesitan poder tener experiencia adquirida  desde que estudian.  El mismo artículo que leyó el asambleísta, el artículo 11 de la ley establece  en el último párrafo que está prohibido para las empresas asignación de tareas  o actividades ajenas a la formación académica del estudiante.  Está terminantemente prohibido no solo por ley, sino que además en cada uno  de los convenios que se firmen con las empresas, que esto se trate de una formación laboral.  Esto es una formación neta, una relación netamente de aprendizaje  y es una alternativa para miles de jóvenes que se gradúan y cuando buscan  su primer empleo, lo primero que les dicen es, no tiene experiencia laboral.  Y si pueden hacer una formación en la práctica, desde que están en primero,  segundo semestre, ¿por qué negarles ese contacto con la empresa?  ¿Por qué negarles ese contacto con la vida real, con la industria,  con los sectores, con los servicios, con el campo?  Esa es una oportunidad inmensa que le estamos dando a los miles de jóvenes  que además está centrado en educación pública, en fortalecer la educación pública,  sobre todo en institutos técnicos y tecnológicos.  Un tema importante, aumentamos la gratuidad.  Además, la segunda matrícula sigue siendo gratuita.  Los jóvenes que busquen y opten por estudiar una carrera técnica y luego quieran mudarse  a una carrera universitaria, van a poder hacerlo con plena gratuidad.  Es otro de los incentivos que plantea la ley.  Ha quedado claro que no se trata de precarización laboral,  se trata de una oportunidad para implementar un modelo adecuado  a las necesidades del Ecuador, en la que los jóvenes puedan estudiar  y aprender haciendo, tener experiencia desde que estudian,  tener una formación en el aula y en el campo,  y esto ha funcionado aquí en Latinoamérica y en todo el mundo.  Así que, señor presidente, con esta aclaración solicito que emociono  que se apruebe el contenido íntegro de la ley de educación técnica  y formación dual. Muchas gracias.",
+  "language": "es",
+  "duration": 146.22,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.01,
+      "end": 145.49,
+      "text": "Señor Presidente, aquí lamentablemente no hacen ni dejan hacer,  lamentablemente parece que no tienen un conocimiento de lo que necesitan  y piden los jóvenes en territorio.  Los jóvenes necesitan empleo y necesitan poder tener experiencia adquirida  desde que estudian.  El mismo artículo que leyó el asambleísta, el artículo 11 de la ley establece  en el último párrafo que está prohibido para las empresas asignación de tareas  o actividades ajenas a la formación académica del estudiante.  Está terminantemente prohibido no solo por ley, sino que además en cada uno  de los convenios que se firmen con las empresas, que esto se trate de una formación laboral.  Esto es una formación neta, una relación netamente de aprendizaje  y es una alternativa para miles de jóvenes que se gradúan y cuando buscan  su primer empleo, lo primero que les dicen es, no tiene experiencia laboral.  Y si pueden hacer una formación en la práctica, desde que están en primero,  segundo semestre, ¿por qué negarles ese contacto con la empresa?  ¿Por qué negarles ese contacto con la vida real, con la industria,  con los sectores, con los servicios, con el campo?  Esa es una oportunidad inmensa que le estamos dando a los miles de jóvenes  que además está centrado en educación pública, en fortalecer la educación pública,  sobre todo en institutos técnicos y tecnológicos.  Un tema importante, aumentamos la gratuidad.  Además, la segunda matrícula sigue siendo gratuita.  Los jóvenes que busquen y opten por estudiar una carrera técnica y luego quieran mudarse  a una carrera universitaria, van a poder hacerlo con plena gratuidad.  Es otro de los incentivos que plantea la ley.  Ha quedado claro que no se trata de precarización laboral,  se trata de una oportunidad para implementar un modelo adecuado  a las necesidades del Ecuador, en la que los jóvenes puedan estudiar  y aprender haciendo, tener experiencia desde que estudian,  tener una formación en el aula y en el campo,  y esto ha funcionado aquí en Latinoamérica y en todo el mundo.  Así que, señor presidente, con esta aclaración solicito que emociono  que se apruebe el contenido íntegro de la ley de educación técnica  y formación dual. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Valentina Centeno Arteaga",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "OvzK251yVVM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Valentina Centeno Arteaga",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Valentina Centeno - Sesión 067 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=OvzK251yVVM",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "OvzK251yVVM",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=OvzK251yVVM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Valentina Centeno Arteaga",
+      "party": null,
+      "province": null,
+      "total_time": 144.48,
+      "interventions": 1,
+      "word_count": 357
+    }
+  ]
+}

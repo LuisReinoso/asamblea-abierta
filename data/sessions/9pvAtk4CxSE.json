@@ -1,0 +1,53 @@
+{
+  "text": "Señor presidente, colegas asambleístas, en este segundo debate esperábamos encontrar un informe  que corrija los vacíos señalados en el primer debate, que se escuche a la academia y sobre todo  a los jóvenes que serán los directamente afectados por esta ley. Sin embargo, el texto mantiene el  mismo problema de fondo. Presenta como política de empleo lo que en realidad puede convertirse  en un esquema de precarización laboral juvenil. La revolución ciudadana ha sido clara en sus  principios y hoy los reafirmamos. Trabajo digno y con derechos. Educación pública de calidad,  no mercantilizada y juventud como sujeto de derechos, no como mano de obra barata. Y precisamente  desde esos principios debemos evaluar esta propuesta. Reconozco, como dije en el primer  debate, el valor de la formación dual, pero su éxito ha dependido de algo esencial. La formación  ha sido guiada por la academia, con objetivos pedagógicos claro y bajo el respeto de los  derechos de los estudiantes. El problema de este proyecto no es la formación dual. El  problema es el modelo que se intenta imponer, donde los jóvenes podrán desarrollar actividades  productivas reales en empresas privadas sin relación laboral, sin remuneración obligatoria  y sin seguridad social. Esa no es una política de empleabilidad. Es una política que abarata  costos laborales a costa del futuro de nuestra juventud. Además, el informe mantiene disposiciones  que trasladan responsabilidades de financiamiento y operación a los gobiernos autónomos descentralizados  sin garantizar los recursos correspondientes, generando obligaciones sin presupuesto. Les  recuerdo que hace una semana la bancada de ADN y aliados aprobaron una ley que disminuye  recursos a los GATS y pretende darles más responsabilidades ahora. Las políticas públicas  no pueden construirse sobre buenas intenciones sin financiamiento real. También persiste la  delegación de temas fundamentales a reglamentos y normas secundarias, dejando aspectos esenciales  sujetos a interpretaciones administrativas. Cuando las garantías educativas no están  claras en la ley, quienes terminan pagando las consecuencias son los estudiantes y las  instituciones. Compañeras y compañeros asambleístas, el Ecuador necesita fortalecer la educación  técnica y tecnológica. Necesita mayor articulación con el sector productivo, pero lo que no necesita  es convertir la necesidad de empleo de los jóvenes en una oportunidad para debilitar derechos  laborales. No podemos construir competitividad sobre la precariedad. La verdadera reactivación  económica se logra con empleo digno, innovación productiva y educación pública fortalecida,  no con mecanismos que permiten trabajo sin derechos en el nombre de la formación. Por  responsabilidad con la juventud ecuatoriana, por coherencia con la defensa del trabajo digno  y por fidelidad a los principios que siempre hemos defendido, anuncio mi voto en contra  de este proyecto de ley y que quede claro que no me opongo a la formación dual. Me opongo  a que se abandere esta modalidad educativa como estrategia para garantizar mano de obra  juvenil gratuita. Hasta aquí mi intervención, señor presidente. Muchas gracias.",
+  "language": "es",
+  "duration": 197.11,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 15.4,
+      "end": 196.27,
+      "text": "Señor presidente, colegas asambleístas, en este segundo debate esperábamos encontrar un informe  que corrija los vacíos señalados en el primer debate, que se escuche a la academia y sobre todo  a los jóvenes que serán los directamente afectados por esta ley. Sin embargo, el texto mantiene el  mismo problema de fondo. Presenta como política de empleo lo que en realidad puede convertirse  en un esquema de precarización laboral juvenil. La revolución ciudadana ha sido clara en sus  principios y hoy los reafirmamos. Trabajo digno y con derechos. Educación pública de calidad,  no mercantilizada y juventud como sujeto de derechos, no como mano de obra barata. Y precisamente  desde esos principios debemos evaluar esta propuesta. Reconozco, como dije en el primer  debate, el valor de la formación dual, pero su éxito ha dependido de algo esencial. La formación  ha sido guiada por la academia, con objetivos pedagógicos claro y bajo el respeto de los  derechos de los estudiantes. El problema de este proyecto no es la formación dual. El  problema es el modelo que se intenta imponer, donde los jóvenes podrán desarrollar actividades  productivas reales en empresas privadas sin relación laboral, sin remuneración obligatoria  y sin seguridad social. Esa no es una política de empleabilidad. Es una política que abarata  costos laborales a costa del futuro de nuestra juventud. Además, el informe mantiene disposiciones  que trasladan responsabilidades de financiamiento y operación a los gobiernos autónomos descentralizados  sin garantizar los recursos correspondientes, generando obligaciones sin presupuesto. Les  recuerdo que hace una semana la bancada de ADN y aliados aprobaron una ley que disminuye  recursos a los GATS y pretende darles más responsabilidades ahora. Las políticas públicas  no pueden construirse sobre buenas intenciones sin financiamiento real. También persiste la  delegación de temas fundamentales a reglamentos y normas secundarias, dejando aspectos esenciales  sujetos a interpretaciones administrativas. Cuando las garantías educativas no están  claras en la ley, quienes terminan pagando las consecuencias son los estudiantes y las  instituciones. Compañeras y compañeros asambleístas, el Ecuador necesita fortalecer la educación  técnica y tecnológica. Necesita mayor articulación con el sector productivo, pero lo que no necesita  es convertir la necesidad de empleo de los jóvenes en una oportunidad para debilitar derechos  laborales. No podemos construir competitividad sobre la precariedad. La verdadera reactivación  económica se logra con empleo digno, innovación productiva y educación pública fortalecida,  no con mecanismos que permiten trabajo sin derechos en el nombre de la formación. Por  responsabilidad con la juventud ecuatoriana, por coherencia con la defensa del trabajo digno  y por fidelidad a los principios que siempre hemos defendido, anuncio mi voto en contra  de este proyecto de ley y que quede claro que no me opongo a la formación dual. Me opongo  a que se abandere esta modalidad educativa como estrategia para garantizar mano de obra  juvenil gratuita. Hasta aquí mi intervención, señor presidente. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fernanda Mabel Méndez Rojas",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "9pvAtk4CxSE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Fernanda Mabel Méndez Rojas",
+      "confidence": 0.75,
+      "votes": {
+        "Fernanda Mabel Méndez Rojas": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Mabel Méndez - Sesión 067",
+  "url": "https://www.youtube.com/watch?v=9pvAtk4CxSE",
+  "published_at": "2026-02-25T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "9pvAtk4CxSE",
+  "date": "2026-02-25T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=9pvAtk4CxSE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Fernanda Mabel Méndez Rojas",
+      "party": null,
+      "province": null,
+      "total_time": 180.87,
+      "interventions": 1,
+      "word_count": 472
+    }
+  ]
+}
