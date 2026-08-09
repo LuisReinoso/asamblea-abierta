@@ -1,0 +1,53 @@
+{
+  "text": "está Milton Aguas. Muchas  gracias, señor presidente.  Primero, para puntualizar al  colega legislador que me  precedió la palabra, no estoy  en Galapagos, estoy en un  hospital de la República del  Ecuador, lamentablemente,  pasando por una calamidad  personal. Segundo, si no  conoce el procedimiento  parlamentario para presentar  un juicio político, que es  algo esencial presentar la  firma, peor aún, debatir el  derecho constitucional o el  derecho y o la ley que estamos  en este momento trabajándola. Es  lamentable que un legislador no  conozca los territorios, ni lo  que es un régimen especial, ni  lo que es comunidades  ancestrales. Se redunda en lo  que dice él mismo, que hay una  legislación para el registro de  las propiedades, y también hay  establecimientos procedimentales en  las culturas ancestrales de los  pueblos indígenas. Yo sí conozco al  pueblo indígena, mis grandes  amigos con quienes he compartido  toda la vida.  Dando esta aclaración, señor  presidente de la Asamblea  Nacional, colegas legisladores, he  presentado una moción para  ratificar el proyecto de ley  reformatoria, la ley de registro  objetado totalmente por el señor  presidente de la República del  Ecuador, mediante oficio T  tres nueve nueve SJ veinticuatro  cero cuatrocientos uno de fecha  veinticuatro de octubre de dos mil  veinticuatro, conforme los artículos  sesenta y cuatro y ciento treinta y  cinco de la ley orgánica de la  función legislativa, señor  presidente, pongo a su consideración  la moción para la votación de así  considerarlo pertinente. Un fuerte  abrazo a todos los colegas  legisladores y al pueblo  ecuatoriano. Muchas gracias.",
+  "language": "es",
+  "duration": 132.01,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 130.19,
+      "text": "está Milton Aguas. Muchas  gracias, señor presidente.  Primero, para puntualizar al  colega legislador que me  precedió la palabra, no estoy  en Galapagos, estoy en un  hospital de la República del  Ecuador, lamentablemente,  pasando por una calamidad  personal. Segundo, si no  conoce el procedimiento  parlamentario para presentar  un juicio político, que es  algo esencial presentar la  firma, peor aún, debatir el  derecho constitucional o el  derecho y o la ley que estamos  en este momento trabajándola. Es  lamentable que un legislador no  conozca los territorios, ni lo  que es un régimen especial, ni  lo que es comunidades  ancestrales. Se redunda en lo  que dice él mismo, que hay una  legislación para el registro de  las propiedades, y también hay  establecimientos procedimentales en  las culturas ancestrales de los  pueblos indígenas. Yo sí conozco al  pueblo indígena, mis grandes  amigos con quienes he compartido  toda la vida.  Dando esta aclaración, señor  presidente de la Asamblea  Nacional, colegas legisladores, he  presentado una moción para  ratificar el proyecto de ley  reformatoria, la ley de registro  objetado totalmente por el señor  presidente de la República del  Ecuador, mediante oficio T  tres nueve nueve SJ veinticuatro  cero cuatrocientos uno de fecha  veinticuatro de octubre de dos mil  veinticuatro, conforme los artículos  sesenta y cuatro y ciento treinta y  cinco de la ley orgánica de la  función legislativa, señor  presidente, pongo a su consideración  la moción para la votación de así  considerarlo pertinente. Un fuerte  abrazo a todos los colegas  legisladores y al pueblo  ecuatoriano. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Milton Javier Aguas Flores",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "lexMdNbvPDg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Milton Javier Aguas Flores",
+      "confidence": 1.0,
+      "votes": {
+        "Milton Javier Aguas Flores": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Milton Aguas - Sesión 065 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=lexMdNbvPDg",
+  "published_at": "2026-01-27T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "lexMdNbvPDg",
+  "date": "2026-01-27T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=lexMdNbvPDg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Milton Javier Aguas Flores",
+      "party": null,
+      "province": null,
+      "total_time": 130.16,
+      "interventions": 1,
+      "word_count": 249
+    }
+  ]
+}

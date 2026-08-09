@@ -1,0 +1,50 @@
+{
+  "text": "juan josé reyes señora presidenta buenas tardes colegas asambleístas buenas tardes y  un saludo cordial a toda la ciudadanía que nos ve a través de las redes oficiales de  la asamblea nacional en conformidad con los artículos 137 y 138 de la constitución de la  república del ecuador el presidente de la república nuestro presidente el presidente  constitucional elegido por el pueblo ecuatoriano no es suyo mío de todos del país notificó a la  asamblea nacional con la objeción total del proyecto de la ley orgánica de fomento apoyo y protección a  la lactancia materna mediante el oficio número de 0430-sgj-24-0456 del  4 de diciembre del 2024 el proyecto de la ley aprobado en su momento desafortunadamente  adolecía de varias falencias técnicas como lo hizo notar el ejecutivo en su objeción la lactancia  materna es un tema que amerita ser legislado con rigor y con coherencia normativa la moción que  presentó en esta sesión está orientada a dicha objeción total ha sido debidamente ingresada por dts a  la secretaría general conforme a lo dispuesto en el artículo 64 de la ley orgánica de la función  legislativa la cual señala que una vez transcurrido el plazo de un año desde la objeción total a la  asamblea nacional podrá volver a considerar el proyecto y de ser el caso ratificarlo en un solo  debate con el voto favorable con la mayoría calificada de sus miembros por ello al haberse  cumplido el plazo establecido en la norma es deber de este pleno actuar conforme el marco jurídico  vigente solicito por favor señora presidenta que a través de secretaría se de lectura con la moción  presentada se cierra el debate señor secretario",
+  "language": "es",
+  "duration": 142.92,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 142.96,
+      "text": "juan josé reyes señora presidenta buenas tardes colegas asambleístas buenas tardes y  un saludo cordial a toda la ciudadanía que nos ve a través de las redes oficiales de  la asamblea nacional en conformidad con los artículos 137 y 138 de la constitución de la  república del ecuador el presidente de la república nuestro presidente el presidente  constitucional elegido por el pueblo ecuatoriano no es suyo mío de todos del país notificó a la  asamblea nacional con la objeción total del proyecto de la ley orgánica de fomento apoyo y protección a  la lactancia materna mediante el oficio número de 0430-sgj-24-0456 del  4 de diciembre del 2024 el proyecto de la ley aprobado en su momento desafortunadamente  adolecía de varias falencias técnicas como lo hizo notar el ejecutivo en su objeción la lactancia  materna es un tema que amerita ser legislado con rigor y con coherencia normativa la moción que  presentó en esta sesión está orientada a dicha objeción total ha sido debidamente ingresada por dts a  la secretaría general conforme a lo dispuesto en el artículo 64 de la ley orgánica de la función  legislativa la cual señala que una vez transcurrido el plazo de un año desde la objeción total a la  asamblea nacional podrá volver a considerar el proyecto y de ser el caso ratificarlo en un solo  debate con el voto favorable con la mayoría calificada de sus miembros por ello al haberse  cumplido el plazo establecido en la norma es deber de este pleno actuar conforme el marco jurídico  vigente solicito por favor señora presidenta que a través de secretaría se de lectura con la moción  presentada se cierra el debate señor secretario",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "GH99PzVVRBc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan José Reyes Baquerizo",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan José Reyes - Session 066",
+  "url": "https://www.youtube.com/watch?v=GH99PzVVRBc",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "GH99PzVVRBc",
+  "source_url": "https://www.youtube.com/watch?v=GH99PzVVRBc",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 142.93,
+      "interventions": 1,
+      "word_count": 278
+    }
+  ]
+}

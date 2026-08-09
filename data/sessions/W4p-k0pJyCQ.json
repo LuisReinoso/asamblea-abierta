@@ -1,0 +1,51 @@
+{
+  "text": "Vargas. Buenas tardes. Tranquila Ana María Rafa, tranquila que voy a hablar yo. A ver,  querida Ani, te digo, hay que ser claro en lo que estoy diciendo. No estoy en contra  de la política del Presidente de la República, porque fue la persona que dio 10 millones  de 700 mil dólares para que se pueda comprar el arroz a los agricultores, pero  lamentablemente los ministros de Agricultura no acatan lo que dice el  Presidente de la República. Yo le invito, míreme a los ojos y no evade, que convoque  a Daule, que yo le convoco, porque usted es una de mis mayores fans que mira  en mis estados, en mis redes sociales. Le convoco en cualquier distrito de Guayas,  porque la derrotaré con la gente, porque la gente sabe muy bien quién es Carlos Vargas,  apoyando al agricultor, porque jamás en mi vida me ha huevado a nada ni a nadie  por defender el sector agropecuario. Muchas gracias.",
+  "language": "es",
+  "duration": 78.55,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 77.69,
+      "text": "Vargas. Buenas tardes. Tranquila Ana María Rafa, tranquila que voy a hablar yo. A ver,  querida Ani, te digo, hay que ser claro en lo que estoy diciendo. No estoy en contra  de la política del Presidente de la República, porque fue la persona que dio 10 millones  de 700 mil dólares para que se pueda comprar el arroz a los agricultores, pero  lamentablemente los ministros de Agricultura no acatan lo que dice el  Presidente de la República. Yo le invito, míreme a los ojos y no evade, que convoque  a Daule, que yo le convoco, porque usted es una de mis mayores fans que mira  en mis estados, en mis redes sociales. Le convoco en cualquier distrito de Guayas,  porque la derrotaré con la gente, porque la gente sabe muy bien quién es Carlos Vargas,  apoyando al agricultor, porque jamás en mi vida me ha huevado a nada ni a nadie  por defender el sector agropecuario. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carlos Enrique Vargas Quijano",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "W4p-k0pJyCQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Carlos Enrique Vargas Quijano",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Carlos Vargas - Sesión 064 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=W4p-k0pJyCQ",
+  "published_at": "2026-01-28T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "W4p-k0pJyCQ",
+  "date": "2026-01-28T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=W4p-k0pJyCQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Carlos Enrique Vargas Quijano",
+      "party": null,
+      "province": null,
+      "total_time": 77.66,
+      "interventions": 1,
+      "word_count": 159
+    }
+  ]
+}

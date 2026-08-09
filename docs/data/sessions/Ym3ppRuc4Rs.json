@@ -1,0 +1,51 @@
+{
+  "text": "Réplica la asambleísta Yanina Rizzo.  Buenas tardes, señor presidente, señora vicepresidenta, compañeros legisladores,  país Ecuador y principalmente mi ciudad de Guayaquil, provincia del Guayas.  Asimismo, un saludo muy cariñoso a mi querida provincia de Los Ríos,  porque yo no soy guayaca, soy una montuvia, una mujer que ha trabajado 35 años para este país  en la parte privada y a mucha honra estoy de presidenta en esta comisión.  No soy política, no vengo aquí para hacer show, vengo para legislar por mi país.  Disculpenme, señor presidente, que la construcción de este proyecto se ha hecho desde territorio,  cosa que ustedes no van.  Los invité el día viernes a la ciudad de Machala y ninguno de ustedes estuvieron acompañándome.  Nuestros legisladores de ADN, escuchando a nuestros agricultores,  desde territorio escuchando a muchos representantes de los distritos del gremio productivo.  Además, como presidente de la Comisión de Soberanía Alimentaria,  he recibido a varios productores, tanto en territorio como en las instalaciones de esta digna asamblea.  Para su información, asambleísta Raffo, que no la he visto nunca en Guayas haciendo territorio,  de hecho, de los grupos que usted ha referido.  Se convocó al señor Luis García a una reunión para el 5 de septiembre del 2025  y no acudió.  Claro, ese día jugaba nuestra querida selección.  Se excusó de la reunión en territorio.  Además, el 15 de enero me he reunido en las oficinas de esta asamblea  con productores arroceros, y tengo videos si los necesita.  No desinforme, asambleísta Raffo.  Y ustedes, compañeros, mis queridos compañeros asambleístas de la RC,  ustedes saben cómo hemos trabajado esta ley.  La verdad que me causa mucha admiración lo del día de hoy.  Así que, desde esta comisión, continuamos trabajando con todos y todas  para construir este mejor Ecuador.  ¿Gústenles o no les gusten?  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 206.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 205.52,
+      "text": "Réplica la asambleísta Yanina Rizzo.  Buenas tardes, señor presidente, señora vicepresidenta, compañeros legisladores,  país Ecuador y principalmente mi ciudad de Guayaquil, provincia del Guayas.  Asimismo, un saludo muy cariñoso a mi querida provincia de Los Ríos,  porque yo no soy guayaca, soy una montuvia, una mujer que ha trabajado 35 años para este país  en la parte privada y a mucha honra estoy de presidenta en esta comisión.  No soy política, no vengo aquí para hacer show, vengo para legislar por mi país.  Disculpenme, señor presidente, que la construcción de este proyecto se ha hecho desde territorio,  cosa que ustedes no van.  Los invité el día viernes a la ciudad de Machala y ninguno de ustedes estuvieron acompañándome.  Nuestros legisladores de ADN, escuchando a nuestros agricultores,  desde territorio escuchando a muchos representantes de los distritos del gremio productivo.  Además, como presidente de la Comisión de Soberanía Alimentaria,  he recibido a varios productores, tanto en territorio como en las instalaciones de esta digna asamblea.  Para su información, asambleísta Raffo, que no la he visto nunca en Guayas haciendo territorio,  de hecho, de los grupos que usted ha referido.  Se convocó al señor Luis García a una reunión para el 5 de septiembre del 2025  y no acudió.  Claro, ese día jugaba nuestra querida selección.  Se excusó de la reunión en territorio.  Además, el 15 de enero me he reunido en las oficinas de esta asamblea  con productores arroceros, y tengo videos si los necesita.  No desinforme, asambleísta Raffo.  Y ustedes, compañeros, mis queridos compañeros asambleístas de la RC,  ustedes saben cómo hemos trabajado esta ley.  La verdad que me causa mucha admiración lo del día de hoy.  Así que, desde esta comisión, continuamos trabajando con todos y todas  para construir este mejor Ecuador.  ¿Gústenles o no les gusten?  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Janina Jadira Rizzo Alvear",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "Ym3ppRuc4Rs",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Janina Jadira Rizzo Alvear",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Janina Rizzo - Sesión 064",
+  "url": "https://www.youtube.com/watch?v=Ym3ppRuc4Rs",
+  "published_at": "2026-01-28T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Ym3ppRuc4Rs",
+  "date": "2026-01-28T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=Ym3ppRuc4Rs",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Janina Jadira Rizzo Alvear",
+      "party": null,
+      "province": null,
+      "total_time": 205.49,
+      "interventions": 1,
+      "word_count": 300
+    }
+  ]
+}
