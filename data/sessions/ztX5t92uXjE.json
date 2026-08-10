@@ -1,0 +1,53 @@
+{
+  "text": "Adrián Castro. Muchas gracias presidente, colegas asambleístas, entrando a este punto  del orden del día precisamente y luego de haber escuchado las intervenciones de los  representantes de los distintos órganos de control conforme establece el marco jurídico  que contempla el Consejo de Participación Ciudadana y Control Social y a las autoridades  que están dentro de su designación que han comparecido a este pleno, me permito elevar  la siguiente moción presidente para que se emita la resolución dentro de esta plenaria  número 63 en este punto del orden del día y que podamos dar cumplimiento a lo que establece  el artículo 47 de la Ley Orgánica de la Función Legislativa.  Y en tal virtud me permito recomendar y sugerir que en esta resolución se incorporen las siguientes  comisiones para analizar los informes anuales de labores de las siguientes funciones del  Estado, de la Función de Transparencia y Control Social, la Comisión de Gobiernos Autónomos  Descentralizados, Descentralización, Competencias y Organización del Territorio, Tribunal Contencioso  Electoral, Comisión de Transparencia, Participación Ciudadana y Control Social, Contraloría General  del Estado, Comisión de Régimen Económico y Tributario y su Regulación y Control, Consejo  Nacional Electoral, Comisión de Transparencia, Participación Ciudadana y Control Social, Fiscalía  General del Estado, Comisión de Soberanía, Integración y Seguridad Integral, Procuraduría  General del Estado, Comisión de Relaciones Internacionales y Movilidad Humana, Defensoría  Pública, Comisión de Relaciones Internacionales y Movilidad Humana, Consejo de la Judicatura,  Comisión de Justicia y Estructura del Estado. Esa moción, presidente, la he acompañado  con un modelo borrador de resolución para que usted pueda revisarlo con secretaría  y se pueda someter a votación. Hasta aquí mi palabra, señor presidente.",
+  "language": "es",
+  "duration": 107.86,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 106.46,
+      "text": "Adrián Castro. Muchas gracias presidente, colegas asambleístas, entrando a este punto  del orden del día precisamente y luego de haber escuchado las intervenciones de los  representantes de los distintos órganos de control conforme establece el marco jurídico  que contempla el Consejo de Participación Ciudadana y Control Social y a las autoridades  que están dentro de su designación que han comparecido a este pleno, me permito elevar  la siguiente moción presidente para que se emita la resolución dentro de esta plenaria  número 63 en este punto del orden del día y que podamos dar cumplimiento a lo que establece  el artículo 47 de la Ley Orgánica de la Función Legislativa.  Y en tal virtud me permito recomendar y sugerir que en esta resolución se incorporen las siguientes  comisiones para analizar los informes anuales de labores de las siguientes funciones del  Estado, de la Función de Transparencia y Control Social, la Comisión de Gobiernos Autónomos  Descentralizados, Descentralización, Competencias y Organización del Territorio, Tribunal Contencioso  Electoral, Comisión de Transparencia, Participación Ciudadana y Control Social, Contraloría General  del Estado, Comisión de Régimen Económico y Tributario y su Regulación y Control, Consejo  Nacional Electoral, Comisión de Transparencia, Participación Ciudadana y Control Social, Fiscalía  General del Estado, Comisión de Soberanía, Integración y Seguridad Integral, Procuraduría  General del Estado, Comisión de Relaciones Internacionales y Movilidad Humana, Defensoría  Pública, Comisión de Relaciones Internacionales y Movilidad Humana, Consejo de la Judicatura,  Comisión de Justicia y Estructura del Estado. Esa moción, presidente, la he acompañado  con un modelo borrador de resolución para que usted pueda revisarlo con secretaría  y se pueda someter a votación. Hasta aquí mi palabra, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Adrián Ernesto Castro Piedra",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "ztX5t92uXjE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Adrián Ernesto Castro Piedra",
+      "confidence": 1.0,
+      "votes": {
+        "Adrián Ernesto Castro Piedra": 2
+      },
+      "samples": 10,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Adrián Castro - Sesión 063 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=ztX5t92uXjE",
+  "published_at": "2026-01-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ztX5t92uXjE",
+  "date": "2026-01-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ztX5t92uXjE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Adrián Ernesto Castro Piedra",
+      "party": null,
+      "province": null,
+      "total_time": 106.43,
+      "interventions": 1,
+      "word_count": 270
+    }
+  ]
+}

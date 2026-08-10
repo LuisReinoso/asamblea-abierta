@@ -1,0 +1,52 @@
+{
+  "text": "Asambleístas, por favor, registrar su participación en las corules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre el registro, señor secretario.  Me permito informar, señor presidente, que contamos con 146 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por el asambleísta Blas Coluna.  Señoras y señores asambleístas, por favor, consignar su voto.  Proclame el resultado, señor secretario.  Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 146 asambleístas presentes,  contamos con 69 votos afirmativos, 73 negativos, 0 blancos, 4 abstenciones.  Por tanto, la solicitud de cambio de orden del día presentada por el asambleísta Blas Coluna no ha sido aprobada.",
+  "language": "es",
+  "duration": 208.91,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 208.37,
+      "text": "Asambleístas, por favor, registrar su participación en las corules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  Cierre el registro, señor secretario.  Me permito informar, señor presidente, que contamos con 146 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por el asambleísta Blas Coluna.  Señoras y señores asambleístas, por favor, consignar su voto.  Proclame el resultado, señor secretario.  Señor operador, presente los resultados.  Señor presidente, me permito informar que de un total de 146 asambleístas presentes,  contamos con 69 votos afirmativos, 73 negativos, 0 blancos, 4 abstenciones.  Por tanto, la solicitud de cambio de orden del día presentada por el asambleísta Blas Coluna no ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6184,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "2hgCo5dR0hg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Blasco Luna - Sesión 064",
+  "url": "https://www.youtube.com/watch?v=2hgCo5dR0hg",
+  "published_at": "2026-01-22T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "2hgCo5dR0hg",
+  "date": "2026-01-22T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=2hgCo5dR0hg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 208.34,
+      "interventions": 1,
+      "word_count": 121
+    }
+  ]
+}

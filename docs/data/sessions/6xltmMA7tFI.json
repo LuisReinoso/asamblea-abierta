@@ -1,0 +1,151 @@
+{
+  "text": "Palabra el asambleísta Blas Coluna. Saludar a la ciudadanía que está presente de la Asamblea Nacional.  Yo quiero iniciar pidiendo disculpas a los ecuatorianos a nombre de mi bancada  y de asambleístas que creo que queremos el bienestar del país.  No hay show, no la miseria humana, no la distracción.  Cada día el ecuatoriano común se levanta con incertidumbre de saber si volverá a su casa  porque lamentablemente en este país el crimen campea y hace lo que le venga en gana.  Y no hay gobierno, no hay Estado, lo digo con nombre y apellido.  Ojalá el señor Daniel Novoa venga en carnaval de vacaciones a Ecuador a ver si hace algo. acójase al punto del debate. Estoy en el punto, presidente. Estoy en el punto porque esto se trata de Estado.  Esta Asamblea Nacional hoy en día está tan desacreditada por temas como estos.  Presidente, acabamos de recibir un insulto del legislador Ordóñez hacia el bloque y usted no dijo nada.  Delincuente nos dijo Correa. Eso nos dijo. Y usted no dijo nada. Eso no es democracia. El asambleísta debe escuchar bien y eso no es lo que dijo el asambleísta Ordóñez. Le voy a enviar el audio para que vuelva a escuchar, le voy a enviar el audio, porque yo no miento.  Ocupamos estos espacios cuando no es nuestra competencia.  El tema de la fiscalización de los municipios pertenece a los consejos cantonales, por Dios.  Abran el cotaz, lean, revisen, por Dios, no le den más show y circo al pueblo ecuatoriano.  Nadie dice que estamos en contra de la fiscalización, al contrario, que se fiscalice.  Pero si encubren Progen, ¿qué espera de la Asamblea Nacional de este Ecuador, retiro?  Si parrean con los narcos en España y no dicen nada y ni siquiera ponen un cambio del orden del día, ¿qué espera el pueblo ecuatoriano?  Por Dios, tengamos un poco de decencia.  El pueblo espera de esta Asamblea Nacional resultados que permitan dar leyes para generar trabajo,  que permitan dar leyes para buscar emprendimiento.  Para mejorar la normativa que nos permita salir adelante como país entero.  Que fiscalicemos, por Dios.  Todos los días se escuchan nuevos casos y vínculos de corrupción.  Contratos dados a familiares de la vicepresidenta.  Por Dios, en el tema oleoducto.  Y ahí sí no decimos nada.  Eso sí nos compete fiscalizar.  Hagámoslo.  Un mensaje del alcalde de Quito.  Si tanto quieren la información, ¿qué le lleven aquí?  Él está dispuesto a venir a este pleno.  A explicarles con peras y maizanas cómo se llevó adelante el proceso.  Lo mismo dijo Aquiles y se hicieron para atrás.  Quiso venir acá a dar cuenta de los insultos y las majestas a las que ha caído esta Asamblea,  lamentablemente, no nos hace bien.  Demos al pueblo lo que quiere de esta Asamblea.  Unidad y trabajo conjunto para combatir las mafias que están enquistadas en las cúpulas y en las altas esferas.  En la puesta de atrás del barrio del ministro del interior, vivía uno de los más buscados.  Jugaba fútbol y no lo encontraban hasta que le fueron y lo acribillaron.  ¿Qué pasa, por Dios?  ¿Qué pasa?  Este Ecuador no necesita tanto show, necesita trabajo conjunto.  Y yo estoy seguro que sí existe un número de asambleístas que queremos de este trabajo conjunto.  Por eso, mi llamado presidente, dejemos de lado todas estas cosas que hacen tanto daño a la Asamblea Nacional  y pongámonos a trabajar pensando en la gente y no priorizando cosas que es únicamente mediático.  Fiscalicemos lo de fondo y le traslado nuevamente el mensaje a los legisladores,  ya que dice que quiere fiscalizar al alcalde, él está dispuesto a venir el jueves o la próxima semana ahí,  ponerse ahí y explicarles con peras y manzanas que no hay perjuicio para los quiteños,  que no hay perjuicio para los ecuatorianos.  Lo que tiene es voluntad de sacar a este país de adelante,  porque el Estado no ha hecho absolutamente nada en seguridad para Quito.  Le deben miles de dólares a los gobiernos autónomos descentralizados.  Y ahí sí miramos para otro lado, por Dios, más allá, no caigamos en tantas inmergüecerías.  A ratos nos da ganas de irnos de esto porque no estamos haciendo absolutamente nada para el país  y eso no puede seguir pasando.  Presidente y asambleístas, buenos días.",
+  "language": "es",
+  "duration": 305.5,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.04,
+      "text": "Palabra el asambleísta Blas Coluna.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 10.36,
+      "end": 58.89,
+      "text": "Saludar a la ciudadanía que está presente de la Asamblea Nacional.  Yo quiero iniciar pidiendo disculpas a los ecuatorianos a nombre de mi bancada  y de asambleístas que creo que queremos el bienestar del país.  No hay show, no la miseria humana, no la distracción.  Cada día el ecuatoriano común se levanta con incertidumbre de saber si volverá a su casa  porque lamentablemente en este país el crimen campea y hace lo que le venga en gana.  Y no hay gobierno, no hay Estado, lo digo con nombre y apellido.  Ojalá el señor Daniel Novoa venga en carnaval de vacaciones a Ecuador a ver si hace algo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 58.89,
+      "end": 61.19,
+      "text": "acójase al punto del debate.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 62.77,
+      "end": 91.19,
+      "text": "Estoy en el punto, presidente. Estoy en el punto porque esto se trata de Estado.  Esta Asamblea Nacional hoy en día está tan desacreditada por temas como estos.  Presidente, acabamos de recibir un insulto del legislador Ordóñez hacia el bloque y usted no dijo nada.  Delincuente nos dijo Correa. Eso nos dijo. Y usted no dijo nada. Eso no es democracia.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 91.19,
+      "end": 94.73,
+      "text": "El asambleísta debe escuchar bien y eso no es lo que dijo el asambleísta Ordóñez.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 5,
+      "start": 94.73,
+      "end": 304.36,
+      "text": "Le voy a enviar el audio para que vuelva a escuchar, le voy a enviar el audio, porque yo no miento.  Ocupamos estos espacios cuando no es nuestra competencia.  El tema de la fiscalización de los municipios pertenece a los consejos cantonales, por Dios.  Abran el cotaz, lean, revisen, por Dios, no le den más show y circo al pueblo ecuatoriano.  Nadie dice que estamos en contra de la fiscalización, al contrario, que se fiscalice.  Pero si encubren Progen, ¿qué espera de la Asamblea Nacional de este Ecuador, retiro?  Si parrean con los narcos en España y no dicen nada y ni siquiera ponen un cambio del orden del día, ¿qué espera el pueblo ecuatoriano?  Por Dios, tengamos un poco de decencia.  El pueblo espera de esta Asamblea Nacional resultados que permitan dar leyes para generar trabajo,  que permitan dar leyes para buscar emprendimiento.  Para mejorar la normativa que nos permita salir adelante como país entero.  Que fiscalicemos, por Dios.  Todos los días se escuchan nuevos casos y vínculos de corrupción.  Contratos dados a familiares de la vicepresidenta.  Por Dios, en el tema oleoducto.  Y ahí sí no decimos nada.  Eso sí nos compete fiscalizar.  Hagámoslo.  Un mensaje del alcalde de Quito.  Si tanto quieren la información, ¿qué le lleven aquí?  Él está dispuesto a venir a este pleno.  A explicarles con peras y maizanas cómo se llevó adelante el proceso.  Lo mismo dijo Aquiles y se hicieron para atrás.  Quiso venir acá a dar cuenta de los insultos y las majestas a las que ha caído esta Asamblea,  lamentablemente, no nos hace bien.  Demos al pueblo lo que quiere de esta Asamblea.  Unidad y trabajo conjunto para combatir las mafias que están enquistadas en las cúpulas y en las altas esferas.  En la puesta de atrás del barrio del ministro del interior, vivía uno de los más buscados.  Jugaba fútbol y no lo encontraban hasta que le fueron y lo acribillaron.  ¿Qué pasa, por Dios?  ¿Qué pasa?  Este Ecuador no necesita tanto show, necesita trabajo conjunto.  Y yo estoy seguro que sí existe un número de asambleístas que queremos de este trabajo conjunto.  Por eso, mi llamado presidente, dejemos de lado todas estas cosas que hacen tanto daño a la Asamblea Nacional  y pongámonos a trabajar pensando en la gente y no priorizando cosas que es únicamente mediático.  Fiscalicemos lo de fondo y le traslado nuevamente el mensaje a los legisladores,  ya que dice que quiere fiscalizar al alcalde, él está dispuesto a venir el jueves o la próxima semana ahí,  ponerse ahí y explicarles con peras y manzanas que no hay perjuicio para los quiteños,  que no hay perjuicio para los ecuatorianos.  Lo que tiene es voluntad de sacar a este país de adelante,  porque el Estado no ha hecho absolutamente nada en seguridad para Quito.  Le deben miles de dólares a los gobiernos autónomos descentralizados.  Y ahí sí miramos para otro lado, por Dios, más allá, no caigamos en tantas inmergüecerías.  A ratos nos da ganas de irnos de esto porque no estamos haciendo absolutamente nada para el país  y eso no puede seguir pasando.  Presidente y asambleístas, buenos días.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Blasco Remigio Luna Arévalo",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "6xltmMA7tFI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Blasco Remigio Luna Arévalo",
+      "confidence": 1.0,
+      "votes": {
+        "Blasco Remigio Luna Arévalo": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "Blasco Remigio Luna Arévalo",
+      "confidence": 1.0,
+      "votes": {
+        "Blasco Remigio Luna Arévalo": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": "db"
+    },
+    "speaker_2": {
+      "name": "Blasco Remigio Luna Arévalo",
+      "confidence": 1.0,
+      "votes": {
+        "Blasco Remigio Luna Arévalo": 2
+      },
+      "samples": 3,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Blasco Luna - Sesión 063",
+  "url": "https://www.youtube.com/watch?v=6xltmMA7tFI",
+  "published_at": "2026-01-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "6xltmMA7tFI",
+  "date": "2026-01-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=6xltmMA7tFI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Blasco Remigio Luna Arévalo",
+      "party": null,
+      "province": null,
+      "total_time": 286.58,
+      "interventions": 3,
+      "word_count": 691
+    },
+    {
+      "id": "speaker_2",
+      "name": "Blasco Remigio Luna Arévalo",
+      "party": null,
+      "province": null,
+      "total_time": 5.55,
+      "interventions": 2,
+      "word_count": 20
+    },
+    {
+      "id": "speaker_1",
+      "name": "Blasco Remigio Luna Arévalo",
+      "party": null,
+      "province": null,
+      "total_time": 2.3,
+      "interventions": 1,
+      "word_count": 5
+    }
+  ]
+}

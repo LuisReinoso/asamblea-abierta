@@ -1,0 +1,53 @@
+{
+  "text": "Punto de Información, la asambleísta Ana María Raffo.  Muchas gracias, señor presidente. Buenas tardes, señores legisladores.  El problema no son las leyes, presidente. El problema es quién te gobierna.  El campo, nuestros agricultores, nuestros ganaderos, nuestros pescadores,  las familias campesinas están en total abandono.  El proyecto de ley de desarrollo agropecuario no es ni neutral ni técnico.  Busca eliminar el precio de sustentación, dejando a los productores a la merced  de la oferta y demanda y sí exponerlos a la explotación de los intermediarios.  Y hasta ahora es algo que el gobierno, las intendencias, nadie hace nada.  Y digo que el problema no son de las leyes, sino de quién te gobierna,  porque no pasa nada.  Presidente, desde el 11 de agosto del 2025 estoy esperando que el Ministerio de Agricultura  me responda a pedidos de información.  No les importa la fiscalización, no les importa el campo.  ¿Para qué queremos leyes, letra en papel, si no hay un Ejecutivo responsable  que garantice no solo la producción, sino el bienestar de los agricultores,  de las familias campesinas?  Parece que se sienten muy protegidos, señor Presidente, los ministros del gobierno,  porque no les interesa.  Presidente, a usted le remití el mes pasado, le notifiqué esta falta de entrega  de información, exactamente el 19 de diciembre, porque parece que tanto al exministro Palacios  y al ministro Vega no les interesa el campo.  He pedido información sobre arroz, sobre maíz, sobre trigo, sobre las importaciones,  y hasta el día de hoy no pasa nada, Presidente.  Yo espero que respetando la ley orgánica y la Constitución, ustedes pasen ese proceso,  porque están violentando el artículo 75 de la ley orgánica de la función legislativa  y recordarle a los ministros que el artículo 78 habla de juicio político por incumplimiento.  Represento a la provincia de Guayas, señor Presidente, y el campo está abandonado.  No, nadie les presta atención.  Ahora, con la grandiosa idea del presidente Novoa de imponer aranceles al 30%,  ¿quiénes van a perder? Los arroceros.  ¿Quiénes están perdiendo con la importación de trigo? Los maiceros.  ¿Acaso al gobierno nacional no le interesa la producción nacional?  ¿Qué leyes queremos construir entonces?  Y a la presidenta de la Comisión de Sobrenía Alimentaria, desde agosto le vengo pidiendo  que reciba agricultores.  No reciba los que usted quiere, reciba a todos, porque se supone que esta es la casa de todos.  Arroceros, maiceros, quieren comparecer en la comisión, no que los reciba en su despacho,  quieren comparecer, porque quieren decirle al pueblo ecuatoriano la verdad.  Así que dejémonos de hipocresías, de qué sirven las leyes si su jefe no las cumple.  Gracias.",
+  "language": "es",
+  "duration": 221.38,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 219.19,
+      "text": "Punto de Información, la asambleísta Ana María Raffo.  Muchas gracias, señor presidente. Buenas tardes, señores legisladores.  El problema no son las leyes, presidente. El problema es quién te gobierna.  El campo, nuestros agricultores, nuestros ganaderos, nuestros pescadores,  las familias campesinas están en total abandono.  El proyecto de ley de desarrollo agropecuario no es ni neutral ni técnico.  Busca eliminar el precio de sustentación, dejando a los productores a la merced  de la oferta y demanda y sí exponerlos a la explotación de los intermediarios.  Y hasta ahora es algo que el gobierno, las intendencias, nadie hace nada.  Y digo que el problema no son de las leyes, sino de quién te gobierna,  porque no pasa nada.  Presidente, desde el 11 de agosto del 2025 estoy esperando que el Ministerio de Agricultura  me responda a pedidos de información.  No les importa la fiscalización, no les importa el campo.  ¿Para qué queremos leyes, letra en papel, si no hay un Ejecutivo responsable  que garantice no solo la producción, sino el bienestar de los agricultores,  de las familias campesinas?  Parece que se sienten muy protegidos, señor Presidente, los ministros del gobierno,  porque no les interesa.  Presidente, a usted le remití el mes pasado, le notifiqué esta falta de entrega  de información, exactamente el 19 de diciembre, porque parece que tanto al exministro Palacios  y al ministro Vega no les interesa el campo.  He pedido información sobre arroz, sobre maíz, sobre trigo, sobre las importaciones,  y hasta el día de hoy no pasa nada, Presidente.  Yo espero que respetando la ley orgánica y la Constitución, ustedes pasen ese proceso,  porque están violentando el artículo 75 de la ley orgánica de la función legislativa  y recordarle a los ministros que el artículo 78 habla de juicio político por incumplimiento.  Represento a la provincia de Guayas, señor Presidente, y el campo está abandonado.  No, nadie les presta atención.  Ahora, con la grandiosa idea del presidente Novoa de imponer aranceles al 30%,  ¿quiénes van a perder? Los arroceros.  ¿Quiénes están perdiendo con la importación de trigo? Los maiceros.  ¿Acaso al gobierno nacional no le interesa la producción nacional?  ¿Qué leyes queremos construir entonces?  Y a la presidenta de la Comisión de Sobrenía Alimentaria, desde agosto le vengo pidiendo  que reciba agricultores.  No reciba los que usted quiere, reciba a todos, porque se supone que esta es la casa de todos.  Arroceros, maiceros, quieren comparecer en la comisión, no que los reciba en su despacho,  quieren comparecer, porque quieren decirle al pueblo ecuatoriano la verdad.  Así que dejémonos de hipocresías, de qué sirven las leyes si su jefe no las cumple.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana María Raffo Guevara",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "BO8uY8GgUJI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana María Raffo Guevara",
+      "confidence": 1.0,
+      "votes": {
+        "Ana María Raffo Guevara": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Raffo - Sesión 064",
+  "url": "https://www.youtube.com/watch?v=BO8uY8GgUJI",
+  "published_at": "2026-01-28T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "BO8uY8GgUJI",
+  "date": "2026-01-28T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=BO8uY8GgUJI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana María Raffo Guevara",
+      "party": null,
+      "province": null,
+      "total_time": 219.16,
+      "interventions": 1,
+      "word_count": 434
+    }
+  ]
+}
