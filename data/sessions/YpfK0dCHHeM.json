@@ -1,0 +1,55 @@
+{
+  "text": "La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.",
+  "language": "es",
+  "duration": 249.82,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 248.74,
+      "text": "La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.  La asambleísta Camila Cueva.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila Anahi Cueva Tarco",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "YpfK0dCHHeM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Camila Anahi Cueva Tarco",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Del Pleno": 1,
+        "[OOV] Continuación Sesión N": 2,
+        "[OOV] Continuación Sesión": 6
+      },
+      "samples": 10,
+      "successful_reads": 9,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Camila Cueva - Sesión 058",
+  "url": "https://www.youtube.com/watch?v=YpfK0dCHHeM",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "YpfK0dCHHeM",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=YpfK0dCHHeM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila Anahi Cueva Tarco",
+      "party": null,
+      "province": null,
+      "total_time": 248.71,
+      "interventions": 1,
+      "word_count": 36
+    }
+  ]
+}

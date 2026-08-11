@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, presidente. Recuerdo en el año 99, cuando erupcionó el Tunguragua, el drama de los baneños, el drama de los tungurahuenses, el drama de todos aquellos ecuatorianos que vivían en baños, que amando a su tierra, muchos lo perdieron todo y la gran mayoría se resistía a salir.  De hecho, se atrincheraron en su momento en esa bella iglesia que tiene la ciudad de Baños y aguantaron, resistieron, reconstruyeron y avanzaron.  Y Baños ahora es uno de los polos turísticos más importantes del país con capacidad de recibir y ha recibido, de hecho, en algunos feriados casi 100 mil turistas internacionales y nacionales.  Tiene una infraestructura que va creciendo. Tengo que reconocer que han habido una serie de administraciones de gobierno y locales que han hecho un buen trabajo por Baños.  De hecho, varias inversiones sirven justamente para fomentar el turismo y queda por hacerse todavía una gran obra, muy costosa, por supuesto, pero necesaria, como la ampliación de la entrada a Baños desde Pelileo, que además es la puerta de llegada al oriente.  Y por eso, la declaratoria de Geoparque en el 2025, parte del esfuerzo local, y eso hay que reconocerlo, de autoridades locales que se pusieron sobre el hombro este difícil proceso que culminó exitosamente,  nos llena de orgullo a todos los tungurahuenses, a todos los ecuatorianos, porque este constituye ya el tercer Geoparque del Ecuador.  Cuando Colombia no tiene ninguno, cuando Perú tiene uno, cuando países tan grandes como Brasil tienen seis, o el líder de los geoparques a nivel mundial, China, tiene casi 47.  ¿Y por qué es esto importante?  Porque al ser un reconocimiento internacional, permite que fluyan recursos para la investigación, para una serie de proyectos turísticos y sobre todo sociales.  Y ahí es donde viene el gran reto, no sólo de las autoridades locales, sino también del gobierno nacional, de preservar esta declaratoria,  porque no es permanente, no es una declaratoria patrimonial que puede durar toda la vida.  Esta es una que tiene que ser evaluada durante o cada cuatro años, si se cumplen las condiciones.  Una de las condiciones más importantes es justamente que las comunidades indígenas que están en este geoparque de más de 2.300 kilómetros,  que comprende dos provincias, Chimborazo y Tungurahua, que comprende cinco cantones, cumpla con esa normativa y le permita, no sólo a la provincia, a las provincias y al país,  utilizar esta declaratoria para promover investigación, desarrollo turístico, desarrollo económico y, por supuesto, mejores oportunidades para todas.  Así que mi respaldo a esta resolución.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 177.17,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.04,
+      "end": 176.24,
+      "text": "Gracias, presidente. Recuerdo en el año 99, cuando erupcionó el Tunguragua, el drama de los baneños, el drama de los tungurahuenses, el drama de todos aquellos ecuatorianos que vivían en baños, que amando a su tierra, muchos lo perdieron todo y la gran mayoría se resistía a salir.  De hecho, se atrincheraron en su momento en esa bella iglesia que tiene la ciudad de Baños y aguantaron, resistieron, reconstruyeron y avanzaron.  Y Baños ahora es uno de los polos turísticos más importantes del país con capacidad de recibir y ha recibido, de hecho, en algunos feriados casi 100 mil turistas internacionales y nacionales.  Tiene una infraestructura que va creciendo. Tengo que reconocer que han habido una serie de administraciones de gobierno y locales que han hecho un buen trabajo por Baños.  De hecho, varias inversiones sirven justamente para fomentar el turismo y queda por hacerse todavía una gran obra, muy costosa, por supuesto, pero necesaria, como la ampliación de la entrada a Baños desde Pelileo, que además es la puerta de llegada al oriente.  Y por eso, la declaratoria de Geoparque en el 2025, parte del esfuerzo local, y eso hay que reconocerlo, de autoridades locales que se pusieron sobre el hombro este difícil proceso que culminó exitosamente,  nos llena de orgullo a todos los tungurahuenses, a todos los ecuatorianos, porque este constituye ya el tercer Geoparque del Ecuador.  Cuando Colombia no tiene ninguno, cuando Perú tiene uno, cuando países tan grandes como Brasil tienen seis, o el líder de los geoparques a nivel mundial, China, tiene casi 47.  ¿Y por qué es esto importante?  Porque al ser un reconocimiento internacional, permite que fluyan recursos para la investigación, para una serie de proyectos turísticos y sobre todo sociales.  Y ahí es donde viene el gran reto, no sólo de las autoridades locales, sino también del gobierno nacional, de preservar esta declaratoria,  porque no es permanente, no es una declaratoria patrimonial que puede durar toda la vida.  Esta es una que tiene que ser evaluada durante o cada cuatro años, si se cumplen las condiciones.  Una de las condiciones más importantes es justamente que las comunidades indígenas que están en este geoparque de más de 2.300 kilómetros,  que comprende dos provincias, Chimborazo y Tungurahua, que comprende cinco cantones, cumpla con esa normativa y le permita, no sólo a la provincia, a las provincias y al país,  utilizar esta declaratoria para promover investigación, desarrollo turístico, desarrollo económico y, por supuesto, mejores oportunidades para todas.  Así que mi respaldo a esta resolución.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luis Esteban Torres Cobo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "n-KnqSDj9JY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Luis Esteban Torres Cobo",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Continuación Sesión": 3
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Esteban Torres - Sesión 058",
+  "url": "https://www.youtube.com/watch?v=n-KnqSDj9JY",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "n-KnqSDj9JY",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=n-KnqSDj9JY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luis Esteban Torres Cobo",
+      "party": null,
+      "province": null,
+      "total_time": 174.2,
+      "interventions": 1,
+      "word_count": 422
+    }
+  ]
+}

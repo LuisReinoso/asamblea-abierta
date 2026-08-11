@@ -1,0 +1,171 @@
+{
+  "text": "la palabra, la asambleísta Inés Alarcón. Gracias, señor presidente.  Pedido el uso de la palabra, porque no les voy a permitir que se atrevan a insinuar o  a decir que el presidente de la República no ha tenido una lucha frontal contra el narcotráfico  y la delincuencia de este país.  Es lamentable las muertes violentas en nuestro país, no son 10 mil, son 9 mil, como siempre  informando a medias o mal.  Y ¿sabe qué? Le voy a decir, señores legisladores y pueblo ecuatoriano, la receta de estas  9 mil muertes violentas, pues.  Indulto a más de 3 mil delincuentes del narcotráfico en el gobierno de Correa.  Hoy no se puede ver el rostro de los delincuentes, los delincuentes, gestores de paz, angelitos,  que para ustedes tienen atención prioritaria.  Hoy no se puede tener un registro de violadores ni pedófilos.  Una persona que cooperó con el narcotráfico hoy puede ser cualquier funcionario público.  Hoy los trámites para recuperar el dinero del narcotráfico son sumamente engorrosos.  Y eso únicamente por nombrar algunos.  Y todo esto gracias a la Constitución del 2008, sin contar con la bendita tabla de consumo  y sin contar también con la pacificación de las pandillas.  Y eso no lo digo yo.  Y señor secretario y presidente, enviado una imagen, por favor, para que la puedan presentar. Autorizado. Gracias. Señor secretario, me confirma si fue enviada la imagen a DTS, por favor. Estamos verificando, señor asambleísta. Gracias, señor secretario.  Nos vamos a tomar el tiempo de esperar porque esta imagen es una de las más importantes. Gracias. Gracias, señor secretario.  El expresidente Correa retuitea una imagen o un video en donde yo hablo de cómo sentaban  a delincuentes en las mesas de seguridad que ustedes organizaban, y uno de los delincuentes  era Ronnie Aliaga, y el señor expresidente Correa dice, ¿cómo mienten estos ineptos?  Eso fue en el 2008, en el proceso de pacificación de las pandillas urbanas.  Reconoce la pacificación y el pacto que tuvo con las mafias.  Y eso es el resultado de lo que hoy vivimos en la delincuencia organizada, señores.  Y no les voy a permitir que hablen acerca del presidente Novoa cuando es el único que  le ha declarado la guerra a las mafias, que no ha pactado ni pactará con la mafia.  Y les voy a decir, la captura de Alias Pipo, por ejemplo, o la extradicción de Alias Vito,  es una clara muestra de la hoja de ruta que tiene el presidente de la República en contra  de la delincuencia organizada.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 236.29,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 2.09,
+      "text": "la palabra, la asambleísta Inés Alarcón.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Del Pleno De La",
+        "confidence": 0.64
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.13,
+      "end": 86.47,
+      "text": "Gracias, señor presidente.  Pedido el uso de la palabra, porque no les voy a permitir que se atrevan a insinuar o  a decir que el presidente de la República no ha tenido una lucha frontal contra el narcotráfico  y la delincuencia de este país.  Es lamentable las muertes violentas en nuestro país, no son 10 mil, son 9 mil, como siempre  informando a medias o mal.  Y ¿sabe qué? Le voy a decir, señores legisladores y pueblo ecuatoriano, la receta de estas  9 mil muertes violentas, pues.  Indulto a más de 3 mil delincuentes del narcotráfico en el gobierno de Correa.  Hoy no se puede ver el rostro de los delincuentes, los delincuentes, gestores de paz, angelitos,  que para ustedes tienen atención prioritaria.  Hoy no se puede tener un registro de violadores ni pedófilos.  Una persona que cooperó con el narcotráfico hoy puede ser cualquier funcionario público.  Hoy los trámites para recuperar el dinero del narcotráfico son sumamente engorrosos.  Y eso únicamente por nombrar algunos.  Y todo esto gracias a la Constitución del 2008, sin contar con la bendita tabla de consumo  y sin contar también con la pacificación de las pandillas.  Y eso no lo digo yo.  Y señor secretario y presidente, enviado una imagen, por favor, para que la puedan presentar.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 2,
+      "start": 93.38,
+      "end": 118.04,
+      "text": "Autorizado.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Del Pleno De La",
+        "confidence": 0.64
+      }
+    },
+    {
+      "id": 3,
+      "start": 118.8,
+      "end": 121.21,
+      "text": "Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 4,
+      "start": 149.16,
+      "end": 153.22,
+      "text": "Señor secretario, me confirma si fue enviada la imagen a DTS, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 5,
+      "start": 155.97,
+      "end": 157.79,
+      "text": "Estamos verificando, señor asambleísta.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Del Pleno De La",
+        "confidence": 0.64
+      }
+    },
+    {
+      "id": 6,
+      "start": 157.88,
+      "end": 175.9,
+      "text": "Gracias, señor secretario.  Nos vamos a tomar el tiempo de esperar porque esta imagen es una de las más importantes.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 7,
+      "start": 175.9,
+      "end": 176.66,
+      "text": "Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Del Pleno De La",
+        "confidence": 0.64
+      }
+    },
+    {
+      "id": 8,
+      "start": 176.66,
+      "end": 234.32,
+      "text": "Gracias, señor secretario.  El expresidente Correa retuitea una imagen o un video en donde yo hablo de cómo sentaban  a delincuentes en las mesas de seguridad que ustedes organizaban, y uno de los delincuentes  era Ronnie Aliaga, y el señor expresidente Correa dice, ¿cómo mienten estos ineptos?  Eso fue en el 2008, en el proceso de pacificación de las pandillas urbanas.  Reconoce la pacificación y el pacto que tuvo con las mafias.  Y eso es el resultado de lo que hoy vivimos en la delincuencia organizada, señores.  Y no les voy a permitir que hablen acerca del presidente Novoa cuando es el único que  le ha declarado la guerra a las mafias, que no ha pactado ni pactará con la mafia.  Y les voy a decir, la captura de Alias Pipo, por ejemplo, o la extradicción de Alias Vito,  es una clara muestra de la hoja de ruta que tiene el presidente de la República en contra  de la delincuencia organizada.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "w_t3WjTgLqE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 0.75,
+      "votes": {
+        "Inés Margarita Alarcón Bueno": 3,
+        "[OOV] Continuación Sesión": 5,
+        "[OOV] Del Pleno De La": 1
+      },
+      "samples": 13,
+      "successful_reads": 9,
+      "source": "title"
+    },
+    "speaker_1": {
+      "name": "Del Pleno De La",
+      "confidence": 0.64,
+      "votes": {
+        "[OOV] Del Pleno De La": 7,
+        "[OOV] Continuación Sesión": 4
+      },
+      "samples": 12,
+      "successful_reads": 11,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 058 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=w_t3WjTgLqE",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "w_t3WjTgLqE",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=w_t3WjTgLqE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 164.49,
+      "interventions": 5,
+      "word_count": 411
+    },
+    {
+      "id": "speaker_1",
+      "name": "Del Pleno De La",
+      "party": null,
+      "province": null,
+      "total_time": 29.3,
+      "interventions": 4,
+      "word_count": 12
+    }
+  ]
+}

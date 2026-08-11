@@ -1,0 +1,52 @@
+{
+  "text": "al Pleno de la Asamblea Nacional a los familiares del señor Marco Proaño Maya, ex vicepresidente  del Congreso Nacional. Lectura del acuerdo legislativo. El presidente considerando y  en ejercicio de sus atribuciones acuerda, primero, expresar la más sentida condolencia  y solidaridad a los familiares, amigos y allegados del doctor Marco Proaño Maya, distinguiéndolo  como un ciudadano ejemplar cuya vida estuvo consagrada al servicio público, la docencia,  la producción intelectual y la defensa de los derechos sociales del pueblo ecuatoriano.  Segundo, otorgar la condecoración póstuma a Asamblea Nacional de la República del Ecuador  doctor Vicente Rocafuerte al mérito político y social como reconocimiento a su destacada  trayectoria legislativa, académica e intelectual, así como su firme compromiso con los valores  democráticos y ciudadanos. Dado y suscrito en la sede de la Asamblea Nacional ubicada  en el Distrito Metropolitano de Quito, provincia de Pichincha, a los 15 días del mes de enero  del año 2026.",
+  "language": "es",
+  "duration": 196.09,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 103.81,
+      "text": "al Pleno de la Asamblea Nacional a los familiares del señor Marco Proaño Maya, ex vicepresidente  del Congreso Nacional. Lectura del acuerdo legislativo. El presidente considerando y  en ejercicio de sus atribuciones acuerda, primero, expresar la más sentida condolencia  y solidaridad a los familiares, amigos y allegados del doctor Marco Proaño Maya, distinguiéndolo  como un ciudadano ejemplar cuya vida estuvo consagrada al servicio público, la docencia,  la producción intelectual y la defensa de los derechos sociales del pueblo ecuatoriano.  Segundo, otorgar la condecoración póstuma a Asamblea Nacional de la República del Ecuador  doctor Vicente Rocafuerte al mérito político y social como reconocimiento a su destacada  trayectoria legislativa, académica e intelectual, así como su firme compromiso con los valores  democráticos y ciudadanos. Dado y suscrito en la sede de la Asamblea Nacional ubicada  en el Distrito Metropolitano de Quito, provincia de Pichincha, a los 15 días del mes de enero  del año 2026.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan José Reyes Baquerizo",
+        "confidence": 0.6856,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "CHo-CGQU82U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Condecoración dal ex diputado Marco Proaño Maya - Sesión 063 - Comisión General",
+  "url": "https://www.youtube.com/watch?v=CHo-CGQU82U",
+  "published_at": "2026-01-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "CHo-CGQU82U",
+  "date": "2026-01-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=CHo-CGQU82U",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan José Reyes Baquerizo",
+      "party": null,
+      "province": null,
+      "total_time": 103.78,
+      "interventions": 1,
+      "word_count": 152
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Bueno, desafortunadamente la asamblevista Castillo salió, pero sí, es indiscutible, aquí estamos hablando de la desaparición forzada cuando actúan en este caso los militares, y yo entiendo que ahí la justicia lo que tiene que hacer es hacer su trabajo para identificar, y yo no diría, primero la idea aquí no es ponernos quienes estamos a favor o en contra de las Fuerzas Armadas,  las Fuerzas Armadas es una institución importante en nuestro país que necesita todo nuestro apoyo, pero los 16 militares que asesinaron a los chicos eran asesinos con uniforme, el canibalismo con el que actuaron contra los cuatro chicos de las Malvinas es brutal,  y yo sí creo que más allá de que no vayamos a normar la parte jurisdiccional, yo creo que sí es importante que la Comisión conozca cómo actúan, por qué actúan así, por qué nuestra fuerza pública actúa de manera tan despiadada contra civiles.  Entonces, más allá de que esto implique o que no contribuya, y esto lo digo con el respeto a la Presidenta de la Comisión, yo creo que sí es importante que los comisionados conozcan de las víctimas,  y en este caso de quienes también acompañan a ellos, saber en qué condiciones se generan las desapariciones forzadas, porque es evidente que también hay un problema de capacitación,  hay un problema gravísimo también de conducción, de inducción y sobre todas las cosas, aquí ha faltado recursos que permitan justamente darle las herramientas a la fuerza pública,  ojalá luego de todo esto esa ley también sea fortalecida con los tres puntos del IVA que le han cobrado al pueblo ecuatoriano, entonces esto no es menos importante,  por eso más allá de que no hablemos desde la parte jurisdiccional, yo creo que es importante que la Comisión decida recibir a las víctimas,  y recibir a quienes hacen acompañamiento a casos de desaparición forzada para que puedan tomar decisiones más informadas.  Eso, señor Presidente, muchas gracias.",
+  "language": "es",
+  "duration": 124.64,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 122.95,
+      "text": "Bueno, desafortunadamente la asamblevista Castillo salió, pero sí, es indiscutible, aquí estamos hablando de la desaparición forzada cuando actúan en este caso los militares, y yo entiendo que ahí la justicia lo que tiene que hacer es hacer su trabajo para identificar, y yo no diría, primero la idea aquí no es ponernos quienes estamos a favor o en contra de las Fuerzas Armadas,  las Fuerzas Armadas es una institución importante en nuestro país que necesita todo nuestro apoyo, pero los 16 militares que asesinaron a los chicos eran asesinos con uniforme, el canibalismo con el que actuaron contra los cuatro chicos de las Malvinas es brutal,  y yo sí creo que más allá de que no vayamos a normar la parte jurisdiccional, yo creo que sí es importante que la Comisión conozca cómo actúan, por qué actúan así, por qué nuestra fuerza pública actúa de manera tan despiadada contra civiles.  Entonces, más allá de que esto implique o que no contribuya, y esto lo digo con el respeto a la Presidenta de la Comisión, yo creo que sí es importante que los comisionados conozcan de las víctimas,  y en este caso de quienes también acompañan a ellos, saber en qué condiciones se generan las desapariciones forzadas, porque es evidente que también hay un problema de capacitación,  hay un problema gravísimo también de conducción, de inducción y sobre todas las cosas, aquí ha faltado recursos que permitan justamente darle las herramientas a la fuerza pública,  ojalá luego de todo esto esa ley también sea fortalecida con los tres puntos del IVA que le han cobrado al pueblo ecuatoriano, entonces esto no es menos importante,  por eso más allá de que no hablemos desde la parte jurisdiccional, yo creo que es importante que la Comisión decida recibir a las víctimas,  y recibir a quienes hacen acompañamiento a casos de desaparición forzada para que puedan tomar decisiones más informadas.  Eso, señor Presidente, muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Janeth Paola Cabezas Castillo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "NA9PHzldrKA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Janeth Paola Cabezas Castillo",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Del Pleno": 1,
+        "[OOV] Continuación Sesión": 4
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Paola Cabezas - Sesión 058 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=NA9PHzldrKA",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "NA9PHzldrKA",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=NA9PHzldrKA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Janeth Paola Cabezas Castillo",
+      "party": null,
+      "province": null,
+      "total_time": 122.92,
+      "interventions": 1,
+      "word_count": 322
+    }
+  ]
+}

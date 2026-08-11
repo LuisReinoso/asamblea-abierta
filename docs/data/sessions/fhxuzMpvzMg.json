@@ -1,0 +1,121 @@
+{
+  "text": "Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Damos la bienvenida a los estudiantes de la unidad educativa Alejandro Andrade.  Bienvenidos.  Cierra el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por la asambleísta Graciela Ramírez.  Señoras y señores asambleístas, por favor consignar su voto. Señor Secretario, por favor proclame resultados. Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 144 asambleístas presentes,  contamos con 77 votos afirmativos, 63 negativos, 0 blancos, 4 abstenciones.  Por tanto, la solicitud de cambio de orden del día presentado por la asambleísta Graciela Ramírez ha sido aprobada.",
+  "language": "es",
+  "duration": 1024.16,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.49,
+      "end": 8.99,
+      "text": "Señoras y señores asambleístas, por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.7513,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 389.22,
+      "end": 807.55,
+      "text": "Damos la bienvenida a los estudiantes de la unidad educativa Alejandro Andrade.  Bienvenidos.  Cierra el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Sade Rashel Fritschi Naranjo",
+        "confidence": 0.5139,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 809.22,
+      "end": 825.98,
+      "text": "Me permito informar, señora Presidenta, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional el cambio de orden del día presentado por la asambleísta Graciela Ramírez.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.7513,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 998.74,
+      "end": 1001.24,
+      "text": "Señor Secretario, por favor proclame resultados.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Sade Rashel Fritschi Naranjo",
+        "confidence": 0.5139,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 1001.97,
+      "end": 1023.99,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permite informar que de un total de 144 asambleístas presentes,  contamos con 77 votos afirmativos, 63 negativos, 0 blancos, 4 abstenciones.  Por tanto, la solicitud de cambio de orden del día presentado por la asambleísta Graciela Ramírez ha sido aprobada.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "José Luis Nango Cuji",
+        "confidence": 0.7513,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "fhxuzMpvzMg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 18,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 11,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción de la asambleísta Graciela Ramirez - Sesión 061 - Cambio del orden del día",
+  "url": "https://www.youtube.com/watch?v=fhxuzMpvzMg",
+  "published_at": "2026-01-15T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "fhxuzMpvzMg",
+  "date": "2026-01-15T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=fhxuzMpvzMg",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Sade Rashel Fritschi Naranjo",
+      "party": null,
+      "province": null,
+      "total_time": 420.83,
+      "interventions": 2,
+      "word_count": 24
+    },
+    {
+      "id": "speaker_0",
+      "name": "José Luis Nango Cuji",
+      "party": null,
+      "province": null,
+      "total_time": 47.28,
+      "interventions": 3,
+      "word_count": 113
+    }
+  ]
+}

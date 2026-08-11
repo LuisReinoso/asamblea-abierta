@@ -1,0 +1,53 @@
+{
+  "text": "El asambleísta Luigi García.  Gracias, presidente.  Aquí estamos nuevamente ecuatorianos, nuevamente tenemos que defender a Quito  de los intentos de ciertas autoridades de jugar con el dinero de los quiteños.  Quito vive una emergencia grave, una crisis inminente en la movilidad.  Cada mañana miles de personas pasan horas en filas, en los metros, en las paradas del metro,  ECOVIA, METROVIA, y sin embargo hoy se atreven a jugar con la movilidad.  Pese a la crisis de movilidad, el municipio ha sido incapaz de sostener un proceso transparente,  un proceso libre de oscuridades en cuanto a las flotas de transporte.  Y aquí nadie se está quejando de que el municipio renueve la flota.  Perfecto, me parece perfecto que lo haga, pero que lo hagan con transparencia y con sinceridad al pueblo quiteño.  Bueno, hoy el asambleísta Ordóñez ha sido muy técnico y ha dejado en evidencia este nuevo modus operandi.  Y se sorprenden porque es un nuevo modus operandi en la contratación pública.  Tercerizar, derivar con pretextos de eficiencia para no sé qué,  para dejar esas millonarias comisiones en manos de organizaciones internacionales que hoy no sabemos ni qué intereses oscuros hay detrás de eso.  Hay informes de Contraloría que determinan que el proceso de fiscalización no siguió las recomendaciones básicas mínimas del CERCOP,  que existe perjuicio económico de más de 2 millones de dólares,  faltas de cumplimiento en las especificaciones técnicas del contrato.  Y entonces, colegas asambleístas, nos vamos a seguir haciendo de la vista gorda solamente porque los funcionarios son del partido político que ustedes representan.  Seamos responsables con Quito, señores legisladores, seamos responsables con quienes nos eligieron y con quien hoy nos pusieron en esta curul.  Por sus votos, hoy estamos en esta curul.  Creo que los quiteños merecen respeto y los ecuatorianos también merecen respeto de este Parlamento.  A ver si dejamos de buscar las lagunas en la ley para salvar a aquellos funcionarios amigos suyos del municipio,  porque les informo, señores legisladores, que en el Nuevo Ecuador nadie está por encima de la ley.  Es del Nuevo Ecuador todo funcionario público, todo funcionario público debe de rendirle cuentas al país  y que se dé cuenta el Ecuador que quienes hoy intentan buscar esas lagunas  y quienes hoy se oponen a que conozcamos los hechos en los que está embarrado el municipio de Quito,  son los mismos que se opusieron hace una semana a tratar la ley de repetición.  Gracias, señor presidente.  Vuelvo al uso de la palabra.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 223.61,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 222.51,
+      "text": "El asambleísta Luigi García.  Gracias, presidente.  Aquí estamos nuevamente ecuatorianos, nuevamente tenemos que defender a Quito  de los intentos de ciertas autoridades de jugar con el dinero de los quiteños.  Quito vive una emergencia grave, una crisis inminente en la movilidad.  Cada mañana miles de personas pasan horas en filas, en los metros, en las paradas del metro,  ECOVIA, METROVIA, y sin embargo hoy se atreven a jugar con la movilidad.  Pese a la crisis de movilidad, el municipio ha sido incapaz de sostener un proceso transparente,  un proceso libre de oscuridades en cuanto a las flotas de transporte.  Y aquí nadie se está quejando de que el municipio renueve la flota.  Perfecto, me parece perfecto que lo haga, pero que lo hagan con transparencia y con sinceridad al pueblo quiteño.  Bueno, hoy el asambleísta Ordóñez ha sido muy técnico y ha dejado en evidencia este nuevo modus operandi.  Y se sorprenden porque es un nuevo modus operandi en la contratación pública.  Tercerizar, derivar con pretextos de eficiencia para no sé qué,  para dejar esas millonarias comisiones en manos de organizaciones internacionales que hoy no sabemos ni qué intereses oscuros hay detrás de eso.  Hay informes de Contraloría que determinan que el proceso de fiscalización no siguió las recomendaciones básicas mínimas del CERCOP,  que existe perjuicio económico de más de 2 millones de dólares,  faltas de cumplimiento en las especificaciones técnicas del contrato.  Y entonces, colegas asambleístas, nos vamos a seguir haciendo de la vista gorda solamente porque los funcionarios son del partido político que ustedes representan.  Seamos responsables con Quito, señores legisladores, seamos responsables con quienes nos eligieron y con quien hoy nos pusieron en esta curul.  Por sus votos, hoy estamos en esta curul.  Creo que los quiteños merecen respeto y los ecuatorianos también merecen respeto de este Parlamento.  A ver si dejamos de buscar las lagunas en la ley para salvar a aquellos funcionarios amigos suyos del municipio,  porque les informo, señores legisladores, que en el Nuevo Ecuador nadie está por encima de la ley.  Es del Nuevo Ecuador todo funcionario público, todo funcionario público debe de rendirle cuentas al país  y que se dé cuenta el Ecuador que quienes hoy intentan buscar esas lagunas  y quienes hoy se oponen a que conozcamos los hechos en los que está embarrado el municipio de Quito,  son los mismos que se opusieron hace una semana a tratar la ley de repetición.  Gracias, señor presidente.  Vuelvo al uso de la palabra.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "03biOXWWTXg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Luigi Edu Garcia Velasquez",
+      "confidence": 1.0,
+      "votes": {
+        "Luigi Edu Garcia Velasquez": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Luigi García - Sesión 063",
+  "url": "https://www.youtube.com/watch?v=03biOXWWTXg",
+  "published_at": "2026-01-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "03biOXWWTXg",
+  "date": "2026-01-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=03biOXWWTXg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luigi Edu Garcia Velasquez",
+      "party": null,
+      "province": null,
+      "total_time": 222.48,
+      "interventions": 1,
+      "word_count": 414
+    }
+  ]
+}
