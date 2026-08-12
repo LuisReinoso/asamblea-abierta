@@ -1,0 +1,53 @@
+{
+  "text": "Señor presidente, muchísimas gracias, gracias por la intervención, nada más reiterar y exhortar a las bancadas, las diferencias siempre van a existir y eso forma parte de la democracia, pero también esas diferencias no pueden permanecer cuando se trata de la vida de los ecuatorianos.  Más allá del cuestionamiento de la vía o la legitimidad de la aprobación de esta importante reforma que lo único que pretende es dotar al sistema de justicia y también garantizar a las víctimas de que la impunidad, que la prescripción no volverá a ser parte de la impunidad de actos tan nocivos como el secuestro, el sicariato, el narcotráfico, entre otros delitos.  La prescriptibilidad, la imprescriptibilidad, que se escuche bien, no es un derecho, es parte de la política criminal que debe tomar un Estado y para eso estamos nosotros, para legislar y construir normativa que beneficie a todos los ecuatorianos y que sobre todo proteja a las víctimas.  Por lo tanto, señor presidente, solicito a usted que se apruebe ese orden del día con el apoyo de todos los compañeros asambleístas, debatiremos esto en la comisión que corresponda y en el Pleno.  Demos esa mano al pueblo a través de ese voto, es ahí donde debemos trabajar.  Les invito a hacer una tregua y a no defender a aquellos que le han hecho daño al país, no a aquellos que han violado niños, no a aquellos que han matado a gente inocente.  Que la ley sea dura para ellos y que no nos tiembre la mano para decirle estamos con los ecuatorianos.  Gracias, presidente.",
+  "language": "es",
+  "duration": 103.61,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.95,
+      "end": 103.44,
+      "text": "Señor presidente, muchísimas gracias, gracias por la intervención, nada más reiterar y exhortar a las bancadas, las diferencias siempre van a existir y eso forma parte de la democracia, pero también esas diferencias no pueden permanecer cuando se trata de la vida de los ecuatorianos.  Más allá del cuestionamiento de la vía o la legitimidad de la aprobación de esta importante reforma que lo único que pretende es dotar al sistema de justicia y también garantizar a las víctimas de que la impunidad, que la prescripción no volverá a ser parte de la impunidad de actos tan nocivos como el secuestro, el sicariato, el narcotráfico, entre otros delitos.  La prescriptibilidad, la imprescriptibilidad, que se escuche bien, no es un derecho, es parte de la política criminal que debe tomar un Estado y para eso estamos nosotros, para legislar y construir normativa que beneficie a todos los ecuatorianos y que sobre todo proteja a las víctimas.  Por lo tanto, señor presidente, solicito a usted que se apruebe ese orden del día con el apoyo de todos los compañeros asambleístas, debatiremos esto en la comisión que corresponda y en el Pleno.  Demos esa mano al pueblo a través de ese voto, es ahí donde debemos trabajar.  Les invito a hacer una tregua y a no defender a aquellos que le han hecho daño al país, no a aquellos que han violado niños, no a aquellos que han matado a gente inocente.  Que la ley sea dura para ellos y que no nos tiembre la mano para decirle estamos con los ecuatorianos.  Gracias, presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "4RSFdoOEt8o",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 0.75,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Diana Jácome - Sesión 057 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=4RSFdoOEt8o",
+  "published_at": "2025-12-16T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "4RSFdoOEt8o",
+  "date": "2025-12-16T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=4RSFdoOEt8o",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 100.49,
+      "interventions": 1,
+      "word_count": 261
+    }
+  ]
+}

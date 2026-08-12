@@ -1,0 +1,55 @@
+{
+  "text": "Palabra la asambleísta Yajaira Urresta para ejercer el derecho a la réplica.  Gracias, señor presidente.  Voy a coger sus palabras, presidente, que desde el día de hoy vamos a mantener una postura totalmente respetuosa entre nosotros.  Pero sí aclararle a asambleísta Yumbay que obviamente si vamos a los años de lucha, usted me dobla o me triplica en los años de vida.  Así que obviamente no va a ser la misma comparación.  Segundo, de que sí, hay muchas personas que han hecho su acto de la resistencia, entre comillas, con piedras, palos y con quema de algunas instituciones y de algunos lugares.  En mi caso fue una olla, una cuchara de palo y mi voz.  Usted en tantos años de resistencia, pues no la veo y le bendigo y espero que jamás le pase, tengo una cicatriz en su cuerpo.  Habemos otros que seguimos en un proceso en búsqueda de lucha y justicia.  Y tercero y lo más importante, ya que escucho susurros, justamente es ahí, asambleísta Yumbay, donde yo no agacho la cabeza, ni digo ama patrón, pegue nomás.  Cuando a mí, desde esa bancada, quien es, quien es su presidenta, me trató como me trató.  Así que la libertad de la democracia, hasta que hoy sea independiente.  Gracias, señor Presidente.",
+  "language": "es",
+  "duration": 97.9,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 97.28,
+      "text": "Palabra la asambleísta Yajaira Urresta para ejercer el derecho a la réplica.  Gracias, señor presidente.  Voy a coger sus palabras, presidente, que desde el día de hoy vamos a mantener una postura totalmente respetuosa entre nosotros.  Pero sí aclararle a asambleísta Yumbay que obviamente si vamos a los años de lucha, usted me dobla o me triplica en los años de vida.  Así que obviamente no va a ser la misma comparación.  Segundo, de que sí, hay muchas personas que han hecho su acto de la resistencia, entre comillas, con piedras, palos y con quema de algunas instituciones y de algunos lugares.  En mi caso fue una olla, una cuchara de palo y mi voz.  Usted en tantos años de resistencia, pues no la veo y le bendigo y espero que jamás le pase, tengo una cicatriz en su cuerpo.  Habemos otros que seguimos en un proceso en búsqueda de lucha y justicia.  Y tercero y lo más importante, ya que escucho susurros, justamente es ahí, asambleísta Yumbay, donde yo no agacho la cabeza, ni digo ama patrón, pegue nomás.  Cuando a mí, desde esa bancada, quien es, quien es su presidenta, me trató como me trató.  Así que la libertad de la democracia, hasta que hoy sea independiente.  Gracias, señor Presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jhajaira Estefanía Urresta Guzmán",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "zmSeQF_uFys",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Continuación Sesión": 6,
+        "[OOV] Del Pleno De La": 1,
+        "[OOV] Continuación Sesión N": 1
+      },
+      "samples": 10,
+      "successful_reads": 8,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Jhajaira Urresta - Sesión 058 - Réplica",
+  "url": "https://www.youtube.com/watch?v=zmSeQF_uFys",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "zmSeQF_uFys",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=zmSeQF_uFys",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "party": null,
+      "province": null,
+      "total_time": 97.25,
+      "interventions": 1,
+      "word_count": 212
+    }
+  ]
+}

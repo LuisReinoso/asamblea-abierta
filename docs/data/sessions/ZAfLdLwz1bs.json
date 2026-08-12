@@ -1,0 +1,51 @@
+{
+  "text": "réplica a la asambleísta Mariana Yumbay.  Tiene la palabra, asambleísta.  Gracias, presidente.  Creo que es importante  refrescar la memoria.  Yo soy Mariana Yumbay.  Soy una de las personas que he venido  luchando a lo largo de mi vida.  He sido  una de las que he venido ejerciendo  el derecho a la  resistencia, el derecho  a la protesta.  Y no de ahora. No soy de las  personas que un día estoy luchando  y después me cambio. No.  He luchado desde mi  niñez, desde la  juventud y sigo  luchando por la injusticia,  buscando una vida  digna para todos y para todas.  De manera que no  podemos decir que  la protesta social  debe  ser quizás  un espacio y dejarle  abierto para que  sean vigilados  por la presencia de los  militares.  Eso va contra  un derecho totalmente  constitucional  y que ahora  esté en la  constitución.  Nosotros a lo largo  de la historia  hemos resistido,  hemos ejercido  este derecho.  Pero no podemos  admitir  que la  protesta  pacífica  tenga que ser  vigilada  por los militares.  Y decir que  tal vez  endosarnos  al movimiento  indígena  de la  quema  de la  contraloría  me parece  totalmente  desacertado.  Y lo hablo  con mucha  propiedad.  Los pueblos  indígenas  en la lucha  del  2019  estuvimos  gritando  en las  calles  y nuestra  arma  era  una botella  con leche  para protegernos  de los gases  y entre otros  de los  disparos  también  unas  quizás  unas tablas  para protegernos  de los disparos.  Esas  han sido  nuestras  herramientas  y nuestra  voz  fundamental  para gritar  que no  nos  repriman  que  respeten  al  pueblo.  Decir  también  que tal  vez  los  incendios  y otros  que eso  es parte  de la  protesta  social  no es  así.  Yo le  invito  que  revise  la  historia.  Hay  muchos  documentales  muchos  libros  construidos  a base  de la  lucha  y ahí  van  a ver  que la  lucha  de los  pueblos  indígenas  por mejores  días  jamás  ha sido  acompañada  de la  violencia  al contrario  ha sido  acompañada  por la  solidaridad  de los  pueblos  no  indígenas  del  campo  y la  ciudad  porque  también  la  lucha  ha sido  por todos  y por  todas.  Muchas  gracias.",
+  "language": "es",
+  "duration": 186.71,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 186.11,
+      "text": "réplica a la asambleísta Mariana Yumbay.  Tiene la palabra, asambleísta.  Gracias, presidente.  Creo que es importante  refrescar la memoria.  Yo soy Mariana Yumbay.  Soy una de las personas que he venido  luchando a lo largo de mi vida.  He sido  una de las que he venido ejerciendo  el derecho a la  resistencia, el derecho  a la protesta.  Y no de ahora. No soy de las  personas que un día estoy luchando  y después me cambio. No.  He luchado desde mi  niñez, desde la  juventud y sigo  luchando por la injusticia,  buscando una vida  digna para todos y para todas.  De manera que no  podemos decir que  la protesta social  debe  ser quizás  un espacio y dejarle  abierto para que  sean vigilados  por la presencia de los  militares.  Eso va contra  un derecho totalmente  constitucional  y que ahora  esté en la  constitución.  Nosotros a lo largo  de la historia  hemos resistido,  hemos ejercido  este derecho.  Pero no podemos  admitir  que la  protesta  pacífica  tenga que ser  vigilada  por los militares.  Y decir que  tal vez  endosarnos  al movimiento  indígena  de la  quema  de la  contraloría  me parece  totalmente  desacertado.  Y lo hablo  con mucha  propiedad.  Los pueblos  indígenas  en la lucha  del  2019  estuvimos  gritando  en las  calles  y nuestra  arma  era  una botella  con leche  para protegernos  de los gases  y entre otros  de los  disparos  también  unas  quizás  unas tablas  para protegernos  de los disparos.  Esas  han sido  nuestras  herramientas  y nuestra  voz  fundamental  para gritar  que no  nos  repriman  que  respeten  al  pueblo.  Decir  también  que tal  vez  los  incendios  y otros  que eso  es parte  de la  protesta  social  no es  así.  Yo le  invito  que  revise  la  historia.  Hay  muchos  documentales  muchos  libros  construidos  a base  de la  lucha  y ahí  van  a ver  que la  lucha  de los  pueblos  indígenas  por mejores  días  jamás  ha sido  acompañada  de la  violencia  al contrario  ha sido  acompañada  por la  solidaridad  de los  pueblos  no  indígenas  del  campo  y la  ciudad  porque  también  la  lucha  ha sido  por todos  y por  todas.  Muchas  gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mariana Yumbay Yallico",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "ZAfLdLwz1bs",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mariana Yumbay Yallico",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Mariana Yumbay - Sesión 058 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=ZAfLdLwz1bs",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "ZAfLdLwz1bs",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=ZAfLdLwz1bs",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mariana Yumbay Yallico",
+      "party": null,
+      "province": null,
+      "total_time": 186.08,
+      "interventions": 1,
+      "word_count": 346
+    }
+  ]
+}

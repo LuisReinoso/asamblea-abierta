@@ -1,0 +1,53 @@
+{
+  "text": "Información, la asambleísta Diana Hacome.  Sí, muchísimas gracias.  Solo aclarar que dentro de nuestras competencias en efecto está presentar enmiendas,  está el presentar reformas parciales y también las reformas a las normativas o presentar nuevos proyectos.  Entre esas facultades y como abogada especialista en derecho penal, en derecho constitucional,  hemos hecho una revisión profunda jurídica y técnica, colega asambleísta,  para decirle que la Corte Constitucional, en la sentencia número 1, guión 21, guión OP,  objeción presidencial, slash 21, ha señalado en su sentencia lo siguiente, lo voy a leer.  No significa que la prescripción sea una regla absoluta o no admite excepciones,  pero sí implica que la imprescriptibilidad de una acción constituyente,  una limitación de derecho a la seguridad jurídica y como tal, su establecimiento debe provenir,  escúchese bien, de la Constitución, en sentido formal,  de otras fuentes del bloque de constitucionalidad,  o de aquellas derivadas del cumplimiento de obligaciones internacionales en materia de derechos humanos,  y esta, o de otras razones legítimas establecidas en la ley.  Con eso le doy respuesta de que los legisladores no estamos atados de mano  y la reforma al COID está en la vía correcta.  Espero que la Corte no se contradiga a esta sentencia.  Gracias.",
+  "language": "es",
+  "duration": 100.24,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 99.47,
+      "text": "Información, la asambleísta Diana Hacome.  Sí, muchísimas gracias.  Solo aclarar que dentro de nuestras competencias en efecto está presentar enmiendas,  está el presentar reformas parciales y también las reformas a las normativas o presentar nuevos proyectos.  Entre esas facultades y como abogada especialista en derecho penal, en derecho constitucional,  hemos hecho una revisión profunda jurídica y técnica, colega asambleísta,  para decirle que la Corte Constitucional, en la sentencia número 1, guión 21, guión OP,  objeción presidencial, slash 21, ha señalado en su sentencia lo siguiente, lo voy a leer.  No significa que la prescripción sea una regla absoluta o no admite excepciones,  pero sí implica que la imprescriptibilidad de una acción constituyente,  una limitación de derecho a la seguridad jurídica y como tal, su establecimiento debe provenir,  escúchese bien, de la Constitución, en sentido formal,  de otras fuentes del bloque de constitucionalidad,  o de aquellas derivadas del cumplimiento de obligaciones internacionales en materia de derechos humanos,  y esta, o de otras razones legítimas establecidas en la ley.  Con eso le doy respuesta de que los legisladores no estamos atados de mano  y la reforma al COID está en la vía correcta.  Espero que la Corte no se contradiga a esta sentencia.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "i-FOHALO0pk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 1.0,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Diana Jácome - Sesión 057 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=i-FOHALO0pk",
+  "published_at": "2025-12-16T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "i-FOHALO0pk",
+  "date": "2025-12-16T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=i-FOHALO0pk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 99.44,
+      "interventions": 1,
+      "word_count": 202
+    }
+  ]
+}

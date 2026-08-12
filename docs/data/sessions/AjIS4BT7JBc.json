@@ -1,0 +1,54 @@
+{
+  "text": "Palabra la asambleísta Josebet Jaramillo.  Señor Presidente, colegas asambleístas, pueblo ecuatoriano que nos mira a través de los canales oficiales.  Cada procedimiento nos obliga como legisladores a actuar con responsabilidad,  aplicando los procedimientos parlamentarios para la creación de nuevas leyes.  En el presente caso, el proyecto de ley requiere continuar con su tratamiento en la Comisión de Justicia y Estructura del Estado,  a fin de consolidar un texto normativo técnicamente sólido y coherente con el pensamiento jurídico vigente.  Por ello, mociono que el proyecto de ley orgánica de repetición sea archivado  y que cumpla con el procedimiento parlamentario correspondiente.  Señor Presidente, pido que se lea la moción que ha sido enviada por DTS  y así mismo, cuando usted considere, envíe votación. Muchas gracias.",
+  "language": "es",
+  "duration": 53.59,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 53.26,
+      "text": "Palabra la asambleísta Josebet Jaramillo.  Señor Presidente, colegas asambleístas, pueblo ecuatoriano que nos mira a través de los canales oficiales.  Cada procedimiento nos obliga como legisladores a actuar con responsabilidad,  aplicando los procedimientos parlamentarios para la creación de nuevas leyes.  En el presente caso, el proyecto de ley requiere continuar con su tratamiento en la Comisión de Justicia y Estructura del Estado,  a fin de consolidar un texto normativo técnicamente sólido y coherente con el pensamiento jurídico vigente.  Por ello, mociono que el proyecto de ley orgánica de repetición sea archivado  y que cumpla con el procedimiento parlamentario correspondiente.  Señor Presidente, pido que se lea la moción que ha sido enviada por DTS  y así mismo, cuando usted considere, envíe votación. Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.6
+      }
+    }
+  ],
+  "video_id": "AjIS4BT7JBc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "confidence": 0.6,
+      "votes": {
+        "Anelisse Josebeth Jaramillo Rodríguez": 3,
+        "[OOV] Del Pleno": 2
+      },
+      "samples": 6,
+      "successful_reads": 5,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Josebeth Jaramillo - Sesión 057",
+  "url": "https://www.youtube.com/watch?v=AjIS4BT7JBc",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "AjIS4BT7JBc",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=AjIS4BT7JBc",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "party": null,
+      "province": null,
+      "total_time": 53.23,
+      "interventions": 1,
+      "word_count": 123
+    }
+  ]
+}
