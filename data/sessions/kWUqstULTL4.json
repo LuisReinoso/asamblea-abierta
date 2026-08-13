@@ -1,0 +1,51 @@
+{
+  "text": "El saludo cordial para todos los colegas legisladores y sobre todo a la gente linda de mi querida provincia del Cañar.  Es importante el cambio del orden del día que se plantea por la compañera Diana Jacome,  porque esta asamblea debe entender que una de las preocupaciones de la ciudadanía es la inseguridad  y la bancada de Acción Democrática Nacional, responsables con el país,  planteamos reformas constitucionales y a varios cuerpos legales encaminados a luchar contra los grupos terroristas.  Las propuestas que vayan enfocadas a combatir la inseguridad deben ser respaldadas, vengan de donde vengan.  Aquí no se trata de atacar al gobierno votando en contra, como ya están acostumbrados.  Desde nuestra bancada no vendrán propuestas de enmiendas constitucionales a la reelección indefinida,  como ya lo realizaron en el año 2015.  Al contrario, nosotros pensamos en la ciudadanía y planteamos reformas legales  para darles más herramientas al gobierno para combatir la inseguridad,  pero también a jueces y fiscales para que de una vez por todas puedan actuar sin proteger a los delincuentes,  sino a las víctimas.  Por ejemplo, nuestra compañera Lucía Pozo también se preocupa por este tema,  eliminando del artículo 35 a los privados de la libertad,  donde se les ponía al mismo nivel de niños, niñas, adolescentes, adultos mayores y personas con discapacidad.  Necesitamos fortalecer, compañeros, el sistema de seguridad,  nuestras instituciones dejando de dar tantas garantías constitucionales a los delincuentes  y más bien protegiendo a aquellas víctimas de los mismos.  Con una legislación que se enfoque en una política criminal más efectiva,  sin olvidarnos de los derechos fundamentales.  Colegas asambleístas, dejemos de lado los intereses particulares,  velemos por los intereses del país.  Claro que hacen falta las reformas tanto a la Constitución como al Código Orgánico Integral Penal  para fortalecer la lucha contra la delincuencia.  Negarnos a tratar estos temas no afectan a una bancada o al presidente,  al contrario, afectan al país.  Construyamos nuevas normas y reformemos las existentes desde el debate.  Compartiendo ideas, la Constitución no puede durar de la misma forma  y con los mismos textos 300 años.  Hasta aquí mi intervención, señor presidente.  Gracias.",
+  "language": "es",
+  "duration": 195.26,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 191.76,
+      "text": "El saludo cordial para todos los colegas legisladores y sobre todo a la gente linda de mi querida provincia del Cañar.  Es importante el cambio del orden del día que se plantea por la compañera Diana Jacome,  porque esta asamblea debe entender que una de las preocupaciones de la ciudadanía es la inseguridad  y la bancada de Acción Democrática Nacional, responsables con el país,  planteamos reformas constitucionales y a varios cuerpos legales encaminados a luchar contra los grupos terroristas.  Las propuestas que vayan enfocadas a combatir la inseguridad deben ser respaldadas, vengan de donde vengan.  Aquí no se trata de atacar al gobierno votando en contra, como ya están acostumbrados.  Desde nuestra bancada no vendrán propuestas de enmiendas constitucionales a la reelección indefinida,  como ya lo realizaron en el año 2015.  Al contrario, nosotros pensamos en la ciudadanía y planteamos reformas legales  para darles más herramientas al gobierno para combatir la inseguridad,  pero también a jueces y fiscales para que de una vez por todas puedan actuar sin proteger a los delincuentes,  sino a las víctimas.  Por ejemplo, nuestra compañera Lucía Pozo también se preocupa por este tema,  eliminando del artículo 35 a los privados de la libertad,  donde se les ponía al mismo nivel de niños, niñas, adolescentes, adultos mayores y personas con discapacidad.  Necesitamos fortalecer, compañeros, el sistema de seguridad,  nuestras instituciones dejando de dar tantas garantías constitucionales a los delincuentes  y más bien protegiendo a aquellas víctimas de los mismos.  Con una legislación que se enfoque en una política criminal más efectiva,  sin olvidarnos de los derechos fundamentales.  Colegas asambleístas, dejemos de lado los intereses particulares,  velemos por los intereses del país.  Claro que hacen falta las reformas tanto a la Constitución como al Código Orgánico Integral Penal  para fortalecer la lucha contra la delincuencia.  Negarnos a tratar estos temas no afectan a una bancada o al presidente,  al contrario, afectan al país.  Construyamos nuevas normas y reformemos las existentes desde el debate.  Compartiendo ideas, la Constitución no puede durar de la misma forma  y con los mismos textos 300 años.  Hasta aquí mi intervención, señor presidente.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fabiola Maribel Sanmartín Parra",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "kWUqstULTL4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "confidence": 0.75,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Fabiola Sanmartín - Sesión 057",
+  "url": "https://www.youtube.com/watch?v=kWUqstULTL4",
+  "published_at": "2025-12-16T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "kWUqstULTL4",
+  "date": "2025-12-16T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=kWUqstULTL4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "party": null,
+      "province": null,
+      "total_time": 191.73,
+      "interventions": 1,
+      "word_count": 351
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "el asamblista Alejandro Vanegas.  Señor Presidente, señores legisladores, señoras legisladores,  con su venia, señor Presidente, voy a abrir comillas.  A veces sentimos que lo que hacemos es tan solo una gota en el mar,  pero el mar sería mucho menos si le faltara una gota.  Cierro comillas.  Pertenece a Teresa de Calcuta.  Señor Presidente, el esfuerzo que ha realizado el legislador Raúl Chávez  desde el primer día que llegó a la Asamblea estuvo dirigido a fortalecer  la atención psicológica de las niñas, los niños y los adolescentes.  Con su esfuerzo decidido, hemos logrado llegar aquí este día  con un proyecto de ley que integra a la Asamblea.  Felicito a la legisladora, doctora Diana Jácome,  que con acierto ha sumado a este proyecto  las reformas que considera pertinentes y adecuadas  en lo académico, en lo ético, en lo moral y en lo jurídico.  Este es el mecanismo eficiente para que el Pleno de la Asamblea  pueda integrarse en una acción conjunta y voluntades  para desarrollar un legislativo propositivo  que construya cuerpos jurídicos que atiendan la gran necesidad  de los ecuatorianos.  Este problema, sobre todo, lo debemos sentir en los niños  que atienden a los colegios fideicomisales o del fisco.  En los colegios privados, desde hace muchos años,  se han implementado mecanismos para atender la salud mental  de sus estudiantes, tanto en primaria como en secundaria.  En mi experiencia como padre de familia,  tuve la maravillosa oportunidad de pasar por el trabajo de la obra.  Los colegios Torremar y Delta atendieron la formación de mis hijos  que ya se graduaron hace muchos años  y nos dieron un ejemplo de cómo un colegio privado  se preocupa de la formación integral de sus estudiantes,  hombres, varones o damas.  Creo, señor legislador Raúl Chávez,  que usted ha logrado entender una necesidad social  porque el niño, la niña y el adolescente  serán los hombres del futuro  y serán ellos quienes conduzcan a la nación  hacia los derroteros de la paz, de la integración y del progreso.  Esta ley que la hemos estudiado muy de cerca en la comisión  que integro, significa un paso hacia ese enorme océano  en donde esa gota que usted ha contribuido  va a significar el desarrollo de una política pública  que significará atender las grandes necesidades  de las generaciones que están luego de nosotros.  Señor Presidente y señores legisladores,  hago votos porque en el futuro se reconozcan  todos los proyectos de ley sin distingo  de donde vengan, de donde provengan  siempre y cuando estos sean estudiados  con responsabilidad social y con apego estricto  a la norma y a la Constitución.  Muchas gracias, señor Presidente, señores legisladores.",
+  "language": "es",
+  "duration": 240.26,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 239.37,
+      "text": "el asamblista Alejandro Vanegas.  Señor Presidente, señores legisladores, señoras legisladores,  con su venia, señor Presidente, voy a abrir comillas.  A veces sentimos que lo que hacemos es tan solo una gota en el mar,  pero el mar sería mucho menos si le faltara una gota.  Cierro comillas.  Pertenece a Teresa de Calcuta.  Señor Presidente, el esfuerzo que ha realizado el legislador Raúl Chávez  desde el primer día que llegó a la Asamblea estuvo dirigido a fortalecer  la atención psicológica de las niñas, los niños y los adolescentes.  Con su esfuerzo decidido, hemos logrado llegar aquí este día  con un proyecto de ley que integra a la Asamblea.  Felicito a la legisladora, doctora Diana Jácome,  que con acierto ha sumado a este proyecto  las reformas que considera pertinentes y adecuadas  en lo académico, en lo ético, en lo moral y en lo jurídico.  Este es el mecanismo eficiente para que el Pleno de la Asamblea  pueda integrarse en una acción conjunta y voluntades  para desarrollar un legislativo propositivo  que construya cuerpos jurídicos que atiendan la gran necesidad  de los ecuatorianos.  Este problema, sobre todo, lo debemos sentir en los niños  que atienden a los colegios fideicomisales o del fisco.  En los colegios privados, desde hace muchos años,  se han implementado mecanismos para atender la salud mental  de sus estudiantes, tanto en primaria como en secundaria.  En mi experiencia como padre de familia,  tuve la maravillosa oportunidad de pasar por el trabajo de la obra.  Los colegios Torremar y Delta atendieron la formación de mis hijos  que ya se graduaron hace muchos años  y nos dieron un ejemplo de cómo un colegio privado  se preocupa de la formación integral de sus estudiantes,  hombres, varones o damas.  Creo, señor legislador Raúl Chávez,  que usted ha logrado entender una necesidad social  porque el niño, la niña y el adolescente  serán los hombres del futuro  y serán ellos quienes conduzcan a la nación  hacia los derroteros de la paz, de la integración y del progreso.  Esta ley que la hemos estudiado muy de cerca en la comisión  que integro, significa un paso hacia ese enorme océano  en donde esa gota que usted ha contribuido  va a significar el desarrollo de una política pública  que significará atender las grandes necesidades  de las generaciones que están luego de nosotros.  Señor Presidente y señores legisladores,  hago votos porque en el futuro se reconozcan  todos los proyectos de ley sin distingo  de donde vengan, de donde provengan  siempre y cuando estos sean estudiados  con responsabilidad social y con apego estricto  a la norma y a la Constitución.  Muchas gracias, señor Presidente, señores legisladores.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Alejandro Lorenzo Vanegas Cortazar",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "5ybSgyzRdwA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "confidence": 0.75,
+      "votes": {
+        "Alejandro Lorenzo Vanegas Cortazar": 2,
+        "[OOV] S Cortázar": 3
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Alejandro Vanegas - Session 056",
+  "url": "https://www.youtube.com/watch?v=5ybSgyzRdwA",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "5ybSgyzRdwA",
+  "source_url": "https://www.youtube.com/watch?v=5ybSgyzRdwA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Alejandro Lorenzo Vanegas Cortazar",
+      "party": null,
+      "province": null,
+      "total_time": 239.34,
+      "interventions": 1,
+      "word_count": 434
+    }
+  ]
+}
