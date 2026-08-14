@@ -6,10 +6,14 @@ set -uo pipefail
 export XDG_RUNTIME_DIR="/run/user/$(id -u)"
 export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
 
+# yt-dlp needs deno on PATH for its JS-challenge solver — cron's minimal PATH
+# doesn't include it by default.
+export PATH="~/.deno/bin:$PATH"
+
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
-BATCH_LIMIT=40
+BATCH_LIMIT=20
 notify_URL="http://REDACTED:2586/asamblea"
 
 mkdir -p "$REPO_DIR/logs"
@@ -58,6 +62,13 @@ if [ "$DIARIZE_READY" -ne 1 ]; then
     exit 1
 fi
 log "diarization-server ready"
+
+# REDACTED PO-token provider (Docker, --restart unless-stopped) should already be
+# up; nudge it if the daemon or container died since the last run.
+if ! curl -s -m 3 http://127.0.0.1:4416/ping >/dev/null 2>&1; then
+    log "REDACTED-provider not responding, attempting restart"
+    docker start REDACTED-provider >>"$LOG_FILE" 2>&1 || log "docker start REDACTED-provider failed"
+fi
 
 source "$REPO_DIR/.venv/bin/activate"
 
