@@ -149,18 +149,24 @@ def _REDACTED_formats(video_id: str, filter_: str) -> list[dict] | None:
         return None
 
 
-def _curl_download(url: str, dest: Path, timeout: int = 300) -> bool:
-    # googlevideo.com tunnel URLs from this provider have repeatedly stalled
-    # ~90% through in testing — -C - resumes from wherever a prior attempt
-    # left off instead of restarting from zero.
-    for _attempt in range(4):
-        rc = subprocess.call(
-            ["curl", "-sL", "-C", "-", "--connect-timeout", "10", "-A", "Mozilla/5.0",
-             url, "-o", str(dest)],
-            timeout=timeout,
-        )
-        if rc == 0 and dest.exists() and dest.stat().st_size > 50_000:
-            return True
+def _curl_download(url: str, dest: Path, expected_size: int | None = None, per_attempt_timeout: int = 240) -> bool:
+    # This provider's googlevideo.com tunnel is slow (~15-20KB/s observed) and
+    # has repeatedly stalled partway through in testing — -C - resumes from
+    # wherever a prior attempt left off instead of restarting from zero, and
+    # we retry many times since a single attempt often isn't enough for a
+    # multi-minute clip.
+    for _attempt in range(10):
+        try:
+            subprocess.call(
+                ["curl", "-sL", "-C", "-", "--connect-timeout", "10", "-A", "Mozilla/5.0",
+                 url, "-o", str(dest)],
+                timeout=per_attempt_timeout,
+            )
+        except subprocess.TimeoutExpired:
+            pass  # partial file on disk — next loop iteration resumes it
+        if dest.exists() and dest.stat().st_size > 50_000:
+            if expected_size is None or dest.stat().st_size >= expected_size - 1024:
+                return True
         time.sleep(3)
     return False
 
@@ -189,10 +195,10 @@ def download_video_via_REDACTED(video_id: str, out_path: Path) -> Path | None:
     tmp_v = out_path.with_suffix(".REDACTED_v.mp4")
     tmp_a = out_path.with_suffix(".REDACTED_a.m4a")
     try:
-        if not _curl_download(video_fmt["url"], tmp_v):
+        if not _curl_download(video_fmt["url"], tmp_v, video_fmt.get("filesize")):
             log("  REDACTED fallback: video download failed")
             return None
-        if not _curl_download(audio_fmt["url"], tmp_a):
+        if not _curl_download(audio_fmt["url"], tmp_a, audio_fmt.get("filesize")):
             log("  REDACTED fallback: audio download failed")
             return None
         rc = subprocess.call(
