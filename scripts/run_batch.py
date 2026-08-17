@@ -14,6 +14,7 @@ Usage:
 
 import argparse
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -21,6 +22,8 @@ import sys
 import time
 import traceback
 from pathlib import Path
+
+import requests
 
 SESSION_NUM_RE = re.compile(r"[Ss]esi[oó]n\s+(\d+)|[Ss]ession\s+(\d+)")
 
@@ -77,17 +80,19 @@ def download_video(video_id: str) -> Path | None:
     cookies_file = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
     cmd = [
         "yt-dlp",
-        # 720p mp4 + medium m4a. android_vr/ios alone trip "Sign in to confirm
-        # you're not a bot" without cookies; web needs cookies too for SABR
-        # formats. The cookies file is seeded via a stealth browser session
-        # (see docs/runbooks or ask — REDACTED) and yt-dlp keeps it fresh
-        # across runs.
+        # 360p mp4 + medium m4a. Only used for overlay-text OCR (a cropped
+        # band, large high-contrast captions) — 720p buys nothing there and
+        # roughly triples bandwidth for no accuracy gain. android_vr/ios alone
+        # trip "Sign in to confirm you're not a bot" without cookies; web
+        # needs cookies too for SABR formats. The cookies file is seeded via a
+        # stealth browser session (see docs/runbooks or ask — REDACTED)
+        # and yt-dlp keeps it fresh across runs.
         "--extractor-args", "youtube:player_client=android_vr,ios,web",
         # Space out requests — a burst of back-to-back downloads (esp. right
         # after a discovery run's per-video metadata fetches) tripped a
         # YouTube "rate-limited for up to an hour" block on 2026-07-09.
         "--sleep-requests", "2", "--sleep-interval", "3", "--max-sleep-interval", "8",
-        "-f", "136+140/135+140/134+140/18/best[ext=mp4]/best",
+        "-f", "134+140/135+140/18/best[height<=480]/best",
         "--merge-output-format", "mp4",
         "--no-playlist",
         "-o", str(out_path),
@@ -113,13 +118,98 @@ def download_video(video_id: str) -> Path | None:
         except OSError:
             tail = ["(log file missing)"]
         log(f"  yt-dlp failed (rc={rc}): {' | '.join(tail)}")
-        return None
+        log("  falling back to REDACTED downloader")
+        return download_video_via_REDACTED(video_id, out_path)
     # Remove the per-video yt-dlp log on success
     try:
         yt_log.unlink()
     except OSError:
         pass
     return out_path
+
+
+REDACTED_HOST = "REDACTED"
+
+
+def _REDACTED_formats(video_id: str, filter_: str) -> list[dict] | None:
+    key = os.environ.get("REDACTED_KEY")
+    if not key:
+        return None
+    try:
+        r = requests.get(
+            f"https://{REDACTED_HOST}/download",
+            params={"id": video_id, "filter": filter_},
+            headers={"x-api-key": key, "x-api-host": REDACTED_HOST},
+            timeout=20,
+        )
+        r.raise_for_status()
+        data = r.json()
+        return data if isinstance(data, list) else None
+    except (requests.RequestException, ValueError):
+        return None
+
+
+def _curl_download(url: str, dest: Path, timeout: int = 300) -> bool:
+    # googlevideo.com tunnel URLs from this provider have repeatedly stalled
+    # ~90% through in testing — -C - resumes from wherever a prior attempt
+    # left off instead of restarting from zero.
+    for _attempt in range(4):
+        rc = subprocess.call(
+            ["curl", "-sL", "-C", "-", "--connect-timeout", "10", "-A", "Mozilla/5.0",
+             url, "-o", str(dest)],
+            timeout=timeout,
+        )
+        if rc == 0 and dest.exists() and dest.stat().st_size > 50_000:
+            return True
+        time.sleep(3)
+    return False
+
+
+def download_video_via_REDACTED(video_id: str, out_path: Path) -> Path | None:
+    """Fallback for when yt-dlp gets 403'd directly. Runs through a paid
+    REDACTED proxy service instead — costs 2 requests against the monthly
+    quota (video + audio fetched separately, then muxed locally), so this
+    is a last resort, not the default path."""
+    video_formats = _REDACTED_formats(video_id, "videoonly")
+    audio_formats = _REDACTED_formats(video_id, "audioonly")
+    if not video_formats or not audio_formats:
+        log("  REDACTED fallback: no formats returned")
+        return None
+
+    video_fmt = next((f for f in video_formats if f.get("format_id") == "134"), None) \
+        or next((f for f in video_formats if (f.get("height") or 9999) <= 480), None)
+    # Some videos have YouTube's auto-dub enabled — the default audio track
+    # (e.g. "140-0") can be English while "140-1"/similar is the real
+    # Spanish original. Must match on language, never just take formats[0].
+    audio_fmt = next((f for f in audio_formats if (f.get("language") or "").startswith("es")), None)
+    if not video_fmt or not audio_fmt:
+        log("  REDACTED fallback: no suitable video/es-language audio format")
+        return None
+
+    tmp_v = out_path.with_suffix(".REDACTED_v.mp4")
+    tmp_a = out_path.with_suffix(".REDACTED_a.m4a")
+    try:
+        if not _curl_download(video_fmt["url"], tmp_v):
+            log("  REDACTED fallback: video download failed")
+            return None
+        if not _curl_download(audio_fmt["url"], tmp_a):
+            log("  REDACTED fallback: audio download failed")
+            return None
+        rc = subprocess.call(
+            ["ffmpeg", "-y", "-i", str(tmp_v), "-i", str(tmp_a), "-c", "copy", str(out_path)],
+            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=120,
+        )
+        if rc != 0 or not out_path.exists() or out_path.stat().st_size < 100_000:
+            log("  REDACTED fallback: ffmpeg mux failed")
+            return None
+        log("  REDACTED fallback succeeded")
+        return out_path
+    finally:
+        for tmp in (tmp_v, tmp_a):
+            try:
+                tmp.unlink()
+            except OSError:
+                pass
 
 
 def extract_qa_fragment(video_path: Path, video_id: str, duration_hint: float | None) -> None:
