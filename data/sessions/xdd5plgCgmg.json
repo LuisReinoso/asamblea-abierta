@@ -1,0 +1,52 @@
+{
+  "text": "La palabra la asambleísta Nathalie Farinango.  Gracias, señor presidente.  Hemos escuchado el debate y a cada asambleísta con altura y talante democrático,  respetando cada una de las intervenciones.  Esta proforma presupuestaria que tiene fuertes asignaciones en los sectores sociales,  en educación, en salud, y que entiende que la asignación para combatir la inseguridad  no solo debe quedar en nuestra fuerza pública.  Hay que pensar en la inversión, en la reestructuración del tejido social.  Eso es lo que propone esta proforma presupuestaria del año 2026.  Y que nuestro ejercicio como asambleístas no se limita a la aprobación responsable del día de hoy  de la proforma presupuestaria, sino que vendrán más adelante también los ejercicios de fiscalización.  No existe disminución a las universidades públicas, más bien un aumento al FOPEDEUPO  de más de 59 millones de dólares.  Porque creemos en la educación como un motor de desarrollo en nuestro país.  Los que venimos de sectores populares sabemos que nos dan una gran oportunidad de vida  cuando se invierte en educación, cuando se invierte en servicios públicos y en servicios públicos de calidad.  Por eso es que, señor presidente, he enviado a Secretaría General una moción que recomienda  la aprobación de la resolución para aprobar la proforma presupuestaria general del Estado,  así también como las recomendaciones del informe que salió de la Comisión de Régimen Económico Tributario.  Esta proforma es el respeto a los derechos de cada uno de los ciudadanos,  el respeto a nuestros derechos de la Constitución  y sobre todo la responsabilidad que tiene el Gobierno Nacional por los 18 millones de ecuatorianos  y la responsabilidad de los asambleístas que votaremos a favor de esta proforma.  Gracias, señor presidente.",
+  "language": "es",
+  "duration": 113.96,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 113.48,
+      "text": "La palabra la asambleísta Nathalie Farinango.  Gracias, señor presidente.  Hemos escuchado el debate y a cada asambleísta con altura y talante democrático,  respetando cada una de las intervenciones.  Esta proforma presupuestaria que tiene fuertes asignaciones en los sectores sociales,  en educación, en salud, y que entiende que la asignación para combatir la inseguridad  no solo debe quedar en nuestra fuerza pública.  Hay que pensar en la inversión, en la reestructuración del tejido social.  Eso es lo que propone esta proforma presupuestaria del año 2026.  Y que nuestro ejercicio como asambleístas no se limita a la aprobación responsable del día de hoy  de la proforma presupuestaria, sino que vendrán más adelante también los ejercicios de fiscalización.  No existe disminución a las universidades públicas, más bien un aumento al FOPEDEUPO  de más de 59 millones de dólares.  Porque creemos en la educación como un motor de desarrollo en nuestro país.  Los que venimos de sectores populares sabemos que nos dan una gran oportunidad de vida  cuando se invierte en educación, cuando se invierte en servicios públicos y en servicios públicos de calidad.  Por eso es que, señor presidente, he enviado a Secretaría General una moción que recomienda  la aprobación de la resolución para aprobar la proforma presupuestaria general del Estado,  así también como las recomendaciones del informe que salió de la Comisión de Régimen Económico Tributario.  Esta proforma es el respeto a los derechos de cada uno de los ciudadanos,  el respeto a nuestros derechos de la Constitución  y sobre todo la responsabilidad que tiene el Gobierno Nacional por los 18 millones de ecuatorianos  y la responsabilidad de los asambleístas que votaremos a favor de esta proforma.  Gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "xdd5plgCgmg",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "confidence": 1.0,
+      "votes": {
+        "Nathaly Estefanía Farinango Delgado": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblywoman Nathaly Farinango - Session 055",
+  "url": "https://www.youtube.com/watch?v=xdd5plgCgmg",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "xdd5plgCgmg",
+  "source_url": "https://www.youtube.com/watch?v=xdd5plgCgmg",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 113.45,
+      "interventions": 1,
+      "word_count": 278
+    }
+  ]
+}
