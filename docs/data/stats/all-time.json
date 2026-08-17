@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:27:01.100771",
-  "total_sessions": 1106,
+  "generated_at": "2026-08-16T21:18:29.752307",
+  "total_sessions": 1116,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -39,6 +39,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 10504.130000000001,
+      "total_interventions": 102,
+      "sessions_attended": 26,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-INES-MARGARITA-ALARCON-BUENO",
       "name": "Inés Margarita Alarcón Bueno",
       "type": "asambleísta",
@@ -49,18 +61,6 @@
       "total_interventions": 60,
       "sessions_attended": 30,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANDRES-FELIPE-CASTILLO-MALDONADO",
-      "name": "Andrés Felipe Castillo Maldonado",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 9829.930000000002,
-      "total_interventions": 97,
-      "sessions_attended": 25,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
@@ -105,9 +105,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 8083.399999999998,
-      "total_interventions": 40,
-      "sessions_attended": 18,
+      "total_time": 8598.169999999998,
+      "total_interventions": 41,
+      "sessions_attended": 19,
       "topics_discussed": 0
     },
     {
@@ -133,6 +133,18 @@
       "total_interventions": 74,
       "sessions_attended": 23,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 7236.899999999999,
+      "total_interventions": 21,
+      "sessions_attended": 16,
+      "topics_discussed": 0
     },
     {
       "id": "AN-JANETH-PAOLA-CABEZAS-CASTILLO",
@@ -168,18 +180,6 @@
       "total_time": 6956.4800000000005,
       "total_interventions": 21,
       "sessions_attended": 19,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 6919.13,
-      "total_interventions": 15,
-      "sessions_attended": 15,
       "topics_discussed": 0
     },
     {
@@ -411,6 +411,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
+      "name": "Otto Santiago Vera Palacios",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Únete",
+      "province": "Santa Elena",
+      "total_time": 3361.13,
+      "total_interventions": 11,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
       "name": "Liliana Elizabeth Durán Aguilar",
       "type": "asambleísta",
@@ -471,6 +483,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "total_time": 3027.2299999999996,
+      "total_interventions": 13,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-VALENTINA-CENTENO-ARTEAGA",
       "name": "Valentina Centeno Arteaga",
       "type": "asambleísta",
@@ -480,18 +504,6 @@
       "total_time": 2993.8699999999994,
       "total_interventions": 27,
       "sessions_attended": 9,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-OTTO-SANTIAGO-VERA-PALACIOS",
-      "name": "Otto Santiago Vera Palacios",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Únete",
-      "province": "Santa Elena",
-      "total_time": 2991.48,
-      "total_interventions": 10,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -564,18 +576,6 @@
       "total_time": 2664.1600000000003,
       "total_interventions": 6,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
-      "name": "Jahiren Elizabeth Noriega Donoso",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Pichincha Quito Rural",
-      "total_time": 2625.0599999999995,
-      "total_interventions": 12,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -1071,6 +1071,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "DE-LA-ASAMBLEA-NACIONAL",
+      "name": "De La Asamblea Nacional",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 1115.2600000000002,
+      "total_interventions": 32,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-DIEGO-ENRIQUE-SALAS-BARRIGA",
       "name": "Diego Enrique Salas Barriga",
       "type": "asambleísta",
@@ -1128,6 +1140,18 @@
       "total_time": 981.4000000000001,
       "total_interventions": 6,
       "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
+      "id": "RAUL-ARTURO-CHAVEZ-NUNEZ-DEL-ARCO",
+      "name": "Raúl Arturo Chávez Núñez Del Arco",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 980.88,
+      "total_interventions": 1,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1371,15 +1395,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "DE-LA-ASAMBLEA-NACIONAL",
-      "name": "De La Asamblea Nacional",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 660.45,
-      "total_interventions": 16,
-      "sessions_attended": 4,
+      "id": "AN-ROBERTO-EMILIO-CUERO-MEDINA",
+      "name": "Roberto Emilio Cuero Medina",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 674.85,
+      "total_interventions": 2,
+      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -1575,13 +1599,13 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-ROBERTO-EMILIO-CUERO-MEDINA",
-      "name": "Roberto Emilio Cuero Medina",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 440.37,
+      "id": "JOSE-CHIRIBOGA",
+      "name": "José Chiriboga",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 431.78,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1666,6 +1690,18 @@
       "party": "ADN",
       "province": "Guayas",
       "total_time": 330.16,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
+      "id": "BETTY-ALARCON-CHAVEZ",
+      "name": "Betty Alarcón Chávez",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 321.22,
       "total_interventions": 1,
       "sessions_attended": 1,
       "topics_discussed": 0
@@ -1764,6 +1800,18 @@
       "total_time": 267.27000000000004,
       "total_interventions": 12,
       "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
+      "id": "PAOLA-ESCOBAR-MASSUH",
+      "name": "Paola Escobar Massuh",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 260.35,
+      "total_interventions": 1,
+      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1929,9 +1977,9 @@
       "role": null,
       "party": null,
       "province": null,
-      "total_time": 33.39,
-      "total_interventions": 9,
-      "sessions_attended": 2,
+      "total_time": 62.99,
+      "total_interventions": 16,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {

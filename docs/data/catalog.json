@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T05:27:01.838677",
-  "total_sessions": 1106,
+  "generated_at": "2026-08-16T21:18:30.571783",
+  "total_sessions": 1116,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -11470,6 +11470,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "hHOjGByICZA",
+      "title": "Assemblyman Raúl Chávez - Session 056",
+      "date": "",
+      "duration": 981.46,
+      "url": "https://www.youtube.com/watch?v=hHOjGByICZA",
+      "file_path": "data/sessions/hHOjGByICZA.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Rey-u5I94fo",
       "title": "Assemblywoman Viviana Veloz - Session 087",
       "date": "",
@@ -12436,6 +12450,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Q4TxdgwVCmQ",
+      "title": "Assemblywoman Diana Jácome - Session 056",
+      "date": "",
+      "duration": 515.04,
+      "url": "https://www.youtube.com/watch?v=Q4TxdgwVCmQ",
+      "file_path": "data/sessions/Q4TxdgwVCmQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "oj788_NUT7Y",
       "title": "Reconsideration of the vote by Assemblyman Isaac Solano - Session 088",
       "date": "",
@@ -13108,6 +13136,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "gdOSgZ9r1JQ",
+      "title": "Betty Alarcón - Session 056 - General Commission",
+      "date": "",
+      "duration": 331.63,
+      "url": "https://www.youtube.com/watch?v=gdOSgZ9r1JQ",
+      "file_path": "data/sessions/gdOSgZ9r1JQ.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "y-enV8Tg-6E",
       "title": "Assemblyman Luis Molina - Session 091",
       "date": "",
@@ -13402,6 +13444,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "zYnc8VU6wZk",
+      "title": "José Chiriboga - Sesión 056 - Comisión General",
+      "date": "",
+      "duration": 434.86,
+      "url": "https://www.youtube.com/watch?v=zYnc8VU6wZk",
+      "file_path": "data/sessions/zYnc8VU6wZk.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "qqBGWJ7AkgU",
       "title": "Assemblyman Milton Aguas - Session 094 - Change of Agenda",
       "date": "",
@@ -13668,6 +13724,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "hk0WO_RyxWo",
+      "title": "Assemblywoman Jhajaira Urresta - Session 056 - Change of agenda",
+      "date": "",
+      "duration": 867.61,
+      "url": "https://www.youtube.com/watch?v=hk0WO_RyxWo",
+      "file_path": "data/sessions/hk0WO_RyxWo.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "ywaWC4SiPD0",
       "title": "Assemblywoman Nathaly Farinango - Session 085 - Change of agenda",
       "date": "",
@@ -13676,6 +13746,20 @@
       "file_path": "data/sessions/ywaWC4SiPD0.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "qVS-HAYqCcI",
+      "title": "Paola Escobar - Sesión 056 - Comisión General",
+      "date": "",
+      "duration": 283.42,
+      "url": "https://www.youtube.com/watch?v=qVS-HAYqCcI",
+      "file_path": "data/sessions/qVS-HAYqCcI.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -13830,6 +13914,20 @@
       "file_path": "data/sessions/BuWDTPQl8Hw.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "DP4hzmKbtzg",
+      "title": "Asambleísta Otto Vera - Sesión 056",
+      "date": "",
+      "duration": 370.89,
+      "url": "https://www.youtube.com/watch?v=DP4hzmKbtzg",
+      "file_path": "data/sessions/DP4hzmKbtzg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -14424,6 +14522,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "yqz8hYGpK8Y",
+      "title": "Assemblyman Jahiren Noriega - Session 056",
+      "date": "",
+      "duration": 406.05,
+      "url": "https://www.youtube.com/watch?v=yqz8hYGpK8Y",
+      "file_path": "data/sessions/yqz8hYGpK8Y.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "5ybSgyzRdwA",
       "title": "Assemblyman Alejandro Vanegas - Session 056",
       "date": "",
@@ -14516,6 +14628,20 @@
       "file_path": "data/sessions/_O7_Gyhig6E.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ns23PEjDh7c",
+      "title": "Assemblyman Andrés Castillo - Session 056 - Change of agenda",
+      "date": "",
+      "duration": 968.51,
+      "url": "https://www.youtube.com/watch?v=ns23PEjDh7c",
+      "file_path": "data/sessions/ns23PEjDh7c.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -14768,6 +14894,20 @@
       "file_path": "data/sessions/tHdsj2zt6BE.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "X-qC7GVpBeY",
+      "title": "Assemblyman Roberto Cuero - Session 056 - Change of agenda",
+      "date": "",
+      "duration": 615.72,
+      "url": "https://www.youtube.com/watch?v=X-qC7GVpBeY",
+      "file_path": "data/sessions/X-qC7GVpBeY.json",
+      "video_type": "clip",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
