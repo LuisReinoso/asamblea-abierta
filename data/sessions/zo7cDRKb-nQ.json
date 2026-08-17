@@ -1,0 +1,51 @@
+{
+  "text": "Y conforme a lo dispuesto en el artículo 135 de la Ley Orgánica de la Función Legislativa, presento la siguiente moción.  Moción. Aprobar el siguiente proyecto de resolución para el inicio de un proceso de fiscalización integral a través de la Agencia Nacional de Tránsito y el Consejo Nacional de Competencias a las entidades municipales encargadas del tránsito,  respecto de las presuntas emisiones ilegales de matrículas vehiculares atribuibles a grupos de delincuencia organizada.  Adjunto al presente la resolución para conocimiento del Pleno de la Asamblea Nacional, consentimientos de distinguida consideración.  Atentamente, señor José Luis Nango Cují, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta Secretaría. Gracias.  Cierre el registro, señor Secretario.  Me permito informar, señor Presidente, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta, José Nango.  Señoras y señores asambleístas, por favor consignar su voto.  Proclame el resultado, señor Secretario.  Señor operador presente, los resultados.  Señor Presidente, me permito informar que de un total de 148 asambleístas presentes, contamos con 83 votos afirmativos, 64 negativos, 0 blancos, 1 abstención.  Por tanto, la moción presentada por el asambleísta, José Nango, ha sido aprobada.  Señor Presidente, me permito informar que de un total de 148 asambleístas presentes, contamos con 83 votos afirmativos, 0 blancos, 0 blancos, 0 blancos, 0 blancos.",
+  "language": "es",
+  "duration": 381.69,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 376.5,
+      "text": "Y conforme a lo dispuesto en el artículo 135 de la Ley Orgánica de la Función Legislativa, presento la siguiente moción.  Moción. Aprobar el siguiente proyecto de resolución para el inicio de un proceso de fiscalización integral a través de la Agencia Nacional de Tránsito y el Consejo Nacional de Competencias a las entidades municipales encargadas del tránsito,  respecto de las presuntas emisiones ilegales de matrículas vehiculares atribuibles a grupos de delincuencia organizada.  Adjunto al presente la resolución para conocimiento del Pleno de la Asamblea Nacional, consentimientos de distinguida consideración.  Atentamente, señor José Luis Nango Cují, asambleísta.  Hasta aquí la lectura de la moción. Procedo a tomar votación.  Señoras y señores asambleístas, por favor registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor informar a esta Secretaría. Gracias.  Cierre el registro, señor Secretario.  Me permito informar, señor Presidente, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta, José Nango.  Señoras y señores asambleístas, por favor consignar su voto.  Proclame el resultado, señor Secretario.  Señor operador presente, los resultados.  Señor Presidente, me permito informar que de un total de 148 asambleístas presentes, contamos con 83 votos afirmativos, 64 negativos, 0 blancos, 1 abstención.  Por tanto, la moción presentada por el asambleísta, José Nango, ha sido aprobada.  Señor Presidente, me permito informar que de un total de 148 asambleístas presentes, contamos con 83 votos afirmativos, 0 blancos, 0 blancos, 0 blancos, 0 blancos.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.9348,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "zo7cDRKb-nQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voting on the motion of Assemblyman José Nango - Session 053",
+  "url": "https://www.youtube.com/watch?v=zo7cDRKb-nQ",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "zo7cDRKb-nQ",
+  "source_url": "https://www.youtube.com/watch?v=zo7cDRKb-nQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 376.47,
+      "interventions": 1,
+      "word_count": 248
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "marco el medo muchísimas gracias señorita presidenta colegas asambleístas pedido la  palabra para efectivamente poder hablar un poquito de lo que es el ordenamiento territorial pero  sobre todo de la gente la gente de cotopaxi que hoy día nos acompañan desde las barras altas  para quien pido un fuerte aplauso gracias cotopaxi por estar presente gracias por haberme acompañado  a través de la diferencia que ustedes tuvieron el día de hoy en la presentación de un proyecto de ley  de verdad este proyecto realmente es importante para que nos conectemos los asambleístas con  ustedes los ciudadanos de hecho nosotros somos la razón de existir porque ustedes lo decidieron  así así es que señorita presidenta muchísimas gracias por permitirme el uso de la palabra y  otra vez gracias cotopaxi por estar presente gracias por creer en la democracia y gracias  por estar aquí el día de hoy en la asamblea nacional muchísimas gracias a todos ustedes",
+  "language": "es",
+  "duration": 73.97,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 72.46,
+      "text": "marco el medo muchísimas gracias señorita presidenta colegas asambleístas pedido la  palabra para efectivamente poder hablar un poquito de lo que es el ordenamiento territorial pero  sobre todo de la gente la gente de cotopaxi que hoy día nos acompañan desde las barras altas  para quien pido un fuerte aplauso gracias cotopaxi por estar presente gracias por haberme acompañado  a través de la diferencia que ustedes tuvieron el día de hoy en la presentación de un proyecto de ley  de verdad este proyecto realmente es importante para que nos conectemos los asambleístas con  ustedes los ciudadanos de hecho nosotros somos la razón de existir porque ustedes lo decidieron  así así es que señorita presidenta muchísimas gracias por permitirme el uso de la palabra y  otra vez gracias cotopaxi por estar presente gracias por creer en la democracia y gracias  por estar aquí el día de hoy en la asamblea nacional muchísimas gracias a todos ustedes",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Marco Patricio Olmedo Arias",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "X28lm0A9rq0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Marco Patricio Olmedo Arias",
+      "confidence": 1.0,
+      "votes": {
+        "Marco Patricio Olmedo Arias": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Marco Olmedo - Sesión 054",
+  "url": "https://www.youtube.com/watch?v=X28lm0A9rq0",
+  "published_at": "2025-11-26T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "X28lm0A9rq0",
+  "date": "2025-11-26T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=X28lm0A9rq0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Marco Patricio Olmedo Arias",
+      "party": null,
+      "province": null,
+      "total_time": 72.43,
+      "interventions": 1,
+      "word_count": 155
+    }
+  ]
+}
