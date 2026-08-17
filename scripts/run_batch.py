@@ -21,6 +21,7 @@ import subprocess
 import sys
 import time
 import traceback
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import requests
@@ -195,10 +196,18 @@ def download_video_via_REDACTED(video_id: str, out_path: Path) -> Path | None:
     tmp_v = out_path.with_suffix(".REDACTED_v.mp4")
     tmp_a = out_path.with_suffix(".REDACTED_a.m4a")
     try:
-        if not _curl_download(video_fmt["url"], tmp_v, video_fmt.get("filesize")):
+        # This provider's transfer speed (~15-20KB/s) is the actual bottleneck,
+        # not sequencing — running video+audio concurrently roughly halves
+        # wall-clock time since they're two independent HTTP transfers.
+        with ThreadPoolExecutor(max_workers=2) as pool:
+            fv = pool.submit(_curl_download, video_fmt["url"], tmp_v, video_fmt.get("filesize"))
+            fa = pool.submit(_curl_download, audio_fmt["url"], tmp_a, audio_fmt.get("filesize"))
+            video_ok = fv.result()
+            audio_ok = fa.result()
+        if not video_ok:
             log("  REDACTED fallback: video download failed")
             return None
-        if not _curl_download(audio_fmt["url"], tmp_a, audio_fmt.get("filesize")):
+        if not audio_ok:
             log("  REDACTED fallback: audio download failed")
             return None
         rc = subprocess.call(
