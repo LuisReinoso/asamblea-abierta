@@ -77,6 +77,14 @@ def download_video(video_id: str) -> Path | None:
         except OSError:
             pass
 
+    # Set while our IP is 403-blocked on yt-dlp's direct googlevideo.com path:
+    # every failed direct attempt is still a request YouTube's anti-bot sees
+    # from this IP, and may be reinforcing/extending the block. Skip straight
+    # to the REDACTED fallback instead of poking it first.
+    if os.environ.get("SKIP_DIRECT_DOWNLOAD"):
+        log("  SKIP_DIRECT_DOWNLOAD set, going straight to REDACTED")
+        return download_video_via_REDACTED(video_id, out_path)
+
     url = f"https://www.youtube.com/watch?v={video_id}"
     cookies_file = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
     cmd = [
