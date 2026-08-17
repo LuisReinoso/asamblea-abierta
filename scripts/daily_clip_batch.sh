@@ -10,6 +10,13 @@ export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
 # doesn't include it by default.
 export PATH="~/.deno/bin:$PATH"
 
+# run_batch.py's REDACTED download fallback needs this — cron doesn't source
+# ~/.bashrc where it's normally exported.
+if [ -z "${REDACTED_KEY:-}" ] && [ -f "$HOME/.bashrc" ]; then
+    REDACTED_KEY=$(grep -oP '(?<=REDACTED_KEY=")[^"]*' "$HOME/.bashrc" | head -1)
+    export REDACTED_KEY
+fi
+
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
