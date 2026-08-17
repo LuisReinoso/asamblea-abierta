@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T23:56:54.936586",
-  "total_sessions": 1156,
+  "generated_at": "2026-08-17T00:16:51.898330",
+  "total_sessions": 1161,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -8277,6 +8277,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "t3M0cf7Ed_8",
+      "title": "Asambleísta Ana Raffo - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 339.67,
+      "url": "https://www.youtube.com/watch?v=t3M0cf7Ed_8",
+      "file_path": "data/sessions/t3M0cf7Ed_8.json",
+      "video_type": "clip",
+      "speaker_count": 5,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "h7MPyBUIZ-0",
       "title": "Asambleísta Mónica Salazar - Sesión 064",
       "date": "2026-01-22T00:00:00Z",
@@ -8347,12 +8361,54 @@
       "bills_mentioned": 0
     },
     {
+      "id": "WKkqNyMZzUI",
+      "title": "Votación de la moción del asambleísta Alex Morán - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 551.03,
+      "url": "https://www.youtube.com/watch?v=WKkqNyMZzUI",
+      "file_path": "data/sessions/WKkqNyMZzUI.json",
+      "video_type": "clip",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "nOObB788WuU",
+      "title": "Asambleísta Francisco Cevallos - Sesión 051 - II Intervención",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 497.46,
+      "url": "https://www.youtube.com/watch?v=nOObB788WuU",
+      "file_path": "data/sessions/nOObB788WuU.json",
+      "video_type": "clip",
+      "speaker_count": 5,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "2hgCo5dR0hg",
       "title": "Votación de la moción del asambleísta Blasco Luna - Sesión 064",
       "date": "2026-01-22T00:00:00Z",
       "duration": 208.91,
       "url": "https://www.youtube.com/watch?v=2hgCo5dR0hg",
       "file_path": "data/sessions/2hgCo5dR0hg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "-aYPviQ7UVA",
+      "title": "Asambleísta Alex Morán - Sesión 051 - II Intervención",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 43.51,
+      "url": "https://www.youtube.com/watch?v=-aYPviQ7UVA",
+      "file_path": "data/sessions/-aYPviQ7UVA.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -8395,6 +8451,20 @@
       "duration": 655.2,
       "url": "https://www.youtube.com/watch?v=kJ9g5JLQw3Q",
       "file_path": "data/sessions/kJ9g5JLQw3Q.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EJ-0XmxxLug",
+      "title": "Asambleísta Adrian Castro - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 340.59,
+      "url": "https://www.youtube.com/watch?v=EJ-0XmxxLug",
+      "file_path": "data/sessions/EJ-0XmxxLug.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],

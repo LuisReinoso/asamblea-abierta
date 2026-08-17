@@ -1,0 +1,53 @@
+{
+  "text": "Señor Presidente, envié por los medios correspondientes la resolución para que tome votación, cuando lo crea pertinente,  sin antes dar unas palabras de agradecimiento a quienes acompañaron esta iniciativa  de poder una vez por todas poner la dada en la llaga y ver en los municipios inoperantes  que no hacen nada por la salud de los ecuatorianos, porque recordemos que la agua, como lo dijeron, es un derecho público.  El agua es un derecho público y, obviamente, quienes no actúan, pero nosotros estamos aquí para actuar por ellos.  Señor Presidente, cuando lo crea pertinente, que tome votación.",
+  "language": "es",
+  "duration": 43.51,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.07,
+      "end": 41.46,
+      "text": "Señor Presidente, envié por los medios correspondientes la resolución para que tome votación, cuando lo crea pertinente,  sin antes dar unas palabras de agradecimiento a quienes acompañaron esta iniciativa  de poder una vez por todas poner la dada en la llaga y ver en los municipios inoperantes  que no hacen nada por la salud de los ecuatorianos, porque recordemos que la agua, como lo dijeron, es un derecho público.  El agua es un derecho público y, obviamente, quienes no actúan, pero nosotros estamos aquí para actuar por ellos.  Señor Presidente, cuando lo crea pertinente, que tome votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Alex Moran Galarza",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "-aYPviQ7UVA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Alex Moran Galarza",
+      "confidence": 1.0,
+      "votes": {
+        "Alex Moran Galarza": 3
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Alex Morán - Sesión 051 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=-aYPviQ7UVA",
+  "published_at": "2026-01-22T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "-aYPviQ7UVA",
+  "date": "2026-01-22T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=-aYPviQ7UVA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Alex Moran Galarza",
+      "party": null,
+      "province": null,
+      "total_time": 38.39,
+      "interventions": 1,
+      "word_count": 97
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "text": "Se cierra el debate. Señor secretario, certifique si la moción presentada por el asambleista Alex Morán ha sido ingresada por escrito. Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría. Señoras asambleístas, tiene apoyo a la moción.  Señor secretario, dé lectura a la moción presentada.  Tome votación, por favor. Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número AN-MGAS-2026-0006-M de 22 de enero de 2026.  Asunto, moción de aprobación de resolución dentro del punto, iniciar un proceso de fiscalización sobre la gestión de residuos y manejo del agua de las principales ciudades del país.  De mi consideración, en mi calidad de asambleísta de la República del Ecuador por la provincia del Guayas y en ejercicio de las facultades que me confiere el artículo 135 de la Ley Orgánica de la Función Legislativa,  respecto de la convocatoria a la continuación de la sesión número 051-AN-2025-2029, convocada para el jueves 22 de enero de 2026 a las 10 horas,  y en virtud de haberse aprobado el cambio de orden del día en dicha sesión, para incluir el punto,  iniciar un proceso de fiscalización sobre la gestión de residuos y manejo del agua de las principales ciudades del país,  tengo a bien proponer la siguiente moción para que sea sometida a votación.  Aprobar el contenido de la resolución en la cual, en su parte pertinente, resuelve artículo 1.  Exhortar a la Contraloría General del Estado para que realice de manera inmediata exámenes especiales a la empresa Interagua  y a la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil, emapag.ep,  y los organismos encargados de la gestión de residuos y manejo del agua de las principales ciudades del país.  El objetivo de dichas auditorías será verificar el cumplimiento de las inversiones en infraestructura  y mantenimiento establecidas en el contrato de concesión del servicio de agua potable y alcantarillado,  así como examinar el uso y destino de los fondos recaudados mediante las tarifas cobradas a los usuarios.  Artículo 2º.  Instar al Ministerio de Ambiente y Energía a reforzar y ampliar los mecanismos de monitoreo y control  de la calidad de agua potable en la ciudad de Guayaquil y las principales ciudades del país  mediante la realización de pruebas independientes, aleatorias y periódicas a cargo de los laboratorios certificados  bajo la supervisión de la Agencia de Regulación y Control del Agua, ARCA.  Artículo 3º.  Exhortar al gobierno autónomo descentralizado del Cantón Guayaquil, municipio de Guayaquil,  y a los gobiernos autónomos descentralizados de los principales cantones del país,  así como a sus entidades delegadas, la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil,  MAPAG.EP, la Concesionaria Interagua y demás,  para que presenten informes trimestrales detallados ante la Asamblea Nacional  y pongan dichos informes en conocimiento de la ciudadanía.  Estos informes deberán contener al menos la siguiente información.  Indicadores actualizados sobre la calidad del agua distribuida,  con sus parámetros técnicos y resultados de análisis.  Segundo, un detalle de las intervenciones ejecutadas en el periodo y del presupuesto utilizado.  Y tercero, el grado de cumplimiento de los planes de mantenimiento y operación  del sistema de agua potable y alcantarillado.  Estos reportes deberán ser de libre acceso público  y servirán de base para la rendición de cuentas y las acciones de fiscalización que correspondan.  Artículo 4º.  Disponer que la Secretaría General de la Asamblea Nacional remita oficialmente  la presente resolución a la Contraloría General del Estado,  al Ministerio de Ambiente y Energía, al Gobierno Autónomo Descentralizado del Cantón Guayaquil,  Municipio de Guayaquil, y a los gobiernos autónomos descentralizados  de los principales cantones del país, así como de sus entidades delegadas,  la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil,  EMAPAG, EP, la Concesionaria Interagua y demás,  a fin de que, en el marco de sus competencias constitucionales y legales,  adopten las acciones que estimen pertinentes.  Se adjunta al presente memorando el proyecto de resolución correspondiente,  con sentimientos de distinguida consideración atentamente,  señor Alex Steven Morán Galarza, asambleísta.  Hasta aquí la lectura de la moción, señor presidente, procedo a tomar votación.  Señoras y señores asambleístas, por favor,  registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  ¡Gracias! Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Alex Morán.  Señoras y señores asambleístas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador, presente los resultados. Señor presidente, me permite informar que de un total de 148 asambleístas presentes contamos con 77 votos afirmativos, 62 negativos, 0 blancos, 9 abstenciones.  Por tanto, la moción presentada por el asambleísta Alex Morán ha sido aprobada. Gracias.",
+  "language": "es",
+  "duration": 551.03,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 5.63,
+      "text": "Se cierra el debate. Señor secretario, certifique si la moción presentada por el asambleista Alex Morán ha sido ingresada por escrito.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "La Asamblea Nacional",
+        "confidence": 0.8671,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 6.17,
+      "end": 10.0,
+      "text": "Sí, señor presidente. La moción ha sido ingresada por escrito a esta secretaría.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8908,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.8,
+      "end": 19.77,
+      "text": "Señoras asambleístas, tiene apoyo a la moción.  Señor secretario, dé lectura a la moción presentada.  Tome votación, por favor.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "La Asamblea Nacional",
+        "confidence": 0.8671,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 19.94,
+      "end": 246.46,
+      "text": "Procedo a dar lectura y tomar votación de la moción presentada mediante memorando número AN-MGAS-2026-0006-M de 22 de enero de 2026.  Asunto, moción de aprobación de resolución dentro del punto, iniciar un proceso de fiscalización sobre la gestión de residuos y manejo del agua de las principales ciudades del país.  De mi consideración, en mi calidad de asambleísta de la República del Ecuador por la provincia del Guayas y en ejercicio de las facultades que me confiere el artículo 135 de la Ley Orgánica de la Función Legislativa,  respecto de la convocatoria a la continuación de la sesión número 051-AN-2025-2029, convocada para el jueves 22 de enero de 2026 a las 10 horas,  y en virtud de haberse aprobado el cambio de orden del día en dicha sesión, para incluir el punto,  iniciar un proceso de fiscalización sobre la gestión de residuos y manejo del agua de las principales ciudades del país,  tengo a bien proponer la siguiente moción para que sea sometida a votación.  Aprobar el contenido de la resolución en la cual, en su parte pertinente, resuelve artículo 1.  Exhortar a la Contraloría General del Estado para que realice de manera inmediata exámenes especiales a la empresa Interagua  y a la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil, emapag.ep,  y los organismos encargados de la gestión de residuos y manejo del agua de las principales ciudades del país.  El objetivo de dichas auditorías será verificar el cumplimiento de las inversiones en infraestructura  y mantenimiento establecidas en el contrato de concesión del servicio de agua potable y alcantarillado,  así como examinar el uso y destino de los fondos recaudados mediante las tarifas cobradas a los usuarios.  Artículo 2º.  Instar al Ministerio de Ambiente y Energía a reforzar y ampliar los mecanismos de monitoreo y control  de la calidad de agua potable en la ciudad de Guayaquil y las principales ciudades del país  mediante la realización de pruebas independientes, aleatorias y periódicas a cargo de los laboratorios certificados  bajo la supervisión de la Agencia de Regulación y Control del Agua, ARCA.  Artículo 3º.  Exhortar al gobierno autónomo descentralizado del Cantón Guayaquil, municipio de Guayaquil,  y a los gobiernos autónomos descentralizados de los principales cantones del país,  así como a sus entidades delegadas, la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil,  MAPAG.EP, la Concesionaria Interagua y demás,  para que presenten informes trimestrales detallados ante la Asamblea Nacional  y pongan dichos informes en conocimiento de la ciudadanía.  Estos informes deberán contener al menos la siguiente información.  Indicadores actualizados sobre la calidad del agua distribuida,  con sus parámetros técnicos y resultados de análisis.  Segundo, un detalle de las intervenciones ejecutadas en el periodo y del presupuesto utilizado.  Y tercero, el grado de cumplimiento de los planes de mantenimiento y operación  del sistema de agua potable y alcantarillado.  Estos reportes deberán ser de libre acceso público  y servirán de base para la rendición de cuentas y las acciones de fiscalización que correspondan.  Artículo 4º.  Disponer que la Secretaría General de la Asamblea Nacional remita oficialmente  la presente resolución a la Contraloría General del Estado,  al Ministerio de Ambiente y Energía, al Gobierno Autónomo Descentralizado del Cantón Guayaquil,  Municipio de Guayaquil, y a los gobiernos autónomos descentralizados  de los principales cantones del país, así como de sus entidades delegadas,  la Empresa Pública Municipal de Agua Potable y Alcantarillado de Guayaquil,  EMAPAG, EP, la Concesionaria Interagua y demás,  a fin de que, en el marco de sus competencias constitucionales y legales,  adopten las acciones que estimen pertinentes.  Se adjunta al presente memorando el proyecto de resolución correspondiente,  con sentimientos de distinguida consideración atentamente,  señor Alex Steven Morán Galarza, asambleísta.  Hasta aquí la lectura de la moción, señor presidente, procedo a tomar votación.  Señoras y señores asambleístas, por favor,  registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría.  ¡Gracias!",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8908,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 440.13,
+      "end": 441.82,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "La Asamblea Nacional",
+        "confidence": 0.8671,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 443.24,
+      "end": 457.33,
+      "text": "Me permito informar, señor presidente, que contamos con 148 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Alex Morán.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8908,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 529.64,
+      "end": 531.53,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "La Asamblea Nacional",
+        "confidence": 0.8671,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 532.67,
+      "end": 550.07,
+      "text": "Señor operador, presente los resultados. Señor presidente, me permite informar que de un total de 148 asambleístas presentes contamos con 77 votos afirmativos, 62 negativos, 0 blancos, 9 abstenciones.  Por tanto, la moción presentada por el asambleísta Alex Morán ha sido aprobada.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8908,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 8,
+      "start": 550.46,
+      "end": 550.98,
+      "text": "Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "La Asamblea Nacional",
+        "confidence": 0.8671,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "WKkqNyMZzUI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Mblea Nacional": 1
+      },
+      "samples": 22,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Alex Morán - Sesión 051",
+  "url": "https://www.youtube.com/watch?v=WKkqNyMZzUI",
+  "published_at": "2026-01-22T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "WKkqNyMZzUI",
+  "date": "2026-01-22T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=WKkqNyMZzUI",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 261.84,
+      "interventions": 4,
+      "word_count": 739
+    },
+    {
+      "id": "speaker_0",
+      "name": "La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 15.67,
+      "interventions": 5,
+      "word_count": 50
+    }
+  ]
+}

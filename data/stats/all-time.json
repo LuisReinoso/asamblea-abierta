@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T23:56:54.672037",
-  "total_sessions": 1156,
+  "generated_at": "2026-08-17T00:16:51.655708",
+  "total_sessions": 1161,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "PSC",
       "province": "Nacional",
-      "total_time": 12799.91,
-      "total_interventions": 34,
-      "sessions_attended": 24,
+      "total_time": 12808.47,
+      "total_interventions": 35,
+      "sessions_attended": 25,
       "topics_discussed": 0
     },
     {
@@ -135,6 +135,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
+      "name": "Adrián Ernesto Castro Piedra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Azuay",
+      "total_time": 7516.66,
+      "total_interventions": 48,
+      "sessions_attended": 24,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
       "name": "Jhajaira Estefanía Urresta Guzmán",
       "type": "asambleísta",
@@ -145,18 +157,6 @@
       "total_interventions": 21,
       "sessions_attended": 16,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
-      "name": "Adrián Ernesto Castro Piedra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Azuay",
-      "total_time": 7180.75,
-      "total_interventions": 47,
-      "sessions_attended": 23,
-      "topics_discussed": 3
     },
     {
       "id": "AN-SERGIO-JESUS-PENA-VELOZ",
@@ -651,6 +651,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "DE-LA-ASAMBLEA-NACIONAL",
+      "name": "De La Asamblea Nacional",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 2469.9,
+      "total_interventions": 53,
+      "sessions_attended": 15,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SAMUEL-ELIAS-CELLERI-GOMEZ",
       "name": "Samuel Elías Celleri Gómez",
       "type": "asambleísta",
@@ -675,18 +687,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "DE-LA-ASAMBLEA-NACIONAL",
-      "name": "De La Asamblea Nacional",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 2208.06,
-      "total_interventions": 49,
-      "sessions_attended": 14,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-CHRISTOPHER-MANUEL-JARAMILLO-GOMEZ",
       "name": "Christopher Manuel Jaramillo Gómez",
       "type": "asambleísta",
@@ -708,6 +708,18 @@
       "total_time": 2136.21,
       "total_interventions": 36,
       "sessions_attended": 11,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ANA-MARIA-RAFFO-GUEVARA",
+      "name": "Ana María Raffo Guevara",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 2088.23,
+      "total_interventions": 12,
+      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -783,6 +795,18 @@
       "topics_discussed": 3
     },
     {
+      "id": "AN-DIEGO-MARTIN-FRANCO-HANZE",
+      "name": "Diego Martín Franco Hanze",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Manabí",
+      "total_time": 1869.52,
+      "total_interventions": 13,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
       "name": "Isaac Vladimir Solano Calle",
       "type": "asambleísta",
@@ -795,18 +819,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-DIEGO-MARTIN-FRANCO-HANZE",
-      "name": "Diego Martín Franco Hanze",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Manabí",
-      "total_time": 1857.96,
-      "total_interventions": 10,
-      "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
       "id": "PRESIDENTA-TRIBUNAL-CONTENCIOSO",
       "name": "Presidenta Tribunal Contencioso",
       "type": "desconocido",
@@ -816,18 +828,6 @@
       "total_time": 1857.53,
       "total_interventions": 1,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-MARIA-RAFFO-GUEVARA",
-      "name": "Ana María Raffo Guevara",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 1851.81,
-      "total_interventions": 4,
-      "sessions_attended": 4,
       "topics_discussed": 0
     },
     {
@@ -1143,6 +1143,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 1019.7900000000001,
+      "total_interventions": 7,
+      "sessions_attended": 7,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JORGE-EDMUNDO-CERDA-TAPUY",
       "name": "Jorge Edmundo Cerda Tapuy",
       "type": "asambleísta",
@@ -1152,18 +1164,6 @@
       "total_time": 997.25,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ALEX-MORAN-GALARZA",
-      "name": "Alex Moran Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 981.4000000000001,
-      "total_interventions": 6,
-      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -1527,6 +1527,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-FRANCISCO-ANDRES-CEVALLOS-MACIAS",
+      "name": "Francisco Andrés Cevallos Macías",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 531.76,
+      "total_interventions": 11,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-LEDY-ANDREA-ZUNIGA-ROCHA",
       "name": "Ledy Andrea Zúñiga Rocha",
       "type": "asambleísta",
@@ -1707,18 +1719,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-FRANCISCO-ANDRES-CEVALLOS-MACIAS",
-      "name": "Francisco Andrés Cevallos Macías",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 330.16,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "BETTY-ALARCON-CHAVEZ",
       "name": "Betty Alarcón Chávez",
       "type": "desconocido",
@@ -1887,6 +1887,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "LA-ASAMBLEA-NACIONAL",
+      "name": "La Asamblea Nacional",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 197.26,
+      "total_interventions": 41,
+      "sessions_attended": 9,
+      "topics_discussed": 0
+    },
+    {
       "id": "AMBLEA-NACIONAL",
       "name": "Amblea Nacional",
       "type": "desconocido",
@@ -1896,18 +1908,6 @@
       "total_time": 177.58,
       "total_interventions": 4,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "LA-ASAMBLEA-NACIONAL",
-      "name": "La Asamblea Nacional",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 167.66,
-      "total_interventions": 31,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -1965,9 +1965,9 @@
       "role": null,
       "party": null,
       "province": null,
-      "total_time": 79.67,
-      "total_interventions": 3,
-      "sessions_attended": 2,
+      "total_time": 90.52,
+      "total_interventions": 4,
+      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -2083,8 +2083,8 @@
     },
     {
       "month": "2026-01",
-      "sessions_count": 139,
-      "total_duration": 89614.60999999997,
+      "sessions_count": 144,
+      "total_duration": 91386.86999999997,
       "unique_speakers": 18,
       "unique_topics": 3
     },
