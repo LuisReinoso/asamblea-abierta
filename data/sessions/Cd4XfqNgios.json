@@ -1,0 +1,95 @@
+{
+  "text": "Señor Presidente, buenas tardes. Buenas tardes a la gente que nos ve, a todos nuestros colegas legisladores.  A ver, yo preferiría que antes de decir o hablar de competencias, mejor leamos la Constitución.  Y quisiera que el señor Secretario, si me permite, señor Presidente, pudiera leer en voz alta el artículo 120, numeral 9,  para que no digan que soy yo el que se inventa las cosas, sino que la Constitución sea la que hable. Autorizado.  Artículo 120, numeral 9 de la Constitución de la República del Ecuador.  Artículo 120. La Asamblea Nacional tendrá las siguientes atribuciones y deberes, además de las que determina la ley.  9. Fiscalizar los actos de las funciones ejecutiva, electoral y de transparencia y control social  y los otros órganos del poder público y requerir a las servidoras y servidores públicos las informaciones que considere necesarias. Señor Presidente, servidores y servidoras públicas.  Ahora vamos al artículo 229, cuál es el concepto de los servidores y servidoras públicas.  Las servidoras y servidores públicos son las personas que trabajan en el sector público,  bajo cualquier modalidad de nombramiento, contrato o relación laboral.  Incluye función ejecutiva, legislativa, judicial, función de transparencia y control social, función electoral, GATS.  GATS, eso dice el artículo, para que lo lean.  Empresas públicas, entidades creadas por la Constitución o la Ley para Prestación de Servicios Públicos o el ejercicio de competencias estatales.  Señor Presidente, aquí muchas veces no leemos la ley y decimos que no podemos pedirle información a entidades como los GATS porque no tenemos competencias.  Y recordemos que según el artículo 425 hay algo llamado jerarquía de la norma, la famosa pirámide de Kelsen.  En el artículo 425.  Y adivinen cuál es la norma que está por encima de cualquier ley de los GATS, del COA, etcétera, etcétera.  La Constitución.  Mi palabra, señor Presidente.  La Constitución ha hablado.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 133.39,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.32,
+      "end": 23.05,
+      "text": "Señor Presidente, buenas tardes. Buenas tardes a la gente que nos ve, a todos nuestros colegas legisladores.  A ver, yo preferiría que antes de decir o hablar de competencias, mejor leamos la Constitución.  Y quisiera que el señor Secretario, si me permite, señor Presidente, pudiera leer en voz alta el artículo 120, numeral 9,  para que no digan que soy yo el que se inventa las cosas, sino que la Constitución sea la que hable.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Sergio Jesús Peña Veloz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 23.69,
+      "end": 54.28,
+      "text": "Autorizado.  Artículo 120, numeral 9 de la Constitución de la República del Ecuador.  Artículo 120. La Asamblea Nacional tendrá las siguientes atribuciones y deberes, además de las que determina la ley.  9. Fiscalizar los actos de las funciones ejecutiva, electoral y de transparencia y control social  y los otros órganos del poder público y requerir a las servidoras y servidores públicos las informaciones que considere necesarias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Sergio Jesús Peña Veloz",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 55.72,
+      "end": 130.49,
+      "text": "Señor Presidente, servidores y servidoras públicas.  Ahora vamos al artículo 229, cuál es el concepto de los servidores y servidoras públicas.  Las servidoras y servidores públicos son las personas que trabajan en el sector público,  bajo cualquier modalidad de nombramiento, contrato o relación laboral.  Incluye función ejecutiva, legislativa, judicial, función de transparencia y control social, función electoral, GATS.  GATS, eso dice el artículo, para que lo lean.  Empresas públicas, entidades creadas por la Constitución o la Ley para Prestación de Servicios Públicos o el ejercicio de competencias estatales.  Señor Presidente, aquí muchas veces no leemos la ley y decimos que no podemos pedirle información a entidades como los GATS porque no tenemos competencias.  Y recordemos que según el artículo 425 hay algo llamado jerarquía de la norma, la famosa pirámide de Kelsen.  En el artículo 425.  Y adivinen cuál es la norma que está por encima de cualquier ley de los GATS, del COA, etcétera, etcétera.  La Constitución.  Mi palabra, señor Presidente.  La Constitución ha hablado.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Sergio Jesús Peña Veloz",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "Cd4XfqNgios",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Sergio Jesús Peña Veloz",
+      "confidence": 1.0,
+      "votes": {
+        "Sergio Jesús Peña Veloz": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "Sergio Jesús Peña Veloz",
+      "confidence": 1.0,
+      "votes": {
+        "Sergio Jesús Peña Veloz": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Assemblyman Sergio Peña - Session 053",
+  "url": "https://www.youtube.com/watch?v=Cd4XfqNgios",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "Cd4XfqNgios",
+  "source_url": "https://www.youtube.com/watch?v=Cd4XfqNgios",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Sergio Jesús Peña Veloz",
+      "party": null,
+      "province": null,
+      "total_time": 97.5,
+      "interventions": 2,
+      "word_count": 244
+    },
+    {
+      "id": "speaker_1",
+      "name": "Sergio Jesús Peña Veloz",
+      "party": null,
+      "province": null,
+      "total_time": 30.59,
+      "interventions": 1,
+      "word_count": 66
+    }
+  ]
+}

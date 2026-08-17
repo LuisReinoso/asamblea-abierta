@@ -1,0 +1,52 @@
+{
+  "text": "Bueno, yo estoy totalmente de acuerdo con la exposición del asambleísta Serrano.  No es nuestra competencia.  El asambleísta Castro habla sobre matrículas irregulares,  sobre motos que se han usado para sicariato y demás cosas.  No es nuestra competencia.  Siempre están acostumbrados a meter el tema de la inseguridad para querer aprobar leyes,  por querer aprobar fiscalizaciones.  La Asamblea Nacional debe concentrarse en el trabajo para el cual fuimos electos.  Velar por la salud, velar por la educación, velar por la seguridad.  Y este tema de si existe o no irregularidades en instituciones de tránsito en los diferentes municipios,  hacer la denuncia correspondiente y que la Fiscalía haga su trabajo.  Mi palabra, presidente. Muchas gracias.  Gracias.",
+  "language": "es",
+  "duration": 72.75,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.59,
+      "end": 66.35,
+      "text": "Bueno, yo estoy totalmente de acuerdo con la exposición del asambleísta Serrano.  No es nuestra competencia.  El asambleísta Castro habla sobre matrículas irregulares,  sobre motos que se han usado para sicariato y demás cosas.  No es nuestra competencia.  Siempre están acostumbrados a meter el tema de la inseguridad para querer aprobar leyes,  por querer aprobar fiscalizaciones.  La Asamblea Nacional debe concentrarse en el trabajo para el cual fuimos electos.  Velar por la salud, velar por la educación, velar por la seguridad.  Y este tema de si existe o no irregularidades en instituciones de tránsito en los diferentes municipios,  hacer la denuncia correspondiente y que la Fiscalía haga su trabajo.  Mi palabra, presidente. Muchas gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Juan Pablo Molina Saldaña",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "wtSyGeZeujY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Juan Pablo Molina Saldaña",
+      "confidence": 0.75,
+      "votes": {
+        "[OOV] Asamblea Naciona": 1
+      },
+      "samples": 10,
+      "successful_reads": 1,
+      "source": "title"
+    }
+  },
+  "title": "Assemblyman Juan Molina - Session 053",
+  "url": "https://www.youtube.com/watch?v=wtSyGeZeujY",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wtSyGeZeujY",
+  "source_url": "https://www.youtube.com/watch?v=wtSyGeZeujY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Juan Pablo Molina Saldaña",
+      "party": null,
+      "province": null,
+      "total_time": 65.76,
+      "interventions": 1,
+      "word_count": 115
+    }
+  ]
+}
