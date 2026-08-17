@@ -17,6 +17,13 @@ if [ -z "${REDACTED_KEY:-}" ] && [ -f "$HOME/.bashrc" ]; then
     export REDACTED_KEY
 fi
 
+# Our IP is 403-blocked on yt-dlp's direct googlevideo.com path (since
+# 2026-08-13ish). Every failed direct attempt is still a request YouTube's
+# anti-bot sees from this IP and may be reinforcing the block — skip straight
+# to the REDACTED fallback instead of poking it first. Remove this export
+# once direct downloads are confirmed working again.
+export SKIP_DIRECT_DOWNLOAD=1
+
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
