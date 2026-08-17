@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:16:51.898330",
-  "total_sessions": 1161,
+  "generated_at": "2026-08-17T00:22:11.215904",
+  "total_sessions": 1162,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -8425,6 +8425,20 @@
       "file_path": "data/sessions/xA6C3vnk4VY.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "jAqORxl-fPQ",
+      "title": "Asambleísta Ana Tapia - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 654.75,
+      "url": "https://www.youtube.com/watch?v=jAqORxl-fPQ",
+      "file_path": "data/sessions/jAqORxl-fPQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",

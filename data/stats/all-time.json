@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:16:51.655708",
-  "total_sessions": 1161,
+  "generated_at": "2026-08-17T00:22:10.940756",
+  "total_sessions": 1162,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -87,6 +87,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Napo",
+      "total_time": 8792.92,
+      "total_interventions": 78,
+      "sessions_attended": 26,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-CAMILA-LEON-CUEVA",
       "name": "Camila León Cueva",
       "type": "asambleísta",
@@ -109,18 +121,6 @@
       "total_interventions": 41,
       "sessions_attended": 19,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 8146.639999999999,
-      "total_interventions": 77,
-      "sessions_attended": 25,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
@@ -2083,8 +2083,8 @@
     },
     {
       "month": "2026-01",
-      "sessions_count": 144,
-      "total_duration": 91386.86999999997,
+      "sessions_count": 145,
+      "total_duration": 92041.61999999997,
       "unique_speakers": 18,
       "unique_topics": 3
     },
