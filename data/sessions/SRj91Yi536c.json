@@ -1,0 +1,53 @@
+{
+  "text": "réplica el asambleísta Mario Zambrano.  Insisto en que hay que hablarle con la verdad a la gente.  Revisemos algunos datos.  Por ejemplo, el FOP de UPO, que este fondo responde a criterios técnicos,  como les decía, a criterios de desempeño.  Por ejemplo, en el 2018 registró una disminución del 48.46%  en el gobierno del presidente Daniel Novoa,  en el 2024 y en el 2025 registra incrementos del 12.15% y del 4.90%.  No sé si tal vez no escuchó el argumento, estimada compañera legisladora,  pero cuando hablábamos del tema universitario, explicábamos  que ahora tenemos una mayor desconcentración también de la demanda  de la oferta educativa de tercer nivel,  o acaso bajo su criterio, únicamente ciertos territorios  tienen derecho a desarrollarse, únicamente ciertos territorios  tienen derecho a tener educación de tercer y cuarto nivel de calidad.  Ahora estamos viendo que sube el presupuesto de la educación superior,  59 millones de dólares, vuelvo a repetir, están los datos ahí,  pueden revisarlos y estamos viendo también que hay creación  de universidades y de campus, universidades que están más cerca  de los estudiantes, universidades que van a hacer que se desconcentre  esa demanda educativa.  Por ello, estamos viendo que se incrementa,  que definitivamente también, seguro, en algunas universidades  no se han cumplido esos criterios de desempeño,  esos criterios de eficiencia.  Entonces, también acá, hacer un llamado a la comunidad estudiantil,  a todos los estamentos de las comunidades, de las distintas universidades,  a que podamos también nosotros hacer un llamado a atención,  hacer una fiscalización, hacer una observación,  a que las autoridades también estén actuando de manera correcta,  de manera eficiente.  Muchísimas gracias por la palabra, Presidente.  Que quede claro, se sube el presupuesto a la educación superior  en esta proforma 2026 en 59 millones de dólares.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 142.66,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 142.37,
+      "text": "réplica el asambleísta Mario Zambrano.  Insisto en que hay que hablarle con la verdad a la gente.  Revisemos algunos datos.  Por ejemplo, el FOP de UPO, que este fondo responde a criterios técnicos,  como les decía, a criterios de desempeño.  Por ejemplo, en el 2018 registró una disminución del 48.46%  en el gobierno del presidente Daniel Novoa,  en el 2024 y en el 2025 registra incrementos del 12.15% y del 4.90%.  No sé si tal vez no escuchó el argumento, estimada compañera legisladora,  pero cuando hablábamos del tema universitario, explicábamos  que ahora tenemos una mayor desconcentración también de la demanda  de la oferta educativa de tercer nivel,  o acaso bajo su criterio, únicamente ciertos territorios  tienen derecho a desarrollarse, únicamente ciertos territorios  tienen derecho a tener educación de tercer y cuarto nivel de calidad.  Ahora estamos viendo que sube el presupuesto de la educación superior,  59 millones de dólares, vuelvo a repetir, están los datos ahí,  pueden revisarlos y estamos viendo también que hay creación  de universidades y de campus, universidades que están más cerca  de los estudiantes, universidades que van a hacer que se desconcentre  esa demanda educativa.  Por ello, estamos viendo que se incrementa,  que definitivamente también, seguro, en algunas universidades  no se han cumplido esos criterios de desempeño,  esos criterios de eficiencia.  Entonces, también acá, hacer un llamado a la comunidad estudiantil,  a todos los estamentos de las comunidades, de las distintas universidades,  a que podamos también nosotros hacer un llamado a atención,  hacer una fiscalización, hacer una observación,  a que las autoridades también estén actuando de manera correcta,  de manera eficiente.  Muchísimas gracias por la palabra, Presidente.  Que quede claro, se sube el presupuesto a la educación superior  en esta proforma 2026 en 59 millones de dólares.  Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mario Amado Zambrano Vera",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "SRj91Yi536c",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mario Amado Zambrano Vera",
+      "confidence": 1.0,
+      "votes": {
+        "Mario Amado Zambrano Vera": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Mario Zambrano - Sesión 055",
+  "url": "https://www.youtube.com/watch?v=SRj91Yi536c",
+  "published_at": "2025-11-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "SRj91Yi536c",
+  "date": "2025-11-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=SRj91Yi536c",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mario Amado Zambrano Vera",
+      "party": null,
+      "province": null,
+      "total_time": 142.34,
+      "interventions": 1,
+      "word_count": 293
+    }
+  ]
+}

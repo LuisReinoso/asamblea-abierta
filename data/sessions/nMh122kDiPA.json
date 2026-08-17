@@ -1,0 +1,53 @@
+{
+  "text": "el asambleísta mario zambrano  gracias presidente converse con los estudiantes de la mauti wasi acá al  entrar en el pleno  por favor asambleísta hagan silencio gracias y conversábamos con ellos  entonces le estábamos explicando y también me va a permitir explicarles a  ustedes un tema específico referente a esta universidad  esta importante universidad se institucionaliza en diciembre del 2024  entra en la fórmula de asignación de recursos en el 2025  hasta el 2024 su presupuesto tenía recursos por gastos corrientes pero  también tenía recursos por inversión una universidad nueva una universidad que  estaba en construcción en el 2025 por ser prorrogado el presupuesto no hubo una  reducción del mismo pero en el 2026 conforme repito a la aplicación de la  fórmula ya no están esos recursos de inversión pues  en el 2024 2025 repito se estaba institucionalizando ahora en la  pro forma 2026 ya no están los recursos de inversión pero no se están afectando a  esos a esos gastos corrientes a ese presupuesto para la operatividad de la  universidad como tal eso es importante dejarlo claro porque veo que hay mucha  desinformación en este pleno referente repito esta gran universidad y mi saludo y mi  respeto a quienes conforman la misma también es importante decirles porque a veces utiliza  la información a conveniencia no hay 24 universidades señores y señoras que tienen un incremento en su  presupuesto para el 2026 saben cuáles son las universidades que tienen también mayor presupuesto  asignado ese ranking la universidad de guayaquil la universidad central la espol la  espoch y la universidad de cuenca están los datos revísenlos ahí están los datos debatamos con  altura no vengamos a mentirle a la gente esas son las universidades que tienen mayor presupuesto  asignado 24 universidades a las cuales se le aumenta el presupuesto entonces también queridos  compañeros tenemos que pensar en el desarrollo también de esos territorios que han sido olvidados  que todos tengan la oportunidad también de estudiar las universidades ojalá que en sus cantones al menos  en sus provincias pero vuelvo a repetir ese argumento porque creo que es ese eje central del debate  no se afecta a la accesibilidad de la educación superior no se está afectando tampoco a la oferta  educativa en lo que respecta a las universidades lo que se está haciendo es tener un incremento del  presupuesto pero por supuesto también tiene que estar respaldado en eficiencia en equidad  territorial que piense en cada uno de los ecuatorianos sin importar en dónde en qué provincia o en dónde  estemos ubicados muchísimas gracias presidente hasta en mi palabra",
+  "language": "es",
+  "duration": 206.31,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 204.24,
+      "text": "el asambleísta mario zambrano  gracias presidente converse con los estudiantes de la mauti wasi acá al  entrar en el pleno  por favor asambleísta hagan silencio gracias y conversábamos con ellos  entonces le estábamos explicando y también me va a permitir explicarles a  ustedes un tema específico referente a esta universidad  esta importante universidad se institucionaliza en diciembre del 2024  entra en la fórmula de asignación de recursos en el 2025  hasta el 2024 su presupuesto tenía recursos por gastos corrientes pero  también tenía recursos por inversión una universidad nueva una universidad que  estaba en construcción en el 2025 por ser prorrogado el presupuesto no hubo una  reducción del mismo pero en el 2026 conforme repito a la aplicación de la  fórmula ya no están esos recursos de inversión pues  en el 2024 2025 repito se estaba institucionalizando ahora en la  pro forma 2026 ya no están los recursos de inversión pero no se están afectando a  esos a esos gastos corrientes a ese presupuesto para la operatividad de la  universidad como tal eso es importante dejarlo claro porque veo que hay mucha  desinformación en este pleno referente repito esta gran universidad y mi saludo y mi  respeto a quienes conforman la misma también es importante decirles porque a veces utiliza  la información a conveniencia no hay 24 universidades señores y señoras que tienen un incremento en su  presupuesto para el 2026 saben cuáles son las universidades que tienen también mayor presupuesto  asignado ese ranking la universidad de guayaquil la universidad central la espol la  espoch y la universidad de cuenca están los datos revísenlos ahí están los datos debatamos con  altura no vengamos a mentirle a la gente esas son las universidades que tienen mayor presupuesto  asignado 24 universidades a las cuales se le aumenta el presupuesto entonces también queridos  compañeros tenemos que pensar en el desarrollo también de esos territorios que han sido olvidados  que todos tengan la oportunidad también de estudiar las universidades ojalá que en sus cantones al menos  en sus provincias pero vuelvo a repetir ese argumento porque creo que es ese eje central del debate  no se afecta a la accesibilidad de la educación superior no se está afectando tampoco a la oferta  educativa en lo que respecta a las universidades lo que se está haciendo es tener un incremento del  presupuesto pero por supuesto también tiene que estar respaldado en eficiencia en equidad  territorial que piense en cada uno de los ecuatorianos sin importar en dónde en qué provincia o en dónde  estemos ubicados muchísimas gracias presidente hasta en mi palabra",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mario Amado Zambrano Vera",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "nMh122kDiPA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Mario Amado Zambrano Vera",
+      "confidence": 1.0,
+      "votes": {
+        "Mario Amado Zambrano Vera": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Mario Zambrano - Sesión 055 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=nMh122kDiPA",
+  "published_at": "2025-11-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "nMh122kDiPA",
+  "date": "2025-11-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=nMh122kDiPA",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mario Amado Zambrano Vera",
+      "party": null,
+      "province": null,
+      "total_time": 204.21,
+      "interventions": 1,
+      "word_count": 427
+    }
+  ]
+}

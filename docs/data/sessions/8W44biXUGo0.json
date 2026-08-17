@@ -1,0 +1,52 @@
+{
+  "text": "la asambleísta Naomi Valladares.  ¿Cómo están? Muy buenas tardes con todos los colegas legisladores.  Le agradezco al señor presidente por haberme otorgado la palabra.  Bueno, en este día quiero saludar a los ecuatorianos, al pueblo cotopaxense  y de igual manera quiero reiterar lo siguiente.  El artículo 1 de la Constitución del Ecuador habla que somos un país intercultural,  un país que respeta a los pueblos y nacionalidades.  Sin embargo, escuché muchas intervenciones de los otros colegas legisladores  que manifestaban que este presupuesto no solamente es un presupuesto en números,  sino también es un presupuesto empático, ¿verdad?  Quiero preguntarles a esta Asamblea Nacional cuál es la empatía que vamos a tener  con las tres universidades que hay una reducción presupuestaria importante  y a los estudiantes que tal vez van a quedarse fuera de mallas curriculares,  fuera de las carreras universitarias por falta de este ingreso de presupuesto.  Quiero referirme de manera principal a la Universidad de Amauta Iguasi,  quien va a tener una reducción presupuestaria de aproximadamente 7 millones de dólares, compañeros.  La importancia de revisar este presupuesto es que los jóvenes, que son el 30% en este país,  que son aquellos que les han dado la autoridad y la posibilidad de estar sentados  en esta Asamblea Nacional el día de hoy.  No olvidemos de aquellas personas, no olvidemos tampoco el derecho que tienen ellos a la educación.  De manera principal quiero referirme a ello.  Sin nada más que agregarle agradezco, señor presidente, por darme la palabra.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 106.85,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 100.78,
+      "text": "la asambleísta Naomi Valladares.  ¿Cómo están? Muy buenas tardes con todos los colegas legisladores.  Le agradezco al señor presidente por haberme otorgado la palabra.  Bueno, en este día quiero saludar a los ecuatorianos, al pueblo cotopaxense  y de igual manera quiero reiterar lo siguiente.  El artículo 1 de la Constitución del Ecuador habla que somos un país intercultural,  un país que respeta a los pueblos y nacionalidades.  Sin embargo, escuché muchas intervenciones de los otros colegas legisladores  que manifestaban que este presupuesto no solamente es un presupuesto en números,  sino también es un presupuesto empático, ¿verdad?  Quiero preguntarles a esta Asamblea Nacional cuál es la empatía que vamos a tener  con las tres universidades que hay una reducción presupuestaria importante  y a los estudiantes que tal vez van a quedarse fuera de mallas curriculares,  fuera de las carreras universitarias por falta de este ingreso de presupuesto.  Quiero referirme de manera principal a la Universidad de Amauta Iguasi,  quien va a tener una reducción presupuestaria de aproximadamente 7 millones de dólares, compañeros.  La importancia de revisar este presupuesto es que los jóvenes, que son el 30% en este país,  que son aquellos que les han dado la autoridad y la posibilidad de estar sentados  en esta Asamblea Nacional el día de hoy.  No olvidemos de aquellas personas, no olvidemos tampoco el derecho que tienen ellos a la educación.  De manera principal quiero referirme a ello.  Sin nada más que agregarle agradezco, señor presidente, por darme la palabra.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fabiola Maribel Sanmartín Parra",
+        "confidence": 0.5897,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "8W44biXUGo0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Naomi Valladares - Sesión 055",
+  "url": "https://www.youtube.com/watch?v=8W44biXUGo0",
+  "published_at": "2025-11-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8W44biXUGo0",
+  "date": "2025-11-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8W44biXUGo0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "party": null,
+      "province": null,
+      "total_time": 100.75,
+      "interventions": 1,
+      "word_count": 249
+    }
+  ]
+}

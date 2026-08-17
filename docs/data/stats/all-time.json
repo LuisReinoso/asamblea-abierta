@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T21:18:29.752307",
-  "total_sessions": 1116,
+  "generated_at": "2026-08-16T21:55:32.327585",
+  "total_sessions": 1126,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "PSC",
       "province": "Nacional",
-      "total_time": 11668.51,
-      "total_interventions": 32,
-      "sessions_attended": 22,
+      "total_time": 12383.4,
+      "total_interventions": 33,
+      "sessions_attended": 23,
       "topics_discussed": 0
     },
     {
@@ -33,9 +33,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Manabí",
-      "total_time": 10820.029999999997,
-      "total_interventions": 112,
-      "sessions_attended": 15,
+      "total_time": 11166.579999999996,
+      "total_interventions": 114,
+      "sessions_attended": 17,
       "topics_discussed": 3
     },
     {
@@ -111,6 +111,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
+      "name": "Ana Belén Tapia Vallejo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Napo",
+      "total_time": 7984.219999999999,
+      "total_interventions": 75,
+      "sessions_attended": 24,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-MARIANA-YUMBAY-YALLICO",
       "name": "Mariana Yumbay Yallico",
       "type": "asambleísta",
@@ -121,18 +133,6 @@
       "total_interventions": 17,
       "sessions_attended": 14,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
-      "name": "Ana Belén Tapia Vallejo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Napo",
-      "total_time": 7298.32,
-      "total_interventions": 74,
-      "sessions_attended": 23,
-      "topics_discussed": 3
     },
     {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
@@ -177,9 +177,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Nacional",
-      "total_time": 6956.4800000000005,
-      "total_interventions": 21,
-      "sessions_attended": 19,
+      "total_time": 7051.030000000001,
+      "total_interventions": 22,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -315,6 +315,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
+      "name": "Liliana Elizabeth Durán Aguilar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Nacional",
+      "total_time": 3998.66,
+      "total_interventions": 12,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
       "name": "Nathaly Estefanía Farinango Delgado",
       "type": "asambleísta",
@@ -423,18 +435,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-LILIANA-ELIZABETH-DURAN-AGUILAR",
-      "name": "Liliana Elizabeth Durán Aguilar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Nacional",
-      "total_time": 3290.2599999999998,
-      "total_interventions": 11,
-      "sessions_attended": 5,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
       "name": "Silvia Patricia Nuñez Ramos",
       "type": "asambleísta",
@@ -468,6 +468,18 @@
       "total_time": 3111.2000000000003,
       "total_interventions": 8,
       "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-SARA-NOEMI-CABRERA-CHACON",
+      "name": "Sara Noemi Cabrera Chacón",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "El Oro",
+      "total_time": 3087.6299999999997,
+      "total_interventions": 6,
+      "sessions_attended": 6,
       "topics_discussed": 0
     },
     {
@@ -600,18 +612,6 @@
       "total_time": 2570.51,
       "total_interventions": 7,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SARA-NOEMI-CABRERA-CHACON",
-      "name": "Sara Noemi Cabrera Chacón",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "El Oro",
-      "total_time": 2565.37,
-      "total_interventions": 5,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -987,6 +987,30 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Cañar",
+      "total_time": 1392.2600000000002,
+      "total_interventions": 11,
+      "sessions_attended": 6,
+      "topics_discussed": 0
+    },
+    {
+      "id": "RAUL-ARTURO-CHAVEZ-NUNEZ-DEL-ARCO",
+      "name": "Raúl Arturo Chávez Núñez Del Arco",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 1390.29,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ANNIE-CHRISTINA-MUNOZ-AROCA",
       "name": "Annie Christina Muñoz Aroca",
       "type": "asambleísta",
@@ -996,18 +1020,6 @@
       "total_time": 1347.94,
       "total_interventions": 3,
       "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-FABIOLA-MARIBEL-SANMARTIN-PARRA",
-      "name": "Fabiola Maribel Sanmartín Parra",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Cañar",
-      "total_time": 1291.51,
-      "total_interventions": 10,
-      "sessions_attended": 5,
       "topics_discussed": 0
     },
     {
@@ -1140,18 +1152,6 @@
       "total_time": 981.4000000000001,
       "total_interventions": 6,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "RAUL-ARTURO-CHAVEZ-NUNEZ-DEL-ARCO",
-      "name": "Raúl Arturo Chávez Núñez Del Arco",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 980.88,
-      "total_interventions": 1,
-      "sessions_attended": 1,
       "topics_discussed": 0
     },
     {
@@ -1551,6 +1551,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CARLOS-STEVE-VILLACRES-SALAZAR",
+      "name": "Carlos Steve Villacres Salazar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Sucumbíos",
+      "total_time": 481.75,
+      "total_interventions": 2,
+      "sessions_attended": 2,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIA-CRISTINA-ACUNA-VACA",
       "name": "María Cristina Acuña Vaca",
       "type": "asambleísta",
@@ -1935,18 +1947,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-CARLOS-STEVE-VILLACRES-SALAZAR",
-      "name": "Carlos Steve Villacres Salazar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Sucumbíos",
-      "total_time": 122.6,
-      "total_interventions": 1,
-      "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
       "id": "CONTINUACION-SESION",
       "name": "Continuación Sesión",
       "type": "desconocido",
@@ -2067,6 +2067,13 @@
     }
   ],
   "monthly_stats": [
+    {
+      "month": "2025-11",
+      "sessions_count": 10,
+      "total_duration": 3986.6699999999996,
+      "unique_speakers": 1,
+      "unique_topics": 0
+    },
     {
       "month": "2025-12",
       "sessions_count": 91,
