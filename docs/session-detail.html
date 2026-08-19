@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, follow">
     <title>Sesión - Asamblea Abierta</title>
     <link rel="stylesheet" href="assets/css/main.css?v=4">
 </head>
@@ -14,7 +15,7 @@
             <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
             <nav>
                 <ul>
-                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="./">Inicio</a></li>
                     <li><a href="sessions.html">Sesiones</a></li>
                     <li><a href="speakers.html">Asambleístas</a></li>
                     <li><a href="topics.html">Temas</a></li>
@@ -103,6 +104,9 @@
         if (!sessionId) {
             document.getElementById('session-loading').style.display = 'none';
             document.getElementById('session-error').style.display = 'block';
+        } else if (/^[A-Za-z0-9_-]{6,20}$/.test(sessionId)) {
+            // la version estatica trae la transcripcion ya renderizada
+            window.location.replace(`sessions/${sessionId}.html`);
         } else {
             loadSession(sessionId);
         }

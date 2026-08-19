@@ -166,7 +166,7 @@ function createSessionCard(session) {
 
     card.innerHTML = `
         <h3 class="card-title">
-            <a href="session-detail.html?id=${session.id}">${session.title}</a>
+            <a href="sessions/${session.id}.html">${session.title}</a>
         </h3>
         <p class="card-meta">
             ${typeBadgeHTML} • 📅 ${formattedDate} • ⏱️ ${durationMinutes} min • 🎤 ${session.speaker_count} oradores
