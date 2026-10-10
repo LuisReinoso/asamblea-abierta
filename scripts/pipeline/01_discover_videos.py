@@ -169,6 +169,7 @@ def main() -> int:
     parser.add_argument("--since", help="Only discover videos published on/after YYYY-MM-DD (default: include all)")
     parser.add_argument("--limit", type=int, default=200, help="Max new candidates to inspect per channel tab this run (default: 200)")
     parser.add_argument("--scan-depth", type=int, help="Only list the N newest videos of each tab (default: whole tab)")
+    parser.add_argument("--tab", choices=list(CHANNEL_TABS), help="Only scan this channel tab (default: all)")
     parser.add_argument("--sleep", type=float, default=0, help="Seconds to wait between per-video metadata fetches (default: 0)")
     parser.add_argument("--rebuild", action="store_true", help="Reinspect even videos already in the index")
     args = parser.parse_args()
@@ -189,6 +190,8 @@ def main() -> int:
     # The limit is per tab: a global one let the /videos tab (hundreds of new
     # clips) use it all up before /streams got a single candidate.
     for tab, channel_url in CHANNEL_TABS.items():
+        if args.tab and tab != args.tab:
+            continue
         tab_count = 0
         for vid, title, duration in list_channel_videos(channel_url, args.scan_depth):
             if not args.rebuild and vid in known:
