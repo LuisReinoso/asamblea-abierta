@@ -120,6 +120,12 @@ VOICEPRINT_COUNT=$(python3 -c "import json; print(len(json.load(open('internal/s
 if [ $STATUS -ne 0 ] && [ -z "$DONE_LINE" ]; then
     log "run_batch.py crashed with status $STATUS"
     notify "Asamblea Abierta - ERROR" "El batch diario falló (exit $STATUS) sin completar. Revisar logs/daily_clip_batch.log"
+elif [ $STATUS -ne 0 ]; then
+    # Some clips failed. This used to send the same "fin" message as a clean
+    # run, which hid 0/20 nights from 2026-08-13 to 2026-10-10.
+    log "run_batch.py exited with status $STATUS"
+    FAIL_REASONS=$(echo "$OUTPUT" | grep -oP '✗ \S+\s+\S+ \[\K[^]]*' | sort | uniq -c | sort -rn | head -3 | tr -s ' ' | tr '\n' ';')
+    notify "Asamblea Abierta - ERROR" "${DONE_LINE}. Fallos: ${FAIL_REASONS:-?} Revisar logs/daily_clip_batch.log"
 else
     log "run_batch.py exited with status $STATUS"
     notify "Asamblea Abierta - fin" "${DONE_LINE:-Batch terminado}. Voces en DB: $VOICEPRINT_COUNT. Duración: ${ELAPSED}s"
