@@ -191,12 +191,20 @@ def download_video_via_REDACTED(video_id: str, out_path: Path) -> Path | None:
         log("  REDACTED fallback: no formats returned")
         return None
 
+    # Only direct-file formats: the provider also lists HLS variants (e.g.
+    # "233-1", protocol m3u8_native) whose URL is a playlist, not media —
+    # curl saves the .m3u8 text and the ffmpeg mux below fails.
+    video_formats = [f for f in video_formats if f.get("protocol") == "https"]
+    audio_formats = [f for f in audio_formats if f.get("protocol") == "https" and f.get("ext") == "m4a"]
+
     video_fmt = next((f for f in video_formats if f.get("format_id") == "134"), None) \
         or next((f for f in video_formats if (f.get("height") or 9999) <= 480), None)
     # Some videos have YouTube's auto-dub enabled — the default audio track
     # (e.g. "140-0") can be English while "140-1"/similar is the real
     # Spanish original. Must match on language, never just take formats[0].
-    audio_fmt = next((f for f in audio_formats if (f.get("language") or "").startswith("es")), None)
+    es_audio = [f for f in audio_formats if (f.get("language") or "").startswith("es")]
+    audio_fmt = next((f for f in es_audio if f.get("format_id", "").startswith("140")), None) \
+        or next(iter(es_audio), None)
     if not video_fmt or not audio_fmt:
         log("  REDACTED fallback: no suitable video/es-language audio format")
         return None
