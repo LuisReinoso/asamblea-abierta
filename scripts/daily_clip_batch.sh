@@ -17,20 +17,14 @@ if [ -z "${REDACTED_KEY:-}" ] && [ -f "$HOME/.bashrc" ]; then
     export REDACTED_KEY
 fi
 
-# Our IP is 403-blocked on yt-dlp's direct googlevideo.com path (since
-# 2026-08-13ish). Every failed direct attempt is still a request YouTube's
-# anti-bot sees from this IP and may be reinforcing the block — skip straight
-# to the REDACTED fallback instead of poking it first. Remove this export
-# once direct downloads are confirmed working again.
-export SKIP_DIRECT_DOWNLOAD=1
+# Direct yt-dlp downloads work again since 2026-10-10 (yt-dlp 2026.08.19,
+# default player clients, REDACTED 2.0.2). REDACTED stays as the fallback in
+# run_batch.py, capped by its free plan (150 requests/month, 2 per clip).
 
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
-# Bounded by the REDACTED free plan while direct downloads are 403'd: 150
-# requests/month, 2 per clip. 8/night spreads the 98 left on 2026-10-10
-# over the 6 days until the quota resets (~2026-10-16).
-BATCH_LIMIT=8
+BATCH_LIMIT=20
 notify_URL="http://REDACTED:2586/asamblea"
 
 mkdir -p "$REPO_DIR/logs"

@@ -89,19 +89,21 @@ def download_video(video_id: str) -> Path | None:
     cookies_file = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
     cmd = [
         "yt-dlp",
-        # 360p mp4 + medium m4a. Only used for overlay-text OCR (a cropped
-        # band, large high-contrast captions) — 720p buys nothing there and
-        # roughly triples bandwidth for no accuracy gain. android_vr/ios alone
-        # trip "Sign in to confirm you're not a bot" without cookies; web
-        # needs cookies too for SABR formats. The cookies file is seeded via a
-        # stealth browser session (see docs/runbooks or ask — REDACTED)
-        # and yt-dlp keeps it fresh across runs.
-        "--extractor-args", "youtube:player_client=android_vr,ios,web",
+        # yt-dlp's default player clients, no override: as of 2026-10 a pinned
+        # android_vr,ios,web left only format 18, which 403s (android_vr wants
+        # a GVS PO token, ios/web are SABR-only). Cookies are still needed —
+        # the file is seeded via a stealth browser session (REDACTED) and
+        # yt-dlp keeps it fresh across runs; PO tokens come from the
+        # REDACTED-provider container on :4416.
         # Space out requests — a burst of back-to-back downloads (esp. right
         # after a discovery run's per-video metadata fetches) tripped a
         # YouTube "rate-limited for up to an hour" block on 2026-07-09.
         "--sleep-requests", "2", "--sleep-interval", "3", "--max-sleep-interval", "8",
-        "-f", "134+140/135+140/18/best[height<=480]/best",
+        # <=480p mp4 video is plenty for overlay-text OCR (a cropped band of
+        # large captions). "ba" rather than a fixed "140": on auto-dubbed
+        # videos the ids become 140-0/140-1 and yt-dlp's best-audio ranking
+        # puts the original (Spanish) track first.
+        "-f", "bv*[height<=480][ext=mp4]+ba[ext=m4a]/b[height<=480]/b",
         "--merge-output-format", "mp4",
         "--no-playlist",
         "-o", str(out_path),
