@@ -27,7 +27,10 @@ export SKIP_DIRECT_DOWNLOAD=1
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
-BATCH_LIMIT=20
+# Bounded by the REDACTED free plan while direct downloads are 403'd: 150
+# requests/month, 2 per clip. 8/night spreads the 98 left on 2026-10-10
+# over the 6 days until the quota resets (~2026-10-16).
+BATCH_LIMIT=8
 notify_URL="http://REDACTED:2586/asamblea"
 
 mkdir -p "$REPO_DIR/logs"
