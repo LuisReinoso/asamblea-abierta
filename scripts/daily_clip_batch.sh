@@ -46,6 +46,22 @@ START_TIME=$(date +%s)
 log "=== daily clip batch starting ==="
 notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y-%m-%d %H:%M'))"
 
+# Discovery: append new channel videos to data/sessions/index.json, otherwise
+# the batch only ever drains the old index (it went stale from 2026-07-10 to
+# 2026-10-10 without anyone noticing). Runs before diarization-server so the
+# GPU stays with local-llm meanwhile. Scan depth 700 covers ~3 months of
+# clips; limit 80/tab with 2s sleeps keeps the per-video yt-dlp calls well
+# under the burst that rate-limited us in July. A failure here is logged and
+# notified but doesn't block the batch.
+log "discovering new videos"
+if DISCOVER_OUT=$(timeout 1800 "$REPO_DIR/.venv/bin/python3" scripts/pipeline/01_discover_videos.py \
+        --scan-depth 700 --limit 80 --sleep 2 2>&1); then
+    log "discovery: $(echo "$DISCOVER_OUT" | grep -E 'Added/updated|Nothing new|No new sessions' | tail -1)"
+else
+    log "discovery failed (exit $?): $(echo "$DISCOVER_OUT" | tail -3 | tr '\n' ' ')"
+    notify "Asamblea Abierta - aviso" "Discovery falló; el batch sigue con el índice actual. Revisar logs/daily_clip_batch.log"
+fi
+
 # diarization-server shares the GPU with local-llm (systemd Conflicts= handles
 # the swap): starting it auto-stops local-llm, we restore local-llm on exit.
 log "starting diarization-server (stops local-llm via Conflicts=)"

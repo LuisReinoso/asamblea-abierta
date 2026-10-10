@@ -12,7 +12,7 @@ Flow:
   5. Append new videos to data/sessions/index.json.
 
 Usage:
-    python scripts/pipeline/01_discover_videos.py [--since 2026-01-01] [--limit 100]
+    python scripts/pipeline/01_discover_videos.py [--since 2026-01-01] [--limit 100] [--scan-depth 700] [--sleep 2]
 
 Default: discovers every channel video newer than the latest entry already in
 the index — useful for "catch up" runs after the local pipeline has been idle.
@@ -24,6 +24,7 @@ import argparse
 import json
 import subprocess
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -65,18 +66,23 @@ def save_index(data: dict) -> None:
     print(f"✓ Wrote {INDEX_PATH} ({len(data['sessions'])} sessions total)")
 
 
-def list_channel_videos(channel_url: str) -> list[tuple[str, str, float | None]]:
-    """Return all (video_id, title, duration_seconds) in a channel tab, newest first.
+def list_channel_videos(channel_url: str, scan_depth: int | None = None) -> list[tuple[str, str, float | None]]:
+    """Return (video_id, title, duration_seconds) in a channel tab, newest first.
 
     Uses flat-playlist mode: fast, no per-video calls, no YouTube bot
     challenges. Duration comes for free from the flat listing; upload_date
     does not — that's fetched lazily later via fetch_metadata().
+
+    scan_depth caps the listing to the N newest entries. The /videos tab has
+    30k+ entries and a full listing takes ~7 min of paginated requests —
+    too much to repeat nightly from an IP YouTube already flags.
     """
     print(f"Listing videos from {channel_url} …")
     cmd = [
         "yt-dlp",
         *_cookie_args(),
         "--flat-playlist",
+        *(["--playlist-end", str(scan_depth)] if scan_depth else []),
         "--print", "%(id)s\t%(title)s\t%(duration)s",
         channel_url,
     ]
@@ -161,7 +167,9 @@ def classify_video_type(tab: str, duration: float | None) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--since", help="Only discover videos published on/after YYYY-MM-DD (default: include all)")
-    parser.add_argument("--limit", type=int, default=200, help="Max new candidates to inspect this run (default: 200)")
+    parser.add_argument("--limit", type=int, default=200, help="Max new candidates to inspect per channel tab this run (default: 200)")
+    parser.add_argument("--scan-depth", type=int, help="Only list the N newest videos of each tab (default: whole tab)")
+    parser.add_argument("--sleep", type=float, default=0, help="Seconds to wait between per-video metadata fetches (default: 0)")
     parser.add_argument("--rebuild", action="store_true", help="Reinspect even videos already in the index")
     args = parser.parse_args()
 
@@ -178,17 +186,21 @@ def main() -> int:
     # classify video_type even if the later per-video metadata fetch (which
     # also returns duration) gets bot-rate-limited.
     candidates: list[tuple[str, str, float | None, str]] = []
+    # The limit is per tab: a global one let the /videos tab (hundreds of new
+    # clips) use it all up before /streams got a single candidate.
     for tab, channel_url in CHANNEL_TABS.items():
-        for vid, title, duration in list_channel_videos(channel_url):
+        tab_count = 0
+        for vid, title, duration in list_channel_videos(channel_url, args.scan_depth):
             if not args.rebuild and vid in known:
                 continue
             if any(c[0] == vid for c in candidates):
                 continue
             candidates.append((vid, title, duration, tab))
-            if len(candidates) >= args.limit:
+            tab_count += 1
+            if tab_count >= args.limit:
                 break
 
-    print(f"Candidates to inspect: {len(candidates)} (limit={args.limit})")
+    print(f"Candidates to inspect: {len(candidates)} (limit={args.limit} per tab)")
     if not candidates:
         print("Nothing new to add.")
         return 0
@@ -205,6 +217,8 @@ def main() -> int:
     skipped_old = 0
     fallback_used = 0
     for i, (vid, flat_title, flat_duration, tab) in enumerate(candidates, 1):
+        if i > 1 and args.sleep:
+            time.sleep(args.sleep)
         meta = fetch_metadata(vid)
         if not meta:
             fallback_used += 1
