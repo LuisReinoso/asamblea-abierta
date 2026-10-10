@@ -1,6 +1,1227 @@
 {
   "sessions": [
     {
+      "video_id": "3Zfwcs53VVc",
+      "title": "Votación de la moción del asambleísta Verónica Íñiguez - Continuación de la sesión 125",
+      "description": "",
+      "published_at": "2026-10-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 559.0,
+      "url": "https://www.youtube.com/watch?v=3Zfwcs53VVc",
+      "discovered_at": "2026-10-10T16:47:47.572210",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "05hiECq3mZc",
+      "title": "Asambleísta Mónica Salazar - Continuación de la sesión 125 - Punto de información",
+      "description": "",
+      "published_at": "2026-10-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 217.0,
+      "url": "https://www.youtube.com/watch?v=05hiECq3mZc",
+      "discovered_at": "2026-10-10T16:47:51.072648",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "2JzX4b5W4nM",
+      "title": "Asambleísta Verónica Íñiguez - Continuación de la sesión 125",
+      "description": "",
+      "published_at": "2026-10-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 564.0,
+      "url": "https://www.youtube.com/watch?v=2JzX4b5W4nM",
+      "discovered_at": "2026-10-10T16:47:54.759638",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "8-dKYiMQj4c",
+      "title": "Reconsideración votación de la moción del asambleísta Nathaly Farinango - Continuación sesión 126",
+      "description": "",
+      "published_at": "2026-10-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 298.0,
+      "url": "https://www.youtube.com/watch?v=8-dKYiMQj4c",
+      "discovered_at": "2026-10-10T16:47:58.482200",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "tNyWyECsk_I",
+      "title": "Votación de la moción del asambleísta Nathaly Farinango - Continuación de la sesión 126",
+      "description": "",
+      "published_at": "2026-10-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 576.0,
+      "url": "https://www.youtube.com/watch?v=tNyWyECsk_I",
+      "discovered_at": "2026-10-10T16:48:02.445193",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "YOjlF4S2wzw",
+      "title": "Asambleísta Nathaly Farinango - Continuación de la sesión 126",
+      "description": "",
+      "published_at": "2026-10-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 627.0,
+      "url": "https://www.youtube.com/watch?v=YOjlF4S2wzw",
+      "discovered_at": "2026-10-10T16:48:06.212891",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "Eg1EgY1LI20",
+      "title": "Continuación de la Sesión No. 125-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-10-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 1636.0,
+      "url": "https://www.youtube.com/watch?v=Eg1EgY1LI20",
+      "discovered_at": "2026-10-10T16:52:40.883486",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "fLpsqihx33U",
+      "title": "Continuación de la Sesión No. 126-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-10-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 2537.0,
+      "url": "https://www.youtube.com/watch?v=fLpsqihx33U",
+      "discovered_at": "2026-10-10T16:52:44.605607",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "RRvA2dt3QdE",
+      "title": "Voces de la Asamblea - Asambleísta Luigi García",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 172.0,
+      "url": "https://www.youtube.com/watch?v=RRvA2dt3QdE",
+      "discovered_at": "2026-10-10T16:48:10.027479",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "xjSXMLXKC84",
+      "title": "Asambleísta Andrés Castillo   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 398.0,
+      "url": "https://www.youtube.com/watch?v=xjSXMLXKC84",
+      "discovered_at": "2026-10-10T16:48:13.556726",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "kjB6NxD_De0",
+      "title": "Asambleísta Xavier Ordóñez   Sesión 128   Punto de información",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 58.0,
+      "url": "https://www.youtube.com/watch?v=kjB6NxD_De0",
+      "discovered_at": "2026-10-10T16:48:17.240296",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "zIDRdftHetI",
+      "title": "Asambleísta Ana Guim   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 234.0,
+      "url": "https://www.youtube.com/watch?v=zIDRdftHetI",
+      "discovered_at": "2026-10-10T16:48:20.844379",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "Xb1K1PfzmzM",
+      "title": "Votación de la moción del asambleísta Xavier Ordóñez   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 347.0,
+      "url": "https://www.youtube.com/watch?v=Xb1K1PfzmzM",
+      "discovered_at": "2026-10-10T16:48:24.405551",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "jZAJu3E3PUw",
+      "title": "Asambleísta Viviana Veloz   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 376.0,
+      "url": "https://www.youtube.com/watch?v=jZAJu3E3PUw",
+      "discovered_at": "2026-10-10T16:48:28.186882",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "wcKOVcqfapw",
+      "title": "Asambleísta Héctor Valladares   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 73.0,
+      "url": "https://www.youtube.com/watch?v=wcKOVcqfapw",
+      "discovered_at": "2026-10-10T16:48:31.909780",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "98QERq19wXc",
+      "title": "Asambleísta Xavier Ordóñez   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 397.0,
+      "url": "https://www.youtube.com/watch?v=98QERq19wXc",
+      "discovered_at": "2026-10-10T16:48:35.677357",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "ypFcP4Ay9k4",
+      "title": "Votación de la moción del asambleísta Adrián Castro   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 336.0,
+      "url": "https://www.youtube.com/watch?v=ypFcP4Ay9k4",
+      "discovered_at": "2026-10-10T16:48:39.404363",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "QDRf6tGQ5_A",
+      "title": "Asambleísta Mónica Alemán   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 235.0,
+      "url": "https://www.youtube.com/watch?v=QDRf6tGQ5_A",
+      "discovered_at": "2026-10-10T16:48:42.891084",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "G41-E6-G2Ec",
+      "title": "Asambleísta Diana Jácome   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 125.0,
+      "url": "https://www.youtube.com/watch?v=G41-E6-G2Ec",
+      "discovered_at": "2026-10-10T16:48:46.526826",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "_jc2Z3s5vhw",
+      "title": "Asambleísta Noemí Cabrera   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 313.0,
+      "url": "https://www.youtube.com/watch?v=_jc2Z3s5vhw",
+      "discovered_at": "2026-10-10T16:48:50.034623",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "2L7iKZ75PAc",
+      "title": "Asambleísta Adrián Castro   Sesión 1281",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 305.0,
+      "url": "https://www.youtube.com/watch?v=2L7iKZ75PAc",
+      "discovered_at": "2026-10-10T16:48:53.646903",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "t1_bDyqlzY0",
+      "title": "Asambleísta Rosa Torres   Sesión 1281",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 83.0,
+      "url": "https://www.youtube.com/watch?v=t1_bDyqlzY0",
+      "discovered_at": "2026-10-10T16:48:57.530713",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "jY96-fSjy9o",
+      "title": "Asambleísta Josebeth Jaramillo   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 331.0,
+      "url": "https://www.youtube.com/watch?v=jY96-fSjy9o",
+      "discovered_at": "2026-10-10T16:49:01.247048",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "56jRkMp5V-8",
+      "title": "Asambleísta Ana Herrera   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 499.0,
+      "url": "https://www.youtube.com/watch?v=56jRkMp5V-8",
+      "discovered_at": "2026-10-10T16:49:05.059166",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "doxDuMBVX_4",
+      "title": "Asambleísta Juan Gonzaga   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 635.0,
+      "url": "https://www.youtube.com/watch?v=doxDuMBVX_4",
+      "discovered_at": "2026-10-10T16:49:08.884117",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "_4NaiammF-I",
+      "title": "Asambleísta Ana María Raffo   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 435.0,
+      "url": "https://www.youtube.com/watch?v=_4NaiammF-I",
+      "discovered_at": "2026-10-10T16:49:12.465291",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "4uLTayGeNhA",
+      "title": "Asambleísta Maité Levi   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 497.0,
+      "url": "https://www.youtube.com/watch?v=4uLTayGeNhA",
+      "discovered_at": "2026-10-10T16:49:16.086392",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "aqBgDlkzoBY",
+      "title": "Asambleísta Esteban Torres   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 473.0,
+      "url": "https://www.youtube.com/watch?v=aqBgDlkzoBY",
+      "discovered_at": "2026-10-10T16:49:19.729842",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "dCursTT-g6Y",
+      "title": "Asambleísta Luis Fernando Molina   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 541.0,
+      "url": "https://www.youtube.com/watch?v=dCursTT-g6Y",
+      "discovered_at": "2026-10-10T16:49:23.430344",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "jtpiaHRvsDg",
+      "title": "Asambleísta Katherine Pacheco   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 330.0,
+      "url": "https://www.youtube.com/watch?v=jtpiaHRvsDg",
+      "discovered_at": "2026-10-10T16:49:27.280827",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "5QF9bcWs9pw",
+      "title": "Asambleísta Mariana Yumbay   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 446.0,
+      "url": "https://www.youtube.com/watch?v=5QF9bcWs9pw",
+      "discovered_at": "2026-10-10T16:49:31.029452",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "6DnlNnoM9CU",
+      "title": "Asambleísta Samuel Celleri   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 957.0,
+      "url": "https://www.youtube.com/watch?v=6DnlNnoM9CU",
+      "discovered_at": "2026-10-10T16:49:34.613404",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "c7ur0Dwo0DU",
+      "title": "Asambleísta Marco Olmedo   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 471.0,
+      "url": "https://www.youtube.com/watch?v=c7ur0Dwo0DU",
+      "discovered_at": "2026-10-10T16:49:38.526062",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "IIzOcbW-amc",
+      "title": "Asambleísta Eliana Correa   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 142.0,
+      "url": "https://www.youtube.com/watch?v=IIzOcbW-amc",
+      "discovered_at": "2026-10-10T16:49:42.054328",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "Wz5-fFBDYrQ",
+      "title": "Asambleísta Rosa Torres   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 707.0,
+      "url": "https://www.youtube.com/watch?v=Wz5-fFBDYrQ",
+      "discovered_at": "2026-10-10T16:49:45.686508",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "lpPrm3QORu8",
+      "title": "Rita Macías Zambrano   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 496.0,
+      "url": "https://www.youtube.com/watch?v=lpPrm3QORu8",
+      "discovered_at": "2026-10-10T16:49:49.304854",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "wePFUs_gyd8",
+      "title": "Señor Jervis Loor Alcivar   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 113.0,
+      "url": "https://www.youtube.com/watch?v=wePFUs_gyd8",
+      "discovered_at": "2026-10-10T16:49:52.930285",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "wDDAy2OCpHE",
+      "title": "Señor José De La Cuadra Vargas   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 120.0,
+      "url": "https://www.youtube.com/watch?v=wDDAy2OCpHE",
+      "discovered_at": "2026-10-10T16:49:56.640842",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "yR9Tjh38lag",
+      "title": "Asambleísta Mónica Salazar   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 605.0,
+      "url": "https://www.youtube.com/watch?v=yR9Tjh38lag",
+      "discovered_at": "2026-10-10T16:50:00.399494",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "_P3DyfnnGsc",
+      "title": "Asambleísta Xavier Ordóñez   Sesión 128   Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 641.0,
+      "url": "https://www.youtube.com/watch?v=_P3DyfnnGsc",
+      "discovered_at": "2026-10-10T16:50:03.885893",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "xKdZWYUZP3U",
+      "title": "Votación de la moción de la asambleísta Lucía Jaramillo   Sesión 128",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 323.0,
+      "url": "https://www.youtube.com/watch?v=xKdZWYUZP3U",
+      "discovered_at": "2026-10-10T16:50:07.631280",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "Vyli8oq-a1w",
+      "title": "Asambleísta Lucía Jaramillo   Sesión 128   Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 218.0,
+      "url": "https://www.youtube.com/watch?v=Vyli8oq-a1w",
+      "discovered_at": "2026-10-10T16:50:11.195379",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "iwEFljCOWK8",
+      "title": "Asambleísta Lucía Jaramillo   Sesión 128   Cambio del orden del día",
+      "description": "",
+      "published_at": "2026-10-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 218.0,
+      "url": "https://www.youtube.com/watch?v=iwEFljCOWK8",
+      "discovered_at": "2026-10-10T16:50:14.956138",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "TuiZAwqngDw",
+      "title": "Sesión No. 128-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-10-01T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16701.0,
+      "url": "https://www.youtube.com/watch?v=TuiZAwqngDw",
+      "discovered_at": "2026-10-10T16:52:48.218648",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "HZHJwJptYog",
+      "title": "Votación de la moción de la asambleísta Diana Jácome - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 864.0,
+      "url": "https://www.youtube.com/watch?v=HZHJwJptYog",
+      "discovered_at": "2026-10-10T16:50:18.551701",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "mvHDkBelY7o",
+      "title": "Asambleísta Diana Jácome - Sesión 127 - II Intervención",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 101.0,
+      "url": "https://www.youtube.com/watch?v=mvHDkBelY7o",
+      "discovered_at": "2026-10-10T16:50:22.231466",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "p4ARJCnjTRE",
+      "title": "Asambleísta Andrés Castillo - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 634.0,
+      "url": "https://www.youtube.com/watch?v=p4ARJCnjTRE",
+      "discovered_at": "2026-10-10T16:50:26.070445",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "vdkVKRrIS9c",
+      "title": "Asambleísta Comps Córdova - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 627.0,
+      "url": "https://www.youtube.com/watch?v=vdkVKRrIS9c",
+      "discovered_at": "2026-10-10T16:50:29.712763",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "Arw_ZGkcaSU",
+      "title": "Asambleísta José Nango - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 535.0,
+      "url": "https://www.youtube.com/watch?v=Arw_ZGkcaSU",
+      "discovered_at": "2026-10-10T16:50:33.353839",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "SlUdQqo5vqg",
+      "title": "Asambleísta Madeline Córdova - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 376.0,
+      "url": "https://www.youtube.com/watch?v=SlUdQqo5vqg",
+      "discovered_at": "2026-10-10T16:50:37.198060",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "-k1AJN_IPhA",
+      "title": "Asambleísta Sergio Peña - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 444.0,
+      "url": "https://www.youtube.com/watch?v=-k1AJN_IPhA",
+      "discovered_at": "2026-10-10T16:50:40.725502",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "B2W-0hQG3kc",
+      "title": "Asambleísta Esperanza Rogel - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 702.0,
+      "url": "https://www.youtube.com/watch?v=B2W-0hQG3kc",
+      "discovered_at": "2026-10-10T16:50:44.486774",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "EkebfiaH84U",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 660.0,
+      "url": "https://www.youtube.com/watch?v=EkebfiaH84U",
+      "discovered_at": "2026-10-10T16:50:48.177381",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "R1AEi8r9Rw0",
+      "title": "Asambleísta Maite Levi - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 610.0,
+      "url": "https://www.youtube.com/watch?v=R1AEi8r9Rw0",
+      "discovered_at": "2026-10-10T16:50:51.963941",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "_lwmhA96Sx0",
+      "title": "Asambleísta Alex Morán - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 353.0,
+      "url": "https://www.youtube.com/watch?v=_lwmhA96Sx0",
+      "discovered_at": "2026-10-10T16:50:55.411225",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "EQe67FvufG4",
+      "title": "Asambleísta Inés Alarcón - Sesión 127 - II Intervención",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 186.0,
+      "url": "https://www.youtube.com/watch?v=EQe67FvufG4",
+      "discovered_at": "2026-10-10T16:50:59.207979",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "cIhq7U5C_RU",
+      "title": "Asambleísta Pablo Jurado - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 561.0,
+      "url": "https://www.youtube.com/watch?v=cIhq7U5C_RU",
+      "discovered_at": "2026-10-10T16:51:03.074647",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "FLF2HZXPoWE",
+      "title": "Asambleísta Ricardo Patiño - Sesión 127 - II Intervención",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 273.0,
+      "url": "https://www.youtube.com/watch?v=FLF2HZXPoWE",
+      "discovered_at": "2026-10-10T16:51:06.707345",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "zobhsWtAfEo",
+      "title": "Asambleísta Carlos Cuesta - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 456.0,
+      "url": "https://www.youtube.com/watch?v=zobhsWtAfEo",
+      "discovered_at": "2026-10-10T16:51:10.201231",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "jRyC-cLNH2o",
+      "title": "Asambleísta Xavier Ordoñez - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 294.0,
+      "url": "https://www.youtube.com/watch?v=jRyC-cLNH2o",
+      "discovered_at": "2026-10-10T16:51:13.951065",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "-2SttPcpSmM",
+      "title": "Asambleísta Roberto Cuero - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 593.0,
+      "url": "https://www.youtube.com/watch?v=-2SttPcpSmM",
+      "discovered_at": "2026-10-10T16:51:17.494322",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "dVqBPxnd07Y",
+      "title": "Asambleísta Juan Gonzaga - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 776.0,
+      "url": "https://www.youtube.com/watch?v=dVqBPxnd07Y",
+      "discovered_at": "2026-10-10T16:51:21.129234",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "pUrIiXWeJrg",
+      "title": "Asambleísta Inés Alarcón - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 476.0,
+      "url": "https://www.youtube.com/watch?v=pUrIiXWeJrg",
+      "discovered_at": "2026-10-10T16:51:24.580594",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "CQXRXsY2jaA",
+      "title": "Asambleísta Paola Cabezas - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 721.0,
+      "url": "https://www.youtube.com/watch?v=CQXRXsY2jaA",
+      "discovered_at": "2026-10-10T16:51:28.380531",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "hK8WyyBtbRI",
+      "title": "Asambleísta Diana Jácome - Sesión 127 - Punto de Información",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 152.0,
+      "url": "https://www.youtube.com/watch?v=hK8WyyBtbRI",
+      "discovered_at": "2026-10-10T16:51:32.049203",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "721nbGa8d7s",
+      "title": "Asambleísta Mariana Yumbay - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 615.0,
+      "url": "https://www.youtube.com/watch?v=721nbGa8d7s",
+      "discovered_at": "2026-10-10T16:51:35.781483",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "6OccBkVws3M",
+      "title": "Asambleísta Adrián Castro - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 478.0,
+      "url": "https://www.youtube.com/watch?v=6OccBkVws3M",
+      "discovered_at": "2026-10-10T16:51:39.179783",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "OjimqhSs-H8",
+      "title": "Asambleísta Ricardo Patiño - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 670.0,
+      "url": "https://www.youtube.com/watch?v=OjimqhSs-H8",
+      "discovered_at": "2026-10-10T16:51:42.819566",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "WV9hkwrY0zU",
+      "title": "Asambleísta Edwin Jarrín - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 330.0,
+      "url": "https://www.youtube.com/watch?v=WV9hkwrY0zU",
+      "discovered_at": "2026-10-10T16:51:46.523891",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "GpN64LJjgBk",
+      "title": "Asambleísta Edmundo Cerda - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 282.0,
+      "url": "https://www.youtube.com/watch?v=GpN64LJjgBk",
+      "discovered_at": "2026-10-10T16:51:50.059530",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "P5Lc_peA6rQ",
+      "title": "Asambleísta Paola Jaramillo - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 297.0,
+      "url": "https://www.youtube.com/watch?v=P5Lc_peA6rQ",
+      "discovered_at": "2026-10-10T16:51:53.662143",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "azecN7auVSU",
+      "title": "Asambleísta Jorge Chamba - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 441.0,
+      "url": "https://www.youtube.com/watch?v=azecN7auVSU",
+      "discovered_at": "2026-10-10T16:51:57.542639",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "GY9RK4MtVEs",
+      "title": "Asambleísta Blasco Luna - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 771.0,
+      "url": "https://www.youtube.com/watch?v=GY9RK4MtVEs",
+      "discovered_at": "2026-10-10T16:52:01.266022",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "JOuICs8CM8c",
+      "title": "Asambleísta Annabella Azín - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 653.0,
+      "url": "https://www.youtube.com/watch?v=JOuICs8CM8c",
+      "discovered_at": "2026-10-10T16:52:04.751313",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "hxJK2Q_aRMs",
+      "title": "Asambleísta Diana Jácome - Sesión 127",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 1451.0,
+      "url": "https://www.youtube.com/watch?v=hxJK2Q_aRMs",
+      "discovered_at": "2026-10-10T16:52:08.406189",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "56bY3NvbJGw",
+      "title": "Arturo Romboli - Sesión 127 - Comisión General",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 638.0,
+      "url": "https://www.youtube.com/watch?v=56bY3NvbJGw",
+      "discovered_at": "2026-10-10T16:52:11.951717",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "84YkBjiHZjE",
+      "title": "Sesión No. 127-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 19440.0,
+      "url": "https://www.youtube.com/watch?v=84YkBjiHZjE",
+      "discovered_at": "2026-10-10T16:52:51.861799",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "v_eiLL_dRqk",
+      "title": "Asambleísta John Polanco - Sesión 126",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 547.0,
+      "url": "https://www.youtube.com/watch?v=v_eiLL_dRqk",
+      "discovered_at": "2026-10-10T16:52:15.398926",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "g0IMe87yKmQ",
+      "title": "Asambleísta Mario Zambrano - Sesión 126",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 397.0,
+      "url": "https://www.youtube.com/watch?v=g0IMe87yKmQ",
+      "discovered_at": "2026-10-10T16:52:18.959485",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "VqSDfnRnTAw",
+      "title": "Asambleísta Mónica Alemán - Sesión 126",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 445.0,
+      "url": "https://www.youtube.com/watch?v=VqSDfnRnTAw",
+      "discovered_at": "2026-10-10T16:52:22.451735",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "M65SeZlllfU",
+      "title": "Asambleísta Christopher Jaramillo - Sesión 126",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 246.0,
+      "url": "https://www.youtube.com/watch?v=M65SeZlllfU",
+      "discovered_at": "2026-10-10T16:52:26.014295",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "EMxaRp__YJk",
+      "title": "Asambleísta Nathaly Farinango - Sesión 126 - Punto de información",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 144.0,
+      "url": "https://www.youtube.com/watch?v=EMxaRp__YJk",
+      "discovered_at": "2026-10-10T16:52:29.540789",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "gjGrISToA8U",
+      "title": "Asambleísta Alfredo Serrano - Sesión 126 - Segunda intervención",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 227.0,
+      "url": "https://www.youtube.com/watch?v=gjGrISToA8U",
+      "discovered_at": "2026-10-10T16:52:33.137156",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "AVvLNK3JjOE",
+      "title": "Asambleísta Luigi García - Sesión 126",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 261.0,
+      "url": "https://www.youtube.com/watch?v=AVvLNK3JjOE",
+      "discovered_at": "2026-10-10T16:52:36.838720",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "ZEUaL91M6D4",
+      "title": "Sesión No. 126-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 15656.0,
+      "url": "https://www.youtube.com/watch?v=ZEUaL91M6D4",
+      "discovered_at": "2026-10-10T16:52:55.485606",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "NhVLhbKCQ_Q",
+      "title": "Sesión No. 125-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-22T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 10952.0,
+      "url": "https://www.youtube.com/watch?v=NhVLhbKCQ_Q",
+      "discovered_at": "2026-10-10T16:52:59.264676",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "u1q5e11fLb4",
+      "title": "Sesión No. 124-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 18824.0,
+      "url": "https://www.youtube.com/watch?v=u1q5e11fLb4",
+      "discovered_at": "2026-10-10T16:53:03.003319",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "Oi8P_aWGXAE",
+      "title": "Sesión No. 123-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-15T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13834.0,
+      "url": "https://www.youtube.com/watch?v=Oi8P_aWGXAE",
+      "discovered_at": "2026-10-10T16:53:06.604187",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "KaLvBqgGqr4",
+      "title": "Sesión Solemne de la Asamblea Nacional  - Día de la Fundación de la República.",
+      "description": "",
+      "published_at": "2026-09-11T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5937.0,
+      "url": "https://www.youtube.com/watch?v=KaLvBqgGqr4",
+      "discovered_at": "2026-10-10T16:53:10.520836",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "AGzfKgHDZIQ",
+      "title": "Sesión  No. 122-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16642.0,
+      "url": "https://www.youtube.com/watch?v=AGzfKgHDZIQ",
+      "discovered_at": "2026-10-10T16:53:14.299766",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "KerjVDmNIBk",
+      "title": "Sesión  No. 121-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-03T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16120.0,
+      "url": "https://www.youtube.com/watch?v=KerjVDmNIBk",
+      "discovered_at": "2026-10-10T16:53:18.662997",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "rUEsGTysn2Y",
+      "title": "Sesión  No. 120-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-09-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 4203.0,
+      "url": "https://www.youtube.com/watch?v=rUEsGTysn2Y",
+      "discovered_at": "2026-10-10T16:53:22.225745",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "dhzAzk7BcdI",
+      "title": "Sesión virtual No. 119-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 4896.0,
+      "url": "https://www.youtube.com/watch?v=dhzAzk7BcdI",
+      "discovered_at": "2026-10-10T16:53:25.702600",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "SOD5X_X16So",
+      "title": "Sesión No. 118-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-27T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 15018.0,
+      "url": "https://www.youtube.com/watch?v=SOD5X_X16So",
+      "discovered_at": "2026-10-10T16:53:29.374581",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "VuN7r8veAhA",
+      "title": "Sesión No. 117-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-25T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 14805.0,
+      "url": "https://www.youtube.com/watch?v=VuN7r8veAhA",
+      "discovered_at": "2026-10-10T16:53:32.975103",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "9FdE5yPulxM",
+      "title": "Sesión No. 116-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-20T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11526.0,
+      "url": "https://www.youtube.com/watch?v=9FdE5yPulxM",
+      "discovered_at": "2026-10-10T16:53:36.748595",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "0jUkcE8NeeE",
+      "title": "Continuación de la Sesión No. 113-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-19T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5314.0,
+      "url": "https://www.youtube.com/watch?v=0jUkcE8NeeE",
+      "discovered_at": "2026-10-10T16:53:40.344152",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "qfulGRwbW2w",
+      "title": "Sesión No. 115-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-13T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 7546.0,
+      "url": "https://www.youtube.com/watch?v=qfulGRwbW2w",
+      "discovered_at": "2026-10-10T16:53:44.044601",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "AQNwg-8TY2k",
+      "title": "Siga en vivo la Ceremonia de Relevo de Guardia de la Escolta Legislativa.",
+      "description": "",
+      "published_at": "2026-08-13T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 3334.0,
+      "url": "https://www.youtube.com/watch?v=AQNwg-8TY2k",
+      "discovered_at": "2026-10-10T16:53:51.159998",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "5IPkjyk8zjw",
+      "title": "Sesión No. 114-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-12T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 9704.0,
+      "url": "https://www.youtube.com/watch?v=5IPkjyk8zjw",
+      "discovered_at": "2026-10-10T16:53:47.413267",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "9_tFzCCl6vQ",
+      "title": "Sesión Solemne del Pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5638.0,
+      "url": "https://www.youtube.com/watch?v=9_tFzCCl6vQ",
+      "discovered_at": "2026-10-10T16:53:54.636963",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "9oG1XZ396Gc",
+      "title": "Sesión No. 113-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-08-04T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16337.0,
+      "url": "https://www.youtube.com/watch?v=9oG1XZ396Gc",
+      "discovered_at": "2026-10-10T16:53:58.372527",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "AGAZjqkhTcY",
+      "title": "Sesión No. 112-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-31T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 20503.0,
+      "url": "https://www.youtube.com/watch?v=AGAZjqkhTcY",
+      "discovered_at": "2026-10-10T16:54:02.041301",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "H2cGFtzDwTo",
+      "title": "Sesión No. 111-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 8406.0,
+      "url": "https://www.youtube.com/watch?v=H2cGFtzDwTo",
+      "discovered_at": "2026-10-10T16:54:05.695965",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "rJD211_Aa_M",
+      "title": "Sesión No. 110-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 2098.0,
+      "url": "https://www.youtube.com/watch?v=rJD211_Aa_M",
+      "discovered_at": "2026-10-10T16:54:09.140031",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "1ZHmfNVqa2g",
+      "title": "Sesión No. 110-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-28T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 17150.0,
+      "url": "https://www.youtube.com/watch?v=1ZHmfNVqa2g",
+      "discovered_at": "2026-10-10T16:54:12.851293",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "BTXXqKuB9ug",
+      "title": "Sesión Solemne de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5778.0,
+      "url": "https://www.youtube.com/watch?v=BTXXqKuB9ug",
+      "discovered_at": "2026-10-10T16:54:16.313812",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "Q-jzGYt5wLk",
+      "title": "Sesión No. 109-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-21T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 12171.0,
+      "url": "https://www.youtube.com/watch?v=Q-jzGYt5wLk",
+      "discovered_at": "2026-10-10T16:54:19.914558",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "2TJOjsZgToc",
+      "title": "Continuación de la Sesión No. 107-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6864.0,
+      "url": "https://www.youtube.com/watch?v=2TJOjsZgToc",
+      "discovered_at": "2026-10-10T16:54:23.550894",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "1r2lX4YlZ0k",
+      "title": "Sesión No. 108-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-16T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11659.0,
+      "url": "https://www.youtube.com/watch?v=1r2lX4YlZ0k",
+      "discovered_at": "2026-10-10T16:54:27.012954",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "mmHagzn42JA",
+      "title": "Sesión No. 107-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-14T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11076.0,
+      "url": "https://www.youtube.com/watch?v=mmHagzn42JA",
+      "discovered_at": "2026-10-10T16:54:30.519090",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "sgeqB7kUw4k",
       "title": "Asambleísta María del Cisne Molina - Sesión 101",
       "description": "",
@@ -399,6 +1620,17 @@
       "discovered_at": "2026-07-09T22:29:02.529557"
     },
     {
+      "video_id": "F-t9Nf_rV3Q",
+      "title": "Sesión No. 106-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11785.0,
+      "url": "https://www.youtube.com/watch?v=F-t9Nf_rV3Q",
+      "discovered_at": "2026-10-10T16:54:34.224627",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "PqRDfzlfLSM",
       "title": "Voces de la Asamblea - Asambleísta Besibell Mendoza",
       "description": "",
@@ -586,6 +1818,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=hZJyiSeSK0Q",
       "discovered_at": "2026-07-09T22:29:56.484912"
+    },
+    {
+      "video_id": "twEFdla3yYA",
+      "title": "Sesión No. 105-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-07-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 10702.0,
+      "url": "https://www.youtube.com/watch?v=twEFdla3yYA",
+      "discovered_at": "2026-10-10T16:54:37.801706",
+      "video_type": "full_session"
     },
     {
       "video_id": "IL0OjH0RGgE",
@@ -910,6 +2153,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=HjR4FTKFVDw",
       "discovered_at": "2026-07-09T22:31:30.249247"
+    },
+    {
+      "video_id": "dlRAwh5BWvo",
+      "title": "Sesión No. 104-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 17087.0,
+      "url": "https://www.youtube.com/watch?v=dlRAwh5BWvo",
+      "discovered_at": "2026-10-10T16:54:41.386190",
+      "video_type": "full_session"
     },
     {
       "video_id": "sWN5dojDP9I",
@@ -1272,6 +2526,17 @@
       "discovered_at": "2026-07-09T22:33:18.274935"
     },
     {
+      "video_id": "YwxG_22BSJU",
+      "title": "Sesión No. 103-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 17598.0,
+      "url": "https://www.youtube.com/watch?v=YwxG_22BSJU",
+      "discovered_at": "2026-10-10T16:54:45.113433",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "z7-QfREXlJw",
       "title": "Votación de la moción del asambleísta Fernando Jaramillo - Sesión 102",
       "description": "",
@@ -1434,6 +2699,17 @@
       "discovered_at": "2026-07-09T22:34:07.988807"
     },
     {
+      "video_id": "_mmcxvwI3os",
+      "title": "Sesión No. 102-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-23T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11641.0,
+      "url": "https://www.youtube.com/watch?v=_mmcxvwI3os",
+      "discovered_at": "2026-10-10T16:54:48.556262",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "coxKLvDHhw8",
       "title": "Voces de la Asamblea - Pablo Jurado",
       "description": "",
@@ -1450,6 +2726,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=m5-ji6QZl5U",
       "discovered_at": "2026-07-09T22:34:13.299304"
+    },
+    {
+      "video_id": "Tp0s6hs7E6Q",
+      "title": "Continuación de la Sesión No. 097-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-19T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 3755.0,
+      "url": "https://www.youtube.com/watch?v=Tp0s6hs7E6Q",
+      "discovered_at": "2026-10-10T16:54:52.128481",
+      "video_type": "full_session"
     },
     {
       "video_id": "8EF-AjEhfzo",
@@ -1513,6 +2800,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=0R5dJ7ei1sQ",
       "discovered_at": "2026-07-09T22:34:31.596624"
+    },
+    {
+      "video_id": "OUefmxJDE4Q",
+      "title": "Continuación de la Sesión No. 078-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6952.0,
+      "url": "https://www.youtube.com/watch?v=OUefmxJDE4Q",
+      "discovered_at": "2026-10-10T16:54:55.779999",
+      "video_type": "full_session"
     },
     {
       "video_id": "Bdp-iz-rYg0",
@@ -1830,6 +3128,17 @@
       "discovered_at": "2026-07-09T22:36:01.782089"
     },
     {
+      "video_id": "x5XJ272pG_U",
+      "title": "Sesión No. 101-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 10543.0,
+      "url": "https://www.youtube.com/watch?v=x5XJ272pG_U",
+      "discovered_at": "2026-10-10T16:54:59.288239",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "W-3KkjIgvq0",
       "title": "Posesión y toma de juramento del primer vicepresidente Esteban Torres   Sesión 100",
       "description": "",
@@ -1864,6 +3173,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=899xXjs-q0A",
       "discovered_at": "2026-07-09T22:36:13.011017"
+    },
+    {
+      "video_id": "eGOFdzyUynA",
+      "title": "Sesión No. 100-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 2239.0,
+      "url": "https://www.youtube.com/watch?v=eGOFdzyUynA",
+      "discovered_at": "2026-10-10T16:55:03.399914",
+      "video_type": "full_session"
     },
     {
       "video_id": "UnG5L8QCFjs",
@@ -2127,6 +3447,17 @@
       "discovered_at": "2026-07-09T22:37:31.643761"
     },
     {
+      "video_id": "PmeTcvGVZzg",
+      "title": "Sesión No. 099-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16375.0,
+      "url": "https://www.youtube.com/watch?v=PmeTcvGVZzg",
+      "discovered_at": "2026-10-10T16:55:07.017063",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "am-Z95tCTtU",
       "title": "Asambleísta Andrés Castillo - Sesión 098",
       "description": "",
@@ -2181,6 +3512,171 @@
       "discovered_at": "2026-07-09T22:37:49.875104"
     },
     {
+      "video_id": "GirOwWvfqpM",
+      "title": "Sesión No. 098-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 19154.0,
+      "url": "https://www.youtube.com/watch?v=GirOwWvfqpM",
+      "discovered_at": "2026-10-10T16:55:10.865763",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "qiI46ykW0UU",
+      "title": "Continuación de la Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-03T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13728.0,
+      "url": "https://www.youtube.com/watch?v=qiI46ykW0UU",
+      "discovered_at": "2026-10-10T16:55:14.792058",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "Z8e1LYsfxkc",
+      "title": "Sesión No. 096-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-06-02T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11350.0,
+      "url": "https://www.youtube.com/watch?v=Z8e1LYsfxkc",
+      "discovered_at": "2026-10-10T16:55:18.574709",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "RBNhDX216C0",
+      "title": "Continuación de la Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-27T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 19569.0,
+      "url": "https://www.youtube.com/watch?v=RBNhDX216C0",
+      "discovered_at": "2026-10-10T16:55:22.396641",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "FbXoaD5Zi2c",
+      "title": "Sesión Solemne del Pleno de la Asamblea Nacional - Informe a la Nación 2026",
+      "description": "",
+      "published_at": "2026-05-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 8971.0,
+      "url": "https://www.youtube.com/watch?v=FbXoaD5Zi2c",
+      "discovered_at": "2026-10-10T16:55:26.033876",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "OQTV5-pXLoA",
+      "title": "Continuación de la Sesión No. 093-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-21T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 7563.0,
+      "url": "https://www.youtube.com/watch?v=OQTV5-pXLoA",
+      "discovered_at": "2026-10-10T16:55:29.781282",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "DI6nXsSzbjI",
+      "title": "Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-21T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11466.0,
+      "url": "https://www.youtube.com/watch?v=DI6nXsSzbjI",
+      "discovered_at": "2026-10-10T16:55:33.595480",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "wJWzbfH02pk",
+      "title": "Primer año de gestión - #1AñoGestiónAN #AsambleaEc2026",
+      "description": "",
+      "published_at": "2026-05-15T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6517.0,
+      "url": "https://www.youtube.com/watch?v=wJWzbfH02pk",
+      "discovered_at": "2026-10-10T16:55:37.237338",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "ePQ00L9sgqo",
+      "title": "Sesión No. 093-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-12T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 7310.0,
+      "url": "https://www.youtube.com/watch?v=ePQ00L9sgqo",
+      "discovered_at": "2026-10-10T16:55:41.367637",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "NqRTchAgRRk",
+      "title": "Continuación de la Sesión No. 066-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 14332.0,
+      "url": "https://www.youtube.com/watch?v=NqRTchAgRRk",
+      "discovered_at": "2026-10-10T16:55:44.820100",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "LH6nvPj0NMg",
+      "title": "Continuación de la Sesión No. 024-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-05-05T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 14267.0,
+      "url": "https://www.youtube.com/watch?v=LH6nvPj0NMg",
+      "discovered_at": "2026-10-10T16:55:48.428579",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "tXJOkaAX4jQ",
+      "title": "Sesión No. 090-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 2204.0,
+      "url": "https://www.youtube.com/watch?v=tXJOkaAX4jQ",
+      "discovered_at": "2026-10-10T16:55:51.876857",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "LaLEq_jYPq8",
+      "title": "Continuación de la Sesión No. 086-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-29T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 1311.0,
+      "url": "https://www.youtube.com/watch?v=LaLEq_jYPq8",
+      "discovered_at": "2026-10-10T16:55:55.568465",
+      "video_type": "clip"
+    },
+    {
+      "video_id": "qklvOa9r_ko",
+      "title": "Sesión No. 089-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-28T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 7912.0,
+      "url": "https://www.youtube.com/watch?v=qklvOa9r_ko",
+      "discovered_at": "2026-10-10T16:55:59.082535",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "flJyhhgrVm0",
+      "title": "Sesión No. 088-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-25T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5877.0,
+      "url": "https://www.youtube.com/watch?v=flJyhhgrVm0",
+      "discovered_at": "2026-10-10T16:56:02.594919",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "mp_3B3pqpig",
       "title": "Asambleísta Gabriela Molina - Sesión 087",
       "description": "",
@@ -2190,6 +3686,72 @@
       "discovered_at": "2026-05-13T02:38:54.315684"
     },
     {
+      "video_id": "K4PoQTycchw",
+      "title": "Sesión No. 087-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-22T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16940.0,
+      "url": "https://www.youtube.com/watch?v=K4PoQTycchw",
+      "discovered_at": "2026-10-10T16:56:06.220534",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "DJdvYdWna3M",
+      "title": "Continuación de la Sesión No. 083-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-16T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 5562.0,
+      "url": "https://www.youtube.com/watch?v=DJdvYdWna3M",
+      "discovered_at": "2026-10-10T16:56:09.952035",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "Tdz50BW3Zn0",
+      "title": "Siga en vivo la  Sesión No. 086-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-15T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 9722.0,
+      "url": "https://www.youtube.com/watch?v=Tdz50BW3Zn0",
+      "discovered_at": "2026-10-10T16:56:13.610115",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "CA65OoS5xiI",
+      "title": "Siga en vivo la  Sesión No. 085-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-14T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 12106.0,
+      "url": "https://www.youtube.com/watch?v=CA65OoS5xiI",
+      "discovered_at": "2026-10-10T16:56:17.224986",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "6lcXHJaMRRY",
+      "title": "Siga en vivo la  Sesión No. 084-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-08T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 12194.0,
+      "url": "https://www.youtube.com/watch?v=6lcXHJaMRRY",
+      "discovered_at": "2026-10-10T16:56:20.890298",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "hWaelI7Mbvg",
+      "title": "Siga en vivo la  Sesión No. 083-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-04-07T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11084.0,
+      "url": "https://www.youtube.com/watch?v=hWaelI7Mbvg",
+      "discovered_at": "2026-10-10T16:56:24.550747",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "TSAVf9EBaxY",
       "title": "Asambleísta Keevin Gallardo - Sesión 082 - Cambio del orden del día",
       "description": "",
@@ -2197,6 +3759,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=TSAVf9EBaxY",
       "discovered_at": "2026-05-15T06:45:18.641381"
+    },
+    {
+      "video_id": "B_xLzxmNTYQ",
+      "title": "Siga en vivo la  Sesión No. 082-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-31T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13029.0,
+      "url": "https://www.youtube.com/watch?v=B_xLzxmNTYQ",
+      "discovered_at": "2026-10-10T16:56:28.182779",
+      "video_type": "full_session"
     },
     {
       "video_id": "f8BK3Ecjyvk",
@@ -2460,6 +4033,17 @@
       "discovered_at": "2026-05-15T06:46:04.548122"
     },
     {
+      "video_id": "LAEFN85_Aog",
+      "title": "Siga en vivo la continuación de la Sesión No. 080-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-30T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 17611.0,
+      "url": "https://www.youtube.com/watch?v=LAEFN85_Aog",
+      "discovered_at": "2026-10-10T16:56:31.699326",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "pb1jSeGfCrs",
       "title": "Votación de la moción de archivo asambleísta  Xavier Ordoñez - Sesión 081",
       "description": "",
@@ -2694,6 +4278,17 @@
       "discovered_at": "2026-05-15T06:51:45.750444"
     },
     {
+      "video_id": "9GPI7z-DwKw",
+      "title": "Siga en vivo la Sesión No. 081-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-26T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13641.0,
+      "url": "https://www.youtube.com/watch?v=9GPI7z-DwKw",
+      "discovered_at": "2026-10-10T16:56:35.279246",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "j8aDBZN4_-c",
       "title": "Asambleísta Andrés Castillo - Sesión 080",
       "description": "",
@@ -2901,6 +4496,17 @@
       "discovered_at": "2026-05-15T06:52:21.045650"
     },
     {
+      "video_id": "Dp39JdR0lmg",
+      "title": "Siga en vivo la Sesión No. 080-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 14016.0,
+      "url": "https://www.youtube.com/watch?v=Dp39JdR0lmg",
+      "discovered_at": "2026-10-10T16:56:38.825175",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "RKNJytWox4A",
       "title": "Asambleísta Edwin Jarrín - Sesión 079",
       "description": "",
@@ -3079,6 +4685,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=wvQ8YdFplRs",
       "discovered_at": "2026-05-15T06:52:52.002145"
+    },
+    {
+      "video_id": "XYHTX_cUDkQ",
+      "title": "Siga en vivo la Sesión No. 079-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-18T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 9042.0,
+      "url": "https://www.youtube.com/watch?v=XYHTX_cUDkQ",
+      "discovered_at": "2026-10-10T16:56:42.742161",
+      "video_type": "full_session"
     },
     {
       "video_id": "YJwQQniBWB8",
@@ -3360,6 +4977,17 @@
       "discovered_at": "2026-05-15T06:53:39.354622"
     },
     {
+      "video_id": "Ypnt8f_hBqI",
+      "title": "Siga en vivo la Sesión No. 078-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-17T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 16444.0,
+      "url": "https://www.youtube.com/watch?v=Ypnt8f_hBqI",
+      "discovered_at": "2026-10-10T16:56:46.621183",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "CPS94pHrc1Y",
       "title": "Asambleísta Inés Alarcón - Sesión 077",
       "description": "",
@@ -3385,6 +5013,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=r6_H3TNKVIM",
       "discovered_at": "2026-05-15T06:53:43.883242"
+    },
+    {
+      "video_id": "SaTkt2EX82Y",
+      "title": "Siga en vivo la Sesión No. 077-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-13T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6617.0,
+      "url": "https://www.youtube.com/watch?v=SaTkt2EX82Y",
+      "discovered_at": "2026-10-10T16:56:50.106657",
+      "video_type": "full_session"
     },
     {
       "video_id": "K32nMLXiwdM",
@@ -3502,6 +5141,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=Hx5PtkM-06M",
       "discovered_at": "2026-05-15T06:54:03.789516"
+    },
+    {
+      "video_id": "NJlpOl6KGNE",
+      "title": "Siga en vivo la continuación de la Sesión No. 064-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-11T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6353.0,
+      "url": "https://www.youtube.com/watch?v=NJlpOl6KGNE",
+      "discovered_at": "2026-10-10T16:56:53.768979",
+      "video_type": "full_session"
     },
     {
       "video_id": "2eaak0VmhXQ",
@@ -3630,6 +5280,17 @@
       "discovered_at": "2026-05-15T06:54:25.218559"
     },
     {
+      "video_id": "YJmi79Garpg",
+      "title": "Sesión No. 076-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 8676.0,
+      "url": "https://www.youtube.com/watch?v=YJmi79Garpg",
+      "discovered_at": "2026-10-10T16:56:57.258796",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "JwTveZociX0",
       "title": "Comisión de Servicios al Exterior",
       "description": "",
@@ -3675,6 +5336,17 @@
       "discovered_at": "2026-05-15T06:54:32.619087"
     },
     {
+      "video_id": "9tVHSB9bzAg",
+      "title": "Sesión No. 075-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-05T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 3103.0,
+      "url": "https://www.youtube.com/watch?v=9tVHSB9bzAg",
+      "discovered_at": "2026-10-10T16:57:00.760002",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "OeoSNK7DIiQ",
       "title": "Asambleísta Fernando Jaramillo - Sesión 073",
       "description": "",
@@ -3718,6 +5390,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=_nMxcXel4og",
       "discovered_at": "2026-05-15T06:54:40.172605"
+    },
+    {
+      "video_id": "-YvmF3LqUwY",
+      "title": "Sesión No. 073-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-03-03T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 19918.0,
+      "url": "https://www.youtube.com/watch?v=-YvmF3LqUwY",
+      "discovered_at": "2026-10-10T16:57:04.424396",
+      "video_type": "full_session"
     },
     {
       "video_id": "1PUAAFT8qmA",
@@ -3936,6 +5619,17 @@
       "discovered_at": "2026-05-15T06:55:17.382565"
     },
     {
+      "video_id": "LKSq1Y19giI",
+      "title": "Sesión No. 074-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-26T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13987.0,
+      "url": "https://www.youtube.com/watch?v=LKSq1Y19giI",
+      "discovered_at": "2026-10-10T16:57:07.948873",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "QGkoxNZl8Ro",
       "title": "Votación de la moción del asambleísta Christopher Jaramillo - Sesión 067",
       "description": "",
@@ -4141,6 +5835,17 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=N1YhfHzqS0w",
       "discovered_at": "2026-05-15T06:55:52.825072"
+    },
+    {
+      "video_id": "6ZG60qIJQTI",
+      "title": "Continuación de la Sesión No. 067-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-25T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 12309.0,
+      "url": "https://www.youtube.com/watch?v=6ZG60qIJQTI",
+      "discovered_at": "2026-10-10T16:57:11.561555",
+      "video_type": "full_session"
     },
     {
       "video_id": "181lxytN6O4",
@@ -4719,6 +6424,17 @@
       "discovered_at": "2026-05-15T06:57:30.978520"
     },
     {
+      "video_id": "7yfMP00n3Es",
+      "title": "Sesión No. 071-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-19T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 30562.0,
+      "url": "https://www.youtube.com/watch?v=7yfMP00n3Es",
+      "discovered_at": "2026-10-10T16:57:15.043809",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "mrE2wBXMCYA",
       "title": "Asambleísta Noemi Cabrera - Sesión 070",
       "description": "",
@@ -4735,6 +6451,28 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=X8McwtxJOG4",
       "discovered_at": "2026-05-15T06:57:34.018744"
+    },
+    {
+      "video_id": "LtNezH4nDYM",
+      "title": "Sesión No. 070-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-15T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 10939.0,
+      "url": "https://www.youtube.com/watch?v=LtNezH4nDYM",
+      "discovered_at": "2026-10-10T16:57:18.609405",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "QwIA83ZH2Zg",
+      "title": "Sesión Solemne de la Asamblea Nacional en la provincia de Tungurahua",
+      "description": "",
+      "published_at": "2026-02-12T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 6715.0,
+      "url": "https://www.youtube.com/watch?v=QwIA83ZH2Zg",
+      "discovered_at": "2026-10-10T16:57:22.586494",
+      "video_type": "full_session"
     },
     {
       "video_id": "sCRp0uBtxcE",
@@ -4978,6 +6716,28 @@
       "channel_title": "Asamblea Nacional del Ecuador",
       "url": "https://www.youtube.com/watch?v=WRlJ1DtbrG8",
       "discovered_at": "2026-05-15T06:58:15.431547"
+    },
+    {
+      "video_id": "Zsxkmh7xS4s",
+      "title": "Sesión No. 069-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 11825.0,
+      "url": "https://www.youtube.com/watch?v=Zsxkmh7xS4s",
+      "discovered_at": "2026-10-10T16:57:26.180698",
+      "video_type": "full_session"
+    },
+    {
+      "video_id": "Zi-bLSb2pd0",
+      "title": "Sesión No. 068-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-02-09T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 13465.0,
+      "url": "https://www.youtube.com/watch?v=Zi-bLSb2pd0",
+      "discovered_at": "2026-10-10T16:57:29.811877",
+      "video_type": "full_session"
     },
     {
       "video_id": "N6bqT1vbDnM",
@@ -11142,5 +12902,5 @@
       "discovered_at": "2026-07-09T22:44:01.692663"
     }
   ],
-  "last_updated": "2026-07-10T06:29:48.101328Z"
+  "last_updated": "2026-10-10T16:57:29.812024Z"
 }
