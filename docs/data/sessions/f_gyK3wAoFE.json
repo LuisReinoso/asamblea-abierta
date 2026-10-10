@@ -1,0 +1,53 @@
+{
+  "text": "asambleísta, Marco Olmedo.  Muchas gracias, señor presidente.  Saliéndome un poquito de la dinámica de la Asamblea, el día de hoy el Gobierno Nacional  tiene una nueva ministra, una compañera de aquí, de la Asamblea, y quiero felicitar  la designación de Natalie Murillo como ministra de Gobierno.  De verdad, qué orgullo tan grande que una compañera, que una vecina tenga ahora esta dignidad.  Compañera de bancada que demuestra que con trabajo y disciplina se consiguen grandes logros.  Desearle los mejores éxitos.  Estoy convencido de que su apertura al diálogo traerá grandes resultados para el Gobierno  y con toda seguridad para el país.  Estaremos desde la Asamblea Nacional a tu lado, querida compañera, apoyándote permanentemente  porque tus resultados positivos son los resultados del país.  Finalmente, felicitarle al Ecuador por tener una ministra ahora comprometida, solidaria y extremadamente humana.  Muchísimas gracias, señor presidente, por permitirme la palabra.",
+  "language": "es",
+  "duration": 88.98,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 87.7,
+      "text": "asambleísta, Marco Olmedo.  Muchas gracias, señor presidente.  Saliéndome un poquito de la dinámica de la Asamblea, el día de hoy el Gobierno Nacional  tiene una nueva ministra, una compañera de aquí, de la Asamblea, y quiero felicitar  la designación de Natalie Murillo como ministra de Gobierno.  De verdad, qué orgullo tan grande que una compañera, que una vecina tenga ahora esta dignidad.  Compañera de bancada que demuestra que con trabajo y disciplina se consiguen grandes logros.  Desearle los mejores éxitos.  Estoy convencido de que su apertura al diálogo traerá grandes resultados para el Gobierno  y con toda seguridad para el país.  Estaremos desde la Asamblea Nacional a tu lado, querida compañera, apoyándote permanentemente  porque tus resultados positivos son los resultados del país.  Finalmente, felicitarle al Ecuador por tener una ministra ahora comprometida, solidaria y extremadamente humana.  Muchísimas gracias, señor presidente, por permitirme la palabra.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Marco Patricio Olmedo Arias",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "f_gyK3wAoFE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Marco Patricio Olmedo Arias",
+      "confidence": 1.0,
+      "votes": {
+        "Marco Patricio Olmedo Arias": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Marco Olmedo - Sesión 044",
+  "url": "https://www.youtube.com/watch?v=f_gyK3wAoFE",
+  "published_at": "2025-11-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "f_gyK3wAoFE",
+  "date": "2025-11-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=f_gyK3wAoFE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Marco Patricio Olmedo Arias",
+      "party": null,
+      "province": null,
+      "total_time": 87.67,
+      "interventions": 1,
+      "word_count": 144
+    }
+  ]
+}

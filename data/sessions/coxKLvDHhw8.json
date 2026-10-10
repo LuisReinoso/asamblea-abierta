@@ -1,0 +1,106 @@
+{
+  "text": "Estamos en Voces de la Asamblea. Esta vez nos acompaña el asambleísta Pablo Jurado Moreno.  Señor asambleísta, ¿qué opinas sobre el proyecto de ley orgánica para la atención integral de las personas con obesidad? Sin duda, su contenido, su intención, su objeto y finalidad buscan mejorar la calidad de vida de las ecuatorianas y de los ecuatorianos  en las diferentes edades, en niñas, niños, en adolescentes, más aún cuando este ya es un problema identificado por la Organización Mundial de la Salud  como una enfermedad, tanto el sobrepeso como la obesidad. Por eso, ahí está la importancia del contenido de este proyecto de ley. Finalmente, ¿usted piensa que una de las conclusiones es que gran parte de la solución es la prevención y de ser así está en manos de cada persona también la solución? Bueno, la prevención tiene que estar dentro de esa etapa que le corresponde.  Antes de entrar a la prevención hay que hacer la promoción  y la promoción tiene que venir desde los hogares,  la prevención tiene que venir desde las aulas escolares,  la prevención que no es otra cosa de entregar toda la información necesaria  de las bondades que tiene el cambiar un estilo de vida,  de las bondades y ventajas que tiene el alimentarnos de mejor manera.  Debemos entender que es más costoso simplemente comer que alimentarse.  Ventajosamente todavía en nuestro medio hay verduras, hay cereales, hay frutas a precios accesibles.  Por lo tanto, para concluir, el estilo de vida nuestro tiene que mejorar.",
+  "language": "es",
+  "duration": 99.4,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.74,
+      "end": 13.04,
+      "text": "Estamos en Voces de la Asamblea. Esta vez nos acompaña el asambleísta Pablo Jurado Moreno.  Señor asambleísta, ¿qué opinas sobre el proyecto de ley orgánica para la atención integral de las personas con obesidad?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 13.88,
+      "end": 41.63,
+      "text": "Sin duda, su contenido, su intención, su objeto y finalidad buscan mejorar la calidad de vida de las ecuatorianas y de los ecuatorianos  en las diferentes edades, en niñas, niños, en adolescentes, más aún cuando este ya es un problema identificado por la Organización Mundial de la Salud  como una enfermedad, tanto el sobrepeso como la obesidad. Por eso, ahí está la importancia del contenido de este proyecto de ley.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Pablo Aníbal Jurado Moreno",
+        "confidence": 0.7551,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 41.81,
+      "end": 51.89,
+      "text": "Finalmente, ¿usted piensa que una de las conclusiones es que gran parte de la solución es la prevención y de ser así está en manos de cada persona también la solución?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 52.16,
+      "end": 97.53,
+      "text": "Bueno, la prevención tiene que estar dentro de esa etapa que le corresponde.  Antes de entrar a la prevención hay que hacer la promoción  y la promoción tiene que venir desde los hogares,  la prevención tiene que venir desde las aulas escolares,  la prevención que no es otra cosa de entregar toda la información necesaria  de las bondades que tiene el cambiar un estilo de vida,  de las bondades y ventajas que tiene el alimentarnos de mejor manera.  Debemos entender que es más costoso simplemente comer que alimentarse.  Ventajosamente todavía en nuestro medio hay verduras, hay cereales, hay frutas a precios accesibles.  Por lo tanto, para concluir, el estilo de vida nuestro tiene que mejorar.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Pablo Aníbal Jurado Moreno",
+        "confidence": 0.7551,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "coxKLvDHhw8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 8,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 20,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voces de la Asamblea - Pablo Jurado",
+  "url": "https://www.youtube.com/watch?v=coxKLvDHhw8",
+  "published_at": "2026-06-19T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "coxKLvDHhw8",
+  "date": "2026-06-19T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=coxKLvDHhw8",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Pablo Aníbal Jurado Moreno",
+      "party": null,
+      "province": null,
+      "total_time": 73.12,
+      "interventions": 2,
+      "word_count": 185
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 21.38,
+      "interventions": 2,
+      "word_count": 65
+    }
+  ]
+}

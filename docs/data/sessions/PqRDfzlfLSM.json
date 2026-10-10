@@ -1,0 +1,160 @@
+{
+  "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Belcibén Mendoza,  quien nos hablará sobre el proyecto de ley reformatoria a la Ley de Creación y Funcionamiento del Servicio Ecuatoriano de Capacitación Profesional, SECAP.  Asambleísta, ¿cuál es el objetivo principal de esta reforma al SECAP y qué desafíos busca resolver en materia de capacitación y formación profesional? Bueno, el Ecuador ha cambiado muchísimo desde 1978, realmente desde el año en que se creó esta ley del SECAP.  Lo que pretendemos hoy con esta reforma a la presente ley es darle seguridad justamente a todos esos capacitadores,  quienes buscan mejor formación y poder blindarles también de qué oferta van a recibir para poder nutrirse mejor de conocimientos  y poder tener en este caso mejor información respecto al tema en que se quieran fortalecer. La propuesta contempla la creación del Registro Nacional de Operadores de Capacitación Calificados.  ¿Cómo contribuirá esta herramienta a garantizar una oferta formativa de calidad y mayor transparencia para los ciudadanos? Bueno, justamente lo que pretendemos también es que cada operador calificado para poder capacitar en este caso  tenga las herramientas legales necesarias que las pueda certificar en este caso el organismo público  para que sean estos capacitadores acreditados para que puedan dar mejor formación. ¿Qué impacto tendrá esa reforma para trabajadores, emprendedores y empleadores que buscan fortalecer sus capacidades y mejorar su desempeño productivo? Bueno, para empleadores darle mejores herramientas a sus colaboradores, en este caso poder saber que todas estas capacitadoras van a contar con una certificación pública.  Es importante mencionar que cualquier capacitadora podrá seguir ofreciendo sus servicios, sin embargo, quienes estén certificadas realmente por el Ministerio, por el SECAP en este caso, tendrán mejores oportunidades. Finalmente, ¿de qué manera esa iniciativa aportará al fortalecimiento de la empleabilidad,  la certificación de competencias y el desarrollo económico del Ecuador? Bueno, realmente una persona mejor capacitada, una madre de familia, un joven, una persona que quiera capacitarse mejor va a contribuir mucho mejor a la sociedad en sus trabajos, en sus emprendimientos.",
+  "language": "es",
+  "duration": 143.15,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.92,
+      "end": 21.09,
+      "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Belcibén Mendoza,  quien nos hablará sobre el proyecto de ley reformatoria a la Ley de Creación y Funcionamiento del Servicio Ecuatoriano de Capacitación Profesional, SECAP.  Asambleísta, ¿cuál es el objetivo principal de esta reforma al SECAP y qué desafíos busca resolver en materia de capacitación y formación profesional?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.562,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 21.75,
+      "end": 53.1,
+      "text": "Bueno, el Ecuador ha cambiado muchísimo desde 1978, realmente desde el año en que se creó esta ley del SECAP.  Lo que pretendemos hoy con esta reforma a la presente ley es darle seguridad justamente a todos esos capacitadores,  quienes buscan mejor formación y poder blindarles también de qué oferta van a recibir para poder nutrirse mejor de conocimientos  y poder tener en este caso mejor información respecto al tema en que se quieran fortalecer.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Besibell Mendoza Ibarra",
+        "confidence": 0.8841,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 54.74,
+      "end": 64.98,
+      "text": "La propuesta contempla la creación del Registro Nacional de Operadores de Capacitación Calificados.  ¿Cómo contribuirá esta herramienta a garantizar una oferta formativa de calidad y mayor transparencia para los ciudadanos?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.562,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 65.05,
+      "end": 82.38,
+      "text": "Bueno, justamente lo que pretendemos también es que cada operador calificado para poder capacitar en este caso  tenga las herramientas legales necesarias que las pueda certificar en este caso el organismo público  para que sean estos capacitadores acreditados para que puedan dar mejor formación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Besibell Mendoza Ibarra",
+        "confidence": 0.8841,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 82.38,
+      "end": 89.92,
+      "text": "¿Qué impacto tendrá esa reforma para trabajadores, emprendedores y empleadores que buscan fortalecer sus capacidades y mejorar su desempeño productivo?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.562,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 90.19,
+      "end": 118.21,
+      "text": "Bueno, para empleadores darle mejores herramientas a sus colaboradores, en este caso poder saber que todas estas capacitadoras van a contar con una certificación pública.  Es importante mencionar que cualquier capacitadora podrá seguir ofreciendo sus servicios, sin embargo, quienes estén certificadas realmente por el Ministerio, por el SECAP en este caso, tendrán mejores oportunidades.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Besibell Mendoza Ibarra",
+        "confidence": 0.8841,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 118.21,
+      "end": 126.59,
+      "text": "Finalmente, ¿de qué manera esa iniciativa aportará al fortalecimiento de la empleabilidad,  la certificación de competencias y el desarrollo económico del Ecuador?",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.562,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 126.95,
+      "end": 141.97,
+      "text": "Bueno, realmente una persona mejor capacitada, una madre de familia, un joven, una persona que quiera capacitarse mejor va a contribuir mucho mejor a la sociedad en sus trabajos, en sus emprendimientos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Besibell Mendoza Ibarra",
+        "confidence": 0.8841,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "PqRDfzlfLSM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 14,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 25,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voces de la Asamblea - Asambleísta Besibell Mendoza",
+  "url": "https://www.youtube.com/watch?v=PqRDfzlfLSM",
+  "published_at": "2026-07-03T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "PqRDfzlfLSM",
+  "date": "2026-07-03T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=PqRDfzlfLSM",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "María Besibell Mendoza Ibarra",
+      "party": null,
+      "province": null,
+      "total_time": 91.72,
+      "interventions": 4,
+      "word_count": 205
+    },
+    {
+      "id": "speaker_0",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "party": null,
+      "province": null,
+      "total_time": 45.33,
+      "interventions": 4,
+      "word_count": 131
+    }
+  ]
+}

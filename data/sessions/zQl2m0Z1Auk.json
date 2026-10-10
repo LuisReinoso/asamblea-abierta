@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, Presidenta Adrián Castro.  Quienes no fiscalizan lo que deberían fiscalizar, mil novecientos detenidos de enero a noviembre, mil novecientos detenidos, los señores policías en Cuenca y el Azuay, mil novecientos, no es poca cosa, más de la mitad ya están libres y no les soltaron la policía, les soltaron los jueces y algunos fiscales.  De eso estamos hablando, compañeros.  Y lo otro, guardemos la compostura, creo que ese tema nos interesa a todos, no estoy hablando de algo que no les interese.  Y lo otro, si es que en algunos municipios no se está cobrando dicha tasa, lo que hay que agregar a esa resolución, y lo estoy haciendo en este momento, es tasa y cualquier otro presupuesto, fondo o lo que sea destinado para eso.  Yo no creo que existan municipios que no estén invirtiendo en seguridad, cámaras de vigilancia, aunque sí estoy convencido que algunos son campeones para hacer conciertos, eso sí, son número uno.  Ya le están quitando el negocio a Top Shows a quien quito, porque les encanta hacer eso.  Así que no estamos promoviendo nada de malo, compañeros.  Cuando propogamos un tema que no sume al país, hay cualquier cosa.  Pero en este tema creo que hay que ponerle la cara y hay que darle sobre todo respeto a los temas y a la ciudadanía.  Sobre todo respeto a los amigos y amigas policías que están aquí y a sus familias.  Señor presidente, dado esto y lo que he mencionado hace un momento también, solicito a usted que se proceda a tomar la votación de la moción que ha sido presentada por secretaría.  Muchas gracias.  Se cierra el debate.  Señor secretario, certifique...",
+  "language": "es",
+  "duration": 122.72,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 122.8,
+      "text": "Gracias, Presidenta Adrián Castro.  Quienes no fiscalizan lo que deberían fiscalizar, mil novecientos detenidos de enero a noviembre, mil novecientos detenidos, los señores policías en Cuenca y el Azuay, mil novecientos, no es poca cosa, más de la mitad ya están libres y no les soltaron la policía, les soltaron los jueces y algunos fiscales.  De eso estamos hablando, compañeros.  Y lo otro, guardemos la compostura, creo que ese tema nos interesa a todos, no estoy hablando de algo que no les interese.  Y lo otro, si es que en algunos municipios no se está cobrando dicha tasa, lo que hay que agregar a esa resolución, y lo estoy haciendo en este momento, es tasa y cualquier otro presupuesto, fondo o lo que sea destinado para eso.  Yo no creo que existan municipios que no estén invirtiendo en seguridad, cámaras de vigilancia, aunque sí estoy convencido que algunos son campeones para hacer conciertos, eso sí, son número uno.  Ya le están quitando el negocio a Top Shows a quien quito, porque les encanta hacer eso.  Así que no estamos promoviendo nada de malo, compañeros.  Cuando propogamos un tema que no sume al país, hay cualquier cosa.  Pero en este tema creo que hay que ponerle la cara y hay que darle sobre todo respeto a los temas y a la ciudadanía.  Sobre todo respeto a los amigos y amigas policías que están aquí y a sus familias.  Señor presidente, dado esto y lo que he mencionado hace un momento también, solicito a usted que se proceda a tomar la votación de la moción que ha sido presentada por secretaría.  Muchas gracias.  Se cierra el debate.  Señor secretario, certifique...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Adrián Ernesto Castro Piedra",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "zQl2m0Z1Auk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Adrián Ernesto Castro Piedra",
+      "confidence": 1.0,
+      "votes": {
+        "Adrián Ernesto Castro Piedra": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Adrian Castro - Sesión 044 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=zQl2m0Z1Auk",
+  "published_at": "2025-11-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "zQl2m0Z1Auk",
+  "date": "2025-11-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=zQl2m0Z1Auk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Adrián Ernesto Castro Piedra",
+      "party": null,
+      "province": null,
+      "total_time": 122.77,
+      "interventions": 1,
+      "word_count": 278
+    }
+  ]
+}
