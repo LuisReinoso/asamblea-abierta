@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:22:10.940756",
-  "total_sessions": 1162,
+  "generated_at": "2026-10-10T16:22:38.916177",
+  "total_sessions": 1166,
   "speaker_stats": [
     {
       "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
@@ -363,6 +363,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Bolívar",
+      "total_time": 3902.4299999999994,
+      "total_interventions": 47,
+      "sessions_attended": 19,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JULIO-VICENTE-PATRICIO-XAVIER-LASSO-MENDOZA",
       "name": "Julio Vicente Patricio Xavier Lasso Mendoza",
       "type": "asambleísta",
@@ -423,15 +435,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MIREYA-KATERINE-PAZMINO-ARREGUI",
-      "name": "Mireya Katerine Pazmiño Arregui",
+      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
+      "name": "Rosa Cecilia Baltazar Yucailla",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "Bolívar",
-      "total_time": 3596.4999999999995,
-      "total_interventions": 46,
-      "sessions_attended": 18,
+      "party": "Ind.",
+      "province": "Tungurahua",
+      "total_time": 3437.77,
+      "total_interventions": 9,
+      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -468,18 +480,6 @@
       "total_time": 3139.560000000001,
       "total_interventions": 93,
       "sessions_attended": 33,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROSA-CECILIA-BALTAZAR-YUCAILLA",
-      "name": "Rosa Cecilia Baltazar Yucailla",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Tungurahua",
-      "total_time": 3111.2000000000003,
-      "total_interventions": 8,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -528,6 +528,18 @@
       "total_time": 2964.46,
       "total_interventions": 27,
       "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
+      "name": "Jorge Enrique Chamba Cabanilla",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 2908.7599999999998,
+      "total_interventions": 10,
+      "sessions_attended": 9,
       "topics_discussed": 0
     },
     {
@@ -624,18 +636,6 @@
       "total_time": 2570.51,
       "total_interventions": 7,
       "sessions_attended": 7,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
-      "name": "Jorge Enrique Chamba Cabanilla",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 2476.6099999999997,
-      "total_interventions": 9,
-      "sessions_attended": 8,
       "topics_discussed": 0
     },
     {
@@ -1311,6 +1311,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANA-CECILIA-HERRERA-GOMEZ",
+      "name": "Ana Cecilia Herrera Gómez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Cotopaxi",
+      "total_time": 777.5100000000001,
+      "total_interventions": 7,
+      "sessions_attended": 3,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-PAOLA-MICHAEL-JARAMILLO-ZURITA",
       "name": "Paola Michael Jaramillo Zurita",
       "type": "asambleísta",
@@ -1512,18 +1524,6 @@
       "total_time": 554.2099999999999,
       "total_interventions": 18,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANA-CECILIA-HERRERA-GOMEZ",
-      "name": "Ana Cecilia Herrera Gómez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Cotopaxi",
-      "total_time": 548.38,
-      "total_interventions": 6,
-      "sessions_attended": 2,
       "topics_discussed": 0
     },
     {
@@ -2083,8 +2083,8 @@
     },
     {
       "month": "2026-01",
-      "sessions_count": 145,
-      "total_duration": 92041.61999999997,
+      "sessions_count": 148,
+      "total_duration": 93117.81999999996,
       "unique_speakers": 18,
       "unique_topics": 3
     },

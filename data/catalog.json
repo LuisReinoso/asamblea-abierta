@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T00:22:11.215904",
-  "total_sessions": 1162,
+  "generated_at": "2026-10-10T16:22:40.007125",
+  "total_sessions": 1166,
   "sessions": [
     {
       "id": "nrZFn__7JIU",
@@ -8333,6 +8333,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "5OHFXck_yZE",
+      "title": "Asambleísta Jorge Chamba - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 440.62,
+      "url": "https://www.youtube.com/watch?v=5OHFXck_yZE",
+      "file_path": "data/sessions/5OHFXck_yZE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "x9igrK0ypes",
       "title": "Asambleísta Blasco Luna - Sesión 064 - Cambio del orden del día",
       "date": "2026-01-22T00:00:00Z",
@@ -8369,6 +8383,20 @@
       "file_path": "data/sessions/WKkqNyMZzUI.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "PNLsxd0rsaE",
+      "title": "Asambleísta Cecilia Baltazar - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 326.77,
+      "url": "https://www.youtube.com/watch?v=PNLsxd0rsaE",
+      "file_path": "data/sessions/PNLsxd0rsaE.json",
+      "video_type": "clip",
+      "speaker_count": 1,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -8437,6 +8465,20 @@
       "duration": 654.75,
       "url": "https://www.youtube.com/watch?v=jAqORxl-fPQ",
       "file_path": "data/sessions/jAqORxl-fPQ.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "yPoGzwhYYJw",
+      "title": "Asambleísta Mireya Pazmiño - Sesión 051",
+      "date": "2026-01-22T00:00:00Z",
+      "duration": 308.81,
+      "url": "https://www.youtube.com/watch?v=yPoGzwhYYJw",
+      "file_path": "data/sessions/yPoGzwhYYJw.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
@@ -15956,6 +15998,20 @@
       "duration": 247.36,
       "url": "https://www.youtube.com/watch?v=VaJY5Gb3SLg",
       "file_path": "data/sessions/VaJY5Gb3SLg.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "EbOaMSh7eB8",
+      "title": "Asambleísta Ana Herrera - Sesión 082",
+      "date": "",
+      "duration": 230.48,
+      "url": "https://www.youtube.com/watch?v=EbOaMSh7eB8",
+      "file_path": "data/sessions/EbOaMSh7eB8.json",
       "video_type": "clip",
       "speaker_count": 1,
       "topics": [],
