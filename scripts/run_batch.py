@@ -65,15 +65,16 @@ def write_status(status: dict):
 def download_video(video_id: str) -> Path | None:
     """Fetch the source video into data/video/<id>.mp4.
 
-    The download backend is machine-local (internal/downloader.py, gitignored)
-    and is not part of the public repo.
+    Uses internal/downloader.py (gitignored, machine-local) when present,
+    otherwise scripts/default_downloader.py (plain yt-dlp). Both expose
+    download_video(video_id, data_video, log_fn).
     """
+    sys.path.insert(0, str(PROJECT_ROOT / "scripts"))
     sys.path.insert(0, str(PROJECT_ROOT / "internal"))
     try:
         import downloader
     except ImportError:
-        log("  no download backend found at internal/downloader.py")
-        return None
+        import default_downloader as downloader
     return downloader.download_video(video_id, DATA_VIDEO, log)
 
 

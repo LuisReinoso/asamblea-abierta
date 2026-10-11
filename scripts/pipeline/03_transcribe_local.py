@@ -12,6 +12,7 @@ Replaces 03_transcribe_elevenlabs.py. No external APIs, fully local.
 
 import argparse
 import json
+import os
 import subprocess
 import sys
 import tempfile
@@ -21,8 +22,10 @@ from pathlib import Path
 import requests
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
-DIARIZE_URL = "http://localhost:8001/diarize"
-WHISPER_URL = "http://localhost:8000/transcribe"
+# Reference servers live in servers/; any service with the same HTTP contract
+# can be swapped in through these env vars.
+DIARIZE_URL = os.environ.get("DIARIZE_URL", "http://localhost:8001/diarize")
+WHISPER_URL = os.environ.get("WHISPER_URL", "http://localhost:8000/transcribe")
 LANGUAGE = "es"
 
 

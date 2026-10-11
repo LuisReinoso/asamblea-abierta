@@ -49,12 +49,24 @@ Provide Ecuadorian citizens with easy access and quick searches about what topic
 
 The pipeline depends on two local HTTP services that run alongside the project:
 
-| Service | Port | Purpose | Repo |
+| Service | Port | Purpose | Code |
 |---|---|---|---|
-| `whisper-server` | 8000 | ASR (faster-whisper large-v3-turbo) | sibling project, see below |
-| `diarization-server` | 8001 | Speaker diarization (pyannote community-1) | sibling project, see below |
+| whisper server | 8000 | ASR (faster-whisper large-v3-turbo) | [`servers/whisper/`](servers/whisper/) |
+| diarization server | 8001 | Speaker diarization (pyannote community-1) | [`servers/diarization/`](servers/diarization/) |
 
-Both servers expose the same kind of clean HTTP API (`POST /transcribe`, `POST /diarize`) and can be reused by any other project that needs speech or diarization.
+The servers in `servers/` are reference implementations. Any service that honours the same HTTP contract can replace them; point the pipeline at it with `WHISPER_URL` / `DIARIZE_URL`.
+
+**`POST /transcribe?language=es`** (multipart `file`) returns:
+
+```json
+{"text": "...", "segments": [{"start": 0.0, "end": 5.68, "text": "...", "no_speech_prob": 0.35}]}
+```
+
+**`POST /diarize`** (multipart `file`, optional `num_speakers`, `min_speakers`, `max_speakers`) returns:
+
+```json
+{"segments": [{"start": 0.0, "end": 5.43, "speaker": "SPEAKER_00"}], "segments_with_overlap": [...], "num_speakers": 2}
+```
 
 ## 📊 Example Results
 
@@ -73,24 +85,11 @@ Both servers expose the same kind of clean HTTP API (`POST /transcribe`, `POST /
 ### Prerequisites
 
 - Python 3.11+
-- CUDA-capable GPU (for whisper-server and diarization-server)
+- CUDA-capable GPU (for the whisper and diarization servers; CPU works for whisper, just slowly)
 - ffmpeg, yt-dlp
 - A [HuggingFace token](https://huggingface.co/settings/tokens) with access to `pyannote/speaker-diarization-community-1` (free, just accept the gated model terms)
 
-### 1. Bring up the local servers
-
-These are independent sibling projects. Clone them next to this repo, set up their venvs, and start them:
-
-```bash
-# Whisper transcription server (GPU)
-cd ../whisper-server && ./run.sh           # listens on :8000
-
-# Diarization server (GPU)
-export HUGGINGFACE_TOKEN=hf_xxx
-cd ../diarization-server && ./run.sh       # listens on :8001
-```
-
-### 2. Set up this project
+### 1. Set up this project
 
 ```bash
 git clone https://github.com/luisreinoso/asamblea-abierta.git
@@ -100,6 +99,25 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+### 2. Bring up the local servers
+
+Each server has its own venv (torch versions differ). Run each in its own terminal:
+
+```bash
+# Whisper (first start downloads the model, ~1.6GB)
+cd servers/whisper
+python3 -m venv venv && venv/bin/pip install -r requirements.txt
+./run.sh                                   # listens on :8000
+
+# Diarization
+cd servers/diarization
+python3 -m venv venv && venv/bin/pip install -r requirements.txt
+export HUGGINGFACE_TOKEN=hf_xxx
+./run.sh                                   # listens on :8001
+```
+
+Both bind to `127.0.0.1`; set `PORT` to change the port. The whisper server reads `WHISPER_MODEL`, `WHISPER_DEVICE`, `WHISPER_COMPUTE` and `WHISPER_LANGUAGE` (default `es`).
 
 ### 3. Configure (only for legacy 01_discover / 05_classify_topics)
 
@@ -151,6 +169,21 @@ python scripts/pipeline/08_update_catalog.py
 cd docs && python3 -m http.server 8000
 ```
 
+### Process every pending video
+
+`scripts/run_batch.py` runs download, transcription, speaker mapping and cleanup for every video in `data/sessions/index.json` that has no session JSON yet:
+
+```bash
+python scripts/run_batch.py --limit 5 --video-type clip
+```
+
+Videos are downloaded with `scripts/default_downloader.py` (plain yt-dlp). To use your own download setup, drop a file at `internal/downloader.py` (gitignored) exposing the same function:
+
+```python
+def download_video(video_id: str, data_video: Path, log_fn) -> Path | None:
+    """Write data_video/<video_id>.mp4 and return its path, or None on failure."""
+```
+
 ### Pipeline scripts
 
 | Script | Description | Backend |
@@ -187,6 +220,8 @@ asamblea-abierta/
 │   └── catalog.json       # Master index of all sessions
 ├── docs/                  # Static site published to GitHub Pages
 ├── scripts/pipeline/      # Processing scripts
+├── servers/               # Reference whisper + diarization HTTP servers
+├── internal/              # Machine-local config and data (gitignored)
 ├── temp/                  # Intermediate audio/frames (gitignored)
 ├── config.yml             # Legacy config (gitignored, optional)
 ├── requirements.txt
