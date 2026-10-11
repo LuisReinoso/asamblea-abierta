@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente.  Solo para refrescarle la memoria al legislador que me ha nombrado.  ¿Se acuerda usted, legislador de los CRC?  ¿Se acuerda de estos comités de la Revolución Ciudadana?  ¿Se acuerdan quién los dirigía?  ¿Se acuerdan quién los direccionaba y con quién articulaban?  Sí, los mismos con los que ustedes pactaron y pacificaron.  Esos cabecillas, los latinquins y los nietas.  ¿Qué favoreció?  Para que coopten el territorio y para que mantengan las estructuras criminales intactas.  ¿Acuérdese el legislador del decreto 303?  Donde le otorgaron personería jurídica a estos delincuentes financiados con fondos públicos.  Por Dios, ¿hasta cuándo la sinvergüencería de venir aquí a hablar y no hacerse responsables  de toda la política pública que dañaron en cuanto a la seguridad nacional?  Acuérdese quiénes eran los dirigentes, pues.  Alias Norero.  Era quien utilizaba estos fondos públicos después de que en el decreto 303 se financiaran  todos estos eventos que mantenían en el territorio y que sirvieron para la cooptación de nuestros  niños.  ¿Se acuérdese usted, legislador del reglamento de la Ley Orgánica de Educación Intercultural?  Cuando se modificó el régimen disciplinario en los colegios públicos, se limitó la forma  estricta de expulsiones, sanciones definitivas de estudiantes involucrados en faltas graves  como portación de sustancias o incluso tenencia de armas.  ¿Qué pasó ahí, señores legisladores?  Los rectores y los docentes, ¿qué denunciaron?  Denunciaron que esta directriz maniató a las autoridades educativas para separar a menores  que ya actuaban, señores, que ya actuaban como emisarios de bandas dentro de colegios.  ¿Qué convirtió esto?  Que los centros educativos se conviertan en centros de reclutamiento directo por otros  alumnos y que los rectores no pudieran intervenir eficazmente por temor a sanciones o a cualquier  represalia.  Y aún así, vienen a pararse aquí en el Pleno de la Asamblea Nacional con total descaro  a decir, sí, nosotros pacificamos, pero no salió como pensamos.  Por favor, le pido a los ecuatorianos que tengan presente este Pleno de la Asamblea Nacional  y las declaraciones de un legislador, aceptando claramente cómo entregó al pueblo ecuatoriano  y a nuestros niños en esa pacificación de las pandillas y que el crimen organizado cooptó  nuestros territorios.  Y ahí nace nuestro problema de seguridad.  Que nunca nos falte memoria ecuatoriana.  Muchas gracias, señor presidente.",
+  "language": "es",
+  "duration": 186.15,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.36,
+      "end": 185.44,
+      "text": "Gracias, señor presidente.  Solo para refrescarle la memoria al legislador que me ha nombrado.  ¿Se acuerda usted, legislador de los CRC?  ¿Se acuerda de estos comités de la Revolución Ciudadana?  ¿Se acuerdan quién los dirigía?  ¿Se acuerdan quién los direccionaba y con quién articulaban?  Sí, los mismos con los que ustedes pactaron y pacificaron.  Esos cabecillas, los latinquins y los nietas.  ¿Qué favoreció?  Para que coopten el territorio y para que mantengan las estructuras criminales intactas.  ¿Acuérdese el legislador del decreto 303?  Donde le otorgaron personería jurídica a estos delincuentes financiados con fondos públicos.  Por Dios, ¿hasta cuándo la sinvergüencería de venir aquí a hablar y no hacerse responsables  de toda la política pública que dañaron en cuanto a la seguridad nacional?  Acuérdese quiénes eran los dirigentes, pues.  Alias Norero.  Era quien utilizaba estos fondos públicos después de que en el decreto 303 se financiaran  todos estos eventos que mantenían en el territorio y que sirvieron para la cooptación de nuestros  niños.  ¿Se acuérdese usted, legislador del reglamento de la Ley Orgánica de Educación Intercultural?  Cuando se modificó el régimen disciplinario en los colegios públicos, se limitó la forma  estricta de expulsiones, sanciones definitivas de estudiantes involucrados en faltas graves  como portación de sustancias o incluso tenencia de armas.  ¿Qué pasó ahí, señores legisladores?  Los rectores y los docentes, ¿qué denunciaron?  Denunciaron que esta directriz maniató a las autoridades educativas para separar a menores  que ya actuaban, señores, que ya actuaban como emisarios de bandas dentro de colegios.  ¿Qué convirtió esto?  Que los centros educativos se conviertan en centros de reclutamiento directo por otros  alumnos y que los rectores no pudieran intervenir eficazmente por temor a sanciones o a cualquier  represalia.  Y aún así, vienen a pararse aquí en el Pleno de la Asamblea Nacional con total descaro  a decir, sí, nosotros pacificamos, pero no salió como pensamos.  Por favor, le pido a los ecuatorianos que tengan presente este Pleno de la Asamblea Nacional  y las declaraciones de un legislador, aceptando claramente cómo entregó al pueblo ecuatoriano  y a nuestros niños en esa pacificación de las pandillas y que el crimen organizado cooptó  nuestros territorios.  Y ahí nace nuestro problema de seguridad.  Que nunca nos falte memoria ecuatoriana.  Muchas gracias, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "EQe67FvufG4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 1.0,
+      "votes": {
+        "Inés Margarita Alarcón Bueno": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 127 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=EQe67FvufG4",
+  "published_at": "2026-09-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "EQe67FvufG4",
+  "date": "2026-09-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=EQe67FvufG4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 184.08,
+      "interventions": 1,
+      "word_count": 372
+    }
+  ]
+}

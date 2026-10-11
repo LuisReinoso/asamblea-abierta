@@ -1,0 +1,107 @@
+{
+  "text": "Gracias. Intervención de la asambleísta Viviana Veloz habló de la autonomía de los gobiernos autónomos descentralizados.  Punto de información, asambleísta Javier Ordóñez. en ningún momento hemos dicho que vamos a llamar al alcalde Muñoz,  claro que si no lo hacemos después está llorando y dice que no le han dejado hablar.  No hemos dicho que vamos a fiscalizar al alcalde, en ningún momento la resolución no dice esa,  entonces se están curando en salud, lo que vamos a fiscalizar es el proceso  y las empresas que están metiéndole la mano al bolsillo.  Lamentablemente siempre resulta que el que está detrás es Muñoz, eso ya no es culpa mía,  si no le gusta que le fiscalicen no robe, ya está, le he dicho mil veces.  Simple y sencillamente hay que aclararle a la ciudadanía,  nosotros tenemos que hacer nuestro trabajo, no como en las redes sociales del alcalde  y de los concejales que salen bailando en lugar de estar fiscalizando, aquí no hacemos eso.  Y finalmente, cuando habló de espectacularización, gracias por decir que soy espectacular, lo sé. Ese fue el...",
+  "language": "es",
+  "duration": 57.93,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 0.55,
+      "text": "Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Xavier Ordóñez",
+        "confidence": 0.71
+      }
+    },
+    {
+      "id": 1,
+      "start": 1.74,
+      "end": 8.05,
+      "text": "Intervención de la asambleísta Viviana Veloz habló de la autonomía de los gobiernos autónomos descentralizados.  Punto de información, asambleísta Javier Ordóñez.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.16,
+      "end": 52.53,
+      "text": "en ningún momento hemos dicho que vamos a llamar al alcalde Muñoz,  claro que si no lo hacemos después está llorando y dice que no le han dejado hablar.  No hemos dicho que vamos a fiscalizar al alcalde, en ningún momento la resolución no dice esa,  entonces se están curando en salud, lo que vamos a fiscalizar es el proceso  y las empresas que están metiéndole la mano al bolsillo.  Lamentablemente siempre resulta que el que está detrás es Muñoz, eso ya no es culpa mía,  si no le gusta que le fiscalicen no robe, ya está, le he dicho mil veces.  Simple y sencillamente hay que aclararle a la ciudadanía,  nosotros tenemos que hacer nuestro trabajo, no como en las redes sociales del alcalde  y de los concejales que salen bailando en lugar de estar fiscalizando, aquí no hacemos eso.  Y finalmente, cuando habló de espectacularización, gracias por decir que soy espectacular, lo sé.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Xavier Ordóñez",
+        "confidence": 0.71
+      }
+    },
+    {
+      "id": 3,
+      "start": 57.2,
+      "end": 57.79,
+      "text": "Ese fue el...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "kjB6NxD_De0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Xavier Ordóñez",
+      "confidence": 0.71,
+      "votes": {
+        "[OOV] Al X:@Asambleaecuador": 2,
+        "[OOV] Xavier Ordóñez": 5
+      },
+      "samples": 11,
+      "successful_reads": 7,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Xavier Ordóñez   Sesión 128   Punto de información",
+  "url": "https://www.youtube.com/watch?v=kjB6NxD_De0",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "kjB6NxD_De0",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=kjB6NxD_De0",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Xavier Ordóñez",
+      "party": null,
+      "province": null,
+      "total_time": 44.89,
+      "interventions": 2,
+      "word_count": 156
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 6.9,
+      "interventions": 2,
+      "word_count": 24
+    }
+  ]
+}

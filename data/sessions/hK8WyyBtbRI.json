@@ -1,0 +1,53 @@
+{
+  "text": "Muchas gracias, señor presidente.  Parece de manera clara que existe una justicia diferenciada, es decir, los adolescentes infractores tienen otro tipo de juzgamiento, artículo 175, las niñas, niños y adolescentes estarán sujetos a una legislación y a una administración de justicia especializada, así como operadores de justicia debidamente capacitados.  Es decir, la Constitución lo dice, está de manera explícita la Constitución, ya no lo integro aquí porque ya está aquí, señor, yo no me puedo ir contra la Constitución.  Y el artículo 255 del CONAD, leer un poquito.  Segundo, en cuanto al deber de cuidado, mencionan que se van a sancionar los padres, otra vez, a leer la Constitución, artículo 44 de la Constitución.  El Estado, la sociedad y la familia promoverán de forma prioritaria el desarrollo integral de niños, niñas y adolescentes y asegurarán el ejercicio pleno de los derechos.  Se atenderá el principio de interés superior del niño, artículo 44 de la Constitución.  El Estado, la sociedad y la familia, aquí no hay ningún tipo de sanción sobre los padres.  Lo que sí se establece son las medidas de cuidado, las medidas de prevención, cuando un padre ya no tiene el control sobre su hijo, ahí aplican las medidas de protección.  A leer el CONAD y la Constitución, por favor.  Y segundo, no podemos decir que dónde queda la actividad de los gobiernos autónomos descentralizados, que pobrecitos, que se les ha quitado el porcentaje.  Pero yo quiero recordarles, señores, Aquiles Álvarez, Vito Villasís, Darío Macas, José Arroyo, alcaldes.  Y de esas historietas que hablan de que sí, que ha habido niños reclutados, claro pues, si los alcaldes se dedicaron a robar y no a trabajar.  Así que los presupuestos tienen que ser para acciones concretas.  No me vengan con historias cuando tenemos a este tipo de representantes recluidos en el encuentro.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 152.07,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 150.15,
+      "text": "Muchas gracias, señor presidente.  Parece de manera clara que existe una justicia diferenciada, es decir, los adolescentes infractores tienen otro tipo de juzgamiento, artículo 175, las niñas, niños y adolescentes estarán sujetos a una legislación y a una administración de justicia especializada, así como operadores de justicia debidamente capacitados.  Es decir, la Constitución lo dice, está de manera explícita la Constitución, ya no lo integro aquí porque ya está aquí, señor, yo no me puedo ir contra la Constitución.  Y el artículo 255 del CONAD, leer un poquito.  Segundo, en cuanto al deber de cuidado, mencionan que se van a sancionar los padres, otra vez, a leer la Constitución, artículo 44 de la Constitución.  El Estado, la sociedad y la familia promoverán de forma prioritaria el desarrollo integral de niños, niñas y adolescentes y asegurarán el ejercicio pleno de los derechos.  Se atenderá el principio de interés superior del niño, artículo 44 de la Constitución.  El Estado, la sociedad y la familia, aquí no hay ningún tipo de sanción sobre los padres.  Lo que sí se establece son las medidas de cuidado, las medidas de prevención, cuando un padre ya no tiene el control sobre su hijo, ahí aplican las medidas de protección.  A leer el CONAD y la Constitución, por favor.  Y segundo, no podemos decir que dónde queda la actividad de los gobiernos autónomos descentralizados, que pobrecitos, que se les ha quitado el porcentaje.  Pero yo quiero recordarles, señores, Aquiles Álvarez, Vito Villasís, Darío Macas, José Arroyo, alcaldes.  Y de esas historietas que hablan de que sí, que ha habido niños reclutados, claro pues, si los alcaldes se dedicaron a robar y no a trabajar.  Así que los presupuestos tienen que ser para acciones concretas.  No me vengan con historias cuando tenemos a este tipo de representantes recluidos en el encuentro.  Muchísimas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "hK8WyyBtbRI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 1.0,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Diana Jácome - Sesión 127 - Punto de Información",
+  "url": "https://www.youtube.com/watch?v=hK8WyyBtbRI",
+  "published_at": "2026-09-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "hK8WyyBtbRI",
+  "date": "2026-09-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=hK8WyyBtbRI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 150.12,
+      "interventions": 1,
+      "word_count": 305
+    }
+  ]
+}

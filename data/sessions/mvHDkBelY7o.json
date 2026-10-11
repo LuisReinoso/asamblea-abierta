@@ -1,0 +1,53 @@
+{
+  "text": "Gracias, señor presidente. Sí, ya terminamos, señora, ya terminamos, tranquila.  Si me pasa alguien otra cosa, no les interesa el debate.  Señor presidente, nada más para cerrar ya este debate, decirles que el Ecuador esté pendiente.  A través de las plataformas de la Asamblea Nacional, a través de la página de la Asamblea Nacional,  se va a poder observar quién va a votar a favor de los niños o de los reclutadores.  Yo ya no espero nada de la bancada de oposición.  Su lealtad y su obediencia, por lo visto, dependen de un delincuente.  Por lo tanto, esa coherencia tiene que seguir.  Votar a favor de los delincuentes o reclutadores.  Y no tienen coherencia, porque el país no se eligió para legislar,  para cumplir con un mandato constitucional y es velar por los derechos de los niños, niñas y adolescentes.  Y hoy el Ecuador será testigo. ¿De qué lado estamos?  Si de los niños o de los reclutadores, que se vea ese voto.  Y de acuerdo al artículo 135, señor presidente, de la Ley Orgánica de la Función Legislativa,  he presentado la moción para que sea sometida a votación en el Pleno de la Asamblea Nacional  la aprobación íntegra del informe para segundo debate del proyecto de Ley Orgánica Reformatoria  para la Prevención, Erradicación del Reclutamiento, Uso o Utilización de Niños, Niñas y Adolescentes.  Ecuador, pendiente a esta votación, hoy se revelarán los verdaderos rostros  de quienes apoyan la delincuencia y de quienes apoyan a los niños de nuestro país.",
+  "language": "es",
+  "duration": 101.29,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.12,
+      "end": 98.14,
+      "text": "Gracias, señor presidente. Sí, ya terminamos, señora, ya terminamos, tranquila.  Si me pasa alguien otra cosa, no les interesa el debate.  Señor presidente, nada más para cerrar ya este debate, decirles que el Ecuador esté pendiente.  A través de las plataformas de la Asamblea Nacional, a través de la página de la Asamblea Nacional,  se va a poder observar quién va a votar a favor de los niños o de los reclutadores.  Yo ya no espero nada de la bancada de oposición.  Su lealtad y su obediencia, por lo visto, dependen de un delincuente.  Por lo tanto, esa coherencia tiene que seguir.  Votar a favor de los delincuentes o reclutadores.  Y no tienen coherencia, porque el país no se eligió para legislar,  para cumplir con un mandato constitucional y es velar por los derechos de los niños, niñas y adolescentes.  Y hoy el Ecuador será testigo. ¿De qué lado estamos?  Si de los niños o de los reclutadores, que se vea ese voto.  Y de acuerdo al artículo 135, señor presidente, de la Ley Orgánica de la Función Legislativa,  he presentado la moción para que sea sometida a votación en el Pleno de la Asamblea Nacional  la aprobación íntegra del informe para segundo debate del proyecto de Ley Orgánica Reformatoria  para la Prevención, Erradicación del Reclutamiento, Uso o Utilización de Niños, Niñas y Adolescentes.  Ecuador, pendiente a esta votación, hoy se revelarán los verdaderos rostros  de quienes apoyan la delincuencia y de quienes apoyan a los niños de nuestro país.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "mvHDkBelY7o",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 1.0,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3
+      },
+      "samples": 5,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Diana Jácome - Sesión 127 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=mvHDkBelY7o",
+  "published_at": "2026-09-29T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "mvHDkBelY7o",
+  "date": "2026-09-29T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=mvHDkBelY7o",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 95.02,
+      "interventions": 1,
+      "word_count": 250
+    }
+  ]
+}

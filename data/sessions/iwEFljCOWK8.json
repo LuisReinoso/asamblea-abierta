@@ -1,0 +1,83 @@
+{
+  "text": "Lucía Jaramillo en calidad de solicitante de esta primera propuesta de resolución.  Vamos a escuchar ya a la legisladora de esta primera solicitud. Compañeros asambleístas ecuatorianos, los objetivos de alto valor siguen cayendo en el gobierno del presidente Daniel Novoa.  Las fronteras no pueden seguir siendo escondites para quienes son requeridos por la justicia.  Hace algunos meses, para el Ecuador era imposible entablar una conversación con Colombia,  pues había falta de voluntad política por parte del entonces presidente Petro para combatir el crimen organizado transnacional.  Tanto es así que alias Fito, cabecilla de los choneros, eligió a Colombia como un país seguro para su esposa e hija,  pues tenían absoluta certeza que desde ahí podían operar con impunidad.  Tan tranquilas se sentían en Colombia que inclusive la hija de Fito subía en redes sociales su ostentosa vida.  Fajos de dinero, joyas, lujos, y no le importaba.  Y producto de ello, producto de las investigaciones, era justamente el cobro de extorsiones y del narcotráfico.  Pero con lo que no contaban ellos, era con el actuar firme del nuevo presidente Abelardo de la Espriella,  quien en conjunto con el presidente Daniel Novoa, comparten el mismo objetivo.  Enfrentar el crimen organizado transnacional.  Por años, señores, las fronteras se convirtieron en escondites para las bandas criminales.  Se pasaban al otro lado y nadie los tocaba.  Eso ya no sucede cuando hay cooperación.  Eso ya no sucede cuando los gobiernos trabajan en conjunto,  como es el caso del gobierno colombiano y el gobierno ecuatoriano.  Además que son gobiernos que no son amiguitos de los narcos  y que no les solapan los delitos a las bandas criminales.  Ahora la esposa y la hija de alias Fito deberán responder ante la justicia ecuatoriana.  Recordemos que ellas fueron expulsadas de Colombia a Ecuador y hoy están en la cárcel La Roca.  Desde la Asamblea Nacional, compañeros asambleístas, nos corresponde actuar con firmeza.  Nos corresponde seguir aprobando leyes firmes y duras y apoyar las decisiones del gobierno del presidente Daniel Novoa.  Como lo hemos venido haciendo, como es la ley de extradición, la ley de extinción de dominio,  la ley de seguridad en fronteras y próximamente con la ley antimafias  que será aprobada por este pleno de la Asamblea Nacional.  Porque a las bandas criminales, señores, hay que atacarles donde más les duele.  Y donde más les duele, en el bolsillo.  Hay algo que sería imperdonable, ecuatorianos, que las mafias se coordinen más rápido que los estados.  Lo decía el presidente Daniel Novoa ante las Naciones Unidas.  Y eso es lo que está en discusión hoy.  Nos toca hacerlo mejor.  A las mafias les decimos con claridad, podrán cruzar fronteras, pero no se escaparán de la justicia ecuatoriana.  Ese Ecuador de la impunidad se terminó.  Muchísimas gracias.",
+  "language": "es",
+  "duration": 217.5,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 9.33,
+      "text": "Lucía Jaramillo en calidad de solicitante de esta primera propuesta de resolución.  Vamos a escuchar ya a la legisladora de esta primera solicitud.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 0.5176,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.62,
+      "end": 214.93,
+      "text": "Compañeros asambleístas ecuatorianos, los objetivos de alto valor siguen cayendo en el gobierno del presidente Daniel Novoa.  Las fronteras no pueden seguir siendo escondites para quienes son requeridos por la justicia.  Hace algunos meses, para el Ecuador era imposible entablar una conversación con Colombia,  pues había falta de voluntad política por parte del entonces presidente Petro para combatir el crimen organizado transnacional.  Tanto es así que alias Fito, cabecilla de los choneros, eligió a Colombia como un país seguro para su esposa e hija,  pues tenían absoluta certeza que desde ahí podían operar con impunidad.  Tan tranquilas se sentían en Colombia que inclusive la hija de Fito subía en redes sociales su ostentosa vida.  Fajos de dinero, joyas, lujos, y no le importaba.  Y producto de ello, producto de las investigaciones, era justamente el cobro de extorsiones y del narcotráfico.  Pero con lo que no contaban ellos, era con el actuar firme del nuevo presidente Abelardo de la Espriella,  quien en conjunto con el presidente Daniel Novoa, comparten el mismo objetivo.  Enfrentar el crimen organizado transnacional.  Por años, señores, las fronteras se convirtieron en escondites para las bandas criminales.  Se pasaban al otro lado y nadie los tocaba.  Eso ya no sucede cuando hay cooperación.  Eso ya no sucede cuando los gobiernos trabajan en conjunto,  como es el caso del gobierno colombiano y el gobierno ecuatoriano.  Además que son gobiernos que no son amiguitos de los narcos  y que no les solapan los delitos a las bandas criminales.  Ahora la esposa y la hija de alias Fito deberán responder ante la justicia ecuatoriana.  Recordemos que ellas fueron expulsadas de Colombia a Ecuador y hoy están en la cárcel La Roca.  Desde la Asamblea Nacional, compañeros asambleístas, nos corresponde actuar con firmeza.  Nos corresponde seguir aprobando leyes firmes y duras y apoyar las decisiones del gobierno del presidente Daniel Novoa.  Como lo hemos venido haciendo, como es la ley de extradición, la ley de extinción de dominio,  la ley de seguridad en fronteras y próximamente con la ley antimafias  que será aprobada por este pleno de la Asamblea Nacional.  Porque a las bandas criminales, señores, hay que atacarles donde más les duele.  Y donde más les duele, en el bolsillo.  Hay algo que sería imperdonable, ecuatorianos, que las mafias se coordinen más rápido que los estados.  Lo decía el presidente Daniel Novoa ante las Naciones Unidas.  Y eso es lo que está en discusión hoy.  Nos toca hacerlo mejor.  A las mafias les decimos con claridad, podrán cruzar fronteras, pero no se escaparán de la justicia ecuatoriana.  Ese Ecuador de la impunidad se terminó.  Muchísimas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Lucía Lizbeth Jaramillo Zurita",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "iwEFljCOWK8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "confidence": 1.0,
+      "votes": {
+        "Lucía Lizbeth Jaramillo Zurita": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Lucía Jaramillo   Sesión 128   Cambio del orden del día",
+  "url": "https://www.youtube.com/watch?v=iwEFljCOWK8",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "iwEFljCOWK8",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=iwEFljCOWK8",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "party": null,
+      "province": null,
+      "total_time": 205.31,
+      "interventions": 1,
+      "word_count": 435
+    },
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 9.3,
+      "interventions": 1,
+      "word_count": 23
+    }
+  ]
+}
