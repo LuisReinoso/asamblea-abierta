@@ -1,0 +1,146 @@
+{
+  "text": "Gracias, señora presidenta. Gracias a todos los colegas legisladores que aprobaron esta reforma.  Señora presidenta, pido la reconsideración de la votación.  Señor secretario, por favor tome votación de la reconsideración. Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  Si existe alguna novedad, por favor, informar a esta secretaría. Cierre el registro, señor secretario. Me permito informar, señora Presidenta, que contamos con 147 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración presentada por  la asambleista Nathalie Frenango.  Señores asambleistas, por favor consignar su voto. Proclame el resultado, señor secretario. Señor operador, presente los resultados.  Señora presidenta, me permite informar que en un total de 147 asambleistas presentes  contamos con 61 votos afirmativos, 83 votos negativos, 0 blancos y 3 abstenciones.  No ha sido aprobada la reconsideración presentada por la asambleista Nathalie Farinango. Señor secretario, certifique si existen puntos adicionales en el orden del día de la presente sesión.",
+  "language": "es",
+  "duration": 297.98,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.82,
+      "end": 19.61,
+      "text": "Gracias, señora presidenta. Gracias a todos los colegas legisladores que aprobaron esta reforma.  Señora presidenta, pido la reconsideración de la votación.  Señor secretario, por favor tome votación de la reconsideración.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Lucía Lizbeth Jaramillo Zurita",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 1,
+      "start": 25.04,
+      "end": 32.72,
+      "text": "Señores asambleístas, por favor, registrar su participación en las currules electrónicas.  Si existe alguna novedad, por favor, informar a esta secretaría.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 0.8927,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 172.66,
+      "end": 174.64,
+      "text": "Cierre el registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Lucía Lizbeth Jaramillo Zurita",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 3,
+      "start": 176.48,
+      "end": 191.11,
+      "text": "Me permito informar, señora Presidenta, que contamos con 147 asambleistas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración presentada por  la asambleista Nathalie Frenango.  Señores asambleistas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 0.8927,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 267.43,
+      "end": 269.2,
+      "text": "Proclame el resultado, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Lucía Lizbeth Jaramillo Zurita",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 5,
+      "start": 270.1,
+      "end": 288.64,
+      "text": "Señor operador, presente los resultados.  Señora presidenta, me permite informar que en un total de 147 asambleistas presentes  contamos con 61 votos afirmativos, 83 votos negativos, 0 blancos y 3 abstenciones.  No ha sido aprobada la reconsideración presentada por la asambleista Nathalie Farinango.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Camila León Cueva",
+        "confidence": 0.8927,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 292.68,
+      "end": 297.98,
+      "text": "Señor secretario, certifique si existen puntos adicionales en el orden del día de la presente sesión.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Lucía Lizbeth Jaramillo Zurita",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "8-dKYiMQj4c",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 16,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "confidence": 0.67,
+      "votes": {
+        "Lucía Lizbeth Jaramillo Zurita": 2,
+        "Nathaly Estefanía Farinango Delgado": 1
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Reconsideración votación de la moción del asambleísta Nathaly Farinango - Continuación sesión 126",
+  "url": "https://www.youtube.com/watch?v=8-dKYiMQj4c",
+  "published_at": "2026-10-08T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8-dKYiMQj4c",
+  "date": "2026-10-08T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8-dKYiMQj4c",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 40.85,
+      "interventions": 3,
+      "word_count": 100
+    },
+    {
+      "id": "speaker_1",
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "party": null,
+      "province": null,
+      "total_time": 27.84,
+      "interventions": 4,
+      "word_count": 56
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Luigi García,  quien nos hablará sobre el proyecto de Ley Orgánica de Protección Integral de Niñas, Niñas y Adolescentes  en Entornos Digitales y de Exposición Económica.  Asambleísta, ¿qué motivó el proyecto y qué problema atiende? Bueno, motiva que el mundo ha evolucionado, las tecnologías evolucionan todos los días  y hoy vemos que niños, niñas y adolescentes están expuestos a de una u otra forma  a recibir compensaciones económicas, ya sea por su talento, ya sea por su exposición en redes.  Ahora los niños pueden generar dinero en lives, en TikTok, jugando videojuegos,  subiendo contenido a las redes, de tal forma que esa es la principal motivación de este legislador  al ver que tenemos una realidad que no está protegida por el derecho,  que esos niños que generan dinero en redes sociales no los protege el derecho, no los protege la norma  y es ahí donde nosotros los legisladores debemos atender esa situación. ¿Qué mecanismos protegen frente a la explotación económica y resguardan los ingresos? Bueno, principalmente es darle al padre pautas de cómo debe precautelar y cómo debe cuidar este patrimonio.  Una de ellas es la creación de un fideicomiso de este menor, para que cuando el menor necesita este dinero  o cuando tenga edad para manejarlo, pueda acceder a una parte de eso que él se benefició,  que creó, el patrimonio que creó dentro de su infancia.  De tal forma que ese es el principal mecanismo.  Más allá tenemos mecanismos tanto a nivel psicológico, a nivel de dar seguimiento,  a nivel de registrar a estos menores, a fin de que tanto a nivel de salud, a nivel psicosocial  y a nivel psicológico estén protegidos por la ley. ¿Cómo funcionará el registro administrativo especial y qué instituciones participan? Bueno, participan las instituciones de datos públicos, Arcotel en cuanto a las telecomunicaciones, registros públicos también,  y lo que sirve es para registrar a estos menores, darle la oportunidad al país por primera vez en la historia del país,  este tipo de economías de menores a nivel de redes sociales estará registrado,  y así también las autoridades pertinentes llevarán un control de qué menores están expuestos a estos entornos,  qué menores están monetizando en redes sociales, y cómo sus representantes o padres están llevando control  tanto de finanzas como de la psicología de los menores. Finalmente, ¿por qué actualizar la legislación y cómo contribuye a un entorno seguro? No, actualizarla porque como lo mencioné en un principio el mundo evoluciona y cuando el mundo evoluciona el derecho también debe de evolucionar,  debe de empezar a abarcar estas nuevas tendencias que se crean y es importante que nosotros como legisladores estemos actualizados  no solo en lo que pasa en el mundo sino también lo que está pasando en el Ecuador y también abarcar estos nuevos modelos de creación de contenido y también de retimiento económico.",
+  "language": "es",
+  "duration": 171.64,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.0,
+      "end": 16.91,
+      "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Luigi García,  quien nos hablará sobre el proyecto de Ley Orgánica de Protección Integral de Niñas, Niñas y Adolescentes  en Entornos Digitales y de Exposición Económica.  Asambleísta, ¿qué motivó el proyecto y qué problema atiende?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.5302,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 17.9,
+      "end": 56.95,
+      "text": "Bueno, motiva que el mundo ha evolucionado, las tecnologías evolucionan todos los días  y hoy vemos que niños, niñas y adolescentes están expuestos a de una u otra forma  a recibir compensaciones económicas, ya sea por su talento, ya sea por su exposición en redes.  Ahora los niños pueden generar dinero en lives, en TikTok, jugando videojuegos,  subiendo contenido a las redes, de tal forma que esa es la principal motivación de este legislador  al ver que tenemos una realidad que no está protegida por el derecho,  que esos niños que generan dinero en redes sociales no los protege el derecho, no los protege la norma  y es ahí donde nosotros los legisladores debemos atender esa situación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 0.8824,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 57.03,
+      "end": 61.84,
+      "text": "¿Qué mecanismos protegen frente a la explotación económica y resguardan los ingresos?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.5302,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 62.42,
+      "end": 101.75,
+      "text": "Bueno, principalmente es darle al padre pautas de cómo debe precautelar y cómo debe cuidar este patrimonio.  Una de ellas es la creación de un fideicomiso de este menor, para que cuando el menor necesita este dinero  o cuando tenga edad para manejarlo, pueda acceder a una parte de eso que él se benefició,  que creó, el patrimonio que creó dentro de su infancia.  De tal forma que ese es el principal mecanismo.  Más allá tenemos mecanismos tanto a nivel psicológico, a nivel de dar seguimiento,  a nivel de registrar a estos menores, a fin de que tanto a nivel de salud, a nivel psicosocial  y a nivel psicológico estén protegidos por la ley.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 0.8824,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 101.96,
+      "end": 105.95,
+      "text": "¿Cómo funcionará el registro administrativo especial y qué instituciones participan?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.5302,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 106.39,
+      "end": 137.93,
+      "text": "Bueno, participan las instituciones de datos públicos, Arcotel en cuanto a las telecomunicaciones, registros públicos también,  y lo que sirve es para registrar a estos menores, darle la oportunidad al país por primera vez en la historia del país,  este tipo de economías de menores a nivel de redes sociales estará registrado,  y así también las autoridades pertinentes llevarán un control de qué menores están expuestos a estos entornos,  qué menores están monetizando en redes sociales, y cómo sus representantes o padres están llevando control  tanto de finanzas como de la psicología de los menores.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 0.8824,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 138.03,
+      "end": 142.59,
+      "text": "Finalmente, ¿por qué actualizar la legislación y cómo contribuye a un entorno seguro?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.5302,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 143.05,
+      "end": 168.73,
+      "text": "No, actualizarla porque como lo mencioné en un principio el mundo evoluciona y cuando el mundo evoluciona el derecho también debe de evolucionar,  debe de empezar a abarcar estas nuevas tendencias que se crean y es importante que nosotros como legisladores estemos actualizados  no solo en lo que pasa en el mundo sino también lo que está pasando en el Ecuador y también abarcar estos nuevos modelos de creación de contenido y también de retimiento económico.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luigi Edu Garcia Velasquez",
+        "confidence": 0.8824,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "RRvA2dt3QdE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 25,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voces de la Asamblea - Asambleísta Luigi García",
+  "url": "https://www.youtube.com/watch?v=RRvA2dt3QdE",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "RRvA2dt3QdE",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=RRvA2dt3QdE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luigi Edu Garcia Velasquez",
+      "party": null,
+      "province": null,
+      "total_time": 135.6,
+      "interventions": 4,
+      "word_count": 402
+    },
+    {
+      "id": "speaker_1",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "party": null,
+      "province": null,
+      "total_time": 28.27,
+      "interventions": 4,
+      "word_count": 81
+    }
+  ]
+}
