@@ -1,0 +1,109 @@
+{
+  "text": "128. Vamos a escuchar entonces la siguiente intervención en voz de la asambleísta Viviana Veloz. Gracias. Lo escuchamos. Buenas tardes con todas y con todos. De nuevo, otra vez las cortinas de humo, otra vez la política de la espectacularización, otra vez queriendo disfrazar la persecución política a los adversarios que no pueden derrotar con la fiscalización.  Otra vez creyendo que esta legislatura es un consejo municipal ampliado. ¿Quieren fiscalizar al alcalde de Quito? Les respondo de una vez por todas, no tienen competencia, no tienen competencia y ustedes lo saben.  Ahora quiero ir a lo jurídico, porque mucho se ha mencionado aquí en este hemiciclo, el artículo 120, numeral 9, en el que dice que nos permite esta constitución fiscalizar a la función ejecutiva, a la función electoral, a la función de transparencia,  pero en ninguna parte nos habla que nosotros tenemos la competencia para fiscalizar a los alcaldes y a los prefectos. Por eso les pido que leamos la constitución de forma completa.  El artículo 427 de nuestra Carta Política nos obliga a interpretar la constitución en su integralidad, completamente, no donde a ustedes les conviene.  Ahora bien, sobre los gobiernos autónomos descentralizados, ese capítulo se desarrolla precisamente en el quinto de esta constitución,  la organización territorial del Estado, con un régimen propio, la expresión otros órganos del poder público, debe leerse a lo que le acompaña,  es decir, los órganos del nivel central y no a los GAPs.  El artículo 238 reconoce la autonomía de los gobiernos autónomos descentralizados, la autonomía política, financiera y administrativa.  También estas facultades están entregadas a sus consejos en los artículos 240, 253 y 254.  La constitución nunca ha dejado un vacío para que aquí se quieran atribuir una que no les corresponde,  y así lo desarrolla el COTAD en sus artículos 56 y 57, literal M.  Y el artículo 6 prohíbe incluso además cualquier interferencia sobre esta autonomía por otra función del Estado.  El artículo 226 de la constitución también es claro, las y los servidores públicos, nosotros los somos,  podemos hacer expresamente lo que la ley contempla, lo que la constitución y la ley nos ha entregado como competencias,  que es legislar y fiscalizar y más no estar persiguiendo a los gobiernos autónomos o al alcalde de Quito,  para que les quede claro.  Y en derecho público no existen competencias por deducción ni por conveniencia política.  La sentencia 122-22-JC-23, esta sentencia desarrolla los límites y la naturaleza de nuestra facultad fiscalizadora.  Ojalá entiendan y lean esta sentencia en los párrafos 22, 23, 25, para que otra vez no estén aquí,  trayendo un proceso de fiscalización que prácticamente es una persecución política.  Luego, si el constituyente hubiese querido que la Asamblea Nacional o los legisladores fiscalicen a los alcaldes o a los prefectos,  hubiese incorporado aquello en el artículo 131, situación que no está dentro de nuestra Constitución.  Y quiero ser precisa, porque si bien es cierto, en el Literal 9 habla de otros funcionarios públicos,  eso quiere decir que nos permite solicitar información,  pero no iniciar un proceso de fiscalización o de convocar al alcalde de Quito a este hemiciclo legislativo.  Es como si mañana el Consejo Municipal quisiera iniciarle un proceso de enjuiciamiento político al presidente Daniel Novoa.  Luego allí no se quejen, porque como ustedes están distorsionando la ley,  en este país de los despejismos ya no estamos lejos de que un Consejo quiera iniciarle un proceso de enjuiciamiento.  Ahora bien, quiero ir a lo político para ir finalizando.  ¿Por qué quieren fiscalizar a Pavel Muñoz?  Porque no se arrodilló al gobierno de turno, porque no es una alfombra, porque no es un cortesano de palacio.  Y si lo están fiscalizando, ustedes están usurpando una función que no les corresponde.  Y quiere decir que el alcalde de Quito está haciendo las cosas bien.  No cuenten con nuestros votos para usurpar funciones, para rogar funciones que no nos corresponden,  para una inconstitucionalidad, para una ilegalidad.  Si quieren fiscalizar, les invito a que demos nuestros votos, dos de ustedes, dos de nosotros,  para levantar la reserva de la información de Progen, de Gelbir, de Danus,  de los fondos reservados que utiliza el CIES,  para fiscalizar por qué se acabó septiembre y llegó octubre,  y aún no cumplen con el abastecimiento de las medicinas y de los insumos médicos  de los hospitales públicos del país,  para fiscalizar todos los contratos llenos de opacidad de este gobierno.  Esa sí que es nuestra facultad para fiscalizar y no el alcalde de Quito.  Quito se respeta, Quito es de los quiteños,  Quito no es instrumento de persecución política por parte de ustedes.  Y ojalá con esto y con todos estos articulados y la sentencia que acabo de mencionar,  se entienda de una vez por todas que nosotros no tenemos competencia  para fiscalizar al alcalde de Quito o a cualquier otro alcalde y prefecto.  Y que el juez de cuentas del alcalde de Quito finalmente termine siendo la Contraloría General del Estado.  Gracias.",
+  "language": "es",
+  "duration": 375.86,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 5.8,
+      "text": "128. Vamos a escuchar entonces la siguiente intervención en voz de la asambleísta Viviana Veloz.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.513,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 5.8,
+      "end": 6.41,
+      "text": "Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Rebeca Viviana Veloz Ramírez",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 2,
+      "start": 6.41,
+      "end": 7.0,
+      "text": "Lo escuchamos.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.513,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 7.0,
+      "end": 374.64,
+      "text": "Buenas tardes con todas y con todos. De nuevo, otra vez las cortinas de humo, otra vez la política de la espectacularización, otra vez queriendo disfrazar la persecución política a los adversarios que no pueden derrotar con la fiscalización.  Otra vez creyendo que esta legislatura es un consejo municipal ampliado. ¿Quieren fiscalizar al alcalde de Quito? Les respondo de una vez por todas, no tienen competencia, no tienen competencia y ustedes lo saben.  Ahora quiero ir a lo jurídico, porque mucho se ha mencionado aquí en este hemiciclo, el artículo 120, numeral 9, en el que dice que nos permite esta constitución fiscalizar a la función ejecutiva, a la función electoral, a la función de transparencia,  pero en ninguna parte nos habla que nosotros tenemos la competencia para fiscalizar a los alcaldes y a los prefectos. Por eso les pido que leamos la constitución de forma completa.  El artículo 427 de nuestra Carta Política nos obliga a interpretar la constitución en su integralidad, completamente, no donde a ustedes les conviene.  Ahora bien, sobre los gobiernos autónomos descentralizados, ese capítulo se desarrolla precisamente en el quinto de esta constitución,  la organización territorial del Estado, con un régimen propio, la expresión otros órganos del poder público, debe leerse a lo que le acompaña,  es decir, los órganos del nivel central y no a los GAPs.  El artículo 238 reconoce la autonomía de los gobiernos autónomos descentralizados, la autonomía política, financiera y administrativa.  También estas facultades están entregadas a sus consejos en los artículos 240, 253 y 254.  La constitución nunca ha dejado un vacío para que aquí se quieran atribuir una que no les corresponde,  y así lo desarrolla el COTAD en sus artículos 56 y 57, literal M.  Y el artículo 6 prohíbe incluso además cualquier interferencia sobre esta autonomía por otra función del Estado.  El artículo 226 de la constitución también es claro, las y los servidores públicos, nosotros los somos,  podemos hacer expresamente lo que la ley contempla, lo que la constitución y la ley nos ha entregado como competencias,  que es legislar y fiscalizar y más no estar persiguiendo a los gobiernos autónomos o al alcalde de Quito,  para que les quede claro.  Y en derecho público no existen competencias por deducción ni por conveniencia política.  La sentencia 122-22-JC-23, esta sentencia desarrolla los límites y la naturaleza de nuestra facultad fiscalizadora.  Ojalá entiendan y lean esta sentencia en los párrafos 22, 23, 25, para que otra vez no estén aquí,  trayendo un proceso de fiscalización que prácticamente es una persecución política.  Luego, si el constituyente hubiese querido que la Asamblea Nacional o los legisladores fiscalicen a los alcaldes o a los prefectos,  hubiese incorporado aquello en el artículo 131, situación que no está dentro de nuestra Constitución.  Y quiero ser precisa, porque si bien es cierto, en el Literal 9 habla de otros funcionarios públicos,  eso quiere decir que nos permite solicitar información,  pero no iniciar un proceso de fiscalización o de convocar al alcalde de Quito a este hemiciclo legislativo.  Es como si mañana el Consejo Municipal quisiera iniciarle un proceso de enjuiciamiento político al presidente Daniel Novoa.  Luego allí no se quejen, porque como ustedes están distorsionando la ley,  en este país de los despejismos ya no estamos lejos de que un Consejo quiera iniciarle un proceso de enjuiciamiento.  Ahora bien, quiero ir a lo político para ir finalizando.  ¿Por qué quieren fiscalizar a Pavel Muñoz?  Porque no se arrodilló al gobierno de turno, porque no es una alfombra, porque no es un cortesano de palacio.  Y si lo están fiscalizando, ustedes están usurpando una función que no les corresponde.  Y quiere decir que el alcalde de Quito está haciendo las cosas bien.  No cuenten con nuestros votos para usurpar funciones, para rogar funciones que no nos corresponden,  para una inconstitucionalidad, para una ilegalidad.  Si quieren fiscalizar, les invito a que demos nuestros votos, dos de ustedes, dos de nosotros,  para levantar la reserva de la información de Progen, de Gelbir, de Danus,  de los fondos reservados que utiliza el CIES,  para fiscalizar por qué se acabó septiembre y llegó octubre,  y aún no cumplen con el abastecimiento de las medicinas y de los insumos médicos  de los hospitales públicos del país,  para fiscalizar todos los contratos llenos de opacidad de este gobierno.  Esa sí que es nuestra facultad para fiscalizar y no el alcalde de Quito.  Quito se respeta, Quito es de los quiteños,  Quito no es instrumento de persecución política por parte de ustedes.  Y ojalá con esto y con todos estos articulados y la sentencia que acabo de mencionar,  se entienda de una vez por todas que nosotros no tenemos competencia  para fiscalizar al alcalde de Quito o a cualquier otro alcalde y prefecto.  Y que el juez de cuentas del alcalde de Quito finalmente termine siendo la Contraloría General del Estado.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Rebeca Viviana Veloz Ramírez",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "jZAJu3E3PUw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Rebeca Viviana Veloz Ramírez",
+      "confidence": 0.75,
+      "votes": {
+        "Rebeca Viviana Veloz Ramírez": 3,
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 4,
+      "successful_reads": 4,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Viviana Veloz   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=jZAJu3E3PUw",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "jZAJu3E3PUw",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=jZAJu3E3PUw",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Rebeca Viviana Veloz Ramírez",
+      "party": null,
+      "province": null,
+      "total_time": 368.25,
+      "interventions": 2,
+      "word_count": 811
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 6.36,
+      "interventions": 2,
+      "word_count": 17
+    }
+  ]
+}

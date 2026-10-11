@@ -1,0 +1,110 @@
+{
+  "text": "Víctor Bajadares. Vamos a escuchar la siguiente intervención, asambleísta Héctor Valladares.  Antes escuchamos al asambleísta Javier Ordóñez, proponente de este cambio del orden del día,  al recordar que entre 45 a 50 mil vehículos pasan cada día por el peaje Guayasamín. Y hablar, el 15 de noviembre del 1922 hubo una masacre,  una masacre que tiñó de sangre las calles de Guayaquil por el sencillo hecho  de pedir dignidad, salarios justos y horas de trabajo justas.  Y no puede ser que se utilice ese día histórico de la lucha de los trabajadores  para tener ahora esta declaratoria.  Quería decir aquello y ya en este punto decirles que esta bancada  tampoco va a permitir que esta asamblea se la siga convirtiendo en un consejo municipal.  Muchísimas gracias. Esa fue la interesante.",
+  "language": "es",
+  "duration": 72.52,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Víctor Bajadares.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Héctor Guillermo Valladarez González",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 2.44,
+      "end": 15.83,
+      "text": "Vamos a escuchar la siguiente intervención, asambleísta Héctor Valladares.  Antes escuchamos al asambleísta Javier Ordóñez, proponente de este cambio del orden del día,  al recordar que entre 45 a 50 mil vehículos pasan cada día por el peaje Guayasamín.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5282,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 16.3,
+      "end": 68.07,
+      "text": "Y hablar, el 15 de noviembre del 1922 hubo una masacre,  una masacre que tiñó de sangre las calles de Guayaquil por el sencillo hecho  de pedir dignidad, salarios justos y horas de trabajo justas.  Y no puede ser que se utilice ese día histórico de la lucha de los trabajadores  para tener ahora esta declaratoria.  Quería decir aquello y ya en este punto decirles que esta bancada  tampoco va a permitir que esta asamblea se la siga convirtiendo en un consejo municipal.  Muchísimas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Héctor Guillermo Valladarez González",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 71.83,
+      "end": 72.53,
+      "text": "Esa fue la interesante.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5282,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "wcKOVcqfapw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Ibleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 6,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Héctor Guillermo Valladarez González",
+      "confidence": 1.0,
+      "votes": {
+        "Héctor Guillermo Valladarez González": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Héctor Valladares   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=wcKOVcqfapw",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wcKOVcqfapw",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=wcKOVcqfapw",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Héctor Guillermo Valladarez González",
+      "party": null,
+      "province": null,
+      "total_time": 52.77,
+      "interventions": 2,
+      "word_count": 87
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 14.09,
+      "interventions": 2,
+      "word_count": 43
+    }
+  ]
+}

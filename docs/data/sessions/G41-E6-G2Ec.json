@@ -1,0 +1,54 @@
+{
+  "text": "Sara Noemí Cabrera, la número 2.  En su intervención habló de cifras y la realidad de nuestro país,  interviene la asambleísta Diana Jacome.  ...de amnesia de lo que se vivió hace algunos años en el país.  Y precisamente quiero decirles los resultados, porque hay que hablarles con cifras.  El 30 de septiembre concluyó el toque de queda.  Más de 2.500 personas aprendidas, 8,1 toneladas de droga decomisadas.  Si estos resultados no son nada para ustedes, me imagino, porque están del lado de aquellos que infrigen la ley,  de aquellos que aterrorizan a los ecuatorianos.  Y también aquellos que han sido devueltos al Ecuador para pagar sus penas,  para pagar lo que han hecho por el país.  Entonces no entiendo cómo una legisladora puede decir que no hay resultados en toque de queda,  que no hay resultados de las acciones que cumple nuestra Policía Nacional y nuestro Ejército  con total valentía y responsabilidad.  Y cómo también decir cuando votan en contra de una ley tan importante,  como la que debatimos el día martes sobre el reclutamiento,  la prevención del reclutamiento de nuestros chicos.  Ahí se aumentaba la pena para los reclutadores de 22 a 26 años.  Y ustedes se lavaron la cara y votaron en abstención.  Así que no vengan a decir que no hay resultados.  Sí hay resultados cuando se trabaja con conciencia.  Sí hay resultados cuando entendemos que aquí en la Asamblea Nacional  nos puso a los ecuatorianos a través de sus votos.  No un delincuente de Bélgica que suele llamarles para tomar la decisión en la votación.  Así que estos son los resultados.  Y vamos a seguir nosotros proponiendo leyes para asegurar el bienestar de cada ecuatoriano.  Y vamos a seguir trabajando de la mano del presidente Daniel Novoa.  Su bloque de seguridad, por lo que ellos hacen en cada llenamiento, es arriesgar su vida.  Si para ustedes eso no significa nada, para nosotros sí.  Y seguiremos defendiendo la soberanía de nuestro país y a cada ecuatoriano que confíe en nosotros.",
+  "language": "es",
+  "duration": 125.43,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 123.56,
+      "text": "Sara Noemí Cabrera, la número 2.  En su intervención habló de cifras y la realidad de nuestro país,  interviene la asambleísta Diana Jacome.  ...de amnesia de lo que se vivió hace algunos años en el país.  Y precisamente quiero decirles los resultados, porque hay que hablarles con cifras.  El 30 de septiembre concluyó el toque de queda.  Más de 2.500 personas aprendidas, 8,1 toneladas de droga decomisadas.  Si estos resultados no son nada para ustedes, me imagino, porque están del lado de aquellos que infrigen la ley,  de aquellos que aterrorizan a los ecuatorianos.  Y también aquellos que han sido devueltos al Ecuador para pagar sus penas,  para pagar lo que han hecho por el país.  Entonces no entiendo cómo una legisladora puede decir que no hay resultados en toque de queda,  que no hay resultados de las acciones que cumple nuestra Policía Nacional y nuestro Ejército  con total valentía y responsabilidad.  Y cómo también decir cuando votan en contra de una ley tan importante,  como la que debatimos el día martes sobre el reclutamiento,  la prevención del reclutamiento de nuestros chicos.  Ahí se aumentaba la pena para los reclutadores de 22 a 26 años.  Y ustedes se lavaron la cara y votaron en abstención.  Así que no vengan a decir que no hay resultados.  Sí hay resultados cuando se trabaja con conciencia.  Sí hay resultados cuando entendemos que aquí en la Asamblea Nacional  nos puso a los ecuatorianos a través de sus votos.  No un delincuente de Bélgica que suele llamarles para tomar la decisión en la votación.  Así que estos son los resultados.  Y vamos a seguir nosotros proponiendo leyes para asegurar el bienestar de cada ecuatoriano.  Y vamos a seguir trabajando de la mano del presidente Daniel Novoa.  Su bloque de seguridad, por lo que ellos hacen en cada llenamiento, es arriesgar su vida.  Si para ustedes eso no significa nada, para nosotros sí.  Y seguiremos defendiendo la soberanía de nuestro país y a cada ecuatoriano que confíe en nosotros.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Angélica Jácome Silva",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "G41-E6-G2Ec",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Diana Angélica Jácome Silva",
+      "confidence": 0.75,
+      "votes": {
+        "Diana Angélica Jácome Silva": 3,
+        "[OOV] Nal X:@Asambleaecuador": 1
+      },
+      "samples": 5,
+      "successful_reads": 4,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Diana Jácome   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=G41-E6-G2Ec",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "G41-E6-G2Ec",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=G41-E6-G2Ec",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Angélica Jácome Silva",
+      "party": null,
+      "province": null,
+      "total_time": 123.53,
+      "interventions": 1,
+      "word_count": 333
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Viene nuevamente la asambleísta Rosa Torres.  Y de hecho yo empecé mi intervención en este segundo debate hablando de  voluntad, responsabilidad y madurez política.  Y eso es lo que estamos demostrando en este pleno.  Eso es lo que estamos demostrando en este debate.  Y también visibilizar la importancia de modernizar esta ley tan importante  para las familias ecuatorianas.  Creo que todos coincidimos que esta ley es sumamente importante y el espíritu  de la ley, lo que pretende la ley, preservar a toda esta figura de material  inclinato, coincidimos.  Sin embargo, todas las leyes son perfectibles.  Y así como en la mesa técnica de la Comisión de Justicia siempre se da la voz  a cada uno de los integrantes de la Comisión de Justicia y Estructura del Estado,  la excepción en este pleno de la Asamblea Nacional no será diferente.  No será diferente y por eso, señor Presidente, debido a todas las observaciones  que se han dado este día, solicito que de acuerdo al artículo 61 de la Ley Orgánica  de la Función Legislativa, se retorne a la Comisión para poder hacer estos cambios  que aquí en este pleno se han remitido.  Muchísimas gracias.  Gracias.",
+  "language": "es",
+  "duration": 83.22,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 83.14,
+      "text": "Viene nuevamente la asambleísta Rosa Torres.  Y de hecho yo empecé mi intervención en este segundo debate hablando de  voluntad, responsabilidad y madurez política.  Y eso es lo que estamos demostrando en este pleno.  Eso es lo que estamos demostrando en este debate.  Y también visibilizar la importancia de modernizar esta ley tan importante  para las familias ecuatorianas.  Creo que todos coincidimos que esta ley es sumamente importante y el espíritu  de la ley, lo que pretende la ley, preservar a toda esta figura de material  inclinato, coincidimos.  Sin embargo, todas las leyes son perfectibles.  Y así como en la mesa técnica de la Comisión de Justicia siempre se da la voz  a cada uno de los integrantes de la Comisión de Justicia y Estructura del Estado,  la excepción en este pleno de la Asamblea Nacional no será diferente.  No será diferente y por eso, señor Presidente, debido a todas las observaciones  que se han dado este día, solicito que de acuerdo al artículo 61 de la Ley Orgánica  de la Función Legislativa, se retorne a la Comisión para poder hacer estos cambios  que aquí en este pleno se han remitido.  Muchísimas gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rosa Alegría Torres Cadena",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "t1_bDyqlzY0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rosa Alegría Torres Cadena",
+      "confidence": 0.75,
+      "votes": {
+        "Rosa Alegría Torres Cadena": 3,
+        "[OOV] Acional.Gob.Ec Asambleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 5,
+      "successful_reads": 4,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Rosa Torres   Sesión 1281",
+  "url": "https://www.youtube.com/watch?v=t1_bDyqlzY0",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "t1_bDyqlzY0",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=t1_bDyqlzY0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rosa Alegría Torres Cadena",
+      "party": null,
+      "province": null,
+      "total_time": 83.11,
+      "interventions": 1,
+      "word_count": 194
+    }
+  ]
+}
