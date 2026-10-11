@@ -1,7 +1,6 @@
 openai>=1.0.0
 google-api-python-client>=2.0.0
 yt-dlp[default]>=2026.8.19
-REDACTED-ytdlp-pot-provider==2.0.2  # must match the REDACTED-provider container tag
 python-dateutil>=2.8.2
 requests>=2.31.0
 pyyaml>=6.0

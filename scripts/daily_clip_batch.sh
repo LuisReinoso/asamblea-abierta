@@ -6,26 +6,10 @@ set -uo pipefail
 export XDG_RUNTIME_DIR="/run/user/$(id -u)"
 export DBUS_SESSION_BUS_ADDRESS="unix:path=${XDG_RUNTIME_DIR}/bus"
 
-# yt-dlp needs deno on PATH for its JS-challenge solver — cron's minimal PATH
-# doesn't include it by default.
-export PATH="~/.deno/bin:$PATH"
-
-# run_batch.py's REDACTED download fallback needs this — cron doesn't source
-# ~/.bashrc where it's normally exported.
-if [ -z "${REDACTED_KEY:-}" ] && [ -f "$HOME/.bashrc" ]; then
-    REDACTED_KEY=$(grep -oP '(?<=REDACTED_KEY=")[^"]*' "$HOME/.bashrc" | head -1)
-    export REDACTED_KEY
-fi
-
-# Direct yt-dlp downloads work again since 2026-10-10 (yt-dlp 2026.08.19,
-# default player clients, REDACTED 2.0.2). REDACTED stays as the fallback in
-# run_batch.py, capped by its free plan (150 requests/month, 2 per clip).
-
 cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
 BATCH_LIMIT=20
-notify_URL="http://REDACTED:2586/asamblea"
 
 mkdir -p "$REPO_DIR/logs"
 
@@ -33,11 +17,14 @@ log() {
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" >> "$LOG_FILE"
 }
 
-notify() {
-    local title="$1"
-    local msg="$2"
-    curl -s -d "$msg" -H "Title: $title" -H "Tags: classical_building" "$notify_URL" >/dev/null 2>&1
-}
+# Notifications are a no-op unless the local config defines notify().
+notify() { :; }
+
+# Machine-local config (gitignored): PATH additions, API keys, model paths,
+# notify(), before_batch() and GPU_RESTORE_SERVICE.
+if [ -f "$REPO_DIR/internal/local.sh" ]; then
+    source "$REPO_DIR/internal/local.sh"
+fi
 
 START_TIME=$(date +%s)
 log "=== daily clip batch starting ==="
@@ -46,7 +33,7 @@ notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y
 # Discovery: append new channel videos to data/sessions/index.json, otherwise
 # the batch only ever drains the old index (it went stale from 2026-07-10 to
 # 2026-10-10 without anyone noticing). Runs before diarization-server so the
-# GPU stays with local-llm meanwhile. Scan depth 700 covers ~3 months of
+# GPU stays with the local LLM meanwhile. Scan depth 700 covers ~3 months of
 # clips; limit 80/tab with 2s sleeps keeps the per-video yt-dlp calls well
 # under the burst that rate-limited us in July. A failure here is logged and
 # notified but doesn't block the batch.
@@ -59,9 +46,9 @@ else
     notify "Asamblea Abierta - aviso" "Discovery falló; el batch sigue con el índice actual. Revisar logs/daily_clip_batch.log"
 fi
 
-# diarization-server shares the GPU with local-llm (systemd Conflicts= handles
-# the swap): starting it auto-stops local-llm, we restore local-llm on exit.
-log "starting diarization-server (stops local-llm via Conflicts=)"
+# diarization-server shares the GPU with another service (systemd Conflicts=
+# handles the swap): starting it stops that service, we restore it on exit.
+log "starting diarization-server"
 if ! systemctl --user start diarization-server.service 2>>"$LOG_FILE"; then
     log "systemctl --user start diarization-server.service failed (exit $?)"
     notify "Asamblea Abierta - ERROR" "No se pudo iniciar diarization-server (systemctl falló). Batch abortado."
@@ -69,8 +56,10 @@ if ! systemctl --user start diarization-server.service 2>>"$LOG_FILE"; then
 fi
 restore_llm() {
     systemctl --user stop diarization-server.service
-    systemctl --user start local-llm.service
-    log "diarization-server stopped, local-llm restored"
+    if [ -n "${GPU_RESTORE_SERVICE:-}" ]; then
+        systemctl --user start "$GPU_RESTORE_SERVICE"
+    fi
+    log "diarization-server stopped, GPU service restored"
 }
 trap restore_llm EXIT
 
@@ -90,11 +79,8 @@ if [ "$DIARIZE_READY" -ne 1 ]; then
 fi
 log "diarization-server ready"
 
-# REDACTED PO-token provider (Docker, --restart unless-stopped) should already be
-# up; nudge it if the daemon or container died since the last run.
-if ! curl -s -m 3 http://127.0.0.1:4416/ping >/dev/null 2>&1; then
-    log "REDACTED-provider not responding, attempting restart"
-    docker start REDACTED-provider >>"$LOG_FILE" 2>&1 || log "docker start REDACTED-provider failed"
+if type before_batch >/dev/null 2>&1; then
+    before_batch
 fi
 
 source "$REPO_DIR/.venv/bin/activate"
@@ -128,18 +114,31 @@ else
     notify "Asamblea Abierta - fin" "${DONE_LINE:-Batch terminado}. Voces en DB: $VOICEPRINT_COUNT. Duración: ${ELAPSED}s"
 fi
 
-if ! git diff --quiet || ! git diff --cached --quiet || [ -n "$(git status --porcelain)" ]; then
-    git add -A
+# Stage only the generated public data. This used to be `git add -A`, which
+# would publish anything that landed in the repo outside .gitignore.
+git add -- data docs
+if ! git diff --cached --quiet; then
     git commit -q -m "data: daily clip batch $(date +%F)"
     log "committed changes"
+else
+    log "no data changes to commit"
+fi
+
+OTHER_CHANGES=$(git status --porcelain -- . ':!data' ':!docs')
+if [ -n "$OTHER_CHANGES" ]; then
+    log "left uncommitted (outside data/ and docs/): $(echo "$OTHER_CHANGES" | tr '\n' ' ')"
+fi
+
+# Push whenever local is ahead of origin, not only after a new commit, so a
+# failed push really is retried on the next run.
+git fetch -q origin main >>"$LOG_FILE" 2>&1
+if [ -n "$(git rev-list origin/main..HEAD)" ]; then
     if git push origin main >>"$LOG_FILE" 2>&1; then
         log "pushed to GitHub"
     else
         log "git push failed, will retry next run"
         notify "Asamblea Abierta - ERROR" "git push a GitHub falló. Los commits quedan locales, se reintenta mañana."
     fi
-else
-    log "no changes to commit"
 fi
 
 log "=== daily clip batch finished (exit $STATUS) ==="

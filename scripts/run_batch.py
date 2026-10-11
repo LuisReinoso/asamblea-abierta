@@ -14,17 +14,14 @@ Usage:
 
 import argparse
 import json
-import os
 import re
 import shutil
 import subprocess
 import sys
 import time
 import traceback
-from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
-import requests
 
 SESSION_NUM_RE = re.compile(r"[Ss]esi[oó]n\s+(\d+)|[Ss]ession\s+(\d+)")
 
@@ -66,183 +63,18 @@ def write_status(status: dict):
 
 
 def download_video(video_id: str) -> Path | None:
-    DATA_VIDEO.mkdir(parents=True, exist_ok=True)
-    out_path = DATA_VIDEO / f"{video_id}.mp4"
-    if out_path.exists() and out_path.stat().st_size > 100_000:
-        return out_path
-    # Wipe any partial leftovers (e.g. .f136.mp4 + .f140.m4a from a killed run)
-    for stale in DATA_VIDEO.glob(f"{video_id}.*"):
-        try:
-            stale.unlink()
-        except OSError:
-            pass
+    """Fetch the source video into data/video/<id>.mp4.
 
-    # Set while our IP is 403-blocked on yt-dlp's direct googlevideo.com path:
-    # every failed direct attempt is still a request YouTube's anti-bot sees
-    # from this IP, and may be reinforcing/extending the block. Skip straight
-    # to the REDACTED fallback instead of poking it first.
-    if os.environ.get("SKIP_DIRECT_DOWNLOAD"):
-        log("  SKIP_DIRECT_DOWNLOAD set, going straight to REDACTED")
-        return download_video_via_REDACTED(video_id, out_path)
-
-    url = f"https://www.youtube.com/watch?v={video_id}"
-    cookies_file = PROJECT_ROOT / "temp" / "cookies" / "youtube.txt"
-    cmd = [
-        "yt-dlp",
-        # yt-dlp's default player clients, no override: as of 2026-10 a pinned
-        # android_vr,ios,web left only format 18, which 403s (android_vr wants
-        # a GVS PO token, ios/web are SABR-only). Cookies are still needed —
-        # the file is seeded via a stealth browser session (REDACTED) and
-        # yt-dlp keeps it fresh across runs; PO tokens come from the
-        # REDACTED-provider container on :4416.
-        # Space out requests — a burst of back-to-back downloads (esp. right
-        # after a discovery run's per-video metadata fetches) tripped a
-        # YouTube "rate-limited for up to an hour" block on 2026-07-09.
-        "--sleep-requests", "2", "--sleep-interval", "3", "--max-sleep-interval", "8",
-        # <=480p mp4 video is plenty for overlay-text OCR (a cropped band of
-        # large captions). "ba" rather than a fixed "140": on auto-dubbed
-        # videos the ids become 140-0/140-1 and yt-dlp's best-audio ranking
-        # puts the original (Spanish) track first.
-        "-f", "bv*[height<=480][ext=mp4]+ba[ext=m4a]/b[height<=480]/b",
-        "--merge-output-format", "mp4",
-        "--no-playlist",
-        "-o", str(out_path),
-        url,
-    ]
-    if cookies_file.exists():
-        cmd[1:1] = ["--cookies", str(cookies_file)]
-    yt_log = PROJECT_ROOT / "temp" / f"yt-dlp-{video_id}.log"
-    yt_log.parent.mkdir(parents=True, exist_ok=True)
-    # Stream stdout/stderr directly to a log file — capture_output buffers in RAM
-    # and can deadlock when yt-dlp + ffmpeg merge produce a lot of progress output.
-    with open(yt_log, "w") as logf:
-        try:
-            # 1h ceiling — file size (not video duration) drives download
-            # time, and multi-GB full-session downloads need real headroom.
-            rc = subprocess.call(cmd, stdout=logf, stderr=subprocess.STDOUT, timeout=3600)
-        except subprocess.TimeoutExpired:
-            log("  yt-dlp timed out (3600s)")
-            return None
-    if rc != 0 or not out_path.exists() or out_path.stat().st_size < 100_000:
-        try:
-            tail = yt_log.read_text(errors="ignore").splitlines()[-3:]
-        except OSError:
-            tail = ["(log file missing)"]
-        log(f"  yt-dlp failed (rc={rc}): {' | '.join(tail)}")
-        log("  falling back to REDACTED downloader")
-        return download_video_via_REDACTED(video_id, out_path)
-    # Remove the per-video yt-dlp log on success
+    The download backend is machine-local (internal/downloader.py, gitignored)
+    and is not part of the public repo.
+    """
+    sys.path.insert(0, str(PROJECT_ROOT / "internal"))
     try:
-        yt_log.unlink()
-    except OSError:
-        pass
-    return out_path
-
-
-REDACTED_HOST = "REDACTED"
-
-
-def _REDACTED_formats(video_id: str, filter_: str) -> list[dict] | None:
-    key = os.environ.get("REDACTED_KEY")
-    if not key:
+        import downloader
+    except ImportError:
+        log("  no download backend found at internal/downloader.py")
         return None
-    try:
-        r = requests.get(
-            f"https://{REDACTED_HOST}/download",
-            params={"id": video_id, "filter": filter_},
-            headers={"x-api-key": key, "x-api-host": REDACTED_HOST},
-            timeout=20,
-        )
-        r.raise_for_status()
-        data = r.json()
-        return data if isinstance(data, list) else None
-    except (requests.RequestException, ValueError):
-        return None
-
-
-def _curl_download(url: str, dest: Path, expected_size: int | None = None, per_attempt_timeout: int = 240) -> bool:
-    # This provider's googlevideo.com tunnel is slow (~15-20KB/s observed) and
-    # has repeatedly stalled partway through in testing — -C - resumes from
-    # wherever a prior attempt left off instead of restarting from zero, and
-    # we retry many times since a single attempt often isn't enough for a
-    # multi-minute clip.
-    for _attempt in range(10):
-        try:
-            subprocess.call(
-                ["curl", "-sL", "-C", "-", "--connect-timeout", "10", "-A", "Mozilla/5.0",
-                 url, "-o", str(dest)],
-                timeout=per_attempt_timeout,
-            )
-        except subprocess.TimeoutExpired:
-            pass  # partial file on disk — next loop iteration resumes it
-        if dest.exists() and dest.stat().st_size > 50_000:
-            if expected_size is None or dest.stat().st_size >= expected_size - 1024:
-                return True
-        time.sleep(3)
-    return False
-
-
-def download_video_via_REDACTED(video_id: str, out_path: Path) -> Path | None:
-    """Fallback for when yt-dlp gets 403'd directly. Runs through a paid
-    REDACTED proxy service instead — costs 2 requests against the monthly
-    quota (video + audio fetched separately, then muxed locally), so this
-    is a last resort, not the default path."""
-    video_formats = _REDACTED_formats(video_id, "videoonly")
-    audio_formats = _REDACTED_formats(video_id, "audioonly")
-    if not video_formats or not audio_formats:
-        log("  REDACTED fallback: no formats returned")
-        return None
-
-    # Only direct-file formats: the provider also lists HLS variants (e.g.
-    # "233-1", protocol m3u8_native) whose URL is a playlist, not media —
-    # curl saves the .m3u8 text and the ffmpeg mux below fails.
-    video_formats = [f for f in video_formats if f.get("protocol") == "https"]
-    audio_formats = [f for f in audio_formats if f.get("protocol") == "https" and f.get("ext") == "m4a"]
-
-    video_fmt = next((f for f in video_formats if f.get("format_id") == "134"), None) \
-        or next((f for f in video_formats if (f.get("height") or 9999) <= 480), None)
-    # Some videos have YouTube's auto-dub enabled — the default audio track
-    # (e.g. "140-0") can be English while "140-1"/similar is the real
-    # Spanish original. Must match on language, never just take formats[0].
-    es_audio = [f for f in audio_formats if (f.get("language") or "").startswith("es")]
-    audio_fmt = next((f for f in es_audio if f.get("format_id", "").startswith("140")), None) \
-        or next(iter(es_audio), None)
-    if not video_fmt or not audio_fmt:
-        log("  REDACTED fallback: no suitable video/es-language audio format")
-        return None
-
-    tmp_v = out_path.with_suffix(".REDACTED_v.mp4")
-    tmp_a = out_path.with_suffix(".REDACTED_a.m4a")
-    try:
-        # This provider's transfer speed (~15-20KB/s) is the actual bottleneck,
-        # not sequencing — running video+audio concurrently roughly halves
-        # wall-clock time since they're two independent HTTP transfers.
-        with ThreadPoolExecutor(max_workers=2) as pool:
-            fv = pool.submit(_curl_download, video_fmt["url"], tmp_v, video_fmt.get("filesize"))
-            fa = pool.submit(_curl_download, audio_fmt["url"], tmp_a, audio_fmt.get("filesize"))
-            video_ok = fv.result()
-            audio_ok = fa.result()
-        if not video_ok:
-            log("  REDACTED fallback: video download failed")
-            return None
-        if not audio_ok:
-            log("  REDACTED fallback: audio download failed")
-            return None
-        rc = subprocess.call(
-            ["ffmpeg", "-y", "-i", str(tmp_v), "-i", str(tmp_a), "-c", "copy", str(out_path)],
-            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=120,
-        )
-        if rc != 0 or not out_path.exists() or out_path.stat().st_size < 100_000:
-            log("  REDACTED fallback: ffmpeg mux failed")
-            return None
-        log("  REDACTED fallback succeeded")
-        return out_path
-    finally:
-        for tmp in (tmp_v, tmp_a):
-            try:
-                tmp.unlink()
-            except OSError:
-                pass
+    return downloader.download_video(video_id, DATA_VIDEO, log)
 
 
 def extract_qa_fragment(video_path: Path, video_id: str, duration_hint: float | None) -> None:

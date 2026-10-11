@@ -27,14 +27,17 @@ matching artifact, not published site content.
 
 import argparse
 import json
+import os
 import subprocess
 import sys
 import unicodedata
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent.parent
-VOICE_CLI = Path("~/proyectos/voice-detect.cpp/build/examples/cli/voicedetect-cli")
-VOICE_MODEL = Path("~/proyectos/voice-detect.cpp/models/wespeaker-resnet34-voxceleb.gguf")
+# voice-detect.cpp CLI + WeSpeaker model; machine-local paths come from the
+# environment (set in internal/local.sh, which the cron script sources).
+VOICE_CLI = Path(os.environ["VOICE_CLI"]) if os.environ.get("VOICE_CLI") else None
+VOICE_MODEL = Path(os.environ["VOICE_MODEL"]) if os.environ.get("VOICE_MODEL") else None
 DEFAULT_DB_PATH = PROJECT_ROOT / "internal" / "speakers" / "voiceprints.json"
 
 MIN_ENROLL_SECONDS = 20.0
@@ -123,7 +126,7 @@ def main() -> int:
     parser.add_argument("--threshold", type=float, default=0.50, help="Min cosine similarity to accept a voiceprint match")
     args = parser.parse_args()
 
-    if not VOICE_CLI.exists() or not VOICE_MODEL.exists():
+    if not (VOICE_CLI and VOICE_MODEL and VOICE_CLI.exists() and VOICE_MODEL.exists()):
         print(f"  ! voice-detect.cpp CLI or model not found, skipping voiceprint stage", file=sys.stderr)
         return 0  # non-fatal — OCR-only result stands
 
