@@ -1,0 +1,127 @@
+{
+  "text": "La seguridad no puede convertirse en una herramienta de vigilancia ilegal. En la sesión 101, el Pleno aprobó que la Comisión de Seguridad inicie el proceso de  fiscalización sobre presuntas vulneraciones a los protocolos de seguridad y control de  accesos del sistema de vigilancia administrados por Segura-EP en Guayaquil. No se puede permitir que la seguridad de los ciudadanos esté violentada permanentemente por un grupo político.  No, la seguridad es un derecho, pero también es un valor.  Un valor que debemos precautelar.  Un valor por el que estamos luchando todos los días en el Ecuador. Además, cumplió el primer debate del proyecto de ley orgánica para la atención integral  de las personas con obesidad.  En la continuación de la sesión 78, la Asamblea Nacional resolvió exhortar una revisión  integral sobre cobro de tasas municipales a través de planillas de servicio básico en  distintos GAT, rechazar la tercerización que precariza la situación laboral de los  trabajadores conocidos como hormiguitas chúas de la ciudad de Cuenca, e iniciar un proceso  de fiscalización sobre hechos relacionados a los informes de la Contraloría que involucra  a gobiernos autónomos descentralizados. Asamblea Nacional",
+  "language": "es",
+  "duration": 81.22,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.45,
+      "end": 9.21,
+      "text": "La seguridad no puede convertirse en una herramienta de vigilancia ilegal.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.52,
+      "end": 23.49,
+      "text": "En la sesión 101, el Pleno aprobó que la Comisión de Seguridad inicie el proceso de  fiscalización sobre presuntas vulneraciones a los protocolos de seguridad y control de  accesos del sistema de vigilancia administrados por Segura-EP en Guayaquil.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Steven Leonardo Ordóñez Bravo",
+        "confidence": 0.529,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 23.98,
+      "end": 39.99,
+      "text": "No se puede permitir que la seguridad de los ciudadanos esté violentada permanentemente por un grupo político.  No, la seguridad es un derecho, pero también es un valor.  Un valor que debemos precautelar.  Un valor por el que estamos luchando todos los días en el Ecuador.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.67
+      }
+    },
+    {
+      "id": 3,
+      "start": 40.68,
+      "end": 74.52,
+      "text": "Además, cumplió el primer debate del proyecto de ley orgánica para la atención integral  de las personas con obesidad.  En la continuación de la sesión 78, la Asamblea Nacional resolvió exhortar una revisión  integral sobre cobro de tasas municipales a través de planillas de servicio básico en  distintos GAT, rechazar la tercerización que precariza la situación laboral de los  trabajadores conocidos como hormiguitas chúas de la ciudad de Cuenca, e iniciar un proceso  de fiscalización sobre hechos relacionados a los informes de la Contraloría que involucra  a gobiernos autónomos descentralizados.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Steven Leonardo Ordóñez Bravo",
+        "confidence": 0.529,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 76.39,
+      "end": 77.91,
+      "text": "Asamblea Nacional",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Andrés Felipe Castillo Maldonado",
+        "confidence": 0.67
+      }
+    }
+  ],
+  "video_id": "0R5dJ7ei1sQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Andrés Felipe Castillo Maldonado",
+      "confidence": 0.67,
+      "votes": {
+        "Ferdinan Arturo Álvarez Zambrano": 1,
+        "Andrés Felipe Castillo Maldonado": 2
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Milton Javier Aguas Flores": 1,
+        "Eliana Katherine Correa González": 1,
+        "Luis Fernando Molina Onofa": 1,
+        "Ferdinan Arturo Álvarez Zambrano": 1,
+        "[OOV] Blas Cabrer": 1
+      },
+      "samples": 15,
+      "successful_reads": 5,
+      "source": null
+    }
+  },
+  "title": "¿Qué resolvió el Pleno sobre Segura EP?",
+  "url": "https://www.youtube.com/watch?v=0R5dJ7ei1sQ",
+  "published_at": "2026-06-18T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "0R5dJ7ei1sQ",
+  "date": "2026-06-18T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=0R5dJ7ei1sQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Steven Leonardo Ordóñez Bravo",
+      "party": null,
+      "province": null,
+      "total_time": 47.81,
+      "interventions": 2,
+      "word_count": 128
+    },
+    {
+      "id": "speaker_0",
+      "name": "Andrés Felipe Castillo Maldonado",
+      "party": null,
+      "province": null,
+      "total_time": 26.29,
+      "interventions": 3,
+      "word_count": 59
+    }
+  ]
+}

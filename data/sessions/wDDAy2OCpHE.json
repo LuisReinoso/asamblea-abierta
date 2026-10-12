@@ -1,0 +1,166 @@
+{
+  "text": "Ya escuchamos al secretario general. Ingresa ya al salón plenario el señor Jaime Antonio de la Cuadra, sobrino nieto de José de la Cuadra.  Un personaje que también fue citado por parte del asambleísta Mónica Salazar en este Día de la Identidad Montu. Mónica Salazar José de la Cuadra fue un escritor ecuatoriano que se destacó por su enfoque en la vida y las costumbres del Montuvio,  el campesino de la costa ecuatoriana.  Su obra abarca novelas, cuentos y ensayos y se caracteriza por un estilo narrativo  que evolucionó desde el modernismo hacia un realismo comprometido. Considerando que el señor José de la Cuadra Vargas, nacido en Guayaquil el 3 de septiembre de 1903, fue una figura representativa de la literatura ecuatoriana del siglo XX y del grupo de Guayaquil, y que su obra vinculada al realismo social destacó la identidad, tradiciones y realidad del pueblo montuvio, en ejercicio de sus atribuciones de acuerda, condecorar y rendir homenaje póstumo al señor José de la Cuadra Vargas en reconocimiento a su trayectoria literaria e intelectual,  su aporte al realismo social y a las letras ecuatorianas, y en exaltación de su legado como referente de la identidad y cultura nacional. Ahí observamos cómo recibe este reconocimiento de parte de la Asamblea Nacional y a nombre de José de la Cuadra,  escritor ecuatoriano cuyos cuentos figuran entre los más importantes de la narrativa de nuestro país,  junto con autores como Demetrio Aguilera Malta, Enrique Gil Gilber, Alfredo Pareja o Humberto Salvador,  como parte del grupo de Guayaquil, acaso el más significativo movimiento del siglo XX para la evolución de la prosa en Ecuador.  Y ahí se ha destacado ese trayecto y esa trayectoria y es por eso que ha sido parte de este reconocimiento. Invitamos a ingresar al pleno a Jervis Lionel Loral Siva,  acompañado de la señora Germán.",
+  "language": "es",
+  "duration": 120.0,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.6,
+      "end": 18.49,
+      "text": "Ya escuchamos al secretario general. Ingresa ya al salón plenario el señor Jaime Antonio de la Cuadra, sobrino nieto de José de la Cuadra.  Un personaje que también fue citado por parte del asambleísta Mónica Salazar en este Día de la Identidad Montu.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.53,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 18.49,
+      "end": 19.81,
+      "text": "Mónica Salazar",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Camila León Cueva",
+        "confidence": 0.9012,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 21.65,
+      "end": 38.03,
+      "text": "José de la Cuadra fue un escritor ecuatoriano que se destacó por su enfoque en la vida y las costumbres del Montuvio,  el campesino de la costa ecuatoriana.  Su obra abarca novelas, cuentos y ensayos y se caracteriza por un estilo narrativo  que evolucionó desde el modernismo hacia un realismo comprometido.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.53,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 38.03,
+      "end": 75.9,
+      "text": "Considerando que el señor José de la Cuadra Vargas, nacido en Guayaquil el 3 de septiembre de 1903, fue una figura representativa de la literatura ecuatoriana del siglo XX y del grupo de Guayaquil, y que su obra vinculada al realismo social destacó la identidad, tradiciones y realidad del pueblo montuvio, en ejercicio de sus atribuciones de acuerda, condecorar y rendir homenaje póstumo al señor José de la Cuadra Vargas en reconocimiento a su trayectoria literaria e intelectual,  su aporte al realismo social y a las letras ecuatorianas, y en exaltación de su legado como referente de la identidad y cultura nacional.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Camila León Cueva",
+        "confidence": 0.9012,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 78.45,
+      "end": 111.44,
+      "text": "Ahí observamos cómo recibe este reconocimiento de parte de la Asamblea Nacional y a nombre de José de la Cuadra,  escritor ecuatoriano cuyos cuentos figuran entre los más importantes de la narrativa de nuestro país,  junto con autores como Demetrio Aguilera Malta, Enrique Gil Gilber, Alfredo Pareja o Humberto Salvador,  como parte del grupo de Guayaquil, acaso el más significativo movimiento del siglo XX para la evolución de la prosa en Ecuador.  Y ahí se ha destacado ese trayecto y esa trayectoria y es por eso que ha sido parte de este reconocimiento.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5658,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 112.72,
+      "end": 119.96,
+      "text": "Invitamos a ingresar al pleno a Jervis Lionel Loral Siva,  acompañado de la señora Germán.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Camila León Cueva",
+        "confidence": 0.9012,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "wDDAy2OCpHE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Onal X:@Asambleaecuador": 1,
+        "[OOV] Www.Asambleanacional.Gob.Ec Asamble": 1,
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Al X:@Asambleaecuador": 1
+      },
+      "samples": 10,
+      "successful_reads": 4,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Cional.Gob.Ec Asambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Nacional X:@Asambleaecuador": 1,
+        "[OOV] F Asambleanacional X:@Asambleaecuao": 1,
+        "[OOV] Nacional.Gob.Ec F Asambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Bleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 12,
+      "successful_reads": 5,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Acional X:@Asambleaecuador": 1,
+        "[OOV] Eanacional.Gob.Ec Asambleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 14,
+      "successful_reads": 3,
+      "source": null
+    }
+  },
+  "title": "Señor José De La Cuadra Vargas   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=wDDAy2OCpHE",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wDDAy2OCpHE",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=wDDAy2OCpHE",
+  "speaker_stats": [
+    {
+      "id": "speaker_2",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 46.43,
+      "interventions": 3,
+      "word_count": 119
+    },
+    {
+      "id": "speaker_1",
+      "name": "Brígida Lucía Pozo Moreta",
+      "party": null,
+      "province": null,
+      "total_time": 33.27,
+      "interventions": 2,
+      "word_count": 94
+    },
+    {
+      "id": "speaker_0",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 32.99,
+      "interventions": 1,
+      "word_count": 93
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "text": "Se solicita la presencia del asambleísta Esteban Torres Cobo a fin de proceder con la toma del juramento y posesión correspondiente. Gracias, señora presidenta. Se invita a la asambrista Esteban Torres Cobo, primer vicepresidente de la Asamblea Nacional,  a acercarse a la mesa directiva para la toma de juramento y posesión,  acto que estará a cargo de la asambrista Michelle Mancheno Dávila, presidenta de la Asamblea Nacional. Y ya se encuentra frente a las autoridades legislativas.  Saludó ya en este momento con la segunda vicepresidenta  y en los próximos minutos lo hará con la presidenta de la Asamblea Nacional,  Michelle Mancheno, quien tomará juramento al nuevo... En este momento, la asambleista Michelle Mancheno Dávila, presidenta de la Asamblea Nacional, procederá con la toma del juramento correspondiente. Señor Luis Esteban Torres Cobo, jura usted por su honor ante Dios y la patria que cumplirá fielmente las funciones otorgadas por la Constitución de la República y la ley en el desempeño de su cargo como primer vicepresidente de la Asamblea Nacional. Sí, juro. Si así lo hace, que la patria y el pueblo ecuatoriano le reconozcan.  Caso contrario, le juzguen.  Queda usted constitucional y legalmente posesionado como primer vicepresidente de la Asamblea Nacional. De esta forma fue posesionado Luis Esteban Torres Cobo como primer vicepresidente de la Asamblea Nacional.  La primera vicepresidencia de la Asamblea Nacional es una de las unidades más importantes dentro del legislativo  porque forma parte del Consejo de Administración Legislativa  y es la primera autoridad llamada a reemplazar a la presidencia de la Asamblea Nacional del Ecuador.  Ya tomó juramento la autoridad, ha sido posesionada ya como primer vicepresidente de la Asamblea Nacional del Parlamento Ecuatoriano. Y en este momento se procede con la firma del documento que avala su designación. del acta de posesión correspondiente.  Acta de posesión, sesión número 100-AN-2025-2029.  En la sede de la Asamblea Nacional, ubicada en el Distrito Metropolitano de Quito,  provincia de Pichincha, el Pleno, de conformidad con lo dispuesto en los artículos 121  de la Constitución de la República del Ecuador, 9, numeral 15 y 16 de la Ley Orgánica  de la Fusión Legislativa, posesiona al señor Luis Esteban Torres Cobo  como primer vicepresidente de la Asamblea Nacional, dado en Quito el 10 de junio de 2026. Se realizó la toma de juramento y la acta de posesión al asambleísta Esteban Torres Cobo  como primer vicepresidente de la Asamblea Nacional del Ecuador.  Como antecedente, el pasado 8 de junio, Nils Orsenpid dejó la presidencia.  Con ello, la asambleísta Michelle Mancheno asumió la titularidad de la función legislativa. primer vicepresidente de la Asamblea Nacional. Vamos a escuchar las primeras palabras como primer vicepresidente de la Asamblea Nacional  del asambleísta Esteban Torres en el Pleno del Parlamento Ecuatoriano. Señora Michelle Mancheno, Presidenta de la Asamblea Nacional.  Señora Carmen Tiopul, Segunda Vicepresidenta de la Asamblea Nacional.  Señoras y señores del Consejo de Administración Legislativa.  Señoras y señores asambleístas, medios de comunicación, damas, caballeros, amigos.  Quiero agradecer a todos los que han participado en esta decisión democrática de la Asamblea Nacional.  Quiero agradecer a mi bancada, a la bancada de ADN, que lucha todos los días por aquello que creemos que el Ecuador necesita.  Quiero agradecer también a los asambleístas independientes que se han sumado y que con su voz son importantes en esta democracia.  A los asambleístas de Pachacuti que se han sumado.  Y quiero también agradecer a los compañeros legisladores que no se han sumado esta vez de la oposición.  Y también a aquellos que, lamentablemente, no han venido.  En una democracia como la que vivimos, con separación de poderes, con independencia de funciones,  cuando los ecuatorianos dan una fuerza mayoritaria a la misma fuerza que llega al gobierno,  la Asamblea no está llamada a ser de obstrucción o de paralización, sino de construcción,  de aquello que los ecuatorianos buscan y necesitan.  Y precisamente, a quien también agradezco hoy es al Presidente de la República, Daniel Novoazín.  Porque esta Asamblea tiene el gran desafío de seguir construyendo aquel motor que ya ha despertado estos meses,  registrando el riesgo país más bajo desde hace más de una década,  registrando los meses de mayores ventas en el país  y teniendo el desafío de llegar a todas aquellas necesidades y obstáculos que se viven en el día a día.  En ese sentido, mi compromiso, mi experiencia legislativa y toda mi energía estará al servicio  de aquello que requieren en la Asamblea Nacional y, por supuesto, aquellos grandes desafíos del país.  Quiero agradecer una vez más a todos, a los ecuatorianos, a mi familia que está permanentemente conmigo  y a todos aquellos que se suman y creen que otro Ecuador es posible.  Gracias. En su intervención.",
+  "language": "es",
+  "duration": 365.85,
+  "speakers_detected": 5,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.14,
+      "end": 10.07,
+      "text": "Se solicita la presencia del asambleísta Esteban Torres Cobo a fin de proceder con la toma del juramento y posesión correspondiente.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Mishel Andrea Mancheno Dávila",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 12.4,
+      "end": 13.92,
+      "text": "Gracias, señora presidenta.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5105,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 13.92,
+      "end": 32.01,
+      "text": "Se invita a la asambrista Esteban Torres Cobo, primer vicepresidente de la Asamblea Nacional,  a acercarse a la mesa directiva para la toma de juramento y posesión,  acto que estará a cargo de la asambrista Michelle Mancheno Dávila, presidenta de la Asamblea Nacional.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9198,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 33.66,
+      "end": 45.48,
+      "text": "Y ya se encuentra frente a las autoridades legislativas.  Saludó ya en este momento con la segunda vicepresidenta  y en los próximos minutos lo hará con la presidenta de la Asamblea Nacional,  Michelle Mancheno, quien tomará juramento al nuevo...",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5105,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 45.48,
+      "end": 54.77,
+      "text": "En este momento, la asambleista Michelle Mancheno Dávila, presidenta de la Asamblea Nacional, procederá con la toma del juramento correspondiente.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9198,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 62.01,
+      "end": 78.75,
+      "text": "Señor Luis Esteban Torres Cobo, jura usted por su honor ante Dios y la patria que cumplirá fielmente las funciones otorgadas por la Constitución de la República y la ley en el desempeño de su cargo como primer vicepresidente de la Asamblea Nacional.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Mishel Andrea Mancheno Dávila",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 79.43,
+      "end": 80.09,
+      "text": "Sí, juro.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Primer Vicepresidente De La Asamblea Nacional",
+        "confidence": 0.6
+      }
+    },
+    {
+      "id": 7,
+      "start": 80.56,
+      "end": 92.83,
+      "text": "Si así lo hace, que la patria y el pueblo ecuatoriano le reconozcan.  Caso contrario, le juzguen.  Queda usted constitucional y legalmente posesionado como primer vicepresidente de la Asamblea Nacional.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Mishel Andrea Mancheno Dávila",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 8,
+      "start": 95.49,
+      "end": 125.33,
+      "text": "De esta forma fue posesionado Luis Esteban Torres Cobo como primer vicepresidente de la Asamblea Nacional.  La primera vicepresidencia de la Asamblea Nacional es una de las unidades más importantes dentro del legislativo  porque forma parte del Consejo de Administración Legislativa  y es la primera autoridad llamada a reemplazar a la presidencia de la Asamblea Nacional del Ecuador.  Ya tomó juramento la autoridad, ha sido posesionada ya como primer vicepresidente de la Asamblea Nacional del Parlamento Ecuatoriano.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 9,
+      "start": 125.75,
+      "end": 129.97,
+      "text": "Y en este momento se procede con la firma del documento que avala su designación.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5105,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 10,
+      "start": 130.09,
+      "end": 166.77,
+      "text": "del acta de posesión correspondiente.  Acta de posesión, sesión número 100-AN-2025-2029.  En la sede de la Asamblea Nacional, ubicada en el Distrito Metropolitano de Quito,  provincia de Pichincha, el Pleno, de conformidad con lo dispuesto en los artículos 121  de la Constitución de la República del Ecuador, 9, numeral 15 y 16 de la Ley Orgánica  de la Fusión Legislativa, posesiona al señor Luis Esteban Torres Cobo  como primer vicepresidente de la Asamblea Nacional, dado en Quito el 10 de junio de 2026.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9198,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 11,
+      "start": 169.98,
+      "end": 190.03,
+      "text": "Se realizó la toma de juramento y la acta de posesión al asambleísta Esteban Torres Cobo  como primer vicepresidente de la Asamblea Nacional del Ecuador.  Como antecedente, el pasado 8 de junio, Nils Orsenpid dejó la presidencia.  Con ello, la asambleísta Michelle Mancheno asumió la titularidad de la función legislativa.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 12,
+      "start": 190.89,
+      "end": 193.66,
+      "text": "primer vicepresidente de la Asamblea Nacional.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Camila León Cueva",
+        "confidence": 0.9198,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 13,
+      "start": 195.95,
+      "end": 204.29,
+      "text": "Vamos a escuchar las primeras palabras como primer vicepresidente de la Asamblea Nacional  del asambleísta Esteban Torres en el Pleno del Parlamento Ecuatoriano.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.5105,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 14,
+      "start": 204.72,
+      "end": 363.11,
+      "text": "Señora Michelle Mancheno, Presidenta de la Asamblea Nacional.  Señora Carmen Tiopul, Segunda Vicepresidenta de la Asamblea Nacional.  Señoras y señores del Consejo de Administración Legislativa.  Señoras y señores asambleístas, medios de comunicación, damas, caballeros, amigos.  Quiero agradecer a todos los que han participado en esta decisión democrática de la Asamblea Nacional.  Quiero agradecer a mi bancada, a la bancada de ADN, que lucha todos los días por aquello que creemos que el Ecuador necesita.  Quiero agradecer también a los asambleístas independientes que se han sumado y que con su voz son importantes en esta democracia.  A los asambleístas de Pachacuti que se han sumado.  Y quiero también agradecer a los compañeros legisladores que no se han sumado esta vez de la oposición.  Y también a aquellos que, lamentablemente, no han venido.  En una democracia como la que vivimos, con separación de poderes, con independencia de funciones,  cuando los ecuatorianos dan una fuerza mayoritaria a la misma fuerza que llega al gobierno,  la Asamblea no está llamada a ser de obstrucción o de paralización, sino de construcción,  de aquello que los ecuatorianos buscan y necesitan.  Y precisamente, a quien también agradezco hoy es al Presidente de la República, Daniel Novoazín.  Porque esta Asamblea tiene el gran desafío de seguir construyendo aquel motor que ya ha despertado estos meses,  registrando el riesgo país más bajo desde hace más de una década,  registrando los meses de mayores ventas en el país  y teniendo el desafío de llegar a todas aquellas necesidades y obstáculos que se viven en el día a día.  En ese sentido, mi compromiso, mi experiencia legislativa y toda mi energía estará al servicio  de aquello que requieren en la Asamblea Nacional y, por supuesto, aquellos grandes desafíos del país.  Quiero agradecer una vez más a todos, a los ecuatorianos, a mi familia que está permanentemente conmigo  y a todos aquellos que se suman y creen que otro Ecuador es posible.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Primer Vicepresidente De La Asamblea Nacional",
+        "confidence": 0.6
+      }
+    },
+    {
+      "id": 15,
+      "start": 365.29,
+      "end": 365.96,
+      "text": "En su intervención.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "W-3KkjIgvq0",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Primer Vicepresidente De La Asamblea Nacional",
+      "confidence": 0.6,
+      "votes": {
+        "[OOV] Primer Vicepresidente De La Asamblea Nacional": 6,
+        "[OOV] Primer Vicepresidente": 1,
+        "[OOV] De La Asamblea Nacional": 1,
+        "[OOV] F Asamble": 1
+      },
+      "samples": 11,
+      "successful_reads": 9,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Acional X:@Asambleaecuador": 1,
+        "[OOV] F Asamble": 1,
+        "[OOV] Anacional X:@Asambleaecuador": 1,
+        "[OOV] I X:@Asambleaecuador": 1
+      },
+      "samples": 20,
+      "successful_reads": 4,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Icional X:@Asambleaecuador": 1,
+        "[OOV] Ambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Hal X:@Asambleaecuador": 1
+      },
+      "samples": 19,
+      "successful_reads": 3,
+      "source": null
+    },
+    "speaker_3": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 9,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_4": {
+      "name": "Mishel Andrea Mancheno Dávila",
+      "confidence": 1.0,
+      "votes": {
+        "Mishel Andrea Mancheno Dávila": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Posesión y toma de juramento del primer vicepresidente Esteban Torres   Sesión 100",
+  "url": "https://www.youtube.com/watch?v=W-3KkjIgvq0",
+  "published_at": "2026-06-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "W-3KkjIgvq0",
+  "date": "2026-06-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=W-3KkjIgvq0",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Primer Vicepresidente De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 159.05,
+      "interventions": 2,
+      "word_count": 323
+    },
+    {
+      "id": "speaker_1",
+      "name": "Camila León Cueva",
+      "party": null,
+      "province": null,
+      "total_time": 66.83,
+      "interventions": 4,
+      "word_count": 152
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 50.56,
+      "interventions": 3,
+      "word_count": 130
+    },
+    {
+      "id": "speaker_4",
+      "name": "Mishel Andrea Mancheno Dávila",
+      "party": null,
+      "province": null,
+      "total_time": 36.94,
+      "interventions": 3,
+      "word_count": 94
+    },
+    {
+      "id": "speaker_3",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 25.9,
+      "interventions": 4,
+      "word_count": 80
+    }
+  ]
+}

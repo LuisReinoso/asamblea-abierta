@@ -1,0 +1,125 @@
+{
+  "text": "A todo respondente, quien ha explicado el contenido en líneas generales de este proyecto de ley,  se regula la garantía, cuando termina un contrato, si hay daños, los valores pendientes deben estar  debidamente justificados, se entrega un bien inmueble, deberá existir un inventario claro,  el desahucio y la mediación parte de lo que escuchamos. Siguiente intervención. Este proyecto de ley, sin embargo, representa un avance sustancial para actualizar la ley. En el uso de la palabra, la asambleísta Eliana Correa. que hoy vivimos. A través de esta propuesta se corrigen trabas históricas que generaban  inseguridad jurídica y se establecen mecanismos mucho más claros para enfrentar el incumplimiento  contractual y facilitar también la recuperación de aquellos bienes inmuebles cuando un inquilino  no cumple con sus obligaciones. Sin embargo, el objetivo de esta intervención no es detener  el proyecto, sino garantizar que esta Asamblea entregue una norma clara, una norma coherente  y jurídicamente sólida. Antes de la votación definitiva, resulta indispensable corregir  una antinomia existente entre el artículo 1 y el artículo 51, respecto al ámbito de  aplicación sobre los predios de viviendas rurales. Aprobar un texto con esta contradicción  genera interpretaciones judiciales divergentes y afectará gravemente la seguridad jurídica  tanto de los arrendadores como de los arrendatarios. Para resolver esta inconsistencia de forma  correcta, propongo incorporar en el segundo párrafo del artículo 1, tras la palabra  metropolitana, la siguiente frase, sin perjuicio de los casos especiales de aplicación previstos  en el artículo 51 de esta ley. Esta remisión expresa va a armonizar la norma general y en  los casos especiales del artículo 51, ofreciendo una solución técnica, clara. Por ello, en  el amparo del artículo 61 de la Ley Orgánica de la Fusión Legislativa, propongo al oponente  del proyecto de ley que solicite a la Presidencia la suspensión del tratamiento de este punto  del orden del día y que retorne a la Comisión para poder realizar los correctivos necesarios  de este proyecto de ley y entregarle al Ecuador un proyecto sólido con amplio criterio jurídico  y sobre todo que le beneficie a todo el pueblo ecuatoriano. Muchas gracias. Finaliza así la intervención del asambleísta Eliana.",
+  "language": "es",
+  "duration": 142.08,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 16.47,
+      "text": "A todo respondente, quien ha explicado el contenido en líneas generales de este proyecto de ley,  se regula la garantía, cuando termina un contrato, si hay daños, los valores pendientes deben estar  debidamente justificados, se entrega un bien inmueble, deberá existir un inventario claro,  el desahucio y la mediación parte de lo que escuchamos. Siguiente intervención.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5283,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 17.21,
+      "end": 21.48,
+      "text": "Este proyecto de ley, sin embargo, representa un avance sustancial para actualizar la ley.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Eliana Katherine Correa González",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 21.48,
+      "end": 23.61,
+      "text": "En el uso de la palabra, la asambleísta Eliana Correa.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5283,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 23.61,
+      "end": 138.14,
+      "text": "que hoy vivimos. A través de esta propuesta se corrigen trabas históricas que generaban  inseguridad jurídica y se establecen mecanismos mucho más claros para enfrentar el incumplimiento  contractual y facilitar también la recuperación de aquellos bienes inmuebles cuando un inquilino  no cumple con sus obligaciones. Sin embargo, el objetivo de esta intervención no es detener  el proyecto, sino garantizar que esta Asamblea entregue una norma clara, una norma coherente  y jurídicamente sólida. Antes de la votación definitiva, resulta indispensable corregir  una antinomia existente entre el artículo 1 y el artículo 51, respecto al ámbito de  aplicación sobre los predios de viviendas rurales. Aprobar un texto con esta contradicción  genera interpretaciones judiciales divergentes y afectará gravemente la seguridad jurídica  tanto de los arrendadores como de los arrendatarios. Para resolver esta inconsistencia de forma  correcta, propongo incorporar en el segundo párrafo del artículo 1, tras la palabra  metropolitana, la siguiente frase, sin perjuicio de los casos especiales de aplicación previstos  en el artículo 51 de esta ley. Esta remisión expresa va a armonizar la norma general y en  los casos especiales del artículo 51, ofreciendo una solución técnica, clara. Por ello, en  el amparo del artículo 61 de la Ley Orgánica de la Fusión Legislativa, propongo al oponente  del proyecto de ley que solicite a la Presidencia la suspensión del tratamiento de este punto  del orden del día y que retorne a la Comisión para poder realizar los correctivos necesarios  de este proyecto de ley y entregarle al Ecuador un proyecto sólido con amplio criterio jurídico  y sobre todo que le beneficie a todo el pueblo ecuatoriano. Muchas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Eliana Katherine Correa González",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 140.14,
+      "end": 142.0,
+      "text": "Finaliza así la intervención del asambleísta Eliana.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5283,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "IIzOcbW-amc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Nacional X:@Asambleaecuador": 1,
+        "[OOV] Fasambleanacional X:@Asambleae": 1
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Eliana Katherine Correa González",
+      "confidence": 1.0,
+      "votes": {
+        "Eliana Katherine Correa González": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Eliana Correa   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=IIzOcbW-amc",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "IIzOcbW-amc",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=IIzOcbW-amc",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Eliana Katherine Correa González",
+      "party": null,
+      "province": null,
+      "total_time": 118.8,
+      "interventions": 2,
+      "word_count": 281
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 20.43,
+      "interventions": 3,
+      "word_count": 73
+    }
+  ]
+}

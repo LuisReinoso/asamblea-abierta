@@ -1,0 +1,51 @@
+{
+  "text": "En la continuación de la sesión 97, con 80 votos afirmativos, la Asamblea Nacional  aprobó una resolución que reconoce los resultados económicos del Ecuador durante 2025. Destacó  avances en reactivación productiva, comercio y desarrollo nacional.  Y en materia de seguridad, con 84 votos, el Pleno respaldó el trabajo realizado en  la Operación Victoria. La investigación se desarrolló durante 11 meses y permitió  ejecutar 40 allanamientos simultáneos. La Asamblea Nacional impulsa acciones enfocadas  en el desarrollo del país y el fortalecimiento de la seguridad ciudadana.",
+  "language": "es",
+  "duration": 36.59,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 34.57,
+      "text": "En la continuación de la sesión 97, con 80 votos afirmativos, la Asamblea Nacional  aprobó una resolución que reconoce los resultados económicos del Ecuador durante 2025. Destacó  avances en reactivación productiva, comercio y desarrollo nacional.  Y en materia de seguridad, con 84 votos, el Pleno respaldó el trabajo realizado en  la Operación Victoria. La investigación se desarrolló durante 11 meses y permitió  ejecutar 40 allanamientos simultáneos. La Asamblea Nacional impulsa acciones enfocadas  en el desarrollo del país y el fortalecimiento de la seguridad ciudadana.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "m5-ji6QZl5U",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Asamblea aprueba avances económicos y respalda Operación Victoria",
+  "url": "https://www.youtube.com/watch?v=m5-ji6QZl5U",
+  "published_at": "2026-06-19T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "m5-ji6QZl5U",
+  "date": "2026-06-19T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=m5-ji6QZl5U",
+  "speaker_stats": [
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 34.54,
+      "interventions": 1,
+      "word_count": 84
+    }
+  ]
+}

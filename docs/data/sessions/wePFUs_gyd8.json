@@ -1,0 +1,166 @@
+{
+  "text": "Al Salón Plenario, Gervis Leonel Lohor Alcibar, y estará también acompañado de su hermana, la señora Germánica Leonor Lohor Alcibar, recibirán... de reconocimiento por parte de la Asamblea Nacional. También se ha nombrado ya la asambleísta Becibel Mendoza para realizar la entrega del respectivo acuerdo legislativo.  Esta propósito del 1 de octubre que se conmemora en Ecuador el Día de la Identidad Montuvia.  La identidad montuvia se expresa a través de sus costumbres, la gastronomía, la vestimenta, música, morfinos, rodeos montuvios y prácticas agrícolas y productivas que forman parte del patrimonio cultural del país.  Es en este 1 de octubre que se conmemora el Día de la... identidad Montuvia. que el señor Gervis Leonel Lóbal Arcibar, ciudadano manavita vinculado a la comunidad de San Pablo, Río de Oro, Cantón El Carmen,  mantiene una destacada trayectoria de liderazgo y participación ciudadana orientada al servicio y bienestar de su comunidad,  que en el marco del Día de la Identidad Montuvia es pertinente reconocer a Gervis Leonel Lóbal Arcibar  por su arraigo territorial, identificación con los valores de la cultura montuvia y aporte al fortalecimiento de la identidad manavita,  en ejercicio de sus atribuciones de acuerdo, reconocer al señor Gervis Leonel Lóbal Arcibar  por su liderazgo y participación comunitaria, su arraigo territorial y su contribución al fortalecimiento de la identidad montuvia,  la participación ciudadana y el desarrollo comunitario de la población rural de Manaví. Se ha destacado también el rol de cada una de las personas que han sido condecoradas  y que son condecoradas por parte del Pleno de la Asamblea Nacional en este 1 de octubre  que el Ecuador conmemore. Se invita a ingresar al Pleno de la Asamblea Nacional a la señora Rita Enriqueta Macías.",
+  "language": "es",
+  "duration": 113.38,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 11.57,
+      "text": "Al Salón Plenario, Gervis Leonel Lohor Alcibar, y estará también acompañado de su hermana, la señora Germánica Leonor Lohor Alcibar, recibirán...",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.5308,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 11.57,
+      "end": 14.83,
+      "text": "de reconocimiento por parte de la Asamblea Nacional.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fasambleanacional X:@Asambleaecuador",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 2,
+      "start": 15.46,
+      "end": 44.95,
+      "text": "También se ha nombrado ya la asambleísta Becibel Mendoza para realizar la entrega del respectivo acuerdo legislativo.  Esta propósito del 1 de octubre que se conmemora en Ecuador el Día de la Identidad Montuvia.  La identidad montuvia se expresa a través de sus costumbres, la gastronomía, la vestimenta, música, morfinos, rodeos montuvios y prácticas agrícolas y productivas que forman parte del patrimonio cultural del país.  Es en este 1 de octubre que se conmemora el Día de la...",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.5308,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 44.95,
+      "end": 45.54,
+      "text": "identidad",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fasambleanacional X:@Asambleaecuador",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 4,
+      "start": 45.54,
+      "end": 46.08,
+      "text": "Montuvia.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.5308,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 46.32,
+      "end": 92.51,
+      "text": "que el señor Gervis Leonel Lóbal Arcibar, ciudadano manavita vinculado a la comunidad de San Pablo, Río de Oro, Cantón El Carmen,  mantiene una destacada trayectoria de liderazgo y participación ciudadana orientada al servicio y bienestar de su comunidad,  que en el marco del Día de la Identidad Montuvia es pertinente reconocer a Gervis Leonel Lóbal Arcibar  por su arraigo territorial, identificación con los valores de la cultura montuvia y aporte al fortalecimiento de la identidad manavita,  en ejercicio de sus atribuciones de acuerdo, reconocer al señor Gervis Leonel Lóbal Arcibar  por su liderazgo y participación comunitaria, su arraigo territorial y su contribución al fortalecimiento de la identidad montuvia,  la participación ciudadana y el desarrollo comunitario de la población rural de Manaví.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fasambleanacional X:@Asambleaecuador",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 6,
+      "start": 94.8,
+      "end": 106.36,
+      "text": "Se ha destacado también el rol de cada una de las personas que han sido condecoradas  y que son condecoradas por parte del Pleno de la Asamblea Nacional en este 1 de octubre  que el Ecuador conmemore.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Brígida Lucía Pozo Moreta",
+        "confidence": 0.5308,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 106.36,
+      "end": 113.45,
+      "text": "Se invita a ingresar al Pleno de la Asamblea Nacional a la señora Rita Enriqueta Macías.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fasambleanacional X:@Asambleaecuador",
+        "confidence": 0.62
+      }
+    }
+  ],
+  "video_id": "wePFUs_gyd8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Fasambleanacional X:@Asambleaecuador",
+      "confidence": 0.62,
+      "votes": {
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 5,
+        "[OOV] Nal X:@Asambleaecuador": 1,
+        "[OOV] Fasambleanacional X:@Asambleaeci": 1
+      },
+      "samples": 15,
+      "successful_reads": 7,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 3,
+        "[OOV] Nal X:@Asambleaecuador": 1,
+        "[OOV] Fasambleanacional X:@Asambleaec": 1,
+        "[OOV] F Asamble": 1,
+        "[OOV] Acional X:@Asambleaecuador": 1
+      },
+      "samples": 18,
+      "successful_reads": 7,
+      "source": null
+    }
+  },
+  "title": "Señor Jervis Loor Alcivar   Sesión 128",
+  "url": "https://www.youtube.com/watch?v=wePFUs_gyd8",
+  "published_at": "2026-10-02T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "wePFUs_gyd8",
+  "date": "2026-10-02T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=wePFUs_gyd8",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Fasambleanacional X:@Asambleaecuador",
+      "party": null,
+      "province": null,
+      "total_time": 57.13,
+      "interventions": 4,
+      "word_count": 147
+    },
+    {
+      "id": "speaker_1",
+      "name": "Brígida Lucía Pozo Moreta",
+      "party": null,
+      "province": null,
+      "total_time": 53.13,
+      "interventions": 4,
+      "word_count": 137
+    }
+  ]
+}
