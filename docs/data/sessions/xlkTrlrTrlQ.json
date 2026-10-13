@@ -1,0 +1,53 @@
+{
+  "text": "mujeres en particular donde durante la pérdida de un hijo o hija sin afectar sus derechos laborales  la propuesta de ley evita el ingreso laboral por duelo evitando afectaciones a su salud mental  una siguiente intervención a cargo de la señora presidenta quiero hacer un  afectuoso saludo buenas tardes a mis compañeros legisladores al pueblo ecuatoriano que sigue esta  sesión escuchado con con mucha atención las intervenciones pero me ha sorprendido de  sobremanera las intervenciones de quienes votaron en contra de esta normativa escuché a una  legisladora de la revolución ciudadana decir que no es posible que la corte haya actuado y que la  asamblea no lo haya hecho señores legisladores para mí esta es la cara educada de la semana  señores de la revolución ciudadana votan en contra de este proyecto de ley y sepan que si  este proyecto se está tratando aquí es por los votos de adn no por ustedes porque ustedes no les  interesa los derechos de las mujeres a ustedes no les interesa los derechos de los niños a ustedes no  les interesa lo que pase con el país lo único que les interesa hacer una oposición pero una oposición  que destruye no una oposición que suma y por eso me indigna tanto por eso me indigna tanto señores  porque aquí tengo el informe cuatro hombres de la comisión votaron en contra del proyecto  señores y hoy se vienen a querer lavar la cara aquí diciendo que están a favor de los derechos de  las mujeres diciendo que quieren dignificar a las mujeres señores dignifiquen a las mujeres pero con  sus votos muchas gracias señora presidenta",
+  "language": "es",
+  "duration": 106.86,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 106.9,
+      "text": "mujeres en particular donde durante la pérdida de un hijo o hija sin afectar sus derechos laborales  la propuesta de ley evita el ingreso laboral por duelo evitando afectaciones a su salud mental  una siguiente intervención a cargo de la señora presidenta quiero hacer un  afectuoso saludo buenas tardes a mis compañeros legisladores al pueblo ecuatoriano que sigue esta  sesión escuchado con con mucha atención las intervenciones pero me ha sorprendido de  sobremanera las intervenciones de quienes votaron en contra de esta normativa escuché a una  legisladora de la revolución ciudadana decir que no es posible que la corte haya actuado y que la  asamblea no lo haya hecho señores legisladores para mí esta es la cara educada de la semana  señores de la revolución ciudadana votan en contra de este proyecto de ley y sepan que si  este proyecto se está tratando aquí es por los votos de adn no por ustedes porque ustedes no les  interesa los derechos de las mujeres a ustedes no les interesa los derechos de los niños a ustedes no  les interesa lo que pase con el país lo único que les interesa hacer una oposición pero una oposición  que destruye no una oposición que suma y por eso me indigna tanto por eso me indigna tanto señores  porque aquí tengo el informe cuatro hombres de la comisión votaron en contra del proyecto  señores y hoy se vienen a querer lavar la cara aquí diciendo que están a favor de los derechos de  las mujeres diciendo que quieren dignificar a las mujeres señores dignifiquen a las mujeres pero con  sus votos muchas gracias señora presidenta",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Inés Margarita Alarcón Bueno",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "xlkTrlrTrlQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Inés Margarita Alarcón Bueno",
+      "confidence": 1.0,
+      "votes": {
+        "Inés Margarita Alarcón Bueno": 3
+      },
+      "samples": 6,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Inés Alarcón - Sesión 064",
+  "url": "https://www.youtube.com/watch?v=xlkTrlrTrlQ",
+  "published_at": "2026-03-11T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "xlkTrlrTrlQ",
+  "date": "2026-03-11T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=xlkTrlrTrlQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Inés Margarita Alarcón Bueno",
+      "party": null,
+      "province": null,
+      "total_time": 106.87,
+      "interventions": 1,
+      "word_count": 271
+    }
+  ]
+}

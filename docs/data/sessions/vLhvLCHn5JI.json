@@ -1,0 +1,55 @@
+{
+  "text": "¿Sabías que para realizar una comisión de servicios al interior y exterior del país, dentro de la Asamblea Nacional, existe un proceso ordenado y documentado?  Hoy te explicamos paso a paso cómo se gestiona la solicitud, autorización y liquidación de viáticos,  tanto para servidores legislativos, personal de seguridad y escolta como para asambleístas.  Viáticos al interior  Inicio del proceso  Solicitud del comisionado y elaboración formulario de solicitud de autorización de comisión de servicios  ¿Quién?  Comisionado, servidores legislativos, personal de seguridad, escolta legislativa o asambleístas  ¿Qué hace?  Elabora y firma el formulario de solicitud de autorización de comisión de servicios al interior  y lo envía por el sistema de gestión documental DTS, con la debida anticipación solicitando la autorización correspondiente a la máxima autoridad o su delegado.  Validación y envío  Jefe inmediato o Administración General  Reciben y revisan y suscriben el pedido.  Lo envían a la Coordinación General Administrativa, quien lo deriva la unidad de pasajes y viáticos.  Revisión de documentos  Responsable de viáticos y pasajes  Verifica que la documentación esté correcta, si falta información se solicita corrección y si todo está bien continúa el trámite.  Tipo de movilización  Tramida tu movilización con la gestión de servicios generales, quien asignará pasajes y o vehículo institucional conforme a la aprobación emitida por la máxima autoridad o su delegado.  Anticipo  Si necesitas anticipo de viáticos, solicítalo con al menos 8 días de anticipación mediante memorando a la Coordinación General Administrativa.  Cumplimiento e informe  Al regresar, en máximo 5 días, presenta el formulario de informe de cumplimiento de la Comisión de Servicios,  adjuntando tickets, pases de abordaje, orden de movilización y para el personal de seguridad su correspondiente designación oficial.  Validación final y pago  Una vez presentada la documentación, la Coordinación General Administrativa remite el Memorando de Solicitud de Pago a la Coordinación General Financiera, para que realice la liquidación de valores.  Recuerda, si la Comisión requiere más días de los autorizados, puede pedir una ampliación a la máxima autoridad y o su delegado, antes o durante la Comisión.  Si recibiste anticipo y no justificas, deberás devolver los valores. De lo contrario, se procederá al descuento de su remuneración mensual unificada.  Fin del proceso  Así concluye el proceso de gestión de viáticos por Comisión de Servicios al Interior, una cadena de pasos que asegura transparencia, control y cumplimiento normativo.",
+  "language": "es",
+  "duration": 162.98,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.62,
+      "end": 158.3,
+      "text": "¿Sabías que para realizar una comisión de servicios al interior y exterior del país, dentro de la Asamblea Nacional, existe un proceso ordenado y documentado?  Hoy te explicamos paso a paso cómo se gestiona la solicitud, autorización y liquidación de viáticos,  tanto para servidores legislativos, personal de seguridad y escolta como para asambleístas.  Viáticos al interior  Inicio del proceso  Solicitud del comisionado y elaboración formulario de solicitud de autorización de comisión de servicios  ¿Quién?  Comisionado, servidores legislativos, personal de seguridad, escolta legislativa o asambleístas  ¿Qué hace?  Elabora y firma el formulario de solicitud de autorización de comisión de servicios al interior  y lo envía por el sistema de gestión documental DTS, con la debida anticipación solicitando la autorización correspondiente a la máxima autoridad o su delegado.  Validación y envío  Jefe inmediato o Administración General  Reciben y revisan y suscriben el pedido.  Lo envían a la Coordinación General Administrativa, quien lo deriva la unidad de pasajes y viáticos.  Revisión de documentos  Responsable de viáticos y pasajes  Verifica que la documentación esté correcta, si falta información se solicita corrección y si todo está bien continúa el trámite.  Tipo de movilización  Tramida tu movilización con la gestión de servicios generales, quien asignará pasajes y o vehículo institucional conforme a la aprobación emitida por la máxima autoridad o su delegado.  Anticipo  Si necesitas anticipo de viáticos, solicítalo con al menos 8 días de anticipación mediante memorando a la Coordinación General Administrativa.  Cumplimiento e informe  Al regresar, en máximo 5 días, presenta el formulario de informe de cumplimiento de la Comisión de Servicios,  adjuntando tickets, pases de abordaje, orden de movilización y para el personal de seguridad su correspondiente designación oficial.  Validación final y pago  Una vez presentada la documentación, la Coordinación General Administrativa remite el Memorando de Solicitud de Pago a la Coordinación General Financiera, para que realice la liquidación de valores.  Recuerda, si la Comisión requiere más días de los autorizados, puede pedir una ampliación a la máxima autoridad y o su delegado, antes o durante la Comisión.  Si recibiste anticipo y no justificas, deberás devolver los valores. De lo contrario, se procederá al descuento de su remuneración mensual unificada.  Fin del proceso  Así concluye el proceso de gestión de viáticos por Comisión de Servicios al Interior, una cadena de pasos que asegura transparencia, control y cumplimiento normativo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Keevin Fernando Gallardo Ruiz",
+        "confidence": 0.5253,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "vLhvLCHn5JI",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Informe De Cumplimiento De I": 1,
+        "[OOV] La Coordinación General Administrativa Re": 1
+      },
+      "samples": 10,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Comisión de Servicios al Interior",
+  "url": "https://www.youtube.com/watch?v=vLhvLCHn5JI",
+  "published_at": "2026-03-06T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "vLhvLCHn5JI",
+  "date": "2026-03-06T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=vLhvLCHn5JI",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Keevin Fernando Gallardo Ruiz",
+      "party": null,
+      "province": null,
+      "total_time": 157.68,
+      "interventions": 1,
+      "word_count": 385
+    }
+  ]
+}

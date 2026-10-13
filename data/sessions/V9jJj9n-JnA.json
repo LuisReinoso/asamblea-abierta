@@ -1,0 +1,103 @@
+{
+  "text": "Dispuesto así en la Ley Orgánica de la Función Legislativa, inicia ese tiempo. Señora Presidenta, es claro de lo que se escuchó que los audios presentados están alterados y los vuelven lentos, pero es lo de menos.  Yo quisiera agradecer a la asambleísta interpelante porque todo lo que señala es prácticamente lo que yo dije.  Y en este caso no necesitaría más defensa, porque ella misma está demostrando claramente de que no existió diezmo.  Hubiera querido defenderme, pero escuchándola a la asambleísta, no tengo para qué.  Así que gracias asambleísta porque me está ahorrando esta participación.  Y le está también al pueblo ecuatoriano, le está también al pueblo ecuatoriano ahorrando tiempo.  No tengo más que decir.  La asambleísta Tapia lo dijo prácticamente todo e incluso repitió lo que yo ya señalé.  En su lugar, disculpas al pueblo ecuatoriano por este tipo de circo que provoca la bancada de ADN.  Finalizo con esto.  Deberían preocuparse por fiscalizar algunos temas que nosotros permanentemente denunciamos y que no lo están haciendo.  Hagan su trabajo que el pueblo ecuatoriano necesita recuperar su dignidad y no lo están haciendo.  El periodista, que en algún momento entrevistó al asambleísta interpelante, le decía, ¿y por qué no fiscalizan PROGEN?  Porque no ha llegado a denunciar.  Pero es un caso que lo conoce el mundo entero.  Pero no fiscalizan PROGEN.  Y no fiscalizan los millones de dólares que el Ecuador pierde permanentemente.  Gracias a mis compañeros de la bancada, la bancada de la revolución ciudadana que permanentemente está junto al pueblo,  fiscalizando, denunciando y resistiendo a esta persecución letal por parte de un gobierno  que no responde a las necesidades del pueblo ecuatoriano.  Pero, repito, asambleísta, gracias por su participación, gracias por su defensa, ha quedado totalmente claro.  Buenas tardes. Tres minutos hizo de uso el asambleísta Juan Andrés González para su réplica de los 30 dispuestos en la ley orgánica.",
+  "language": "es",
+  "duration": 181.12,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.88,
+      "end": 4.23,
+      "text": "Dispuesto así en la Ley Orgánica de la Función Legislativa, inicia ese tiempo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5502,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 4.38,
+      "end": 173.34,
+      "text": "Señora Presidenta, es claro de lo que se escuchó que los audios presentados están alterados y los vuelven lentos, pero es lo de menos.  Yo quisiera agradecer a la asambleísta interpelante porque todo lo que señala es prácticamente lo que yo dije.  Y en este caso no necesitaría más defensa, porque ella misma está demostrando claramente de que no existió diezmo.  Hubiera querido defenderme, pero escuchándola a la asambleísta, no tengo para qué.  Así que gracias asambleísta porque me está ahorrando esta participación.  Y le está también al pueblo ecuatoriano, le está también al pueblo ecuatoriano ahorrando tiempo.  No tengo más que decir.  La asambleísta Tapia lo dijo prácticamente todo e incluso repitió lo que yo ya señalé.  En su lugar, disculpas al pueblo ecuatoriano por este tipo de circo que provoca la bancada de ADN.  Finalizo con esto.  Deberían preocuparse por fiscalizar algunos temas que nosotros permanentemente denunciamos y que no lo están haciendo.  Hagan su trabajo que el pueblo ecuatoriano necesita recuperar su dignidad y no lo están haciendo.  El periodista, que en algún momento entrevistó al asambleísta interpelante, le decía, ¿y por qué no fiscalizan PROGEN?  Porque no ha llegado a denunciar.  Pero es un caso que lo conoce el mundo entero.  Pero no fiscalizan PROGEN.  Y no fiscalizan los millones de dólares que el Ecuador pierde permanentemente.  Gracias a mis compañeros de la bancada, la bancada de la revolución ciudadana que permanentemente está junto al pueblo,  fiscalizando, denunciando y resistiendo a esta persecución letal por parte de un gobierno  que no responde a las necesidades del pueblo ecuatoriano.  Pero, repito, asambleísta, gracias por su participación, gracias por su defensa, ha quedado totalmente claro.  Buenas tardes.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Juan Andrés González Alvear",
+        "confidence": 0.8476,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 174.89,
+      "end": 181.1,
+      "text": "Tres minutos hizo de uso el asambleísta Juan Andrés González para su réplica de los 30 dispuestos en la ley orgánica.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5502,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "V9jJj9n-JnA",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 4,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "Juan Andrés González Alvear": 3,
+        "[OOV] F Asamb": 1,
+        "[OOV] Bleanacional X:@Asambleaecuador": 1,
+        "[OOV] F Asambleanacional X:@Asambleaecuador": 1,
+        "[OOV] F Asambleanacional X:@": 1
+      },
+      "samples": 10,
+      "successful_reads": 7,
+      "source": null
+    }
+  },
+  "title": "Asambleísta Juan Andrés González - Sesión 073 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=V9jJj9n-JnA",
+  "published_at": "2026-03-03T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "V9jJj9n-JnA",
+  "date": "2026-03-03T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=V9jJj9n-JnA",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Juan Andrés González Alvear",
+      "party": null,
+      "province": null,
+      "total_time": 168.96,
+      "interventions": 1,
+      "word_count": 279
+    },
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 9.56,
+      "interventions": 2,
+      "word_count": 34
+    }
+  ]
+}
