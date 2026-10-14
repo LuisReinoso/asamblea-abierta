@@ -1,0 +1,56 @@
+{
+  "text": "La Asamblea Nacional cuenta con un Sistema de Gestión de Seguridad de la Información,  certificado bajo la norma internacional ISO-IS 27001-2022.  Tu contribución al sistema es clave.  Protege tus accesos.  Verifica antes de compartir la información.  Y evita enlaces sospechosos.  Un clic seguro reduce los riesgos.  Asamblea Nacional",
+  "language": "es",
+  "duration": 37.57,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.5,
+      "end": 33.92,
+      "text": "La Asamblea Nacional cuenta con un Sistema de Gestión de Seguridad de la Información,  certificado bajo la norma internacional ISO-IS 27001-2022.  Tu contribución al sistema es clave.  Protege tus accesos.  Verifica antes de compartir la información.  Y evita enlaces sospechosos.  Un clic seguro reduce los riesgos.  Asamblea Nacional",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.5712,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "s36xriA7QEU",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] De La Información": 1,
+        "[OOV] Enviar Información": 1,
+        "[OOV] Reduce Los Riesgos": 1
+      },
+      "samples": 10,
+      "successful_reads": 3,
+      "source": null
+    }
+  },
+  "title": "Pastilla  ISO 27001 - Sistema de Gestión de Seguridad de la Información",
+  "url": "https://www.youtube.com/watch?v=s36xriA7QEU",
+  "published_at": "2026-02-03T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "s36xriA7QEU",
+  "date": "2026-02-03T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=s36xriA7QEU",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 32.42,
+      "interventions": 1,
+      "word_count": 48
+    }
+  ]
+}

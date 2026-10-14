@@ -1,0 +1,85 @@
+{
+  "text": "técnicos y financieros, recordar el componente humano de esta causa.  Cada paciente oncológico enfrenta no sólo la enfermedad, sino también  miedo, incertidumbre, impacto económico, afectación familiar.  El cáncer transforma proyectos de vida, dinámicas familiares y estabilidad emocional.  Hoy, en el Día Mundial de la Lucha contra el Cáncer,  renovamos nuestro compromiso institucional con la prevención,  con el tratamiento digno, con la investigación, con la vida.  Que esta fecha no sea sólo conmemorativa, sino transformadora.  Que nos impulse a tomar decisiones valientes,  que nos recuerde que detrás de cada política pública hay vidas que dependen de ella.  Porque la lucha contra el cáncer no es sólo de los médicos, es de todo el Ecuador.  Muchísimas gracias. El Día Mundial no solo es un recordatorio estadístico, es un llamado global que el cáncer es un...",
+  "language": "es",
+  "duration": 61.56,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 54.69,
+      "text": "técnicos y financieros, recordar el componente humano de esta causa.  Cada paciente oncológico enfrenta no sólo la enfermedad, sino también  miedo, incertidumbre, impacto económico, afectación familiar.  El cáncer transforma proyectos de vida, dinámicas familiares y estabilidad emocional.  Hoy, en el Día Mundial de la Lucha contra el Cáncer,  renovamos nuestro compromiso institucional con la prevención,  con el tratamiento digno, con la investigación, con la vida.  Que esta fecha no sea sólo conmemorativa, sino transformadora.  Que nos impulse a tomar decisiones valientes,  que nos recuerde que detrás de cada política pública hay vidas que dependen de ella.  Porque la lucha contra el cáncer no es sólo de los médicos, es de todo el Ecuador.  Muchísimas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guido Panchana Égüez",
+        "confidence": 0.9
+      }
+    },
+    {
+      "id": 1,
+      "start": 56.85,
+      "end": 61.46,
+      "text": "El Día Mundial no solo es un recordatorio estadístico, es un llamado global que el cáncer es un...",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "video_id": "aTnyREjXtag",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Mbleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 2,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Guido Panchana Égüez",
+      "confidence": 0.9,
+      "votes": {
+        "[OOV] Asambleanacionial X:@Asamblea": 1,
+        "[OOV] Guido Panchana Égüez": 9
+      },
+      "samples": 10,
+      "successful_reads": 10,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Guido Panchana - Sesión 066 - Comisión General - Parte 2",
+  "url": "https://www.youtube.com/watch?v=aTnyREjXtag",
+  "published_at": "2026-02-04T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "aTnyREjXtag",
+  "date": "2026-02-04T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=aTnyREjXtag",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Guido Panchana Égüez",
+      "party": null,
+      "province": null,
+      "total_time": 54.66,
+      "interventions": 1,
+      "word_count": 115
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 4.61,
+      "interventions": 1,
+      "word_count": 18
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Tiene la palabra la asambleísta Paola Jaramillo.  Buenos días, señor presidente de la Asamblea, compañeros legisladores,  a todos los hermanos ecuatorianos que hoy nos ven a través de los diferentes medios de comunicación.  Y qué lindo es venir a la Asamblea y lo primero que podemos leer es una frase.  Todo menos la dictadura. Así debe ser.  Hoy intervengo ante esta Asamblea con el firme compromiso de representar no sólo el sentimiento de la mayoría de todos los ecuatorianos  quienes siempre, siempre han defendido la libertad, el progreso y la democracia,  sino también de toda América Latina que se siente feliz por esta victoria.  Ninguna dictadura es eterna.  La justicia siempre llega, a veces tarda, pero llega y no se equivoca, señores.  Hoy el Ecuador está del lado correcto de la historia.  Y Venezuela vuelve a ver una luz de esperanza después de décadas de abuso de poder porque no lo pueden negar.  Décadas de abuso de poder, de familias destrozadas, de familias separadas,  de políticos presos cuyo único delito, señores, fue oponerse al régimen dictatorial.  Más de 8 millones de venezolanos migraron.  ¿Por qué migraron?  Migraron en busca de oportunidades, migraron en busca de sueños que en su país no lo encontraron.  Hoy tenemos una prueba irrefutable, y el mundo entero lo ha visto,  que un pueblo que no se rinde, lucha y no da su brazo a torcer,  es un pueblo que vence a un gobierno que se creía intocable,  a un gobierno que tenía nexos con el narcotráfico,  que tenía nexos con el crimen organizado,  y se creían intocables.  Debemos recordar, señores, que la lucha contra el narcotráfico  exige, exige una cooperación internacional real, firme, sin dobles discursos.  Este crimen transnacional no reconoce fronteras,  corrompe instituciones y financia la violencia,  financia a partidos políticos que ya sabemos quiénes son.  Esta lucha del Ecuador la conoce perfectamente,  y el presidente de la República, Daniel Novoa,  la ha combatido desde que inició su gobierno con valentía,  con leyes que desde esta bancada hemos respaldado,  a pesar de que muchos, muchos han tratado de impedir.  Por eso, hoy quiero decir que esta bancada, la bancada de ADN,  reafirma su compromiso en la lucha contra el narcotráfico.  Aquí no vamos a permitir que el narcotráfico se tome nuestro país.  Hermanos venezolanos, que están en las gradas,  este ejemplo de libertad no solo será parte de la historia,  sino también de América Latina, con respeto y admiración a los venezolanos,  hago mía la primera estrofa de su himno nacional.  Gloria al bravo pueblo que el yugo lanzó,  la ley respetando la virtud y el honor.  Hermanos venezolanos, que viva la libertad.  Muchísimas gracias.  Gracias.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 231.78,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 230.34,
+      "text": "Tiene la palabra la asambleísta Paola Jaramillo.  Buenos días, señor presidente de la Asamblea, compañeros legisladores,  a todos los hermanos ecuatorianos que hoy nos ven a través de los diferentes medios de comunicación.  Y qué lindo es venir a la Asamblea y lo primero que podemos leer es una frase.  Todo menos la dictadura. Así debe ser.  Hoy intervengo ante esta Asamblea con el firme compromiso de representar no sólo el sentimiento de la mayoría de todos los ecuatorianos  quienes siempre, siempre han defendido la libertad, el progreso y la democracia,  sino también de toda América Latina que se siente feliz por esta victoria.  Ninguna dictadura es eterna.  La justicia siempre llega, a veces tarda, pero llega y no se equivoca, señores.  Hoy el Ecuador está del lado correcto de la historia.  Y Venezuela vuelve a ver una luz de esperanza después de décadas de abuso de poder porque no lo pueden negar.  Décadas de abuso de poder, de familias destrozadas, de familias separadas,  de políticos presos cuyo único delito, señores, fue oponerse al régimen dictatorial.  Más de 8 millones de venezolanos migraron.  ¿Por qué migraron?  Migraron en busca de oportunidades, migraron en busca de sueños que en su país no lo encontraron.  Hoy tenemos una prueba irrefutable, y el mundo entero lo ha visto,  que un pueblo que no se rinde, lucha y no da su brazo a torcer,  es un pueblo que vence a un gobierno que se creía intocable,  a un gobierno que tenía nexos con el narcotráfico,  que tenía nexos con el crimen organizado,  y se creían intocables.  Debemos recordar, señores, que la lucha contra el narcotráfico  exige, exige una cooperación internacional real, firme, sin dobles discursos.  Este crimen transnacional no reconoce fronteras,  corrompe instituciones y financia la violencia,  financia a partidos políticos que ya sabemos quiénes son.  Esta lucha del Ecuador la conoce perfectamente,  y el presidente de la República, Daniel Novoa,  la ha combatido desde que inició su gobierno con valentía,  con leyes que desde esta bancada hemos respaldado,  a pesar de que muchos, muchos han tratado de impedir.  Por eso, hoy quiero decir que esta bancada, la bancada de ADN,  reafirma su compromiso en la lucha contra el narcotráfico.  Aquí no vamos a permitir que el narcotráfico se tome nuestro país.  Hermanos venezolanos, que están en las gradas,  este ejemplo de libertad no solo será parte de la historia,  sino también de América Latina, con respeto y admiración a los venezolanos,  hago mía la primera estrofa de su himno nacional.  Gloria al bravo pueblo que el yugo lanzó,  la ley respetando la virtud y el honor.  Hermanos venezolanos, que viva la libertad.  Muchísimas gracias.  Gracias.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Paola Michael Jaramillo Zurita",
+        "confidence": 0.6
+      }
+    }
+  ],
+  "video_id": "vgxSAAa1oqo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Paola Michael Jaramillo Zurita",
+      "confidence": 0.6,
+      "votes": {
+        "Paola Michael Jaramillo Zurita": 3,
+        "[OOV] Sesión Extraordinaria": 2
+      },
+      "samples": 5,
+      "successful_reads": 5,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Paola Jaramillo - Sesión Extraordinaria",
+  "url": "https://www.youtube.com/watch?v=vgxSAAa1oqo",
+  "published_at": "2026-01-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "vgxSAAa1oqo",
+  "date": "2026-01-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=vgxSAAa1oqo",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Paola Michael Jaramillo Zurita",
+      "party": null,
+      "province": null,
+      "total_time": 230.31,
+      "interventions": 1,
+      "word_count": 445
+    }
+  ]
+}
