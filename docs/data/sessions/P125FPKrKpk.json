@@ -1,0 +1,228 @@
+{
+  "text": "A todo eso que ha permitido que los ecuatorianos y ecuatorianas ciertamente nos sentamos muy orgullosos de ser de esta parte del planeta, de este territorio nacional, de este territorio tricolor.  Ahí lo podemos observar, ya ingresa al Salón del Pleno de la Asamblea Nacional Nela Martínez y va a saludar con las autoridades legislativas, primero la segunda vicepresidenta, en este momento el presidente de la Asamblea Nacional y la primera vicepresidenta. El Proaño Guerra, conocido artísticamente como Damiano, constituye una de las figuras más representativas de la música popular ecuatoriana,  con una trayectoria artística de más de cinco décadas al servicio del desarrollo cultural del país.  Su obra musical y producción artística han contribuido significativamente al fortalecimiento de la identidad nacional,  la promoción de valores sociales y la integración cultural del Ecuador.  El presidente de la Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer y condecorar al señor Nelson Fernando Proaño Guerra, Damiano,  exaltando su destacada trayectoria artística y su invaluable aporte al desarrollo cultural del Ecuador.  Impone la condecoración el señor asambleísta Nils Olsenpid, presidente de la Asamblea Nacional. Y es lo que podemos observar en este momento, unas palabras de parte del presidente de la Asamblea Nacional a este talentoso ecuatoriano por su aporte cultural,  que ha sido parte de lo que se dio lectura en el acuerdo legislativo, que forma parte también de este reconocimiento que se hace en la Asamblea Nacional durante el inicio de esta sesión del Pleno del Parlamento número 92.  Ahí estamos observando cómo se desarrolla también ese saludo, ya el acuerdo legislativo en manos de Damiano, quien ya en este momento se encuentra en su poder. asambleísta josé francisco ceballos Esta es la primera intervención dentro de esta Comisión General antes de continuar con los puntos establecidos en el orden del día de la sesión número 92 convocada para esta jornada.  Comisión General que se da paso por parte de la máxima autoridad de la Asamblea Nacional para estos reconocimientos a ciudadanos ilustres, a organizaciones que han desarrollado a través de sus labores las acciones de beneficio de los ecuatorianos y ecuatorianas.  Se va a dar entonces paso ya a las palabras por parte de Nelson Proaño Guerra, conocido también por nosotros los ecuatorianos como Damiano.  Es un artista de la música, productor musical de radio, televisión y de eventos que en el año 2021 cumplió 50 años de vida profesional. Señor Presidente, y a todos los miembros de la Asamblea Nacional, muchísimas gracias por este gran honor.  Es lindo recibir este reconocimiento, teniendo a mi familia al frente.  Me voy a tomar la libertad de saludar a mi mamá, que este día cumple 97 años.  Gracias.  Ella tenía que haber estado aquí acompañándonos, pero los imponderables de la vida, pues, no pude estar.  Así que, viejita, sé que me estás viendo, te mando un beso enorme, porque esto es por ti y para ti.  Gracias a mi familia, gracias a todos ustedes, me siento muy honrado.  Y eso nomás, gracias. Escuchamos las palabras de Damiano, dijo, es lindo recibir este reconocimiento y saludó a su madre en su cumpleaños número 97.  Damiano es el artista que más canciones le ha escrito al Ecuador, empezó su carrera en 1998 para la sola canción de Nelson Fernández. A continuación invitamos al Pleno de la Asamblea Nacional a los señores, Gustavo García.",
+  "language": "es",
+  "duration": 222.82,
+  "speakers_detected": 5,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.15,
+      "end": 23.98,
+      "text": "A todo eso que ha permitido que los ecuatorianos y ecuatorianas ciertamente nos sentamos muy orgullosos de ser de esta parte del planeta, de este territorio nacional, de este territorio tricolor.  Ahí lo podemos observar, ya ingresa al Salón del Pleno de la Asamblea Nacional Nela Martínez y va a saludar con las autoridades legislativas, primero la segunda vicepresidenta, en este momento el presidente de la Asamblea Nacional y la primera vicepresidenta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6024,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 23.98,
+      "end": 67.6,
+      "text": "El Proaño Guerra, conocido artísticamente como Damiano, constituye una de las figuras más representativas de la música popular ecuatoriana,  con una trayectoria artística de más de cinco décadas al servicio del desarrollo cultural del país.  Su obra musical y producción artística han contribuido significativamente al fortalecimiento de la identidad nacional,  la promoción de valores sociales y la integración cultural del Ecuador.  El presidente de la Asamblea Nacional, en ejercicio de sus atribuciones, acuerda reconocer y condecorar al señor Nelson Fernando Proaño Guerra, Damiano,  exaltando su destacada trayectoria artística y su invaluable aporte al desarrollo cultural del Ecuador.  Impone la condecoración el señor asambleísta Nils Olsenpid, presidente de la Asamblea Nacional.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8859,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 70.1,
+      "end": 104.33,
+      "text": "Y es lo que podemos observar en este momento, unas palabras de parte del presidente de la Asamblea Nacional a este talentoso ecuatoriano por su aporte cultural,  que ha sido parte de lo que se dio lectura en el acuerdo legislativo, que forma parte también de este reconocimiento que se hace en la Asamblea Nacional durante el inicio de esta sesión del Pleno del Parlamento número 92.  Ahí estamos observando cómo se desarrolla también ese saludo, ya el acuerdo legislativo en manos de Damiano, quien ya en este momento se encuentra en su poder.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6024,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 104.33,
+      "end": 106.9,
+      "text": "asambleísta josé francisco ceballos",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 109.42,
+      "end": 154.03,
+      "text": "Esta es la primera intervención dentro de esta Comisión General antes de continuar con los puntos establecidos en el orden del día de la sesión número 92 convocada para esta jornada.  Comisión General que se da paso por parte de la máxima autoridad de la Asamblea Nacional para estos reconocimientos a ciudadanos ilustres, a organizaciones que han desarrollado a través de sus labores las acciones de beneficio de los ecuatorianos y ecuatorianas.  Se va a dar entonces paso ya a las palabras por parte de Nelson Proaño Guerra, conocido también por nosotros los ecuatorianos como Damiano.  Es un artista de la música, productor musical de radio, televisión y de eventos que en el año 2021 cumplió 50 años de vida profesional.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Nathaly Estefanía Farinango Delgado",
+        "confidence": 0.6024,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 154.84,
+      "end": 198.67,
+      "text": "Señor Presidente, y a todos los miembros de la Asamblea Nacional, muchísimas gracias por este gran honor.  Es lindo recibir este reconocimiento, teniendo a mi familia al frente.  Me voy a tomar la libertad de saludar a mi mamá, que este día cumple 97 años.  Gracias.  Ella tenía que haber estado aquí acompañándonos, pero los imponderables de la vida, pues, no pude estar.  Así que, viejita, sé que me estás viendo, te mando un beso enorme, porque esto es por ti y para ti.  Gracias a mi familia, gracias a todos ustedes, me siento muy honrado.  Y eso nomás, gracias.",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Artista Ecuatoriano",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 201.87,
+      "end": 216.71,
+      "text": "Escuchamos las palabras de Damiano, dijo, es lindo recibir este reconocimiento y saludó a su madre en su cumpleaños número 97.  Damiano es el artista que más canciones le ha escrito al Ecuador, empezó su carrera en 1998 para la sola canción de Nelson Fernández.",
+      "speaker_id": "speaker_4",
+      "speaker": {
+        "id": "speaker_4",
+        "name": "Lenin Alejandro Lara Pérez",
+        "confidence": 0.5416,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 217.58,
+      "end": 222.97,
+      "text": "A continuación invitamos al Pleno de la Asamblea Nacional a los señores, Gustavo García.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.8859,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "P125FPKrKpk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Sanacional X:@Asambleaecuador": 1,
+        "[OOV] Anacional X:@Asambleaecuador": 2,
+        "[OOV] Fasambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Mbleanacional X:@Asambleaecuador": 1,
+        "[OOV] Onal.Gob.Ec Asambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Asamblsanacional X:@Asambleaecuador": 1
+      },
+      "samples": 25,
+      "successful_reads": 7,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Bleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 1,
+      "successful_reads": 1,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Sambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Www.Asambleanacional.Gob.Ec Asambleanacional X:@": 1,
+        "[OOV] Nacional.Gob.Ec Asambleanacional X:@Asambleaecuador": 1,
+        "[OOV] Www.Asambleanacional.Gob.Ecasambleanacional X:": 1,
+        "[OOV] Cional.Gob.Ec Asambleanacional X:@Asambleaecuador": 1
+      },
+      "samples": 12,
+      "successful_reads": 5,
+      "source": null
+    },
+    "speaker_3": {
+      "name": "Artista Ecuatoriano",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Artista Ecuatoriano": 7
+      },
+      "samples": 10,
+      "successful_reads": 7,
+      "source": "ocr-oov"
+    },
+    "speaker_4": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Fasambleanacional X": 1,
+        "[OOV] Www.Asambleanacional.Gob.Ec Fasambleanacional X:@Asambleal": 1
+      },
+      "samples": 6,
+      "successful_reads": 2,
+      "source": null
+    }
+  },
+  "title": "Condecoración de Nelson Fernando Proaño Guerra - Sesión 092  - Comisión General",
+  "url": "https://www.youtube.com/watch?v=P125FPKrKpk",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "P125FPKrKpk",
+  "source_url": "https://www.youtube.com/watch?v=P125FPKrKpk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "party": null,
+      "province": null,
+      "total_time": 102.67,
+      "interventions": 3,
+      "word_count": 287
+    },
+    {
+      "id": "speaker_2",
+      "name": "De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 49.01,
+      "interventions": 2,
+      "word_count": 124
+    },
+    {
+      "id": "speaker_3",
+      "name": "Artista Ecuatoriano",
+      "party": null,
+      "province": null,
+      "total_time": 43.83,
+      "interventions": 1,
+      "word_count": 100
+    },
+    {
+      "id": "speaker_4",
+      "name": "Lenin Alejandro Lara Pérez",
+      "party": null,
+      "province": null,
+      "total_time": 14.84,
+      "interventions": 1,
+      "word_count": 45
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 2.57,
+      "interventions": 1,
+      "word_count": 4
+    }
+  ]
+}

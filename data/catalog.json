@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T04:48:29.334323",
-  "total_sessions": 1308,
+  "generated_at": "2026-10-16T04:26:29.289562",
+  "total_sessions": 1313,
   "sessions": [
     {
       "id": "8-dKYiMQj4c",
@@ -12562,6 +12562,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "EY7u2FJZwJY",
+      "title": "Asambleísta Juan José Reyes - 057",
+      "date": "2025-12-16T00:00:00Z",
+      "duration": 434.72,
+      "url": "https://www.youtube.com/watch?v=EY7u2FJZwJY",
+      "file_path": "data/sessions/EY7u2FJZwJY.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "5tpcgp5xxLY",
       "title": "Asambleísta Fernando Cedeño - Sesión 057",
       "date": "2025-12-16T00:00:00Z",
@@ -13724,6 +13738,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "kS3jRzKe21A",
+      "title": "FIRST YEAR IN OFFICE",
+      "date": "",
+      "duration": 70.19,
+      "url": "https://www.youtube.com/watch?v=kS3jRzKe21A",
+      "file_path": "data/sessions/kS3jRzKe21A.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "QJdgBe2SS70",
       "title": "Vote on Assemblyman Fernando Jaramillo's Motion - Session 093",
       "date": "",
@@ -14690,6 +14718,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "_T3dcPPz1PM",
+      "title": "Legislative Employee Day - National Assembly of Ecuador",
+      "date": "",
+      "duration": 81.27,
+      "url": "https://www.youtube.com/watch?v=_T3dcPPz1PM",
+      "file_path": "data/sessions/_T3dcPPz1PM.json",
+      "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "h8Y0eDFYras",
       "title": "Assemblyman Christopher Jaramillo - Session 091",
       "date": "",
@@ -14894,6 +14936,20 @@
       "file_path": "data/sessions/ESJrZyEy_z4.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dxZ2gKskfsY",
+      "title": "Vote on the Eckenner Recalde Motion",
+      "date": "",
+      "duration": 330.93,
+      "url": "https://www.youtube.com/watch?v=dxZ2gKskfsY",
+      "file_path": "data/sessions/dxZ2gKskfsY.json",
+      "video_type": "clip",
+      "speaker_count": 2,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -17022,6 +17078,20 @@
       "file_path": "data/sessions/yqz8hYGpK8Y.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "P125FPKrKpk",
+      "title": "Condecoración de Nelson Fernando Proaño Guerra - Sesión 092  - Comisión General",
+      "date": "",
+      "duration": 222.82,
+      "url": "https://www.youtube.com/watch?v=P125FPKrKpk",
+      "file_path": "data/sessions/P125FPKrKpk.json",
+      "video_type": "clip",
+      "speaker_count": 4,
       "topics": [],
       "keywords": [],
       "summary": "",

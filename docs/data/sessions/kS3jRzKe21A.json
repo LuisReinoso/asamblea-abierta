@@ -1,0 +1,143 @@
+{
+  "text": "Hace un año inició una nueva etapa en la Asamblea Nacional, un año marcado por el  diálogo, el trabajo conjunto y el compromiso con los ecuatorianos.  Durante estos meses se impulsaron acciones enfocadas en la transparencia, la cercanía  con la ciudadanía y la construcción de leyes que responden a las necesidades del país.  Hoy sentimos una asamblea más cercana a la gente. Las decisiones que se toman aquí sí impactan nuestras vidas. El trabajo legislativo también ha puesto la mirada en las oportunidades, el desarrollo y el futuro de nuevas generaciones. de ver que se trabaja pensando en el país. Los jóvenes necesitamos oportunidades y hoy vemos avance. Un año de gestión representa miles de historias, decisiones y desafíos.  Pero sobre todo, representa el compromiso de seguir construyendo un Ecuador con más diálogo,  más resultados y más oportunidades para todos.  Asamblea Nacional. Nils Olsenpid. Un año de gestión.",
+  "language": "es",
+  "duration": 70.19,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.36,
+      "end": 27.18,
+      "text": "Hace un año inició una nueva etapa en la Asamblea Nacional, un año marcado por el  diálogo, el trabajo conjunto y el compromiso con los ecuatorianos.  Durante estos meses se impulsaron acciones enfocadas en la transparencia, la cercanía  con la ciudadanía y la construcción de leyes que responden a las necesidades del país.  Hoy sentimos una asamblea más cercana a la gente.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Cristina Acuña Vaca",
+        "confidence": 0.5575,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 27.32,
+      "end": 30.93,
+      "text": "Las decisiones que se toman aquí sí impactan nuestras vidas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 31.4,
+      "end": 38.98,
+      "text": "El trabajo legislativo también ha puesto la mirada en las oportunidades, el desarrollo y el futuro de nuevas generaciones.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Cristina Acuña Vaca",
+        "confidence": 0.5575,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 38.98,
+      "end": 40.85,
+      "text": "de ver que se trabaja pensando",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 40.85,
+      "end": 41.49,
+      "text": "en el país.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Cristina Acuña Vaca",
+        "confidence": 0.5575,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 41.7,
+      "end": 45.0,
+      "text": "Los jóvenes necesitamos oportunidades y hoy vemos avance.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 6,
+      "start": 45.2,
+      "end": 64.9,
+      "text": "Un año de gestión representa miles de historias, decisiones y desafíos.  Pero sobre todo, representa el compromiso de seguir construyendo un Ecuador con más diálogo,  más resultados y más oportunidades para todos.  Asamblea Nacional. Nils Olsenpid. Un año de gestión.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "María Cristina Acuña Vaca",
+        "confidence": 0.5575,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "kS3jRzKe21A",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 5,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 21,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "FIRST YEAR IN OFFICE",
+  "url": "https://www.youtube.com/watch?v=kS3jRzKe21A",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "kS3jRzKe21A",
+  "source_url": "https://www.youtube.com/watch?v=kS3jRzKe21A",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "María Cristina Acuña Vaca",
+      "party": null,
+      "province": null,
+      "total_time": 52.74,
+      "interventions": 4,
+      "word_count": 124
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 8.78,
+      "interventions": 3,
+      "word_count": 24
+    }
+  ]
+}

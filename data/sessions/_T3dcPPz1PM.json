@@ -1,0 +1,51 @@
+{
+  "text": "Hay vidas que pasan en silencio, pero dejan huella en todo.  Días que se repiten, pasillos conocidos, rutinas que parecen pequeñas,  pero que con el tiempo se vuelven parte de algo más grande.  Son 26 historias, 26 formas de quedarse, de elegir una y otra vez el mismo lugar.  15 años aprendiendo cada detalle, 20 haciendo propio lo cotidiano,  30 acompañando los cambios sin irse,  40 años viendo pasar generaciones y aún así seguir.  Aquí hay paciencia, hay cuidado,  hay una forma tranquila de compromiso que no siempre se ve, pero siempre está.  Porque servir también es esto, estar cuando hace falta,  sostener cuando algo se mueve y seguir incluso en los días simples.  Hoy, 23 de abril, no celebramos solo el tiempo cumplido,  celebramos todo lo que ese tiempo guarda,  las conversaciones, los esfuerzos, los momentos que nadie ve.  Gracias por quedarse, por cuidar,  por hacer de este lugar algo que también se siente como en casa.",
+  "language": "es",
+  "duration": 81.27,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.7,
+      "end": 68.81,
+      "text": "Hay vidas que pasan en silencio, pero dejan huella en todo.  Días que se repiten, pasillos conocidos, rutinas que parecen pequeñas,  pero que con el tiempo se vuelven parte de algo más grande.  Son 26 historias, 26 formas de quedarse, de elegir una y otra vez el mismo lugar.  15 años aprendiendo cada detalle, 20 haciendo propio lo cotidiano,  30 acompañando los cambios sin irse,  40 años viendo pasar generaciones y aún así seguir.  Aquí hay paciencia, hay cuidado,  hay una forma tranquila de compromiso que no siempre se ve, pero siempre está.  Porque servir también es esto, estar cuando hace falta,  sostener cuando algo se mueve y seguir incluso en los días simples.  Hoy, 23 de abril, no celebramos solo el tiempo cumplido,  celebramos todo lo que ese tiempo guarda,  las conversaciones, los esfuerzos, los momentos que nadie ve.  Gracias por quedarse, por cuidar,  por hacer de este lugar algo que también se siente como en casa.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Mireya Katerine Pazmiño Arregui",
+        "confidence": 0.527,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "_T3dcPPz1PM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Legislative Employee Day - National Assembly of Ecuador",
+  "url": "https://www.youtube.com/watch?v=_T3dcPPz1PM",
+  "published_at": null,
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "_T3dcPPz1PM",
+  "source_url": "https://www.youtube.com/watch?v=_T3dcPPz1PM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Mireya Katerine Pazmiño Arregui",
+      "party": null,
+      "province": null,
+      "total_time": 66.11,
+      "interventions": 1,
+      "word_count": 158
+    }
+  ]
+}

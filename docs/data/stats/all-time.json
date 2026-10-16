@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-14T04:48:28.513075",
-  "total_sessions": 1308,
+  "generated_at": "2026-10-16T04:26:28.446508",
+  "total_sessions": 1313,
   "speaker_stats": [
+    {
+      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
+      "name": "Juan José Reyes Baquerizo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 17360.509999999995,
+      "total_interventions": 165,
+      "sessions_attended": 69,
+      "topics_discussed": 0
+    },
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
       "name": "Mario Amado Zambrano Vera",
@@ -13,18 +25,6 @@
       "total_interventions": 176,
       "sessions_attended": 22,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-JUAN-JOSE-REYES-BAQUERIZO",
-      "name": "Juan José Reyes Baquerizo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 16927.779999999995,
-      "total_interventions": 164,
-      "sessions_attended": 68,
-      "topics_discussed": 0
     },
     {
       "id": "AN-SAADIN-ALFREDO-SERRANO-VALLADARES",
@@ -141,9 +141,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Quito Rural",
-      "total_time": 9308.93,
-      "total_interventions": 169,
-      "sessions_attended": 40,
+      "total_time": 9411.6,
+      "total_interventions": 172,
+      "sessions_attended": 41,
       "topics_discussed": 0
     },
     {
@@ -249,9 +249,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Zamora Chinchipe",
-      "total_time": 6275.489999999999,
-      "total_interventions": 124,
-      "sessions_attended": 35,
+      "total_time": 6402.469999999998,
+      "total_interventions": 127,
+      "sessions_attended": 36,
       "topics_discussed": 0
     },
     {
@@ -309,9 +309,9 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Bolívar",
-      "total_time": 5500.519999999999,
-      "total_interventions": 73,
-      "sessions_attended": 32,
+      "total_time": 5566.629999999999,
+      "total_interventions": 74,
+      "sessions_attended": 33,
       "topics_discussed": 0
     },
     {
@@ -405,9 +405,9 @@
       "role": null,
       "party": null,
       "province": null,
-      "total_time": 4218.59,
-      "total_interventions": 86,
-      "sessions_attended": 18,
+      "total_time": 4267.6,
+      "total_interventions": 88,
+      "sessions_attended": 19,
       "topics_discussed": 0
     },
     {
@@ -417,9 +417,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Tungurahua",
-      "total_time": 4192.51,
-      "total_interventions": 29,
-      "sessions_attended": 9,
+      "total_time": 4207.35,
+      "total_interventions": 30,
+      "sessions_attended": 10,
       "topics_discussed": 0
     },
     {
@@ -1395,6 +1395,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-MARIA-CRISTINA-ACUNA-VACA",
+      "name": "María Cristina Acuña Vaca",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Semilla",
+      "province": "Pastaza",
+      "total_time": 780.66,
+      "total_interventions": 8,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
       "name": "Sandra Elizabeth Figueroa Aguilar",
       "type": "asambleísta",
@@ -1428,18 +1440,6 @@
       "total_time": 740.39,
       "total_interventions": 32,
       "sessions_attended": 6,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MARIA-CRISTINA-ACUNA-VACA",
-      "name": "María Cristina Acuña Vaca",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Semilla",
-      "province": "Pastaza",
-      "total_time": 727.92,
-      "total_interventions": 4,
-      "sessions_attended": 3,
       "topics_discussed": 0
     },
     {
@@ -1971,6 +1971,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "LA-ASAMBLEA-NACIONAL",
+      "name": "La Asamblea Nacional",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 255.07,
+      "total_interventions": 55,
+      "sessions_attended": 12,
+      "topics_discussed": 0
+    },
+    {
       "id": "NORMA-MARLENE",
       "name": "Norma Marlene",
       "type": "desconocido",
@@ -1980,18 +1992,6 @@
       "total_time": 247.02,
       "total_interventions": 1,
       "sessions_attended": 1,
-      "topics_discussed": 0
-    },
-    {
-      "id": "LA-ASAMBLEA-NACIONAL",
-      "name": "La Asamblea Nacional",
-      "type": "desconocido",
-      "role": null,
-      "party": null,
-      "province": null,
-      "total_time": 246.72,
-      "total_interventions": 52,
-      "sessions_attended": 11,
       "topics_discussed": 0
     },
     {
@@ -2163,6 +2163,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "ARTISTA-ECUATORIANO",
+      "name": "Artista Ecuatoriano",
+      "type": "desconocido",
+      "role": null,
+      "party": null,
+      "province": null,
+      "total_time": 43.83,
+      "total_interventions": 1,
+      "sessions_attended": 1,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MISHEL-ANDREA-MANCHENO-DAVILA",
       "name": "Mishel Andrea Mancheno Dávila",
       "type": "asambleísta",
@@ -2268,8 +2280,8 @@
     },
     {
       "month": "2025-12",
-      "sessions_count": 91,
-      "total_duration": 65255.48000000002,
+      "sessions_count": 92,
+      "total_duration": 65690.20000000003,
       "unique_speakers": 6,
       "unique_topics": 0
     },
