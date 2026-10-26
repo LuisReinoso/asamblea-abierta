@@ -37,9 +37,11 @@ notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y
 # clips; limit 80/tab with 2s sleeps keeps the per-video yt-dlp calls well
 # under the burst that rate-limited us in July. A failure here is logged and
 # notified but doesn't block the batch.
+# Only /streams for now: clips are queued by hand for the asambleístas who
+# still lack a voiceprint, and new recent clips would sort ahead of them.
 log "discovering new videos"
 if DISCOVER_OUT=$(timeout 1800 "$REPO_DIR/.venv/bin/python3" scripts/pipeline/01_discover_videos.py \
-        --scan-depth 700 --limit 80 --sleep 2 2>&1); then
+        --tab full_session --scan-depth 700 --limit 80 --sleep 2 2>&1); then
     log "discovery: $(echo "$DISCOVER_OUT" | grep -E 'Added/updated|Nothing new|No new sessions' | tail -1)"
 else
     log "discovery failed (exit $?): $(echo "$DISCOVER_OUT" | tail -3 | tr '\n' ' ')"
