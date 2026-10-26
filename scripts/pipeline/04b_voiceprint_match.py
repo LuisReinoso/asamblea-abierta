@@ -44,6 +44,13 @@ MIN_ENROLL_SECONDS = 20.0
 MIN_MATCH_SECONDS = 5.0
 MAX_CLIP_SECONDS = 60.0
 ENROLL_CONFIDENCE_FLOOR = 0.9
+# Title-fallback names ("Asambleísta X - Sesión N", confidence 0.75) also
+# enroll when that cluster clearly owns the clip. Checked 2026-10-26 on 15
+# random such clusters against OCR-enrolled voiceprints: 13 matched the
+# titled person at 0.85-0.96 cosine, and the other 2 were one person whose
+# DB entry was the one at fault (OCR had enrolled it from vote clips).
+TITLE_ENROLL_MIN_SECONDS = 60.0
+TITLE_ENROLL_MIN_SHARE = 0.8
 
 
 def normalize_name(name: str) -> str:
@@ -158,6 +165,8 @@ def main() -> int:
     # confident cluster appears later in the transcript than an unidentified
     # one earlier on.
     unidentified: list[tuple[str, list[dict]]] = []
+    mapping = session.get("speaker_mapping") or {}
+    session_dur = sum(s["end"] - s["start"] for s in segments)
     for sid, segs in clusters.items():
         spans = [(s["start"], s["end"]) for s in segs]
         total_dur = sum(e - s for s, e in spans)
@@ -171,7 +180,14 @@ def main() -> int:
                 unidentified.append((sid, segs))
             continue
 
-        if confidence >= ENROLL_CONFIDENCE_FLOOR and total_dur >= MIN_ENROLL_SECONDS:
+        ocr_ok = confidence >= ENROLL_CONFIDENCE_FLOOR and total_dur >= MIN_ENROLL_SECONDS
+        title_ok = (
+            (mapping.get(sid) or {}).get("source") == "title"
+            and total_dur >= TITLE_ENROLL_MIN_SECONDS
+            and session_dur > 0
+            and total_dur / session_dur >= TITLE_ENROLL_MIN_SHARE
+        )
+        if ocr_ok or title_ok:
             clip_path = tmp_dir / f"{args.video_id}_{sid}.wav"
             written = build_cluster_clip(video_file, spans, clip_path)
             if written >= MIN_MATCH_SECONDS:
