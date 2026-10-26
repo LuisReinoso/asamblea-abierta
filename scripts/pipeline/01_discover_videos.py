@@ -79,7 +79,7 @@ def list_channel_videos(channel_url: str, scan_depth: int | None = None) -> list
     """
     print(f"Listing videos from {channel_url} …")
     cmd = [
-        "yt-dlp",
+        sys.executable, "-m", "yt_dlp",
         *_cookie_args(),
         "--flat-playlist",
         *(["--playlist-end", str(scan_depth)] if scan_depth else []),
@@ -112,7 +112,7 @@ def fetch_metadata(video_id: str) -> dict | None:
     """Fetch title + upload_date + duration for a single video. None on failure."""
     url = f"https://www.youtube.com/watch?v={video_id}"
     cmd = [
-        "yt-dlp",
+        sys.executable, "-m", "yt_dlp",
         *_cookie_args(),
         "--extractor-args", "youtube:player_client=android_vr,ios,web",
         "--no-warnings", "--skip-download",
