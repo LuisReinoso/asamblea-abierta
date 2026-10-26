@@ -36,9 +36,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Camila León Cueva",
-        "confidence": 0.8772,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -85,9 +84,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Camila León Cueva",
-        "confidence": 0.8772,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -110,9 +108,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Camila León Cueva",
-        "confidence": 0.8772,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {
@@ -135,9 +132,8 @@
       "speaker_id": "speaker_1",
       "speaker": {
         "id": "speaker_1",
-        "name": "Camila León Cueva",
-        "confidence": 0.8772,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     },
     {

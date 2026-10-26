@@ -125,9 +125,8 @@
       "speaker_id": "speaker_3",
       "speaker": {
         "id": "speaker_3",
-        "name": "Camila León Cueva",
-        "confidence": 0.8751,
-        "source": "voiceprint"
+        "name": "No identificado",
+        "confidence": 0.0
       }
     }
   ],
