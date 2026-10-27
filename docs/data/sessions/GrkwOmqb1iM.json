@@ -1,0 +1,53 @@
+{
+  "text": "Carlos Gavilanes.  Gracias, querido presidente.  Aprovecho el espacio para enviar un fuerte saludo a mi provincia, a Los Ríos,  a los 13 cantones y a las 17 parroquias rurales.  Con satisfacción, desde esta curul, quiero que le pertenezca a la provincia de Los Ríos,  intervengo para expresar mi firme apoyo al informe para primer debate del proyecto de ley  que reforma la normativa sobre donación de alimentos.  Este informe, señor presidente, no nació de un escritorio ni de un papel.  Nació desde la gente.  Nació de las visitas que realizamos como integrantes de la Comisión de Soberanía Alimentaria  a los bancos de alimento y a las fundaciones sociales.  Nació de las conversaciones con quienes reciben, clasifican, preparan y entregan alimentos  cada día.  Pero, sobre todo, nació de las historias de adultos mayores, niños y personas en situación  de calle, que dependen de esta solidaridad para tener un plato de comida.  Por eso, este proyecto tiene una visión profundamente humana, sí, colegas legisladores, profundamente  humana, coherente con la gestión del presidente de la República, Daniel Novoa, quien sabe perfectamente  gobernar.  El proyecto es estar cerca de las personas, escuchar sus necesidades y transformar en las políticas  públicas concretas, aunque a unos que no están aquí les duele.  Esta reforma responde a esa visión, poner al ser humano en el centro de las decisiones  del Estado.  El proyecto, colegas legisladores, fortalece la supervisión de todo el proceso de donación  de alimentos, estableciendo la rectoría al ente de inclusión y desarrollo social.  Esto cierra vacíos normativos y garantiza que los alimentos mantengan su fin social y su carácter  estrictamente gratuito.  No podemos aceptar que alimentos destinados a combatir el hambre sean desviados, vendidos  o utilizados para fines distintos.  Por eso, la reforma establece que la entrega será 100% gratuita y prohíbe de manera expresa  su comercialización o desvío.  Es importante resaltar que las visitas técnicas nos mostraron algo fundamental.  Detrás de cada alimento donado hay un compromiso enorme.  Vimos protocolos de bioseguridad, clasificación cuidadosa, almacenamiento responsable y personas  trabajando con dedicación para que la ayuda llegue en buenas condiciones.  Por ello, la reforma establece que sólo podrán donarse alimentos seguros, aptos para  el consumo humano, correctamente identificados y que cumplan con las exigencias sanitarias  de etiquetado, conservación, transporte y algo muy importante, la trazabilidad.  Además, de manera clara y contundente, establece que no podrán donarse alimentos vencidos.  Señoras y señores legisladores, apoyar este informe es respaldar a una política pública  construida desde la gente y para la gente.  Es reconocer que la lucha contra el hambre no se resuelve sólo con buenas intenciones,  sino con reglas claras, instituciones fuertes y una visión humana del servicio público.  Señor Presidente, muchas gracias.  Le devuelvo la palabra.  Gracias.  Gracias.  Gracias.  Gracias.",
+  "language": "es",
+  "duration": 267.1,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.44,
+      "end": 264.18,
+      "text": "Carlos Gavilanes.  Gracias, querido presidente.  Aprovecho el espacio para enviar un fuerte saludo a mi provincia, a Los Ríos,  a los 13 cantones y a las 17 parroquias rurales.  Con satisfacción, desde esta curul, quiero que le pertenezca a la provincia de Los Ríos,  intervengo para expresar mi firme apoyo al informe para primer debate del proyecto de ley  que reforma la normativa sobre donación de alimentos.  Este informe, señor presidente, no nació de un escritorio ni de un papel.  Nació desde la gente.  Nació de las visitas que realizamos como integrantes de la Comisión de Soberanía Alimentaria  a los bancos de alimento y a las fundaciones sociales.  Nació de las conversaciones con quienes reciben, clasifican, preparan y entregan alimentos  cada día.  Pero, sobre todo, nació de las historias de adultos mayores, niños y personas en situación  de calle, que dependen de esta solidaridad para tener un plato de comida.  Por eso, este proyecto tiene una visión profundamente humana, sí, colegas legisladores, profundamente  humana, coherente con la gestión del presidente de la República, Daniel Novoa, quien sabe perfectamente  gobernar.  El proyecto es estar cerca de las personas, escuchar sus necesidades y transformar en las políticas  públicas concretas, aunque a unos que no están aquí les duele.  Esta reforma responde a esa visión, poner al ser humano en el centro de las decisiones  del Estado.  El proyecto, colegas legisladores, fortalece la supervisión de todo el proceso de donación  de alimentos, estableciendo la rectoría al ente de inclusión y desarrollo social.  Esto cierra vacíos normativos y garantiza que los alimentos mantengan su fin social y su carácter  estrictamente gratuito.  No podemos aceptar que alimentos destinados a combatir el hambre sean desviados, vendidos  o utilizados para fines distintos.  Por eso, la reforma establece que la entrega será 100% gratuita y prohíbe de manera expresa  su comercialización o desvío.  Es importante resaltar que las visitas técnicas nos mostraron algo fundamental.  Detrás de cada alimento donado hay un compromiso enorme.  Vimos protocolos de bioseguridad, clasificación cuidadosa, almacenamiento responsable y personas  trabajando con dedicación para que la ayuda llegue en buenas condiciones.  Por ello, la reforma establece que sólo podrán donarse alimentos seguros, aptos para  el consumo humano, correctamente identificados y que cumplan con las exigencias sanitarias  de etiquetado, conservación, transporte y algo muy importante, la trazabilidad.  Además, de manera clara y contundente, establece que no podrán donarse alimentos vencidos.  Señoras y señores legisladores, apoyar este informe es respaldar a una política pública  construida desde la gente y para la gente.  Es reconocer que la lucha contra el hambre no se resuelve sólo con buenas intenciones,  sino con reglas claras, instituciones fuertes y una visión humana del servicio público.  Señor Presidente, muchas gracias.  Le devuelvo la palabra.  Gracias.  Gracias.  Gracias.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Carlos Gavilánez Muñoz",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "GrkwOmqb1iM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Carlos Gavilánez Muñoz",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Carlos Gavilánez Muñoz": 5
+      },
+      "samples": 10,
+      "successful_reads": 5,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Asambleísta Carlos Gavilánez - Sesión 133",
+  "url": "https://www.youtube.com/watch?v=GrkwOmqb1iM",
+  "published_at": "2026-10-22T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "GrkwOmqb1iM",
+  "date": "2026-10-22T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=GrkwOmqb1iM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Carlos Gavilánez Muñoz",
+      "party": null,
+      "province": null,
+      "total_time": 263.74,
+      "interventions": 1,
+      "word_count": 455
+    }
+  ]
+}
