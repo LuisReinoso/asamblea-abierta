@@ -14,6 +14,10 @@ in 04_map_speakers_local.py. Runs AFTER it, on the same session JSON:
      and confidence set to the similarity score (kept clearly distinguishable
      from OCR-sourced, 1.0-style confidences).
 
+With --voice-only (full plenary sessions) OCR is skipped altogether: every
+cluster is named by voice against the roster voiceprints, and nothing is
+enrolled. The clips build the DB; the sessions only consume it.
+
 Uses wespeaker-resnet34-voxceleb.gguf via voice-detect.cpp's CLI — NOT
 ecapa-tdnn-voxceleb.gguf, which pilot testing (2026-07-09) showed fails to
 separate speakers in this domain (shared-room/broadcast channel dominates
@@ -51,6 +55,12 @@ ENROLL_CONFIDENCE_FLOOR = 0.9
 # DB entry was the one at fault (OCR had enrolled it from vote clips).
 TITLE_ENROLL_MIN_SECONDS = 60.0
 TITLE_ENROLL_MIN_SHARE = 0.8
+# --voice-only names every cluster of a plenary, TV hosts included, so it needs
+# a stricter bar than the clip-mode 0.50. Checked 2026-10-28 on h0-KqqCsxWU
+# against the host's "el asambleísta X dijo…" recaps: matches at 0.78+ were
+# 12/12 right, and every one at 0.52-0.68 was the wrong person.
+VOICE_ONLY_THRESHOLD = 0.75
+ROSTER_FILE = PROJECT_ROOT / "data" / "speakers" / "asambleistas.json"
 
 
 def normalize_name(name: str) -> str:
@@ -124,18 +134,73 @@ def embed_clip(clip_path: Path) -> list[float] | None:
     return data.get("embedding")
 
 
+def match_cluster(clip_path: Path, video_file: Path, spans: list[tuple[float, float]],
+                  db: dict, threshold: float) -> tuple[str, float] | None:
+    """Best DB match for one cluster's voice, or None below threshold / too little audio."""
+    if sum(e - s for s, e in spans) < MIN_MATCH_SECONDS or not db:
+        return None
+    try:
+        if build_cluster_clip(video_file, spans, clip_path) < MIN_MATCH_SECONDS:
+            return None
+        vec = embed_clip(clip_path)
+    finally:
+        clip_path.unlink(missing_ok=True)
+    if vec is None:
+        return None
+    best_name, best_sim = max(((e["name"], cosine(vec, e["embedding"])) for e in db.values()),
+                              key=lambda x: x[1])
+    return (best_name, best_sim) if best_sim >= threshold else None
+
+
+def identify_by_voice(video_id: str, video_file: Path, session: dict, clusters: dict[str, list[dict]],
+                      db: dict, tmp_dir: Path, threshold: float) -> int:
+    """Full sessions: name every cluster by voice alone and enroll nothing. The
+    overlay was how clips taught the DB who is who; in a plenary its bands carry
+    institutional text ("Pleno de la Asamblea", "Sesión No.") that OCR turns
+    into fake speakers, and the TV host would get enrolled as one of them.
+    Only roster voiceprints are candidates: the DB also holds non-members read
+    off clip overlays, and the plenary's own host is one of them."""
+    roster = {normalize_name(a["name"])
+              for a in json.loads(ROSTER_FILE.read_text(encoding="utf-8"))["asambleistas"]}
+    db = {k: v for k, v in db.items() if k in roster}
+    mapping = {}
+    matched = 0
+    for sid, segs in clusters.items():
+        spans = [(s["start"], s["end"]) for s in segs]
+        hit = match_cluster(tmp_dir / f"{video_id}_{sid}.wav", video_file, spans, db, threshold)
+        if hit:
+            name, sim = hit
+            info = {"name": name, "confidence": round(sim, 4), "source": "voiceprint"}
+            matched += 1
+        else:
+            info = {"name": "No identificado", "confidence": 0.0, "source": None}
+        mapping[sid] = info
+        for seg in segs:
+            seg["speaker"] = {"id": sid or "UNKNOWN", **info}
+    session["speaker_mapping"] = mapping
+    return matched
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--video-id", required=True)
     parser.add_argument("--video-file", required=True, help="Path to the video/audio file (still on disk, pre-cleanup)")
     parser.add_argument("--session-file", required=True, help="Session JSON to read/update in place")
     parser.add_argument("--db-path", default=str(DEFAULT_DB_PATH))
-    parser.add_argument("--threshold", type=float, default=0.50, help="Min cosine similarity to accept a voiceprint match")
+    parser.add_argument("--threshold", type=float, default=None,
+                        help=f"Min cosine similarity to accept a voiceprint match "
+                             f"(default 0.50, or {VOICE_ONLY_THRESHOLD} with --voice-only)")
+    parser.add_argument("--voice-only", action="store_true",
+                        help="Full sessions: ignore OCR names, identify every cluster by voice, enroll nothing")
     args = parser.parse_args()
+    if args.threshold is None:
+        args.threshold = VOICE_ONLY_THRESHOLD if args.voice_only else 0.50
 
     if not (VOICE_CLI and VOICE_MODEL and VOICE_CLI.exists() and VOICE_MODEL.exists()):
         print(f"  ! voice-detect.cpp CLI or model not found, skipping voiceprint stage", file=sys.stderr)
-        return 0  # non-fatal — OCR-only result stands
+        # Voice is the only identification for full sessions, so its absence
+        # is an error there; for clips the OCR-only result stands.
+        return 1 if args.voice_only else 0
 
     video_file = Path(args.video_file)
     session_file = Path(args.session_file)
@@ -156,6 +221,12 @@ def main() -> int:
 
     tmp_dir = PROJECT_ROOT / "temp" / "voiceprint_clips"
     tmp_dir.mkdir(parents=True, exist_ok=True)
+
+    if args.voice_only:
+        matched = identify_by_voice(args.video_id, video_file, session, clusters, db, tmp_dir, args.threshold)
+        session_file.write_text(json.dumps(session, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  voiceprint (voice-only): named {matched}/{len(clusters)} cluster(s) (db size={len(db)})")
+        return 0
 
     enrolled = 0
     matched = 0
@@ -180,9 +251,14 @@ def main() -> int:
                 unidentified.append((sid, segs))
             continue
 
-        ocr_ok = confidence >= ENROLL_CONFIDENCE_FLOOR and total_dur >= MIN_ENROLL_SECONDS
+        source = (mapping.get(sid) or {}).get("source")
+        # Only roster-validated OCR names ("db") enroll. Out-of-vocabulary reads
+        # ("ocr-oov") are often overlay text, not a person: "Pleno De La",
+        # "Sesión Extraordinaria" and the like had entered the DB that way.
+        ocr_ok = (source == "db" and confidence >= ENROLL_CONFIDENCE_FLOOR
+                  and total_dur >= MIN_ENROLL_SECONDS)
         title_ok = (
-            (mapping.get(sid) or {}).get("source") == "title"
+            source == "title"
             and total_dur >= TITLE_ENROLL_MIN_SECONDS
             and session_dur > 0
             and total_dur / session_dur >= TITLE_ENROLL_MIN_SHARE
@@ -209,26 +285,17 @@ def main() -> int:
     # Pass 2: try to match every unidentified cluster against the DB.
     for sid, segs in unidentified:
         spans = [(s["start"], s["end"]) for s in segs]
-        total_dur = sum(e - s for s, e in spans)
-        clip_path = tmp_dir / f"{args.video_id}_{sid}.wav"
-        if total_dur >= MIN_MATCH_SECONDS and db:
-            written = build_cluster_clip(video_file, spans, clip_path)
-            if written >= MIN_MATCH_SECONDS:
-                vec = embed_clip(clip_path)
-                if vec is not None:
-                    sims = [(e["name"], cosine(vec, e["embedding"])) for e in db.values()]
-                    sims.sort(key=lambda x: -x[1])
-                    best_name, best_sim = sims[0]
-                    if best_sim >= args.threshold:
-                        for seg in segs:
-                            seg["speaker"] = {
-                                "id": sid,
-                                "name": best_name,
-                                "confidence": round(best_sim, 4),
-                                "source": "voiceprint",
-                            }
-                        matched += 1
-            clip_path.unlink(missing_ok=True)
+        hit = match_cluster(tmp_dir / f"{args.video_id}_{sid}.wav", video_file, spans, db, args.threshold)
+        if hit:
+            best_name, best_sim = hit
+            for seg in segs:
+                seg["speaker"] = {
+                    "id": sid,
+                    "name": best_name,
+                    "confidence": round(best_sim, 4),
+                    "source": "voiceprint",
+                }
+            matched += 1
 
     save_db(db_path, db)
     session_file.write_text(json.dumps(session, ensure_ascii=False, indent=2), encoding="utf-8")

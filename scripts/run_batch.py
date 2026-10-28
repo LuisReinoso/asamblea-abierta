@@ -185,32 +185,44 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
         out_session.unlink(missing_ok=True)
         return result
 
-    # Stage 3: map speakers
-    t0 = time.time()
-    map_args = [
-        "04_map_speakers_local.py",
-        "--video-id", vid,
-        "--video-file", str(video_path),
-        "--session-file", str(out_session),
-    ]
-    if session_meta.get("title"):
-        map_args += ["--title", session_meta["title"]]
-    ok = run_script(*map_args, timeout=stage_timeout)
-    result["stages"]["map"] = round(time.time() - t0, 1)
-    if not ok:
-        result["error"] = "speaker mapping failed (transcript saved without names)"
-        return result
-
-    # Stage 3b: voiceprint assist for clusters OCR couldn't name (best-effort,
-    # never fails the pipeline — must run before video cleanup below)
-    t0 = time.time()
-    run_script(
+    voiceprint_args = [
         "04b_voiceprint_match.py",
         "--video-id", vid,
         "--video-file", str(video_path),
         "--session-file", str(out_session),
-    )
-    result["stages"]["voiceprint"] = round(time.time() - t0, 1)
+    ]
+    if is_full_session:
+        # Full sessions are named by voice alone: the clips already built the
+        # voiceprint DB, and a plenary's overlay bands are institutional text
+        # that OCR would turn into fake speakers. Required, unlike for clips.
+        t0 = time.time()
+        ok = run_script(*voiceprint_args, "--voice-only", timeout=stage_timeout)
+        result["stages"]["voiceprint"] = round(time.time() - t0, 1)
+        if not ok:
+            result["error"] = "voiceprint identification failed (transcript saved without names)"
+            return result
+    else:
+        # Stage 3: map speakers
+        t0 = time.time()
+        map_args = [
+            "04_map_speakers_local.py",
+            "--video-id", vid,
+            "--video-file", str(video_path),
+            "--session-file", str(out_session),
+        ]
+        if session_meta.get("title"):
+            map_args += ["--title", session_meta["title"]]
+        ok = run_script(*map_args, timeout=stage_timeout)
+        result["stages"]["map"] = round(time.time() - t0, 1)
+        if not ok:
+            result["error"] = "speaker mapping failed (transcript saved without names)"
+            return result
+
+        # Stage 3b: voiceprint assist for clusters OCR couldn't name (best-effort,
+        # never fails the pipeline — must run before video cleanup below)
+        t0 = time.time()
+        run_script(*voiceprint_args)
+        result["stages"]["voiceprint"] = round(time.time() - t0, 1)
 
     # Stage 4: merge metadata from index into the session file
     try:
