@@ -91,6 +91,36 @@ def transcribe_segment(wav_path: Path, start: float, end: float) -> tuple[str, l
             pass
 
 
+# Waits between attempts when a whisper-server call fails. The server can die
+# mid-run (CUDA out of memory, or the OOM killer under RAM pressure) and take a
+# while to come back, so a failed call is retried, never dropped.
+RETRY_DELAYS = (10, 30, 60)
+
+
+class SegmentTranscriptionError(RuntimeError):
+    """A segment could not be transcribed after every retry."""
+
+
+def transcribe_segment_with_retry(wav_path: Path, start: float, end: float,
+                                  delays=RETRY_DELAYS, sleep=time.sleep) -> tuple[str, list]:
+    """transcribe_segment, retried on failure. An empty result is real silence
+    and is returned as is; an exception is a server failure, and dropping that
+    segment would silently delete a speech from the transcript."""
+    for delay in delays:
+        try:
+            return transcribe_segment(wav_path, start, end)
+        except Exception as e:
+            print(f"  ! segment {start:.1f}-{end:.1f}s failed ({e}); retry in {delay}s",
+                  file=sys.stderr)
+            sleep(delay)
+    try:
+        return transcribe_segment(wav_path, start, end)
+    except Exception as e:
+        raise SegmentTranscriptionError(
+            f"segment {start:.1f}-{end:.1f}s failed after {len(delays) + 1} attempts: {e}"
+        ) from e
+
+
 def merge_short_segments(segments: list[dict], min_duration: float = 0.5) -> list[dict]:
     """Merge consecutive segments from the same speaker; drop tiny ones."""
     merged = []
@@ -164,10 +194,12 @@ def main():
 
     for idx, seg in enumerate(raw_segments):
         try:
-            text, _internal = transcribe_segment(wav_path, seg["start"], seg["end"])
-        except Exception as e:
-            print(f"  ! segment {idx} failed: {e}")
-            text = ""
+            text, _internal = transcribe_segment_with_retry(wav_path, seg["start"], seg["end"])
+        except SegmentTranscriptionError as e:
+            # No session JSON is written, so run_batch retries the whole video
+            # on its next run instead of publishing a transcript with a hole.
+            print(f"ERROR: {e}", file=sys.stderr)
+            return 1
         if not text:
             continue
         speaker_id = normalize_speaker_id(seg["speaker"])
