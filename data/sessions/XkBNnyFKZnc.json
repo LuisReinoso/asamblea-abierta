@@ -1,0 +1,120 @@
+{
+  "text": "asambleísta Guido Mendoza por el tiempo que le queda pendiente. Muy amable señora presidenta, por darme nuevamente la palabra, bueno, ante el altercado que pasó, súper raro porque yo no me salí de la sesión de Zoom.  Bueno, les estaba diciendo, dentro de la cronología, del cronograma que hablé de cómo se había llevado en la comisión, que dentro de este proceso de fiscalización se dieron cosas que a la voz pública fueron muy raras, ¿no?  Como el tema de que se filtró un chat entre Inés Manzano y Calero, donde se hablaba de cómo se iba a manejar el proceso de fiscalización a un estilo de centro gol con los asambleístas del gobierno, ¿no?  Les decía que también desde este proceso de fiscalización, pues, nació el famoso asambleísta que estaba dibujando mientras Calero hablaba de un tema tan difícil para el Ecuador.  Y también a nosotros se nos coartaba muchas veces la palabra.  Recuerdo claramente que en una sesión llevada a cabo el 19 de diciembre en la noche, así también de manera virtual, cuando nuestro compañero Blasco Luna, en su intervención,  quería mostrarle un video a los ecuatorianos de cómo Luque había ido a ver los motores.  La presidenta en ese tiempo no le dio una oportunidad, incluso dejaron el audio abierto del Zoom y se escuchó claramente que no le iba a permitir pasar el video.  Entonces, todas estas inconsistencias nosotros las planteamos dentro de este debate porque el informe de mayoría prácticamente es un copia y pega de lo que dijo el Contralor General del Estado.  Yo repito, tres sesiones, seis personas que fueron a explicar, nunca fueron los ministros, a pesar que nosotros los solicitamos.  Asamblea.  Asamblea.  Asamblea. Ahí está su tiempo terminado, tiene 30 segundos por favor. Y esto no puede pasar.  Por eso, presidenta, una vez que he mencionado todo esto,  por medio de ETS voy a hacer llegar la moción  donde desde la Revolución Ciudadana pedimos que se apruebe el informe de minoría  para que los ministros implicados en ese tiempo, en todo esto que pasó,  puedan ir también al Pleno y a explicarle al Ecuador qué fue lo que pasó.  Muy amable, presidenta, mi palabra. Gracias por ver el video.",
+  "language": "es",
+  "duration": 162.49,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 4.06,
+      "text": "asambleísta Guido Mendoza por el tiempo que le queda pendiente.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guido Andrés Mendoza Andrade",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 15.61,
+      "end": 131.5,
+      "text": "Muy amable señora presidenta, por darme nuevamente la palabra, bueno, ante el altercado que pasó, súper raro porque yo no me salí de la sesión de Zoom.  Bueno, les estaba diciendo, dentro de la cronología, del cronograma que hablé de cómo se había llevado en la comisión, que dentro de este proceso de fiscalización se dieron cosas que a la voz pública fueron muy raras, ¿no?  Como el tema de que se filtró un chat entre Inés Manzano y Calero, donde se hablaba de cómo se iba a manejar el proceso de fiscalización a un estilo de centro gol con los asambleístas del gobierno, ¿no?  Les decía que también desde este proceso de fiscalización, pues, nació el famoso asambleísta que estaba dibujando mientras Calero hablaba de un tema tan difícil para el Ecuador.  Y también a nosotros se nos coartaba muchas veces la palabra.  Recuerdo claramente que en una sesión llevada a cabo el 19 de diciembre en la noche, así también de manera virtual, cuando nuestro compañero Blasco Luna, en su intervención,  quería mostrarle un video a los ecuatorianos de cómo Luque había ido a ver los motores.  La presidenta en ese tiempo no le dio una oportunidad, incluso dejaron el audio abierto del Zoom y se escuchó claramente que no le iba a permitir pasar el video.  Entonces, todas estas inconsistencias nosotros las planteamos dentro de este debate porque el informe de mayoría prácticamente es un copia y pega de lo que dijo el Contralor General del Estado.  Yo repito, tres sesiones, seis personas que fueron a explicar, nunca fueron los ministros, a pesar que nosotros los solicitamos.  Asamblea.  Asamblea.  Asamblea.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Guido Andrés Mendoza Andrade",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 131.5,
+      "end": 134.61,
+      "text": "Ahí está su tiempo terminado, tiene 30 segundos por favor.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guido Andrés Mendoza Andrade",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 134.61,
+      "end": 158.22,
+      "text": "Y esto no puede pasar.  Por eso, presidenta, una vez que he mencionado todo esto,  por medio de ETS voy a hacer llegar la moción  donde desde la Revolución Ciudadana pedimos que se apruebe el informe de minoría  para que los ministros implicados en ese tiempo, en todo esto que pasó,  puedan ir también al Pleno y a explicarle al Ecuador qué fue lo que pasó.  Muy amable, presidenta, mi palabra.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Guido Andrés Mendoza Andrade",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 160.83,
+      "end": 161.37,
+      "text": "Gracias por ver el video.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guido Andrés Mendoza Andrade",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "XkBNnyFKZnc",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Guido Andrés Mendoza Andrade",
+      "confidence": 1.0,
+      "votes": {
+        "Guido Andrés Mendoza Andrade": 3
+      },
+      "samples": 4,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_1": {
+      "name": "Guido Andrés Mendoza Andrade",
+      "confidence": 1.0,
+      "votes": {
+        "Guido Andrés Mendoza Andrade": 2
+      },
+      "samples": 4,
+      "successful_reads": 2,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Guido Mendoza - Sesión 119 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=XkBNnyFKZnc",
+  "published_at": "2026-08-30T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "XkBNnyFKZnc",
+  "date": "2026-08-30T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=XkBNnyFKZnc",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Guido Andrés Mendoza Andrade",
+      "party": null,
+      "province": null,
+      "total_time": 139.5,
+      "interventions": 2,
+      "word_count": 344
+    },
+    {
+      "id": "speaker_1",
+      "name": "Guido Andrés Mendoza Andrade",
+      "party": null,
+      "province": null,
+      "total_time": 7.68,
+      "interventions": 3,
+      "word_count": 25
+    }
+  ]
+}

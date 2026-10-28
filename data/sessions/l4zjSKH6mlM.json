@@ -1,0 +1,54 @@
+{
+  "text": "Belén Tapia. Gracias, señora presidenta. Realmente da mucha pena ver cómo el asambleísta  que acaba de intervenir jamás habló de minería ilegal, que es el punto que estamos debatiendo  en este momento. Vuelvo a preguntar por qué será que más bien habló de la ley amazónica  y como presidenta del grupo parlamentario temático amazónico le voy a responder. Le invito  asambleísta a que vaya a las reuniones, que se entere de lo que estamos trabajando, para  que no trate de mentir al pueblo ecuatoriano. Por ahí vi también la publicación de otro  asambleísta de su bancada en donde le mienten a toda la región amazónica. Pero no se preocupen  que va a llegar el momento en el que todas esas mentiras se van a desenmascarar. Más  bien, respondanle al pueblo ecuatoriano y a los jóvenes de la región amazónica. ¿Por  qué? Pues le quitaron por medio de la reforma a la ley amazónica, le quitaron la posibilidad  al gobierno nacional de cristalizar las universidades amazónicas haciendo una reforma a principios  del 2024. Eso contéstenle. Y le invito nuevamente a que sea parte de nuestro grupo parlamentario  y de que se entere que instituciones como el Conga, el Comaga, alcaldes son los que están  pidiendo el archivo de ese proyecto de ley mal realizado. Eso entere ese asambleísta.  No venga a mentirle al pueblo ecuatoriano de cosas que ni siquiera tiene conocimiento.  Muchas gracias, señora presidenta.",
+  "language": "es",
+  "duration": 91.16,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 89.97,
+      "text": "Belén Tapia. Gracias, señora presidenta. Realmente da mucha pena ver cómo el asambleísta  que acaba de intervenir jamás habló de minería ilegal, que es el punto que estamos debatiendo  en este momento. Vuelvo a preguntar por qué será que más bien habló de la ley amazónica  y como presidenta del grupo parlamentario temático amazónico le voy a responder. Le invito  asambleísta a que vaya a las reuniones, que se entere de lo que estamos trabajando, para  que no trate de mentir al pueblo ecuatoriano. Por ahí vi también la publicación de otro  asambleísta de su bancada en donde le mienten a toda la región amazónica. Pero no se preocupen  que va a llegar el momento en el que todas esas mentiras se van a desenmascarar. Más  bien, respondanle al pueblo ecuatoriano y a los jóvenes de la región amazónica. ¿Por  qué? Pues le quitaron por medio de la reforma a la ley amazónica, le quitaron la posibilidad  al gobierno nacional de cristalizar las universidades amazónicas haciendo una reforma a principios  del 2024. Eso contéstenle. Y le invito nuevamente a que sea parte de nuestro grupo parlamentario  y de que se entere que instituciones como el Conga, el Comaga, alcaldes son los que están  pidiendo el archivo de ese proyecto de ley mal realizado. Eso entere ese asambleísta.  No venga a mentirle al pueblo ecuatoriano de cosas que ni siquiera tiene conocimiento.  Muchas gracias, señora presidenta.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Tapia Vallejo",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "l4zjSKH6mlM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Tapia Vallejo",
+      "confidence": 0.75,
+      "votes": {
+        "Ana Belén Tapia Vallejo": 3,
+        "[OOV] De La Asamblea Nacional": 1
+      },
+      "samples": 6,
+      "successful_reads": 4,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Ana Belen  Tapia - Sesión 050 - Punto de información",
+  "url": "https://www.youtube.com/watch?v=l4zjSKH6mlM",
+  "published_at": "2025-10-28T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "l4zjSKH6mlM",
+  "date": "2025-10-28T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=l4zjSKH6mlM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Tapia Vallejo",
+      "party": null,
+      "province": null,
+      "total_time": 89.94,
+      "interventions": 1,
+      "word_count": 235
+    }
+  ]
+}
