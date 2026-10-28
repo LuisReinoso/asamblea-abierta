@@ -9,7 +9,7 @@
 
     <title>Asamblea Abierta - Transparencia Legislativa</title>
 
-    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/main.css?v=5">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/">
 </head>
 <body>
@@ -49,14 +49,41 @@
     <section class="section">
         <div class="container">
             <div class="section-header">
+                <h2>Qué hay aquí</h2>
+                <p>Dos tipos de video, los dos con transcripción y quién habla en cada momento</p>
+            </div>
+            <div class="kind-intro">
+                <a class="kind-intro-card kind-intro-card--full" href="sessions.html#pleno">
+                    <span class="kind-badge kind-badge--full">Sesión del Pleno</span>
+                    <h3>La sesión completa</h3>
+                    <p>La grabación entera de una sesión, de principio a fin: todos los asambleístas que hablaron, en orden, con la línea de tiempo de cada intervención.</p>
+                    <span class="kind-intro-count"><strong id="count-full">-</strong> <span id="count-full-label">sesiones</span></span>
+                </a>
+                <a class="kind-intro-card kind-intro-card--clip" href="sessions.html#intervenciones">
+                    <span class="kind-badge kind-badge--clip">Intervención</span>
+                    <h3>Un asambleísta, un clip</h3>
+                    <p>Los clips oficiales que la Asamblea publica con la intervención de una sola persona. Sirven para ir directo a lo que dijo alguien.</p>
+                    <span class="kind-intro-count"><strong id="count-clip">-</strong> <span id="count-clip-label">intervenciones</span></span>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
                 <h2>Estadísticas</h2>
-                <p>Datos sobre las sesiones procesadas</p>
+                <p>Todo lo transcrito hasta hoy</p>
             </div>
 
             <div class="stats-grid">
                 <div class="stat-card">
                     <div class="stat-number" id="stat-sessions">-</div>
-                    <div class="stat-label">Sesiones</div>
+                    <div class="stat-label">Sesiones del Pleno</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="stat-clips">-</div>
+                    <div class="stat-label">Intervenciones</div>
                 </div>
                 <div class="stat-card">
                     <div class="stat-number" id="stat-hours">-</div>
@@ -66,10 +93,6 @@
                     <div class="stat-number" id="stat-speakers">-</div>
                     <div class="stat-label">Asambleístas</div>
                 </div>
-                <div class="stat-card">
-                    <div class="stat-number" id="stat-topics">-</div>
-                    <div class="stat-label">Temas</div>
-                </div>
             </div>
         </div>
     </section>
@@ -77,8 +100,8 @@
     <section class="section" style="background-color: var(--bg-light);">
         <div class="container">
             <div class="section-header">
-                <h2>Sesiones Recientes</h2>
-                <p>Últimas sesiones procesadas</p>
+                <h2>Lo más reciente</h2>
+                <p>La última sesión del Pleno y las intervenciones más nuevas</p>
             </div>
 
             <div class="card-grid" id="recent-sessions">
@@ -93,7 +116,7 @@
             </div>
 
             <div class="text-center mt-4">
-                <a href="sessions.html" class="btn">Ver Todas las Sesiones</a>
+                <a href="sessions.html" class="btn">Ver todos los videos</a>
             </div>
         </div>
     </section>
@@ -115,7 +138,8 @@
                 <ul style="margin-left: 2rem; margin-bottom: 1rem;">
                     <li>Transcripción local con <strong>faster-whisper large-v3-turbo</strong></li>
                     <li>Diarización de hablantes con <strong>pyannote community-1</strong></li>
-                    <li>Identificación de oradores leyendo el overlay en pantalla con <strong>PaddleOCR</strong> + matching contra la base de asambleístas</li>
+                    <li>Identificación de oradores por su voz (<strong>WeSpeaker</strong>), con una base de voces construida a partir de los clips oficiales</li>
+                    <li>Video sincronizado con la transcripción: se resalta lo que se dice y quién lo dice</li>
                     <li>Clasificación por temas alineada con las comisiones parlamentarias</li>
                     <li>Búsqueda rápida en tiempo real</li>
                     <li>Datasets descargables en JSON</li>
@@ -157,6 +181,7 @@
         </div>
     </footer>
 
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/cards.js?v=1"></script>
+    <script src="assets/js/main.js?v=2"></script>
 </body>
 </html>

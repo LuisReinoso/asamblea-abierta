@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explora todas las sesiones de la Asamblea Nacional del Ecuador">
     <title>Sesiones - Asamblea Abierta</title>
-    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/main.css?v=5">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/sessions.html">
 </head>
 <body>
@@ -28,8 +28,15 @@
 
     <section class="section">
         <div class="container">
-            <h1>Sesiones de la Asamblea Nacional</h1>
-            <p>Explora todas las sesiones procesadas y transcriptas</p>
+            <h1>Sesiones e intervenciones</h1>
+            <p>Mira cada video con su transcripción y quién habla en cada momento.</p>
+
+            <div class="kind-tabs mt-3" role="tablist" aria-label="Tipo de video">
+                <button type="button" role="tab" class="kind-tab" data-type="" aria-selected="true">Todo <span class="kind-tab-count" data-count=""></span></button>
+                <button type="button" role="tab" class="kind-tab" data-type="full_session" aria-selected="false"><span class="tab-long">Sesiones del </span>Pleno <span class="kind-tab-count" data-count="full_session"></span></button>
+                <button type="button" role="tab" class="kind-tab" data-type="clip" aria-selected="false">Intervenciones <span class="kind-tab-count" data-count="clip"></span></button>
+            </div>
+            <p class="kind-explain" id="kind-explain">Las <strong>sesiones del Pleno</strong> son la grabación completa, con todos los oradores. Las <strong>intervenciones</strong> son clips oficiales de un solo asambleísta.</p>
 
             <div class="search-bar mt-4">
                 <input
@@ -41,14 +48,6 @@
             </div>
 
             <div class="filter-bar mt-4">
-                <div class="filter-field">
-                    <label for="filter-type">Tipo:</label>
-                    <select id="filter-type">
-                        <option value="">Todo (sesiones completas + clips)</option>
-                        <option value="full_session">Solo sesiones completas</option>
-                        <option value="clip">Solo clips por asambleísta</option>
-                    </select>
-                </div>
 
                 <div class="filter-field">
                     <label for="filter-topic">Tema:</label>
@@ -96,6 +95,7 @@
         </div>
     </footer>
 
-    <script src="assets/js/sessions.js"></script>
+    <script src="assets/js/cards.js?v=1"></script>
+    <script src="assets/js/sessions.js?v=2"></script>
 </body>
 </html>

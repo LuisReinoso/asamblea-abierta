@@ -4,6 +4,7 @@
 
 let allSessions = [];
 let filteredSessions = [];
+let currentType = '';
 
 // Load sessions when page loads
 document.addEventListener('DOMContentLoaded', () => {
@@ -13,7 +14,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function setupEventListeners() {
     document.getElementById('search-input').addEventListener('input', filterSessions);
-    document.getElementById('filter-type').addEventListener('change', filterSessions);
+    document.querySelectorAll('.kind-tab').forEach((tab) => {
+        tab.addEventListener('click', () => {
+            currentType = tab.dataset.type;
+            document.querySelectorAll('.kind-tab').forEach((t) =>
+                t.setAttribute('aria-selected', String(t === tab)));
+            document.getElementById('kind-explain').innerHTML = currentType
+                ? escapeHtml(KIND[currentType].explain)
+                : 'Las <strong>sesiones del Pleno</strong> son la grabación completa, con todos los oradores. Las <strong>intervenciones</strong> son clips oficiales de un solo asambleísta.';
+            filterSessions();
+        });
+    });
     document.getElementById('filter-topic').addEventListener('change', filterSessions);
     document.getElementById('sort-by').addEventListener('change', sortAndDisplaySessions);
 }
@@ -28,7 +39,12 @@ async function loadSessions() {
         }
 
         const catalog = await response.json();
-        allSessions = catalog.sessions || [];
+        // entries without an id cannot link anywhere
+        allSessions = (catalog.sessions || []).filter((s) => s.id);
+        document.querySelectorAll('.kind-tab-count').forEach((el) => {
+            const type = el.dataset.count;
+            el.textContent = allSessions.filter((s) => !type || kindOf(s) === type).length;
+        });
         filteredSessions = [...allSessions];
 
         if (allSessions.length === 0) {
@@ -39,8 +55,19 @@ async function loadSessions() {
         // Populate topic filter
         populateTopicFilter();
 
+        // Search typed on the home page
+        const q = new URLSearchParams(window.location.search).get('q');
+        if (q) document.getElementById('search-input').value = q;
+
+        // Deep links from the home page: sessions.html#pleno / #intervenciones
+        const fromHash = { '#pleno': 'full_session', '#intervenciones': 'clip' }[window.location.hash];
+        if (fromHash) {
+            document.querySelector(`.kind-tab[data-type="${fromHash}"]`).click();
+            return;
+        }
+
         // Display sessions
-        sortAndDisplaySessions();
+        filterSessions();
 
     } catch (error) {
         console.error('Error loading sessions:', error);
@@ -66,13 +93,12 @@ function populateTopicFilter() {
 function filterSessions() {
     const searchTerm = document.getElementById('search-input').value.toLowerCase();
     const selectedTopic = document.getElementById('filter-topic').value;
-    const selectedType = document.getElementById('filter-type').value;
 
     filteredSessions = allSessions.filter(session => {
         // Filter by search term
         const matchesSearch = !searchTerm ||
             session.title.toLowerCase().includes(searchTerm) ||
-            session.summary.toLowerCase().includes(searchTerm) ||
+            (session.summary || '').toLowerCase().includes(searchTerm) ||
             session.topics.some(t => t.toLowerCase().includes(searchTerm)) ||
             session.keywords.some(k => k.toLowerCase().includes(searchTerm));
 
@@ -80,8 +106,7 @@ function filterSessions() {
         const matchesTopic = !selectedTopic || session.topics.includes(selectedTopic);
 
         // Filter by video type (full plenary session vs. per-speaker clip)
-        const sessionType = session.video_type || 'clip';
-        const matchesType = !selectedType || sessionType === selectedType;
+        const matchesType = !currentType || kindOf(session) === currentType;
 
         return matchesSearch && matchesTopic && matchesType;
     });
@@ -94,6 +119,9 @@ function sortAndDisplaySessions() {
 
     // Sort sessions
     filteredSessions.sort((a, b) => {
+        // Plenary sessions are the main product: pinned above the clips.
+        const pin = (kindOf(b) === 'full_session') - (kindOf(a) === 'full_session');
+        if (pin) return pin;
         switch (sortBy) {
             case 'date-desc':
                 return new Date(b.date) - new Date(a.date);
@@ -125,63 +153,13 @@ function displaySessions() {
 
     container.style.display = 'grid';
     noResults.style.display = 'none';
-    countElement.textContent = `Mostrando ${filteredSessions.length} de ${allSessions.length} sesiones`;
+    countElement.textContent = `Mostrando ${filteredSessions.length} de ${allSessions.length} videos`;
 
     container.innerHTML = '';
 
-    filteredSessions.forEach(session => {
-        const card = createSessionCard(session);
-        container.appendChild(card);
+    filteredSessions.forEach((session, i) => {
+        container.appendChild(createSessionCard(session, i));
     });
-}
-
-function createSessionCard(session) {
-    const card = document.createElement('div');
-    card.className = 'card';
-
-    // Format date
-    const date = new Date(session.date);
-    const formattedDate = date.toLocaleDateString('es-EC', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-    });
-
-    // Format duration
-    const durationMinutes = Math.round(session.duration / 60);
-
-    // Get topics (limit to 3)
-    const topics = session.topics.slice(0, 3);
-    const topicsHTML = topics.map(topic =>
-        `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.5rem; margin: 0.25rem; border-radius: 4px; font-size: 0.875rem;">${topic}</span>`
-    ).join(' ');
-
-    // Full plenary session vs. a single speaker's clip — these are very
-    // different content, badge them so the list doesn't imply they're
-    // interchangeable.
-    const isFullSession = (session.video_type || 'clip') === 'full_session';
-    const typeBadgeHTML = isFullSession
-        ? `<span style="display: inline-block; background: var(--primary-color); color: #fff; padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.8rem; font-weight: 600;">🏛️ Sesión completa</span>`
-        : `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.6rem; border-radius: 4px; font-size: 0.8rem;">🎙️ Clip</span>`;
-
-    card.innerHTML = `
-        <h3 class="card-title">
-            <a href="sessions/${session.id}.html">${session.title}</a>
-        </h3>
-        <p class="card-meta">
-            ${typeBadgeHTML} • 📅 ${formattedDate} • ⏱️ ${durationMinutes} min • 🎤 ${session.speaker_count} oradores
-        </p>
-        <div class="card-content">
-            <p>${session.summary || 'Sesión de la Asamblea Nacional'}</p>
-            ${topics.length > 0 ? `<div class="mt-2">${topicsHTML}</div>` : ''}
-            ${session.bills_mentioned > 0 ? `<p class="mt-2" style="color: var(--primary-color);"><strong>📋 ${session.bills_mentioned} proyecto(s) de ley mencionado(s)</strong></p>` : ''}
-            <p class="mt-2">
-                <a href="${session.url}" target="_blank" style="font-size: 0.875rem;">📺 Ver video en YouTube</a>
-            </p>
-        </div>
-    `;
-
-    return card;
 }
 
 function displayNoSessions(message) {
