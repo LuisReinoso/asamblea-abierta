@@ -312,7 +312,13 @@ def main():
     # rate-limited and leaves published_at null for genuinely recent videos).
     # published_at is the tiebreaker for same/unknown session numbers.
     if not args.oldest_first:
-        pending.sort(key=lambda s: (session_number(s.get("title", "")), s.get("published_at") or ""), reverse=True)
+        if args.video_type == "full_session":
+            # Plenary titles are not a reliable number source ("Sesión 1024"
+            # was streamed in 2025-06, ahead of "Sesión No. 134-AN-2025-2029"),
+            # and every full session has its date, so date leads here.
+            pending.sort(key=lambda s: (s.get("published_at") or "", session_number(s.get("title", ""))), reverse=True)
+        else:
+            pending.sort(key=lambda s: (session_number(s.get("title", "")), s.get("published_at") or ""), reverse=True)
 
     if args.limit:
         pending = pending[: args.limit]

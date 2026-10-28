@@ -10,6 +10,11 @@ cd "$(dirname "$0")/.."
 REPO_DIR="$(pwd)"
 LOG_FILE="$REPO_DIR/logs/daily_clip_batch.log"
 BATCH_LIMIT=20
+# Full plenary sessions per night, newest first. Only the current legislative
+# period (installed 2025-05-14): older sessions are by members who are not in
+# the roster or the voiceprint DB, so they would come out "No identificado".
+SESSION_LIMIT=5
+SESSION_SINCE=2025-05-14
 
 mkdir -p "$REPO_DIR/logs"
 
@@ -27,8 +32,8 @@ if [ -f "$REPO_DIR/internal/local.sh" ]; then
 fi
 
 START_TIME=$(date +%s)
-log "=== daily clip batch starting ==="
-notify "Asamblea Abierta - inicio" "Batch diario de clips iniciando ($(date '+%Y-%m-%d %H:%M'))"
+log "=== daily batch starting (clips + sessions) ==="
+notify "Asamblea Abierta - inicio" "Batch diario (clips y sesiones) iniciando ($(date '+%Y-%m-%d %H:%M'))"
 
 # Discovery: append new channel videos to data/sessions/index.json, otherwise
 # the batch only ever drains the old index (it went stale from 2026-07-10 to
@@ -87,40 +92,53 @@ fi
 
 source "$REPO_DIR/.venv/bin/activate"
 
-OUTPUT=$(python3 scripts/run_batch.py --limit "$BATCH_LIMIT" --video-type clip 2>&1)
-STATUS=$?
-echo "$OUTPUT" >> "$LOG_FILE"
+# One pass per video type; each reports on its own, so a night where clips
+# are done but sessions fail (or the reverse) is visible in the notification.
+SUMMARY=""
+ANY_ERROR=0
+run_pass() {  # run_pass LABEL run_batch-args...
+    local label="$1"; shift
+    local out status done_line reasons
+    out=$(python3 scripts/run_batch.py "$@" 2>&1)
+    status=$?
+    echo "$out" >> "$LOG_FILE"
+    done_line=$(echo "$out" | grep "BATCH DONE" | tail -1 | sed 's/^.*BATCH DONE — //')
+    if echo "$out" | grep -q "Pending: 0 videos"; then
+        log "$label: nothing pending"
+        SUMMARY+="$label: sin pendientes. "
+    elif [ $status -ne 0 ] && [ -z "$done_line" ]; then
+        log "$label: run_batch.py crashed with status $status"
+        SUMMARY+="$label: falló (exit $status). "
+        ANY_ERROR=1
+    elif [ $status -ne 0 ]; then
+        # Some videos failed. This used to send the same "fin" message as a
+        # clean run, which hid 0/20 nights from 2026-08-13 to 2026-10-10.
+        reasons=$(echo "$out" | grep -oP '✗ \S+\s+\S+ \[\K[^]]*' | sort | uniq -c | sort -rn | head -3 | tr -s ' ' | tr '\n' ';')
+        log "$label: run_batch.py exited with status $status"
+        SUMMARY+="$label: $done_line, fallos: ${reasons:-?} "
+        ANY_ERROR=1
+    else
+        log "$label: run_batch.py exited with status 0"
+        SUMMARY+="$label: ${done_line:-terminado}. "
+    fi
+}
+
+run_pass "Clips" --limit "$BATCH_LIMIT" --video-type clip
+run_pass "Sesiones" --limit "$SESSION_LIMIT" --video-type full_session --since "$SESSION_SINCE"
 
 ELAPSED=$(( $(date +%s) - START_TIME ))
-
-if echo "$OUTPUT" | grep -q "Pending: 0 videos"; then
-    log "no pending clips left, nothing to do"
-    notify "Asamblea Abierta - sin pendientes" "No quedan clips pendientes. Base de voces completa."
-    exit 0
-fi
-
-DONE_LINE=$(echo "$OUTPUT" | grep "BATCH DONE" | tail -1)
 VOICEPRINT_COUNT=$(python3 -c "import json; print(len(json.load(open('internal/speakers/voiceprints.json'))))" 2>/dev/null || echo "?")
-
-if [ $STATUS -ne 0 ] && [ -z "$DONE_LINE" ]; then
-    log "run_batch.py crashed with status $STATUS"
-    notify "Asamblea Abierta - ERROR" "El batch diario falló (exit $STATUS) sin completar. Revisar logs/daily_clip_batch.log"
-elif [ $STATUS -ne 0 ]; then
-    # Some clips failed. This used to send the same "fin" message as a clean
-    # run, which hid 0/20 nights from 2026-08-13 to 2026-10-10.
-    log "run_batch.py exited with status $STATUS"
-    FAIL_REASONS=$(echo "$OUTPUT" | grep -oP '✗ \S+\s+\S+ \[\K[^]]*' | sort | uniq -c | sort -rn | head -3 | tr -s ' ' | tr '\n' ';')
-    notify "Asamblea Abierta - ERROR" "${DONE_LINE}. Fallos: ${FAIL_REASONS:-?} Revisar logs/daily_clip_batch.log"
+if [ $ANY_ERROR -ne 0 ]; then
+    notify "Asamblea Abierta - ERROR" "${SUMMARY}Revisar logs/daily_clip_batch.log"
 else
-    log "run_batch.py exited with status $STATUS"
-    notify "Asamblea Abierta - fin" "${DONE_LINE:-Batch terminado}. Voces en DB: $VOICEPRINT_COUNT. Duración: ${ELAPSED}s"
+    notify "Asamblea Abierta - fin" "${SUMMARY}Voces en DB: $VOICEPRINT_COUNT. Duración: ${ELAPSED}s"
 fi
 
 # Stage only the generated public data. This used to be `git add -A`, which
 # would publish anything that landed in the repo outside .gitignore.
 git add -- data docs
 if ! git diff --cached --quiet; then
-    git commit -q -m "data: daily clip batch $(date +%F)"
+    git commit -q -m "data: daily batch $(date +%F)"
     log "committed changes"
 else
     log "no data changes to commit"
@@ -143,4 +161,4 @@ if [ -n "$(git rev-list origin/main..HEAD)" ]; then
     fi
 fi
 
-log "=== daily clip batch finished (exit $STATUS) ==="
+log "=== daily batch finished (errors: $ANY_ERROR) ==="
