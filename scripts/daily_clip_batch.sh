@@ -103,7 +103,10 @@ run_pass() {  # run_pass LABEL run_batch-args...
     status=$?
     echo "$out" >> "$LOG_FILE"
     done_line=$(echo "$out" | grep "BATCH DONE" | tail -1 | sed 's/^.*BATCH DONE — //')
-    if echo "$out" | grep -q "Pending: 0 videos"; then
+    if echo "$out" | grep -q "YouTube pausado hasta"; then
+        log "$label: skipped, YouTube bot-check pause in effect"
+        SUMMARY+="$label: en pausa por verificación anti-bot de YouTube. "
+    elif echo "$out" | grep -q "Pending: 0 videos"; then
         log "$label: nothing pending"
         SUMMARY+="$label: sin pendientes. "
     elif [ $status -ne 0 ] && [ -z "$done_line" ]; then

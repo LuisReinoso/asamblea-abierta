@@ -14,6 +14,7 @@ Usage:
 
 import argparse
 import json
+import random
 import re
 import shutil
 import subprocess
@@ -24,6 +25,13 @@ from pathlib import Path
 
 
 SESSION_NUM_RE = re.compile(r"[Ss]esi[oó]n\s+(\d+)|[Ss]ession\s+(\d+)")
+
+# Being a polite YouTube client. A random pause between downloads keeps a
+# night's batch from reading as a burst, and when YouTube answers with its
+# anti-bot check every download stops until the pause file expires: retrying
+# only extends the block (2026-10-11 hit 20/20 clips; it lifted by itself).
+PAUSE_BETWEEN_DOWNLOADS = (45, 120)  # seconds, uniform
+BOT_PAUSE_HOURS = 12
 
 
 def session_number(title: str) -> int:
@@ -46,6 +54,7 @@ STATUS_FILE = PROJECT_ROOT / "temp" / "batch_status.json"
 LOG_FILE = PROJECT_ROOT / "temp" / "batch.log"
 QA_SAMPLES_DIR = PROJECT_ROOT / "temp" / "qa_samples"  # local-only, temp/ is gitignored
 QA_FRAGMENT_SECONDS = 20
+BOT_PAUSE_FILE = PROJECT_ROOT / "temp" / "youtube_pause.json"
 
 
 def log(msg: str):
@@ -62,20 +71,40 @@ def write_status(status: dict):
         json.dump(status, f, indent=2, default=str)
 
 
-def download_video(video_id: str) -> Path | None:
-    """Fetch the source video into data/video/<id>.mp4.
-
-    Uses internal/downloader.py (gitignored, machine-local) when present,
+def downloader_module():
+    """internal/downloader.py (gitignored, machine-local) when present,
     otherwise scripts/default_downloader.py (plain yt-dlp). Both expose
-    download_video(video_id, data_video, log_fn).
-    """
+    download_video(video_id, data_video, log_fn, audio_only) and BotBlocked."""
     sys.path.insert(0, str(PROJECT_ROOT / "scripts"))
     sys.path.insert(0, str(PROJECT_ROOT / "internal"))
     try:
         import downloader
     except ImportError:
         import default_downloader as downloader
-    return downloader.download_video(video_id, DATA_VIDEO, log)
+    return downloader
+
+
+def download_video(video_id: str, audio_only: bool = False) -> Path | None:
+    """Fetch the source into data/video/<id>.mp4 (or .m4a with audio_only).
+    Raises the downloader's BotBlocked when YouTube asks for a bot check."""
+    return downloader_module().download_video(video_id, DATA_VIDEO, log, audio_only=audio_only)
+
+
+def youtube_paused_until() -> float | None:
+    """Epoch until which downloads are paused after a bot check, if any."""
+    try:
+        until = json.loads(BOT_PAUSE_FILE.read_text())["until"]
+    except (OSError, ValueError, KeyError):
+        return None
+    return until if until > time.time() else None
+
+
+def pause_youtube(reason: str) -> None:
+    BOT_PAUSE_FILE.parent.mkdir(parents=True, exist_ok=True)
+    until = time.time() + BOT_PAUSE_HOURS * 3600
+    BOT_PAUSE_FILE.write_text(json.dumps({"until": until, "reason": reason}))
+    log(f"  YouTube pidió verificación anti-bot: descargas en pausa hasta "
+        f"{time.strftime('%Y-%m-%d %H:%M', time.localtime(until))}")
 
 
 def extract_qa_fragment(video_path: Path, video_id: str, duration_hint: float | None) -> None:
@@ -151,9 +180,15 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
         log("  existing session has 0 segments — retrying")
         out_session.unlink()
 
-    # Stage 1: download
+    # Stage 1: download. Full sessions are named by voice, so audio is enough.
+    is_full_session = session_meta.get("video_type") == "full_session"
     t0 = time.time()
-    video_path = download_video(vid)
+    try:
+        video_path = download_video(vid, audio_only=is_full_session)
+    except downloader_module().BotBlocked as e:
+        pause_youtube(str(e))
+        result.update({"error": "youtube bot-check", "bot_blocked": True})
+        return result
     result["stages"]["download"] = round(time.time() - t0, 1)
     if not video_path:
         result["error"] = "download failed"
@@ -162,7 +197,6 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     # Stage 2: transcribe (diarize + ASR). Full plenary sessions run hours
     # long — give those runs a lot more headroom than the 2h default (which
     # is already generous for a short per-speaker clip).
-    is_full_session = session_meta.get("video_type") == "full_session"
     stage_timeout = 21600 if is_full_session else 7200  # 6h vs 2h
     t0 = time.time()
     ok = run_script(
@@ -327,6 +361,11 @@ def main():
     if not pending:
         log("Nothing to do.")
         return 0
+    paused = youtube_paused_until()
+    if paused:
+        log(f"YouTube pausado hasta {time.strftime('%Y-%m-%d %H:%M', time.localtime(paused))} "
+            "(verificación anti-bot): no se descarga nada en esta pasada.")
+        return 0
 
     results = []
     overall_start = time.time()
@@ -347,6 +386,13 @@ def main():
             traceback.print_exc()
             res = {"video_id": meta["video_id"], "ok": False, "error": str(e)}
         results.append(res)
+        if res.get("bot_blocked"):
+            log("Stopping: YouTube asked for a bot check; the rest waits for the next run.")
+            break
+        if i < len(pending) and not res.get("skipped"):
+            pause = random.uniform(*PAUSE_BETWEEN_DOWNLOADS)
+            log(f"  pausa de {pause:.0f}s antes del siguiente video")
+            time.sleep(pause)
 
     write_status({
         "current": len(pending),
