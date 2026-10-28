@@ -366,9 +366,13 @@ def main():
     if successes > 0:
         log("")
         log("Rebuilding site data (stats, search index, catalog)…")
-        for script in ("06_generate_stats.py", "07_build_search_index.py", "08_update_catalog.py"):
+        # The per-session pages (what session-detail.html redirects to) come
+        # last: they read the catalog that 08 just mirrored into docs/data.
+        # Leaving them out made every video processed after 2026-08-19 a 404.
+        for script in ("pipeline/06_generate_stats.py", "pipeline/07_build_search_index.py",
+                       "pipeline/08_update_catalog.py", "generate_static_sessions.py"):
             rc = subprocess.call(
-                [sys.executable, "-u", str(PROJECT_ROOT / "scripts" / "pipeline" / script)],
+                [sys.executable, "-u", str(PROJECT_ROOT / "scripts" / script)],
                 stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT,
             )
             if rc != 0:

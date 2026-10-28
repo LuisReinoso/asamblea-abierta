@@ -105,8 +105,12 @@
             document.getElementById('session-loading').style.display = 'none';
             document.getElementById('session-error').style.display = 'block';
         } else if (/^[A-Za-z0-9_-]{6,20}$/.test(sessionId)) {
-            // la version estatica trae la transcripcion ya renderizada
-            window.location.replace(`sessions/${sessionId}.html`);
+            // la version estatica trae la transcripcion ya renderizada y el
+            // reproductor; si todavia no se genero, se arma aqui con JS en vez
+            // de mandar a un 404
+            fetch(`sessions/${sessionId}.html`, { method: 'HEAD' })
+                .then((r) => r.ok ? window.location.replace(`sessions/${sessionId}.html`) : loadSession(sessionId))
+                .catch(() => loadSession(sessionId));
         } else {
             loadSession(sessionId);
         }
