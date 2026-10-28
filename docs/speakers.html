@@ -5,20 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Directorio de asambleístas de Ecuador">
     <title>Asambleístas - Asamblea Abierta</title>
-    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/main.css?v=6">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/speakers.html">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="./">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
                     <li><a href="./">Inicio</a></li>
                     <li><a href="sessions.html">Sesiones</a></li>
-                    <li><a href="speakers.html">Asambleístas</a></li>
+                    <li><a href="speakers.html" aria-current="page">Asambleístas</a></li>
                     <li><a href="topics.html">Temas</a></li>
                     <li><a href="download.html">Descargas</a></li>
                 </ul>
@@ -70,7 +73,7 @@
                 </div>
             </div>
 
-            <div id="speakers-count" class="mt-2" style="color: var(--text-light);">
+            <div id="speakers-count" class="mt-2 muted">
                 Cargando asambleístas...
             </div>
 
@@ -81,12 +84,12 @@
                 </div>
             </div>
 
-            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+            <div id="no-results" class="empty-state" style="display: none;">
                 <h3>No se encontraron asambleístas</h3>
                 <p>Intenta con otros criterios de búsqueda</p>
             </div>
 
-            <div id="no-data" style="display: none; text-align: center; padding: 2rem;">
+            <div id="no-data" class="empty-state" style="display: none;">
                 <h3>Sin estadísticas disponibles</h3>
                 <p>Las estadísticas se generarán una vez que se procesen las sesiones.</p>
                 <p class="mt-2">Mientras tanto, puedes ver el
@@ -99,7 +102,7 @@
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
             </p>
         </div>
@@ -240,31 +243,48 @@
             'desconocido': 'Sin clasificar',
         };
 
+        function initialsOf(name) {
+            const parts = String(name || '').split(/\s+/).filter((w) => /^[A-ZÁÉÍÓÚÑ]/.test(w));
+            if (!parts.length) return '?';
+            // Ecuadorian full names: given names + two surnames; the first surname
+            // identifies better than the second given name.
+            const surname = parts.length >= 3 ? parts[parts.length - 2] : parts[parts.length - 1];
+            return (parts[0][0] + surname[0]).toUpperCase();
+        }
+
+        function escapeHtml(text) {
+            return String(text ?? '').replace(/[&<>"']/g, (c) => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+            })[c]);
+        }
+
         function createSpeakerCard(speaker) {
             const card = document.createElement('div');
-            card.className = 'card';
+            card.className = 'card speaker-card';
 
-            const totalMinutes = Math.round(speaker.total_time / 60);
-            const totalHours = (totalMinutes / 60).toFixed(1);
+            const hours = (speaker.total_time / 3600).toLocaleString('es-EC', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
             const speakerType = speaker.type || 'asambleísta';
-            const typeBadge = TYPE_LABEL[speakerType] || speakerType;
-            const roleLine = speaker.role && speakerType !== 'asambleísta'
-                ? `<p class="card-meta"><em>${speaker.role}</em></p>` : '';
+            const where = [speaker.party, speaker.province].filter((x) => x && x !== 'Unknown').join(' · ');
+            const kind = speakerType !== 'asambleísta' ? `<span class="speaker-kind">${escapeHtml(TYPE_LABEL[speakerType] || speakerType)}</span>` : '';
+            const role = speaker.role && speakerType !== 'asambleísta' ? `<p class="speaker-role">${escapeHtml(speaker.role)}</p>` : '';
+            const topics = speaker.topics_discussed > 0
+                ? `<div><dt>Temas</dt><dd>${speaker.topics_discussed}</dd></div>` : '';
 
             card.innerHTML = `
-                <h3 class="card-title">${speaker.name}</h3>
-                <p class="card-meta">
-                    <span style="display:inline-block;padding:0.1rem 0.5rem;background:#eef;border-radius:0.3rem;font-size:0.8rem;">${typeBadge}</span>
-                    ${speaker.party && speaker.party !== 'Unknown' ? '• ' + speaker.party : ''}
-                    ${speaker.province && speaker.province !== 'Unknown' ? '• ' + speaker.province : ''}
-                </p>
-                ${roleLine}
-                <div class="card-content">
-                    <p><strong>⏱️ Tiempo total:</strong> ${totalHours} horas</p>
-                    <p><strong>🎤 Intervenciones:</strong> ${speaker.total_interventions}</p>
-                    <p><strong>📅 Sesiones:</strong> ${speaker.sessions_attended}</p>
-                    <p><strong>🏷️ Temas:</strong> ${speaker.topics_discussed}</p>
+                <div class="speaker-card-head">
+                    <span class="avatar avatar--lg" aria-hidden="true">${escapeHtml(initialsOf(speaker.name))}</span>
+                    <div>
+                        <h3 class="card-title">${escapeHtml(speaker.name)}</h3>
+                        <p class="speaker-where">${kind}${escapeHtml(where)}</p>
+                    </div>
                 </div>
+                ${role}
+                <dl class="speaker-stats">
+                    <div><dt>Horas</dt><dd>${hours}</dd></div>
+                    <div><dt>Intervenciones</dt><dd>${speaker.total_interventions}</dd></div>
+                    <div><dt>Videos</dt><dd>${speaker.sessions_attended}</dd></div>
+                    ${topics}
+                </dl>
             `;
 
             return card;

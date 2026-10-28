@@ -5,18 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, follow">
     <title>Sesión - Asamblea Abierta</title>
-    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/main.css?v=6">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="./">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
                     <li><a href="./">Inicio</a></li>
-                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="sessions.html" aria-current="page">Sesiones</a></li>
                     <li><a href="speakers.html">Asambleístas</a></li>
                     <li><a href="topics.html">Temas</a></li>
                     <li><a href="download.html">Descargas</a></li>
@@ -45,29 +48,29 @@
 
                 <div class="card mt-3">
                     <h3>Temas Discutidos</h3>
-                    <div id="session-topics"></div>
+                    <div id="session-topics" class="tag-list"></div>
                 </div>
 
                 <div class="card mt-3">
                     <h3>Palabras Clave</h3>
-                    <div id="session-keywords"></div>
+                    <div id="session-keywords" class="tag-list"></div>
                 </div>
 
                 <div class="card mt-3">
                     <h3>Transcripción Completa</h3>
-                    <p style="color: var(--text-light); font-size: 0.875rem;">
+                    <p class="muted small">
                         Transcripción automática generada con IA. Puede contener errores.
                         <a id="youtube-link" href="#" target="_blank">Ver video oficial en YouTube</a>
                     </p>
 
-                    <div style="margin: 1rem 0;">
-                        <label>
-                            <input type="checkbox" id="filter-identified" style="margin-right: 0.5rem;">
+                    <div class="mt-2 mb-2">
+                        <label class="follow-toggle">
+                            <input type="checkbox" id="filter-identified">
                             Mostrar solo segmentos con orador identificado
                         </label>
                     </div>
 
-                    <div id="transcript" style="max-height: 600px; overflow-y: auto; background: var(--bg-light); padding: 1rem; border-radius: 4px; margin-top: 1rem;">
+                    <div id="transcript" class="transcript">
                     </div>
                 </div>
 
@@ -90,7 +93,7 @@
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
             </p>
         </div>
@@ -144,10 +147,7 @@
                 const speakerCount = session.speaker_stats ? session.speaker_stats.length : 0;
 
                 document.getElementById('session-metadata').innerHTML = `
-                    <p><strong>📅 Fecha:</strong> ${formattedDate}</p>
-                    <p><strong>⏱️ Duración:</strong> ${durationMinutes} minutos (${(durationMinutes/60).toFixed(1)} horas)</p>
-                    <p><strong>🎤 Oradores:</strong> ${speakerCount}</p>
-                    <p><strong>📺 Video:</strong> <a href="${session.source_url}" target="_blank">Ver en YouTube</a></p>
+                    <p class="watch-meta">${formattedDate} · ${durationMinutes} min · ${speakerCount} ${speakerCount === 1 ? 'orador' : 'oradores'} · <a href="${session.source_url}" target="_blank" rel="noopener">Ver en YouTube</a></p>
                 `;
 
                 // Summary
@@ -157,13 +157,13 @@
                 // Topics
                 const topics = session.classification?.topics || [];
                 document.getElementById('session-topics').innerHTML = topics.map(topic =>
-                    `<span style="display: inline-block; background: var(--primary-color); color: white; padding: 0.5rem 1rem; margin: 0.25rem; border-radius: 4px;">${topic}</span>`
+                    `<span class="tag">${topic}</span>`
                 ).join('');
 
                 // Keywords
                 const keywords = session.classification?.keywords || [];
                 document.getElementById('session-keywords').innerHTML = keywords.map(kw =>
-                    `<span style="display: inline-block; background: var(--bg-light); padding: 0.25rem 0.5rem; margin: 0.25rem; border-radius: 4px; font-size: 0.875rem;">${kw}</span>`
+                    `<span class="tag tag--soft">${kw}</span>`
                 ).join('');
 
                 // Transcript - render segments with timestamps and speakers
@@ -249,30 +249,18 @@
 
             // Render grouped segments
             let html = '';
+            const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
             grouped.forEach(group => {
-                const isIdentified = group.speakerId !== 'UNIDENTIFIED';
-                const speakerColor = isIdentified ? 'var(--primary-color)' : 'var(--text-light)';
-                const confidenceText = isIdentified ? ` (${Math.round(group.confidence * 100)}%)` : '';
-
-                const timeUrl = getYouTubeTimestampUrl(youtubeUrl, group.start);
+                const isIdentified = group.speakerId !== 'UNIDENTIFIED' && group.speakerName !== 'No identificado';
                 const timeLabel = formatTime(group.start);
-
                 html += `
-                    <div style="margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #e0e0e0;">
-                        <div style="display: flex; align-items: center; margin-bottom: 0.5rem;">
-                            <a href="${timeUrl}" target="_blank"
-                               style="color: var(--primary-color); text-decoration: none; font-weight: bold; font-size: 0.875rem; margin-right: 1rem;"
-                               title="Ir al minuto ${timeLabel} en YouTube">
-                                🕒 ${timeLabel}
-                            </a>
-                            <span style="color: ${speakerColor}; font-weight: bold;">
-                                ${group.speakerName}${confidenceText}
-                            </span>
+                    <article class="turn${isIdentified ? '' : ' turn--unk'}">
+                        <div class="turn-head">
+                            <a class="turn-time" href="${esc(getYouTubeTimestampUrl(youtubeUrl, group.start))}" target="_blank" rel="noopener">${timeLabel}</a>
+                            <span class="turn-speaker">${esc(group.speakerName)}</span>
                         </div>
-                        <div style="line-height: 1.8; color: var(--text-dark);">
-                            ${group.segments.map(seg => seg.text).join(' ')}
-                        </div>
-                    </div>
+                        <p>${esc(group.segments.map(seg => seg.text).join(' '))}</p>
+                    </article>
                 `;
             });
 

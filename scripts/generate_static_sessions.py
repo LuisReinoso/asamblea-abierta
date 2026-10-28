@@ -195,10 +195,10 @@ def render(sesion: dict, roster: dict[str, dict], relacionadas: dict) -> str:
     if completa:
         etiqueta_tipo = "Sesión del Pleno"
         clips = relacionadas.get("clips_de", {}).get(sid, [])
-        explicacion = (f"Grabación completa de la sesión: {formato_tiempo(duracion)} con "
-                       f"{n_identificados} oradores identificados.")
+        explicacion = "Grabación completa de la sesión, de principio a fin."
         if clips:
-            explicacion += f" Hay {len(clips)} intervenciones de esta sesión publicadas también como clips."
+            explicacion += (f" {len(clips)} de sus intervenciones también están publicadas como clips"
+                            " (al final de la página).")
     else:
         etiqueta_tipo = "Intervención"
         principal = oradores[0]["nombre"] if oradores and oradores[0]["clave"] != "unk" else ""
@@ -287,18 +287,21 @@ def render(sesion: dict, roster: dict[str, dict], relacionadas: dict) -> str:
     <meta name="description" content="{e(descripcion(sesion))}">
     <title>{e(titulo)} - Asamblea Abierta</title>
     <link rel="canonical" href="{BASE}/sessions/{e(sid)}.html">
-    <link rel="stylesheet" href="../assets/css/main.css?v=5">
+    <link rel="stylesheet" href="../assets/css/main.css?v=6">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="../">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
                     <li><a href="../">Inicio</a></li>
-                    <li><a href="../sessions.html">Sesiones</a></li>
+                    <li><a href="../sessions.html" aria-current="page">Sesiones</a></li>
                     <li><a href="../speakers.html">Asambleístas</a></li>
                     <li><a href="../topics.html">Temas</a></li>
                     <li><a href="../download.html">Descargas</a></li>
@@ -369,7 +372,7 @@ def render(sesion: dict, roster: dict[str, dict], relacionadas: dict) -> str:
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener">CC0 1.0</a>
             </p>
         </div>

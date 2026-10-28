@@ -5,19 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explora todas las sesiones de la Asamblea Nacional del Ecuador">
     <title>Sesiones - Asamblea Abierta</title>
-    <link rel="stylesheet" href="assets/css/main.css?v=5">
+    <link rel="stylesheet" href="assets/css/main.css?v=6">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/sessions.html">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="./">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
                     <li><a href="./">Inicio</a></li>
-                    <li><a href="sessions.html">Sesiones</a></li>
+                    <li><a href="sessions.html" aria-current="page">Sesiones</a></li>
                     <li><a href="speakers.html">Asambleístas</a></li>
                     <li><a href="topics.html">Temas</a></li>
                     <li><a href="download.html">Descargas</a></li>
@@ -67,7 +70,7 @@
                 </div>
             </div>
 
-            <div id="sessions-count" class="mt-2" style="color: var(--text-light);">
+            <div id="sessions-count" class="mt-2 muted">
                 Cargando sesiones...
             </div>
 
@@ -79,7 +82,7 @@
                 </div>
             </div>
 
-            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+            <div id="no-results" class="empty-state" style="display: none;">
                 <h3>No se encontraron sesiones</h3>
                 <p>Intenta con otros criterios de búsqueda</p>
             </div>
@@ -89,7 +92,7 @@
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
             </p>
         </div>

@@ -5,21 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explora temas discutidos en la Asamblea Nacional">
     <title>Temas - Asamblea Abierta</title>
-    <link rel="stylesheet" href="assets/css/main.css?v=4">
+    <link rel="stylesheet" href="assets/css/main.css?v=6">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/topics.html">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="./">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
                     <li><a href="./">Inicio</a></li>
                     <li><a href="sessions.html">Sesiones</a></li>
                     <li><a href="speakers.html">Asambleístas</a></li>
-                    <li><a href="topics.html">Temas</a></li>
+                    <li><a href="topics.html" aria-current="page">Temas</a></li>
                     <li><a href="download.html">Descargas</a></li>
                 </ul>
             </nav>
@@ -51,7 +54,7 @@
                 </div>
             </div>
 
-            <div id="topics-count" class="mt-2" style="color: var(--text-light);">
+            <div id="topics-count" class="mt-2 muted">
                 Cargando temas...
             </div>
 
@@ -62,57 +65,57 @@
                 </div>
             </div>
 
-            <div id="no-results" style="display: none; text-align: center; padding: 2rem;">
+            <div id="no-results" class="empty-state" style="display: none;">
                 <h3>No se encontraron temas</h3>
                 <p>Intenta con otros criterios de búsqueda</p>
             </div>
 
-            <div id="no-data" style="display: none; text-align: center; padding: 2rem;">
+            <div id="no-data" class="empty-state" style="display: none;">
                 <h3>Sin temas disponibles</h3>
                 <p>Los temas se generarán automáticamente al procesar las sesiones.</p>
             </div>
         </div>
     </section>
 
-    <section class="section" style="background-color: var(--bg-light);">
+    <section class="section section--tinted">
         <div class="container">
-            <h2 class="text-center">Taxonomía de Temas</h2>
+            <h2 class="text-center">Cómo se clasifican los temas</h2>
             <p class="text-center">Categorías alineadas con las comisiones parlamentarias de Ecuador</p>
 
             <div class="card-grid mt-4">
                 <div class="card">
                     <h4>Derechos Humanos y Participación Ciudadana</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Derechos humanos, participación, ciudadanía, igualdad
                     </p>
                 </div>
                 <div class="card">
                     <h4>Educación, Cultura y Deporte</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Educación, cultura, deporte, universidad, escuela
                     </p>
                 </div>
                 <div class="card">
                     <h4>Salud Pública</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Salud, medicina, hospital, sanitario, pandemia
                     </p>
                 </div>
                 <div class="card">
                     <h4>Desarrollo Económico y Productivo</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Economía, desarrollo, producción, comercio, industria
                     </p>
                 </div>
                 <div class="card">
                     <h4>Régimen Tributario</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Impuestos, tributario, fiscal, IVA, renta
                     </p>
                 </div>
                 <div class="card">
                     <h4>Fiscalización y Control</h4>
-                    <p style="font-size: 0.875rem; color: var(--text-light);">
+                    <p class="muted small">
                         Fiscalización, control, auditoría, corrupción, transparencia
                     </p>
                 </div>
@@ -123,7 +126,7 @@
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
             </p>
         </div>
@@ -239,20 +242,18 @@
                     month: 'short',
                     day: 'numeric'
                 });
-                return `<li><a href="${session.id}" style="font-size: 0.875rem;">${date}: ${session.title.substring(0, 50)}...</a></li>`;
+                const title = session.title.length > 60 ? `${session.title.slice(0, 57)}…` : session.title;
+                return `<li><a href="sessions/${encodeURIComponent(session.id)}.html">${title}</a> <span class="muted">${date}</span></li>`;
             }).join('');
 
             card.innerHTML = `
                 <h3 class="card-title">${topic.topic}</h3>
-                <p class="card-meta">
-                    📊 ${topic.count} sesión(es)
-                </p>
+                <p class="card-meta">${topic.count} ${topic.count === 1 ? 'video' : 'videos'}</p>
                 <div class="card-content">
-                    <p><strong>Sesiones recientes:</strong></p>
-                    <ul style="margin-left: 1.5rem; margin-top: 0.5rem;">
+                    <ul class="topic-sessions">
                         ${sessionsHTML}
                     </ul>
-                    ${topic.count > 3 ? `<p class="mt-2" style="font-size: 0.875rem; color: var(--text-light);">y ${topic.count - 3} sesión(es) más...</p>` : ''}
+                    ${topic.count > 3 ? `<p class="mt-2 muted small">y ${topic.count - 3} más</p>` : ''}
                 </div>
             `;
 

@@ -7,20 +7,23 @@
     <meta name="keywords" content="Asamblea Nacional, Ecuador, transparencia, sesiones, legislativas">
     <meta name="author" content="Transparency Platform">
 
-    <title>Asamblea Abierta - Transparencia Legislativa</title>
+    <title>Asamblea Abierta: lo que se dice en la Asamblea Nacional</title>
 
-    <link rel="stylesheet" href="assets/css/main.css?v=5">
+    <link rel="stylesheet" href="assets/css/main.css?v=6">
     <link rel="canonical" href="https://luisreinoso.dev/asamblea-abierta/">
 </head>
 <body>
-    <header>
+    <header class="site-header">
         <div class="container">
-            <h1>🏛️ Asamblea Abierta</h1>
+            <a class="brand" href="./">
+                <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5 3 7v1.5h18V7zM5 10h2.5v7.5H5zm5.75 0h2.5v7.5h-2.5zM16.5 10H19v7.5h-2.5zM3 19h18v2.5H3z"/></svg>
+                <span>Asamblea Abierta</span>
+            </a>
             <input type="checkbox" id="nav-toggle" class="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú">☰</label>
-            <nav>
+            <label for="nav-toggle" class="nav-toggle-label" aria-label="Abrir menú"><span class="nav-toggle-bars" aria-hidden="true"></span></label>
+            <nav aria-label="Principal">
                 <ul>
-                    <li><a href="./">Inicio</a></li>
+                    <li><a href="./" aria-current="page">Inicio</a></li>
                     <li><a href="sessions.html">Sesiones</a></li>
                     <li><a href="speakers.html">Asambleístas</a></li>
                     <li><a href="topics.html">Temas</a></li>
@@ -32,14 +35,14 @@
 
     <section class="hero">
         <div class="container">
-            <h1>Transparencia Legislativa</h1>
-            <p>Explora, busca y analiza las sesiones de la Asamblea Nacional del Ecuador</p>
+            <h1>Lo que se dice en la Asamblea</h1>
+            <p>Cada sesión y cada intervención, con su video, la transcripción completa y quién habla en cada momento.</p>
 
             <div class="search-bar">
                 <input
                     type="text"
                     id="search-input"
-                    placeholder="Buscar en las sesiones..."
+                    placeholder="Busca un tema o un asambleísta"
                     autocomplete="off"
                 >
             </div>
@@ -97,7 +100,7 @@
         </div>
     </section>
 
-    <section class="section" style="background-color: var(--bg-light);">
+    <section class="section section--tinted">
         <div class="container">
             <div class="section-header">
                 <h2>Lo más reciente</h2>
@@ -124,18 +127,18 @@
     <section class="section">
         <div class="container">
             <div class="section-header">
-                <h2>Sobre este Proyecto</h2>
+                <h2>Sobre el proyecto</h2>
             </div>
 
-            <div style="max-width: 800px; margin: 0 auto;">
+            <div class="prose">
                 <p>
-                    Esta plataforma utiliza inteligencia artificial para transcribir, clasificar y hacer
-                    buscables las sesiones de la Asamblea Nacional del Ecuador. Nuestro objetivo es
-                    proporcionar a la ciudadanía acceso fácil y transparente a la información legislativa.
+                    Asamblea Abierta transcribe los videos oficiales de la Asamblea Nacional del Ecuador,
+                    identifica quién habla por su voz y lo publica todo como datos abiertos. Los modelos
+                    corren en una sola computadora, sin servicios de pago.
                 </p>
 
-                <h3 class="mt-4">Características</h3>
-                <ul style="margin-left: 2rem; margin-bottom: 1rem;">
+                <h3 class="mt-4">Cómo funciona</h3>
+                <ul>
                     <li>Transcripción local con <strong>faster-whisper large-v3-turbo</strong></li>
                     <li>Diarización de hablantes con <strong>pyannote community-1</strong></li>
                     <li>Identificación de oradores por su voz (<strong>WeSpeaker</strong>), con una base de voces construida a partir de los clips oficiales</li>
@@ -143,10 +146,10 @@
                     <li>Clasificación por temas alineada con las comisiones parlamentarias</li>
                     <li>Búsqueda rápida en tiempo real</li>
                     <li>Datasets descargables en JSON</li>
-                    <li>100% código abierto, modelos locales y datos de dominio público — sin dependencias de APIs de pago</li>
+                    <li>Código abierto, modelos locales y datos de dominio público</li>
                 </ul>
 
-                <h3 class="mt-4">Legal y Transparencia</h3>
+                <h3 class="mt-4">Base legal</h3>
                 <p>
                     Este proyecto cumple con la <strong>LOTAIP 2023</strong> (Ley Orgánica de
                     Transparencia y Acceso a la Información Pública) y el <strong>Artículo 18
@@ -154,13 +157,9 @@
                     pública. Los documentos legislativos son de dominio público.
                 </p>
 
-                <div class="text-center mt-4">
-                    <a href="https://github.com/tu-usuario/asamblea-nacional" class="btn" target="_blank">
-                        Ver en GitHub
-                    </a>
-                    <a href="download.html" class="btn btn-secondary">
-                        Descargar Datos
-                    </a>
+                <div class="btn-row mt-4">
+                    <a href="https://github.com/LuisReinoso/asamblea-abierta" class="btn" target="_blank" rel="noopener">Ver el código</a>
+                    <a href="download.html" class="btn btn-ghost">Descargar los datos</a>
                 </div>
             </div>
         </div>
@@ -169,7 +168,7 @@
     <footer>
         <div class="container">
             <p>
-                Asamblea Abierta - Transparencia Legislativa<br>
+                Asamblea Abierta · datos abiertos de la Asamblea Nacional del Ecuador<br>
                 Datos de dominio público bajo licencia <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
             </p>
             <p>

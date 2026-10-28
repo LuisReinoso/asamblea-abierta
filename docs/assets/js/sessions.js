@@ -173,7 +173,7 @@ function displayNoSessions(message) {
             <div class="card-content">
                 <p>${message}</p>
                 <p class="mt-2">
-                    <a href="https://github.com/tu-usuario/asamblea-nacional" target="_blank">
+                    <a href="https://github.com/LuisReinoso/asamblea-abierta" target="_blank">
                         Ver documentación en GitHub
                     </a>
                 </p>
