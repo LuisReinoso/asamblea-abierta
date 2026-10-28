@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:46:54.636558",
+  "generated_at": "2026-10-28T17:27:03.702756",
   "total_sessions": 1352,
   "sessions": [
     {
@@ -1802,7 +1802,7 @@
       "url": "https://www.youtube.com/watch?v=h0-KqqCsxWU",
       "file_path": "data/sessions/h0-KqqCsxWU.json",
       "video_type": "full_session",
-      "speaker_count": 3,
+      "speaker_count": 17,
       "topics": [],
       "keywords": [],
       "summary": "",
