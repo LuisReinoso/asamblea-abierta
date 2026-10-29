@@ -97,5 +97,63 @@ class YouTubePoliteTest(unittest.TestCase):
         self.assertEqual(seen, {"full": True, "clip": False})
 
 
+class SilentClipTest(unittest.TestCase):
+    """A clip that is pure digital silence gets flagged once, not retried nightly."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        d = Path(self.tmp.name)
+        self.patches = [
+            mock.patch.object(rb, "LOG_FILE", d / "batch.log"),
+            mock.patch.object(rb, "DATA_SESSIONS", d / "sessions"),
+            mock.patch.object(rb, "STATUS_FILE", d / "status.json"),
+            mock.patch.object(rb, "BOT_PAUSE_FILE", d / "pause.json"),
+        ]
+        for p in self.patches:
+            p.start()
+        (d / "sessions").mkdir()
+        self.video = d / "quiet.mp4"
+        self.video.write_bytes(b"")
+        index = {"sessions": [{"video_id": "quiet", "video_type": "clip", "title": "Sesión 1"}]}
+        (rb.DATA_SESSIONS / "index.json").write_text(json.dumps(index))
+
+    def tearDown(self):
+        for p in self.patches:
+            p.stop()
+        self.tmp.cleanup()
+
+    def run_empty_transcript(self, peak):
+        def transcribe(script, *args, **kwargs):
+            out = Path(args[args.index("--output") + 1])
+            out.write_text(json.dumps({"segments": []}))
+            return True
+
+        downloader = fake_downloader(lambda *a, **k: self.video)
+        with mock.patch.object(rb, "downloader_module", return_value=downloader), \
+             mock.patch.object(rb, "run_script", side_effect=transcribe), \
+             mock.patch.object(rb, "max_volume_db", return_value=peak):
+            return rb.process_video({"video_id": "quiet", "video_type": "clip"}, keep_video=False)
+
+    def test_silent_clip_is_flagged_and_leaves_the_queue(self):
+        res = self.run_empty_transcript(-91.0)
+        self.assertTrue(res["ok"])
+        self.assertTrue(res["silent"])
+        self.assertFalse(self.video.exists())
+        index = json.loads((rb.DATA_SESSIONS / "index.json").read_text())
+        self.assertEqual(index["sessions"][0]["skip_reason"], "silent audio")
+
+        with mock.patch.object(sys, "argv", ["run_batch"]), \
+             mock.patch.object(rb, "process_video") as process:
+            rb.main()
+        process.assert_not_called()
+
+    def test_empty_transcript_with_sound_is_still_a_failure(self):
+        res = self.run_empty_transcript(-12.0)
+        self.assertFalse(res["ok"])
+        self.assertEqual(res["error"], "transcription produced 0 segments")
+        index = json.loads((rb.DATA_SESSIONS / "index.json").read_text())
+        self.assertNotIn("skip_reason", index["sessions"][0])
+
+
 if __name__ == "__main__":
     unittest.main()

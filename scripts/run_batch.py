@@ -55,6 +55,9 @@ LOG_FILE = PROJECT_ROOT / "temp" / "batch.log"
 QA_SAMPLES_DIR = PROJECT_ROOT / "temp" / "qa_samples"  # local-only, temp/ is gitignored
 QA_FRAGMENT_SECONDS = 20
 BOT_PAUSE_FILE = PROJECT_ROOT / "temp" / "youtube_pause.json"
+# A clip whose loudest sample is below this is digital silence (hKcIpbZoAsg
+# peaks at -91 dB): an empty transcript is the right answer, not a failure.
+SILENCE_MAX_DB = -60.0
 
 
 def log(msg: str):
@@ -156,6 +159,31 @@ def run_script(script: str, *args: str, timeout: int = 7200) -> bool:
     return True
 
 
+def max_volume_db(path: Path) -> float | None:
+    """Loudest sample of the file's audio in dBFS, or None if ffmpeg can't tell."""
+    try:
+        r = subprocess.run(
+            ["ffmpeg", "-hide_banner", "-nostats", "-i", str(path), "-vn", "-af", "volumedetect", "-f", "null", "-"],
+            capture_output=True, text=True, timeout=1800,
+        )
+    except (OSError, subprocess.TimeoutExpired):
+        return None
+    m = re.search(r"max_volume: (-?[\d.]+|-inf) dB", r.stderr)
+    if not m:
+        return None
+    return float("-inf") if m.group(1) == "-inf" else float(m.group(1))
+
+
+def mark_silent(video_id: str) -> None:
+    """Flag an index entry as silent so later runs stop picking it up."""
+    index_path = DATA_SESSIONS / "index.json"
+    index = json.loads(index_path.read_text())
+    for s in index.get("sessions", []):
+        if s["video_id"] == video_id:
+            s["skip_reason"] = "silent audio"
+    index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2))
+
+
 def process_video(session_meta: dict, keep_video: bool) -> dict:
     vid = session_meta["video_id"]
     started = time.time()
@@ -215,8 +243,16 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
     except (json.JSONDecodeError, OSError):
         has_segments = False
     if not has_segments:
-        result["error"] = "transcription produced 0 segments"
         out_session.unlink(missing_ok=True)
+        peak = max_volume_db(video_path)
+        if peak is not None and peak < SILENCE_MAX_DB:
+            mark_silent(vid)
+            if not keep_video:
+                video_path.unlink(missing_ok=True)
+            log(f"  audio is silent (peak {peak:.0f} dB): marked in the index, not retried")
+            result.update({"ok": True, "silent": True, "total_time": round(time.time() - started, 1)})
+            return result
+        result["error"] = "transcription produced 0 segments"
         return result
 
     voiceprint_args = [
@@ -332,7 +368,7 @@ def main():
     index = json.loads((DATA_SESSIONS / "index.json").read_text())
     sessions = index.get("sessions", [])
     existing = {f.stem for f in DATA_SESSIONS.iterdir() if f.suffix == ".json" and f.stem != "index"}
-    pending = [s for s in sessions if s["video_id"] not in existing]
+    pending = [s for s in sessions if s["video_id"] not in existing and not s.get("skip_reason")]
 
     if args.video_type:
         pending = [s for s in pending if s.get("video_type", "clip") == args.video_type]
