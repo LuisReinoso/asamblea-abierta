@@ -1,0 +1,54 @@
+{
+  "text": "la asambleísta Ana Belén Hiela.  Gracias, presidente.  Bueno, el otro día nos quedábamos aquí  en el nivel de debate de esta asamblea  y yo voy a coincidir, no se puede caer más bajo.  Realmente es impresentable.  Si uno tiene argumentos, asambleísta Tapia,  está de que diga que no tiene argumentos.  Pero es impresentable que usted arrastre a la familia de uno  y meta a mi madre en este debate.  Era cuestión de tiempo, señores colegas,  que pasen estas cosas.  Yo lo sabía cuando me presenté  y ¿saben qué?  Nada que los miembros de la bancada de oficialismo  puedan decirme a mí en este pleno, me llega.  Yo vi a mi madre irse detenida injustamente  a una mujer inocente que le entregó su vida a este país.  No me llega asambleísta Tapia,  pero sepa, sepa que la razón por la que esta asamblea  tiene este nivel de discurso  y este nivel de calificación y credibilidad  es por este tipo de cosas.  Es increíble.  Si no tienen argumentos, mejor no intervenir.  Pero arrastrar a la familia de uno en estos términos  es realmente bajo.  Muchas gracias.",
+  "language": "es",
+  "duration": 84.87,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 83.04,
+      "text": "la asambleísta Ana Belén Hiela.  Gracias, presidente.  Bueno, el otro día nos quedábamos aquí  en el nivel de debate de esta asamblea  y yo voy a coincidir, no se puede caer más bajo.  Realmente es impresentable.  Si uno tiene argumentos, asambleísta Tapia,  está de que diga que no tiene argumentos.  Pero es impresentable que usted arrastre a la familia de uno  y meta a mi madre en este debate.  Era cuestión de tiempo, señores colegas,  que pasen estas cosas.  Yo lo sabía cuando me presenté  y ¿saben qué?  Nada que los miembros de la bancada de oficialismo  puedan decirme a mí en este pleno, me llega.  Yo vi a mi madre irse detenida injustamente  a una mujer inocente que le entregó su vida a este país.  No me llega asambleísta Tapia,  pero sepa, sepa que la razón por la que esta asamblea  tiene este nivel de discurso  y este nivel de calificación y credibilidad  es por este tipo de cosas.  Es increíble.  Si no tienen argumentos, mejor no intervenir.  Pero arrastrar a la familia de uno en estos términos  es realmente bajo.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Ana Belén Yela Duarte",
+        "confidence": 0.75
+      }
+    }
+  ],
+  "video_id": "RuliU82111M",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Ana Belén Yela Duarte",
+      "confidence": 0.75,
+      "votes": {
+        "Ana Belén Yela Duarte": 3,
+        "[OOV] De La Asamblea Nacional": 4
+      },
+      "samples": 7,
+      "successful_reads": 7,
+      "source": "title"
+    }
+  },
+  "title": "Asambleísta Ana Yela - Sesión 040 - II Intervención",
+  "url": "https://www.youtube.com/watch?v=RuliU82111M",
+  "published_at": "2025-09-22T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "RuliU82111M",
+  "date": "2025-09-22T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=RuliU82111M",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Ana Belén Yela Duarte",
+      "party": null,
+      "province": null,
+      "total_time": 83.01,
+      "interventions": 1,
+      "word_count": 184
+    }
+  ]
+}

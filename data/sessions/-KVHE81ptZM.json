@@ -1,0 +1,97 @@
+{
+  "text": "El presidente de la Asamblea Nacional, Neil Solsen, se acerca también al atril.  Prestará o rendirá una declaración frente a este homenaje que se desarrolla en la Asamblea Nacional  en memoria de la asambleísta Mariuxi Sánchez.  Lo recordábamos, ya casi para finalizar el mes de agosto,  se conoció la noticia del fallecimiento de la legisladora representante de Orellá. Hoy la Asamblea Nacional se detiene un instante para rendir un respetuoso homenaje  a la memoria del asambleísta Mariuxi Sánchez.  Frente a la ausencia, cuando es definitiva, las palabras se encogen, pierden fuerza, se vuelven pequeñas.  No hay discurso que pueda expresar lo que significa perder a quien fue amado.  Sin embargo, hay algo más elocuente que cualquier palabra.  La presencia de quienes hoy están aquí, sosteniendo con amor el silencio.  A sus amigos, sus seres queridos, su bancada, sus colegas, su papá, su mamá, sus hermanos, sus sobrinos.  Hoy esta Asamblea Nacional acompaña con respeto y solidaridad a sus padres.  Ramón Vicente Sánchez Chamba y Elba Esperanza Sarango Sánchez.  A su hermana, Yadira Alexandra Sánchez Sarango.  A su sobrino, Adair Alejandro Sánchez Sarango.  Y a sus seres queridos, Sandra Catherine Villalta Fajardo, Angie Jennifer Cruz Vega,  Catherine Alexandrin Triago Vera y Augusto Enver Aguirre Macas.  En ellos vive el recuerdo más profundo y verdadero de Mariuxi.  Ese que trasciende cualquier espacio público y se guarda en la intimidad del hogar.  Ellos que hoy cargan con valentía una ausencia imposible de medir,  nos demuestra que la vida de un ser humano no se reduce a su oficio público,  que no se define por los títulos que ocupó, sino por las vidas que tocó,  los afectos que construyó y las memorias que sobreviven a toda despedida.  A nosotros, en este pleno, la ausencia de Mariuxi nos recuerda que el tiempo es breve,  que los espacios que ocupamos son prestados,  y que lo importante no es cuánto tiempo permaneceremos en el cargo,  sino cómo honramos desde aquí al país que amamos y a quienes nos confiaron su representación.  No todos venimos por los mismos caminos ni nos guía la misma visión.  Pero hay algo que inevitablemente nos une,  y eso es la voluntad de representar a quienes no siempre tienen cómo hacerse escuchar  y de intentar, con mayor o menor acierto, construir un país mejor del que lo encontramos.  Desde este espacio, en este día, reconocemos con respeto la trayectoria de Mariuxi y Cleopatria Sánchez Arango  y su paso por esta Asamblea Nacional.  Y no lo hacemos desde la coincidencia política, pero lo hacemos desde el reconocimiento humano.  Porque servir desde una curul, sostener una causa, hacerse responsable de una voz colectiva,  es en sí mismo un acto que merece honor y respeto.  Que su memoria nos recuerde, con la seriedad que impone toda pérdida,  que el poder no nos pertenece, que los escaños no nos son dados para siempre  y que la voz que representamos debe estar siempre por encima del cargo que ocupamos.  Porque el tiempo es limitado y lo único que permanece es la huella de cada vida que fue vivida con entrega.  Desde esta Asamblea Nacional, y en nombre de los 151 asambleístas que la conforman,  expresamos nuestra solidaridad más sincera a toda su familia y a quienes caminaron junto a ella con lealtad.  Que encuentren consuelo en lo vivido, en lo construido,  y en todo aquello que deja al mundo una persona que sirvió con entrega y amor a su país.  Mariuxi, que descanse en paz.  Muchas gracias. Esas fueron las palabras del presidente de la Asamblea Nacional, Nils Olsen.  Dijo que es un respetuoso homenaje a la memoria de la legisladora Mariusi Sánchez.  La Asamblea Nacional acompaña con respeto y solidaridad a sus padres, hermanas, sobrino  y a sus seres queridos en quienes vive el recuerdo de la asambleísta.  La vida de un ser humano, dijo, no se reduce a su oficio o a los títulos que ocupó,  sino a las vidas que tocó.  La ausencia de Mariusi Sánchez recuerda el tiempo que es breve  y que lo importante es cómo se honra al país que amamos, al país que confió  para entregarles esta designación de representación.",
+  "language": "es",
+  "duration": 298.89,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 20.03,
+      "text": "El presidente de la Asamblea Nacional, Neil Solsen, se acerca también al atril.  Prestará o rendirá una declaración frente a este homenaje que se desarrolla en la Asamblea Nacional  en memoria de la asambleísta Mariuxi Sánchez.  Lo recordábamos, ya casi para finalizar el mes de agosto,  se conoció la noticia del fallecimiento de la legisladora representante de Orellá.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Maritza Flores",
+        "confidence": 0.8903,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 20.87,
+      "end": 264.94,
+      "text": "Hoy la Asamblea Nacional se detiene un instante para rendir un respetuoso homenaje  a la memoria del asambleísta Mariuxi Sánchez.  Frente a la ausencia, cuando es definitiva, las palabras se encogen, pierden fuerza, se vuelven pequeñas.  No hay discurso que pueda expresar lo que significa perder a quien fue amado.  Sin embargo, hay algo más elocuente que cualquier palabra.  La presencia de quienes hoy están aquí, sosteniendo con amor el silencio.  A sus amigos, sus seres queridos, su bancada, sus colegas, su papá, su mamá, sus hermanos, sus sobrinos.  Hoy esta Asamblea Nacional acompaña con respeto y solidaridad a sus padres.  Ramón Vicente Sánchez Chamba y Elba Esperanza Sarango Sánchez.  A su hermana, Yadira Alexandra Sánchez Sarango.  A su sobrino, Adair Alejandro Sánchez Sarango.  Y a sus seres queridos, Sandra Catherine Villalta Fajardo, Angie Jennifer Cruz Vega,  Catherine Alexandrin Triago Vera y Augusto Enver Aguirre Macas.  En ellos vive el recuerdo más profundo y verdadero de Mariuxi.  Ese que trasciende cualquier espacio público y se guarda en la intimidad del hogar.  Ellos que hoy cargan con valentía una ausencia imposible de medir,  nos demuestra que la vida de un ser humano no se reduce a su oficio público,  que no se define por los títulos que ocupó, sino por las vidas que tocó,  los afectos que construyó y las memorias que sobreviven a toda despedida.  A nosotros, en este pleno, la ausencia de Mariuxi nos recuerda que el tiempo es breve,  que los espacios que ocupamos son prestados,  y que lo importante no es cuánto tiempo permaneceremos en el cargo,  sino cómo honramos desde aquí al país que amamos y a quienes nos confiaron su representación.  No todos venimos por los mismos caminos ni nos guía la misma visión.  Pero hay algo que inevitablemente nos une,  y eso es la voluntad de representar a quienes no siempre tienen cómo hacerse escuchar  y de intentar, con mayor o menor acierto, construir un país mejor del que lo encontramos.  Desde este espacio, en este día, reconocemos con respeto la trayectoria de Mariuxi y Cleopatria Sánchez Arango  y su paso por esta Asamblea Nacional.  Y no lo hacemos desde la coincidencia política, pero lo hacemos desde el reconocimiento humano.  Porque servir desde una curul, sostener una causa, hacerse responsable de una voz colectiva,  es en sí mismo un acto que merece honor y respeto.  Que su memoria nos recuerde, con la seriedad que impone toda pérdida,  que el poder no nos pertenece, que los escaños no nos son dados para siempre  y que la voz que representamos debe estar siempre por encima del cargo que ocupamos.  Porque el tiempo es limitado y lo único que permanece es la huella de cada vida que fue vivida con entrega.  Desde esta Asamblea Nacional, y en nombre de los 151 asambleístas que la conforman,  expresamos nuestra solidaridad más sincera a toda su familia y a quienes caminaron junto a ella con lealtad.  Que encuentren consuelo en lo vivido, en lo construido,  y en todo aquello que deja al mundo una persona que sirvió con entrega y amor a su país.  Mariuxi, que descanse en paz.  Muchas gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Presidente De La Asamblea Nacional",
+        "confidence": 0.62
+      }
+    },
+    {
+      "id": 2,
+      "start": 267.65,
+      "end": 298.97,
+      "text": "Esas fueron las palabras del presidente de la Asamblea Nacional, Nils Olsen.  Dijo que es un respetuoso homenaje a la memoria de la legisladora Mariusi Sánchez.  La Asamblea Nacional acompaña con respeto y solidaridad a sus padres, hermanas, sobrino  y a sus seres queridos en quienes vive el recuerdo de la asambleísta.  La vida de un ser humano, dijo, no se reduce a su oficio o a los títulos que ocupó,  sino a las vidas que tocó.  La ausencia de Mariusi Sánchez recuerda el tiempo que es breve  y que lo importante es cómo se honra al país que amamos, al país que confió  para entregarles esta designación de representación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Maritza Flores",
+        "confidence": 0.8903,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "-KVHE81ptZM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Presidente De La Asamblea Nacional",
+      "confidence": 0.62,
+      "votes": {
+        "[OOV] De La Asamblea Nacional": 3,
+        "[OOV] Presidente De La Asamblea Nacional": 5
+      },
+      "samples": 10,
+      "successful_reads": 8,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 18,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Presidente de la Asamblea Nacional Niels Olsen - Sesión 036",
+  "url": "https://www.youtube.com/watch?v=-KVHE81ptZM",
+  "published_at": "2025-09-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "-KVHE81ptZM",
+  "date": "2025-09-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=-KVHE81ptZM",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Presidente De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 244.07,
+      "interventions": 1,
+      "word_count": 521
+    },
+    {
+      "id": "speaker_1",
+      "name": "Maritza Flores",
+      "party": null,
+      "province": null,
+      "total_time": 51.32,
+      "interventions": 2,
+      "word_count": 168
+    }
+  ]
+}
