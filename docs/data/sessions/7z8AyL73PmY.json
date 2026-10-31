@@ -1,0 +1,174 @@
+{
+  "text": "Esteban Torres. Gracias, señor presidente. Pido la reconsideración de la votación. Señor Secretario, tome votación sobre la recosificación. Gracias. Cierre de registro, señor secretario. Me permito informar, señor presidente, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por  el asambleísta Esteban Torres.  Señoras y señores asambleístas, por favor consignar su voto. Señor Secretario, proclame resultados. Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 143 asambleístas presentes  contamos con 62 votos afirmativos, 80 negativos, un voto blanco y una abstención.  Por tanto, no ha sido aprobada la reconsideración planteada por el asambleísta Esteban Torres. Señor Secretario.",
+  "language": "es",
+  "duration": 266.91,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 1.03,
+      "text": "Esteban Torres.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.6179,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 1.31,
+      "end": 4.6,
+      "text": "Gracias, señor presidente. Pido la reconsideración de la votación.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.88
+      }
+    },
+    {
+      "id": 2,
+      "start": 8.72,
+      "end": 11.03,
+      "text": "Señor Secretario, tome votación sobre la recosificación.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.6179,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 11.03,
+      "end": 22.02,
+      "text": "Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.88
+      }
+    },
+    {
+      "id": 4,
+      "start": 154.71,
+      "end": 156.36,
+      "text": "Cierre de registro, señor secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.6179,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 157.36,
+      "end": 172.75,
+      "text": "Me permito informar, señor presidente, que contamos con 143 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la reconsideración planteada por  el asambleísta Esteban Torres.  Señoras y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.88
+      }
+    },
+    {
+      "id": 6,
+      "start": 237.18,
+      "end": 239.12,
+      "text": "Señor Secretario, proclame resultados.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.6179,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 244.3,
+      "end": 264.65,
+      "text": "Señor operador, presente los resultados.  Señor presidente, me permite informar que de un total de 143 asambleístas presentes  contamos con 62 votos afirmativos, 80 negativos, un voto blanco y una abstención.  Por tanto, no ha sido aprobada la reconsideración planteada por el asambleísta Esteban Torres.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "De La Asamblea Nacional",
+        "confidence": 0.88
+      }
+    },
+    {
+      "id": 8,
+      "start": 266.27,
+      "end": 266.98,
+      "text": "Señor Secretario.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.6179,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "7z8AyL73PmY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "De La Asamblea Nacional",
+      "confidence": 0.88,
+      "votes": {
+        "[OOV] De La Asamblea Nacional": 7,
+        "[OOV] De La Asamblea": 1
+      },
+      "samples": 18,
+      "successful_reads": 8,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] De La Asamblea Nacional": 1
+      },
+      "samples": 3,
+      "successful_reads": 1,
+      "source": null
+    }
+  },
+  "title": "Reconsideración de la votación de la moción del asambleísta  Luis Fernando Torres - Sesión 025",
+  "url": "https://www.youtube.com/watch?v=7z8AyL73PmY",
+  "published_at": "2025-08-07T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "7z8AyL73PmY",
+  "date": "2025-08-07T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=7z8AyL73PmY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "De La Asamblea Nacional",
+      "party": null,
+      "province": null,
+      "total_time": 50.02,
+      "interventions": 4,
+      "word_count": 93
+    },
+    {
+      "id": "speaker_1",
+      "name": "Guillermo Vicente Báez Mera",
+      "party": null,
+      "province": null,
+      "total_time": 7.61,
+      "interventions": 5,
+      "word_count": 20
+    }
+  ]
+}

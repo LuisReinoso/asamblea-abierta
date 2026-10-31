@@ -1,0 +1,84 @@
+{
+  "text": "Creo que una vez establecido el reglamento vamos a ver por dónde va caminando la facultad específicamente de las Fuerzas Armadas  y el papel que cada uno de los poderes del Estado va a tomar en este tema. Paralelamente, legislador, ayer la Comisión Ocasional Especializada de Emiendas Constitucionales",
+  "language": "es",
+  "duration": 33.09,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 9.19,
+      "text": "Creo que una vez establecido el reglamento vamos a ver por dónde va caminando la facultad específicamente de las Fuerzas Armadas  y el papel que cada uno de los poderes del Estado va a tomar en este tema.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Jorge Peñafiel",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.53,
+      "end": 14.61,
+      "text": "Paralelamente, legislador, ayer la Comisión Ocasional Especializada de Emiendas Constitucionales",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Jorge Peñafiel",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "csz0WruTYno",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Jorge Peñafiel",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Jorge Peñafiel": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "Jorge Peñafiel",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Jorge Peñafiel": 2
+      },
+      "samples": 2,
+      "successful_reads": 2,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Sesión 881 del Pleno de la Asamblea Nacional.",
+  "url": "https://www.youtube.com/watch?v=csz0WruTYno",
+  "published_at": "2023-12-21T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "csz0WruTYno",
+  "date": "2023-12-21T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=csz0WruTYno",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Jorge Peñafiel",
+      "party": null,
+      "province": null,
+      "total_time": 9.16,
+      "interventions": 1,
+      "word_count": 38
+    },
+    {
+      "id": "speaker_1",
+      "name": "Jorge Peñafiel",
+      "party": null,
+      "province": null,
+      "total_time": 5.08,
+      "interventions": 1,
+      "word_count": 10
+    }
+  ]
+}

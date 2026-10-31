@@ -1,0 +1,54 @@
+{
+  "text": "Asambleísta Johnny Terán.  Gracias, señor presidente, compañeros y compañeras asambleístas.  Un saludo a todos los ciudadanos que nos ven por los medios digitales,  especialmente a los ciudadanos en mi querida provincia de Los Ríos.  Quiero agradecer a Inés Alarcón, a la presidenta de la comisión y a todos sus miembros  por darle celeridad a esta importante ley que la presenté hace aproximadamente un año.  En este momento hablamos de la seguridad digital de todos los ecuatorianos.  De proteger su información, su privacidad y sus derechos en un mundo cada vez más conectado.  Hoy cualquier ciudadano puede ser víctima de un fraude digital, de un robo de identidad o de un ciberataque.  Y lo que antes parecía un problema lejano, ahora es una amenaza directa a la economía,  la salud, la educación y la seguridad nacional.  Esta ley no solo fortalece la ciberseguridad del Estado,  también garantiza que los datos personales de los ciudadanos estén protegidos,  que haya responsabilidades claras entre instituciones  y que los servicios esenciales como los hospitales, los bancos o el sistema tributario  tengan blindaje frente a ataques digitales.  Además, esta norma promueve una gobernanza moderna basada en principios internacionales,  con enfoque técnico preventivo y con respeto a los derechos fundamentales.  No se trata de controlar a los ciudadanos, sino de protegerlos en el entorno digital.  Se trata de avanzar hacia un país donde la tecnología sea sinónimo de confianza y no de vulnerabilidad.  Por eso, como proponente de esta ley, invito a todos los colegas asambleístas a debatirla con responsabilidad,  pero también con urgencia, porque en el mundo digital la omisión también es una forma de abandono.  Fortalecer nuestra ciberseguridad es proteger la soberanía, la democracia y el futuro de nuestro país.  Gracias.",
+  "language": "es",
+  "duration": 141.43,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 139.08,
+      "text": "Asambleísta Johnny Terán.  Gracias, señor presidente, compañeros y compañeras asambleístas.  Un saludo a todos los ciudadanos que nos ven por los medios digitales,  especialmente a los ciudadanos en mi querida provincia de Los Ríos.  Quiero agradecer a Inés Alarcón, a la presidenta de la comisión y a todos sus miembros  por darle celeridad a esta importante ley que la presenté hace aproximadamente un año.  En este momento hablamos de la seguridad digital de todos los ecuatorianos.  De proteger su información, su privacidad y sus derechos en un mundo cada vez más conectado.  Hoy cualquier ciudadano puede ser víctima de un fraude digital, de un robo de identidad o de un ciberataque.  Y lo que antes parecía un problema lejano, ahora es una amenaza directa a la economía,  la salud, la educación y la seguridad nacional.  Esta ley no solo fortalece la ciberseguridad del Estado,  también garantiza que los datos personales de los ciudadanos estén protegidos,  que haya responsabilidades claras entre instituciones  y que los servicios esenciales como los hospitales, los bancos o el sistema tributario  tengan blindaje frente a ataques digitales.  Además, esta norma promueve una gobernanza moderna basada en principios internacionales,  con enfoque técnico preventivo y con respeto a los derechos fundamentales.  No se trata de controlar a los ciudadanos, sino de protegerlos en el entorno digital.  Se trata de avanzar hacia un país donde la tecnología sea sinónimo de confianza y no de vulnerabilidad.  Por eso, como proponente de esta ley, invito a todos los colegas asambleístas a debatirla con responsabilidad,  pero también con urgencia, porque en el mundo digital la omisión también es una forma de abandono.  Fortalecer nuestra ciberseguridad es proteger la soberanía, la democracia y el futuro de nuestro país.  Gracias.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Johnny Enrique Terán Barragán",
+        "confidence": 0.6
+      }
+    }
+  ],
+  "video_id": "KCHydfrnATk",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Johnny Enrique Terán Barragán",
+      "confidence": 0.6,
+      "votes": {
+        "Johnny Enrique Terán Barragán": 3,
+        "[OOV] De La Asamblea Nacional": 2
+      },
+      "samples": 5,
+      "successful_reads": 5,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Johnny Terán - Sesión 024 - #LeyCiberseguridad",
+  "url": "https://www.youtube.com/watch?v=KCHydfrnATk",
+  "published_at": "2025-08-05T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "KCHydfrnATk",
+  "date": "2025-08-05T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=KCHydfrnATk",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Johnny Enrique Terán Barragán",
+      "party": null,
+      "province": null,
+      "total_time": 139.05,
+      "interventions": 1,
+      "word_count": 286
+    }
+  ]
+}
