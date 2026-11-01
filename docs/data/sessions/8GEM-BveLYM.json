@@ -1,0 +1,119 @@
+{
+  "text": "la moción y tomar votación. Moción presentada mediante memorando número AN-CGDI-2025-0136-M  de 11 de junio de 2025, dirigido al señor Nils Olsen-Pitt, presidente de la Asamblea  Nacional. Moción. De mi consideración, con la intención de dar continuidad al tratamiento  y realizar las modificaciones pertinentes respecto del criterio jurídico sobre las  acciones que la Asamblea Nacional debería adoptar respecto del dictamen 1-25-OP-25 de  la Corte Constitucional referente a la objeción parcial por inconstitucionalidad del proyecto  de la Ley Orgánica de las Personas con Discapacidad. Moción. Que el proyecto de Ley Orgánica de  las Personas con Discapacidad regrese a la Comisión para dar trámite respectivo de conformidad  con lo establecido en el artículo 136, número 2 de la Ley Orgánica de la Función Legislativa,  con sentimientos de distinguida consideración. Atentamente, señor Jaime David Estrada Medranda,  presidente de la Comisión Especializada Permanente de Garantías Constitucionales,  Derechos Humanos, Derechos Colectivos y la Interculturalidad.  Hasta aquí la lectura de la moción. Señoras y señores asambleístas,  por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Gracias.  Gracias. Cierre registro, señor secretario. Me permito informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Jaime David Estrada Medranda.  Señores y señores asambleístas, por favor consignar su voto. Secretario, por favor, proclame resultados. Señor operador, presente los resultados. Me permito informar, señor presidente, que la moción presentada por el asambleísta Jaime David Estrada Mirá Medranda ha sido aprobado por unanimidad.",
+  "language": "es",
+  "duration": 336.22,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 80.74,
+      "text": "la moción y tomar votación. Moción presentada mediante memorando número AN-CGDI-2025-0136-M  de 11 de junio de 2025, dirigido al señor Nils Olsen-Pitt, presidente de la Asamblea  Nacional. Moción. De mi consideración, con la intención de dar continuidad al tratamiento  y realizar las modificaciones pertinentes respecto del criterio jurídico sobre las  acciones que la Asamblea Nacional debería adoptar respecto del dictamen 1-25-OP-25 de  la Corte Constitucional referente a la objeción parcial por inconstitucionalidad del proyecto  de la Ley Orgánica de las Personas con Discapacidad. Moción. Que el proyecto de Ley Orgánica de  las Personas con Discapacidad regrese a la Comisión para dar trámite respectivo de conformidad  con lo establecido en el artículo 136, número 2 de la Ley Orgánica de la Función Legislativa,  con sentimientos de distinguida consideración. Atentamente, señor Jaime David Estrada Medranda,  presidente de la Comisión Especializada Permanente de Garantías Constitucionales,  Derechos Humanos, Derechos Colectivos y la Interculturalidad.  Hasta aquí la lectura de la moción. Señoras y señores asambleístas,  por favor, registrar su participación en las curules electrónicas.  De existir alguna novedad, por favor, informar a esta secretaría. Gracias.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Giovanny Bravo",
+        "confidence": 0.905,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 204.37,
+      "end": 206.41,
+      "text": "Cierre registro, señor secretario.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 208.15,
+      "end": 225.14,
+      "text": "Me permito informar, señor presidente, que contamos con 144 asambleístas registrados.  Se pone a consideración del Pleno de la Asamblea Nacional la moción presentada por el asambleísta Jaime David Estrada Medranda.  Señores y señores asambleístas, por favor consignar su voto.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Giovanny Bravo",
+        "confidence": 0.905,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 309.87,
+      "end": 312.25,
+      "text": "Secretario, por favor, proclame resultados.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 313.65,
+      "end": 327.98,
+      "text": "Señor operador, presente los resultados. Me permito informar, señor presidente, que la moción presentada por el asambleísta Jaime David Estrada Mirá Medranda ha sido aprobado por unanimidad.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Giovanny Bravo",
+        "confidence": 0.905,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "8GEM-BveLYM",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 21,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Votación de la moción del asambleísta Jaime Estrada - Sesión 010",
+  "url": "https://www.youtube.com/watch?v=8GEM-BveLYM",
+  "published_at": "2025-06-11T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "8GEM-BveLYM",
+  "date": "2025-06-11T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=8GEM-BveLYM",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Giovanny Bravo",
+      "party": null,
+      "province": null,
+      "total_time": 112.03,
+      "interventions": 3,
+      "word_count": 248
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 4.42,
+      "interventions": 2,
+      "word_count": 9
+    }
+  ]
+}
