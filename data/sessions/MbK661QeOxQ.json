@@ -1,0 +1,52 @@
+{
+  "text": "físicos, químicos, psicosociales a los que están expuestos el personal de la salud.  Establece además un escalafón salarial y por ello el talento humano en salud recibirá  una remuneración justa y digna de acuerdo con las escalas definidas para cada profesión.  Podrán acceder a la carrera sanitaria, profesionales que cuenten con un título de tercer nivel  en áreas de la salud debidamente registrados o reconocidos ante la autoridad competente  en materia de educación superior que se encuentren habilitados para el ejercicio profesional  y que hayan sido declarados ganadores del concurso de méritos y oposición de conformidad  con el manual de clasificación de puestos vigentes.  Sobre la estructura de esta propuesta de normativa, la misma está integrada o contiene 45 artículos,  son ocho las disposiciones generales, cinco transitorias, dos disposiciones reformatorias  y una disposición final. Esto, en breves rasgos, el proyecto de ley que en esta sesión,  en la continuación de la sesión número 776, se somete a segundo y definitivo debate.  120 los asambleístas que hasta este momento se registran para participar en la sesión.  Contarles además que para las 16 horas 30, 4 y media de la tarde de hoy,  está convocada la continuación de la sesión número 784 del Pleno de la Asamblea Nacional.  Esta sesión tiene en el orden del día dos puntos.  El informe para segundo debate del proyecto de ley orgánica reformatoria  a la ley de legalización de la tenencia de tierras a favor de los moradores y posesionarios de predios  que se encuentren en circunscripción de los cantones Guayaquil, San Borondón,  El Triunfo, Montesinaí, si es Guayaquil.  También, en la continuación de la sesión número 784, en el orden del día,  se encuentra el informe para primer debate del proyecto de ley orgánica  para la igualdad salarial entre mujeres y hombres.",
+  "language": "es",
+  "duration": 130.01,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 129.92,
+      "text": "físicos, químicos, psicosociales a los que están expuestos el personal de la salud.  Establece además un escalafón salarial y por ello el talento humano en salud recibirá  una remuneración justa y digna de acuerdo con las escalas definidas para cada profesión.  Podrán acceder a la carrera sanitaria, profesionales que cuenten con un título de tercer nivel  en áreas de la salud debidamente registrados o reconocidos ante la autoridad competente  en materia de educación superior que se encuentren habilitados para el ejercicio profesional  y que hayan sido declarados ganadores del concurso de méritos y oposición de conformidad  con el manual de clasificación de puestos vigentes.  Sobre la estructura de esta propuesta de normativa, la misma está integrada o contiene 45 artículos,  son ocho las disposiciones generales, cinco transitorias, dos disposiciones reformatorias  y una disposición final. Esto, en breves rasgos, el proyecto de ley que en esta sesión,  en la continuación de la sesión número 776, se somete a segundo y definitivo debate.  120 los asambleístas que hasta este momento se registran para participar en la sesión.  Contarles además que para las 16 horas 30, 4 y media de la tarde de hoy,  está convocada la continuación de la sesión número 784 del Pleno de la Asamblea Nacional.  Esta sesión tiene en el orden del día dos puntos.  El informe para segundo debate del proyecto de ley orgánica reformatoria  a la ley de legalización de la tenencia de tierras a favor de los moradores y posesionarios de predios  que se encuentren en circunscripción de los cantones Guayaquil, San Borondón,  El Triunfo, Montesinaí, si es Guayaquil.  También, en la continuación de la sesión número 784, en el orden del día,  se encuentra el informe para primer debate del proyecto de ley orgánica  para la igualdad salarial entre mujeres y hombres.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Fabiola Maribel Sanmartín Parra",
+        "confidence": 0.5293,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "MbK661QeOxQ",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Sesión 784 del #PlenoLegislativo",
+  "url": "https://www.youtube.com/watch?v=MbK661QeOxQ",
+  "published_at": "2022-07-19T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "MbK661QeOxQ",
+  "date": "2022-07-19T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=MbK661QeOxQ",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Fabiola Maribel Sanmartín Parra",
+      "party": null,
+      "province": null,
+      "total_time": 129.89,
+      "interventions": 1,
+      "word_count": 297
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "text": "...cuatro comerciantes de Guayaquil, quienes fueron hallados sin vida el pasado viernes 6 de junio.  Esta sesión será en su memoria y de los policías que cumplieron con detener a los criminales,  pero fueron liberados. Trabajaremos para que su trabajo no sea en vano.",
+  "language": "es",
+  "duration": 87.82,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 87.8,
+      "text": "...cuatro comerciantes de Guayaquil, quienes fueron hallados sin vida el pasado viernes 6 de junio.  Esta sesión será en su memoria y de los policías que cumplieron con detener a los criminales,  pero fueron liberados. Trabajaremos para que su trabajo no sea en vano.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Guillermo Vicente Báez Mera",
+        "confidence": 0.5329,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "WLnPhgpJYt8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Presidente de la Asamblea Nacional Niels Olsen - Sesión 008 - Minuto de silencio",
+  "url": "https://www.youtube.com/watch?v=WLnPhgpJYt8",
+  "published_at": "2025-06-08T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "WLnPhgpJYt8",
+  "date": "2025-06-08T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=WLnPhgpJYt8",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Guillermo Vicente Báez Mera",
+      "party": null,
+      "province": null,
+      "total_time": 87.77,
+      "interventions": 1,
+      "word_count": 44
+    }
+  ]
+}

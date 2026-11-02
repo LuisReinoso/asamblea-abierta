@@ -1,0 +1,124 @@
+{
+  "text": "llevan a ustedes. Asamblea en Pleno, transmisión en vivo de la sesión plenaria de la Asamblea  Nacional. Estamos de regreso con Asamblea en Pleno y se ha reinstalado la sesión 804 del Pleno de la  Asamblea Nacional, que tiene dos puntos en el orden del día para cerrar esta agenda parlamentaria.  El segundo debate del proyecto de ley orgánica de transparencia y acceso a la información pública. Un receso, suspendemos la sesión y se consigue un receso de 30 minutos para que puedan almorzar, por favor. Se toma nota, señor presidente, siendo las 14.22, se suspende la sesión 804 por 30 minutos. Y ya hemos escuchado ahí, se reinstaló esta sesión 804 del Pleno de la Asamblea Nacional.  Decíamos dos puntos para finalizar esta agenda.  Segundo debate del proyecto de ley orgánica de transparencia y acceso a la información pública  que consta a través de lo que ha sido la convocatoria y también el informe no vinculante  sobre la objeción parcial por inconstitucionalidad y objeción parcial por inconveniencia  al proyecto de ley orgánica reformatoria de la ley orgánica de comunicación.  En 30 minutos nosotros estaremos de regreso con más de Asamblea en Pleno.",
+  "language": "es",
+  "duration": 96.22,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 13.24,
+      "end": 40.46,
+      "text": "llevan a ustedes. Asamblea en Pleno, transmisión en vivo de la sesión plenaria de la Asamblea  Nacional. Estamos de regreso con Asamblea en Pleno y se ha reinstalado la sesión 804 del Pleno de la  Asamblea Nacional, que tiene dos puntos en el orden del día para cerrar esta agenda parlamentaria.  El segundo debate del proyecto de ley orgánica de transparencia y acceso a la información pública.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Maritza Flores",
+        "confidence": 0.8993,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 40.46,
+      "end": 44.94,
+      "text": "Un receso, suspendemos la sesión y se consigue un receso de 30 minutos para que puedan almorzar, por favor.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 46.93,
+      "end": 55.6,
+      "text": "Se toma nota, señor presidente, siendo las 14.22, se suspende la sesión 804 por 30 minutos.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Steven Leonardo Ordóñez Bravo",
+        "confidence": 0.5165,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 57.56,
+      "end": 85.7,
+      "text": "Y ya hemos escuchado ahí, se reinstaló esta sesión 804 del Pleno de la Asamblea Nacional.  Decíamos dos puntos para finalizar esta agenda.  Segundo debate del proyecto de ley orgánica de transparencia y acceso a la información pública  que consta a través de lo que ha sido la convocatoria y también el informe no vinculante  sobre la objeción parcial por inconstitucionalidad y objeción parcial por inconveniencia  al proyecto de ley orgánica reformatoria de la ley orgánica de comunicación.  En 30 minutos nosotros estaremos de regreso con más de Asamblea en Pleno.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Maritza Flores",
+        "confidence": 0.8993,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "LrnN6uo57z4",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 20,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 3,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Sesión 804 del Pleno de la Asamblea Nacional.",
+  "url": "https://www.youtube.com/watch?v=LrnN6uo57z4",
+  "published_at": "2022-10-20T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "LrnN6uo57z4",
+  "date": "2022-10-20T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=LrnN6uo57z4",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Maritza Flores",
+      "party": null,
+      "province": null,
+      "total_time": 55.36,
+      "interventions": 2,
+      "word_count": 158
+    },
+    {
+      "id": "speaker_1",
+      "name": "Steven Leonardo Ordóñez Bravo",
+      "party": null,
+      "province": null,
+      "total_time": 8.67,
+      "interventions": 1,
+      "word_count": 16
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 4.48,
+      "interventions": 1,
+      "word_count": 19
+    }
+  ]
+}

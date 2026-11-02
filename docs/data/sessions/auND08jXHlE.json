@@ -1,0 +1,53 @@
+{
+  "text": "La palabra es la asambleísta Luis Jacome.  Muchas gracias, señor presidente.  Señoras vicepresidentas, vocales del CAL,  colegas asambleístas, buenas noches.  Aprovecho para saludar de manera especial  a la provincia de Pichincha  y a mis 33 parroquias rurales de Quito,  que represento.  En mi calidad de integrante de la Comisión  especializada, permanente de educación, cultura,  ciencia, tecnología, innovación y saberes ancestrales,  dentro del punto que estamos tratando  en observancia al artículo 23  de la Ley Orgánica de Función Legislativa,  me permito proponer la siguiente moción  a fin que sea puesta, considerada  en este distinguido pleno.  Es así que propongo que se designe  como presidenta de la mencionada comisión  en el periodo 2025 al 2027  a la señora asambleísta Rosa Cecilia Baltazar,  quien estoy seguro que sabrá llevar  cabo una excelente labor,  por lo cual ha sido debidamente ingresada  a la Secretaría General la respectiva moción.  Por favor, solicito de inmediata  la votación, señor presidente.",
+  "language": "es",
+  "duration": 92.72,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 87.61,
+      "text": "La palabra es la asambleísta Luis Jacome.  Muchas gracias, señor presidente.  Señoras vicepresidentas, vocales del CAL,  colegas asambleístas, buenas noches.  Aprovecho para saludar de manera especial  a la provincia de Pichincha  y a mis 33 parroquias rurales de Quito,  que represento.  En mi calidad de integrante de la Comisión  especializada, permanente de educación, cultura,  ciencia, tecnología, innovación y saberes ancestrales,  dentro del punto que estamos tratando  en observancia al artículo 23  de la Ley Orgánica de Función Legislativa,  me permito proponer la siguiente moción  a fin que sea puesta, considerada  en este distinguido pleno.  Es así que propongo que se designe  como presidenta de la mencionada comisión  en el periodo 2025 al 2027  a la señora asambleísta Rosa Cecilia Baltazar,  quien estoy seguro que sabrá llevar  cabo una excelente labor,  por lo cual ha sido debidamente ingresada  a la Secretaría General la respectiva moción.  Por favor, solicito de inmediata  la votación, señor presidente.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Luis Fernando Jácome Mejía",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "auND08jXHlE",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Luis Fernando Jácome Mejía",
+      "confidence": 1.0,
+      "votes": {
+        "Luis Fernando Jácome Mejía": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Luis Jácome - Sesión 004",
+  "url": "https://www.youtube.com/watch?v=auND08jXHlE",
+  "published_at": "2025-05-27T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "auND08jXHlE",
+  "date": "2025-05-27T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=auND08jXHlE",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Luis Fernando Jácome Mejía",
+      "party": null,
+      "province": null,
+      "total_time": 87.58,
+      "interventions": 1,
+      "word_count": 153
+    }
+  ]
+}

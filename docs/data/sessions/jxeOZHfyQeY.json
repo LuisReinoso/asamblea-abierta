@@ -1,0 +1,160 @@
+{
+  "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Diana Blasio,  quien nos hablará sobre el proyecto de ley orgánica para la erradicación de la violencia obstétrica,  una iniciativa orientada a garantizar una atención digna, respetuosa y libre de violencia  para las mujeres durante el embarazo, el parto y el posparto.  Asambleísta, ¿cuál es la problemática que motivó la presentación de este proyecto de ley  y por qué considera necesario contar con una normativa específica  para erradicar la violencia obstétrica en el Ecuador? Este proyecto va a ayudar a todas las personas, mujeres, estantes, en parto y posparto, donde muchas tienen violencia sin saberlo y hemos normalizado. propuesta legislativa, la violencia obstétrica y cuáles son las principales prácticas o  conductas que busca prevenir, sancionar y erradicar. La violencia obstétrica se define como una omisión de una acción institucional  que cause dolor psicológico, emocional o sexual de una mujer gestante  ya que esté en labor de parto o en el postparto, con prácticas inhumanizadas. ¿Qué derechos reconoce y garantiza el proyecto para las mujeres gestantes, especialmente en materia de consentimiento informado, acompañamiento y parto humanitario? En derecho hemos tomado en cuenta y priorizando siempre a las mujeres gestantes en derechos fundamentales como el consentimiento compartido, informativo, lo que quiere decir que cuando vayan a tomar una decisión sobre tu salud, sobre lo que te van a realizar, qué intervención te van a hacer, si es que hay riesgo, si es que no hay riesgo, es informarte antes de, también el derecho al acompañamiento. Finalmente, ¿de qué manera esa iniciativa contribuiría a fortalecer el Sistema Nacional de Salud  y asegurar una atención más humana, respetuosa y centrada en los derechos de las mujeres y sus familias? Esta ley promueve con protocolos, también capacitaciones a las personas de salud,  también con acceso informativo donde tú puedes acceder si es que estás pasando por una de estas violencias  que te la hemos nombrado, en el cual va a ser muy aportador para el tema de salud,  ya que es una ley que promueve el tema humano, es una ley que también está promoviendo temas modernos  y va a mejorar mucho para todos los ecuatorianos.",
+  "language": "es",
+  "duration": 140.83,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 1.85,
+      "end": 29.51,
+      "text": "Esto es Voces de la Asamblea. Hoy nos acompaña la asambleísta Diana Blasio,  quien nos hablará sobre el proyecto de ley orgánica para la erradicación de la violencia obstétrica,  una iniciativa orientada a garantizar una atención digna, respetuosa y libre de violencia  para las mujeres durante el embarazo, el parto y el posparto.  Asambleísta, ¿cuál es la problemática que motivó la presentación de este proyecto de ley  y por qué considera necesario contar con una normativa específica  para erradicar la violencia obstétrica en el Ecuador?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.55,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 29.58,
+      "end": 39.97,
+      "text": "Este proyecto va a ayudar a todas las personas, mujeres, estantes, en parto y posparto, donde muchas tienen violencia sin saberlo y hemos normalizado.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Patricia Blacio Carrión",
+        "confidence": 0.852,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 39.97,
+      "end": 46.17,
+      "text": "propuesta legislativa, la violencia obstétrica y cuáles son las principales prácticas o  conductas que busca prevenir, sancionar y erradicar.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.55,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 46.83,
+      "end": 63.97,
+      "text": "La violencia obstétrica se define como una omisión de una acción institucional  que cause dolor psicológico, emocional o sexual de una mujer gestante  ya que esté en labor de parto o en el postparto, con prácticas inhumanizadas.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Patricia Blacio Carrión",
+        "confidence": 0.852,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 4,
+      "start": 63.97,
+      "end": 72.04,
+      "text": "¿Qué derechos reconoce y garantiza el proyecto para las mujeres gestantes, especialmente en materia de consentimiento informado, acompañamiento y parto humanitario?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.55,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 5,
+      "start": 72.04,
+      "end": 96.98,
+      "text": "En derecho hemos tomado en cuenta y priorizando siempre a las mujeres gestantes en derechos fundamentales como el consentimiento compartido, informativo, lo que quiere decir que cuando vayan a tomar una decisión sobre tu salud, sobre lo que te van a realizar, qué intervención te van a hacer, si es que hay riesgo, si es que no hay riesgo, es informarte antes de, también el derecho al acompañamiento.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Patricia Blacio Carrión",
+        "confidence": 0.852,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 6,
+      "start": 96.98,
+      "end": 106.93,
+      "text": "Finalmente, ¿de qué manera esa iniciativa contribuiría a fortalecer el Sistema Nacional de Salud  y asegurar una atención más humana, respetuosa y centrada en los derechos de las mujeres y sus familias?",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Anelisse Josebeth Jaramillo Rodríguez",
+        "confidence": 0.55,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 7,
+      "start": 107.41,
+      "end": 138.96,
+      "text": "Esta ley promueve con protocolos, también capacitaciones a las personas de salud,  también con acceso informativo donde tú puedes acceder si es que estás pasando por una de estas violencias  que te la hemos nombrado, en el cual va a ser muy aportador para el tema de salud,  ya que es una ley que promueve el tema humano, es una ley que también está promoviendo temas modernos  y va a mejorar mucho para todos los ecuatorianos.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Diana Patricia Blacio Carrión",
+        "confidence": 0.852,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "jxeOZHfyQeY",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 25,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 17,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Voces de la Asamblea - Asambleísta Diana Blacio",
+  "url": "https://www.youtube.com/watch?v=jxeOZHfyQeY",
+  "published_at": "2026-07-10T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "jxeOZHfyQeY",
+  "date": "2026-07-10T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=jxeOZHfyQeY",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Diana Patricia Blacio Carrión",
+      "party": null,
+      "province": null,
+      "total_time": 84.02,
+      "interventions": 4,
+      "word_count": 205
+    },
+    {
+      "id": "speaker_1",
+      "name": "Anelisse Josebeth Jaramillo Rodríguez",
+      "party": null,
+      "province": null,
+      "total_time": 51.88,
+      "interventions": 4,
+      "word_count": 157
+    }
+  ]
+}
