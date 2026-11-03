@@ -1,0 +1,159 @@
+{
+  "text": "21 horas con 29 minutos de este miércoles 14 de mayo del año 2025.  Nuevamente los medios legislativos estamos con ustedes para llevarles adelante  la rueda de prensa del presidente de la Asamblea Nacional, Nils Olsen,  acompañado por los legisladores de la bancada de gobierno ADN. Muchas gracias a todos los medios por la paciencia, ha sido una primera jornada bastante intensa  y yo sé que nuestras familias nos están esperando en casa, así que voy a ser lo más breve posible.  Primero quiero agradecerles a todos los ecuatorianos que depositaron su confianza en mí  para poder ser el presidente de la Asamblea Nacional.  Agradecerle también a todos los asambleístas de mi bancada por su apoyo, por su moción  y también a todos los actores políticos de diferentes ideologías que han demostrado su apoyo públicamente  a este día donde hemos celebrado la democracia.  Tenemos un gran reto por delante.  Tienen absolutamente mi compromiso de trabajar día y noche por todos los proyectos de ley que este país necesita.  De tener una asamblea distinta porque eso es lo que los ecuatorianos quieren y votaron para que se cumpla.  Muchas gracias.  Gracias. Buenas noches, compañeras y compañeros periodistas.  Vamos por formato y por la larga jornada a felicitarles a los compañeros periodistas que nos acompañaron.  Estamos con unas dos preguntas a cargo de Francisco Garcés de Coavisa y Cristian Hidalgo de ETC.  No sé si está Panchito. Buenas noches, señor presidente, asambleístas todos.  Ha dado varios discursos usted, señor presidente, durante la jornada y se habla de gobernabilidad de la mayoría, se habla de una… Ahí escuchamos las primeras palabras del presidente de la Asamblea Nacional, Nils Olsen.  Primero agradeció a los ecuatorianos por la confianza de permitirle llegar a la Asamblea Nacional  y ahora ser el presidente del Parlamento ecuatoriano, designado así en esta primera sesión de la legislatura.  Además, también el presidente de la Asamblea Nacional, Nils Olsen,  después de agradecer a los ecuatorianos por esta confianza y permitirle llegar al Parlamento,  también dijo que hay un gran reto y se comprometió a trabajar por los proyectos de ley,  así como también todas esas iniciativas que lleguen a la legislatura que se necesita  y sobre todo para entregar una Asamblea distinta.  Eso fue lo que dijo el presidente de la Asamblea Nacional.  Nosotros despedimos esta transmisión de los medios legislativos.  Como siempre con ustedes estaremos la Televisión Legislativa Canal 42 en Pichincha  y la Radio de la Asamblea Nacional en el territorio ecuatoriano.  Excelente noche.  Los medios legislativos en vivo.",
+  "language": "es",
+  "duration": 196.7,
+  "speakers_detected": 4,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.37,
+      "end": 21.06,
+      "text": "21 horas con 29 minutos de este miércoles 14 de mayo del año 2025.  Nuevamente los medios legislativos estamos con ustedes para llevarles adelante  la rueda de prensa del presidente de la Asamblea Nacional, Nils Olsen,  acompañado por los legisladores de la bancada de gobierno ADN.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rueda De Prensa",
+        "confidence": 0.92
+      }
+    },
+    {
+      "id": 1,
+      "start": 21.65,
+      "end": 90.52,
+      "text": "Muchas gracias a todos los medios por la paciencia, ha sido una primera jornada bastante intensa  y yo sé que nuestras familias nos están esperando en casa, así que voy a ser lo más breve posible.  Primero quiero agradecerles a todos los ecuatorianos que depositaron su confianza en mí  para poder ser el presidente de la Asamblea Nacional.  Agradecerle también a todos los asambleístas de mi bancada por su apoyo, por su moción  y también a todos los actores políticos de diferentes ideologías que han demostrado su apoyo públicamente  a este día donde hemos celebrado la democracia.  Tenemos un gran reto por delante.  Tienen absolutamente mi compromiso de trabajar día y noche por todos los proyectos de ley que este país necesita.  De tener una asamblea distinta porque eso es lo que los ecuatorianos quieren y votaron para que se cumpla.  Muchas gracias.  Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Niels Anthonez Olsen Peet",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 94.82,
+      "end": 111.61,
+      "text": "Buenas noches, compañeras y compañeros periodistas.  Vamos por formato y por la larga jornada a felicitarles a los compañeros periodistas que nos acompañaron.  Estamos con unas dos preguntas a cargo de Francisco Garcés de Coavisa y Cristian Hidalgo de ETC.  No sé si está Panchito.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Rueda De Prensa",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 3,
+      "start": 113.6,
+      "end": 128.57,
+      "text": "Buenas noches, señor presidente, asambleístas todos.  Ha dado varios discursos usted, señor presidente, durante la jornada y se habla de gobernabilidad de la mayoría, se habla de una…",
+      "speaker_id": "speaker_3",
+      "speaker": {
+        "id": "speaker_3",
+        "name": "Rueda De Prensa",
+        "confidence": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "start": 128.57,
+      "end": 187.11,
+      "text": "Ahí escuchamos las primeras palabras del presidente de la Asamblea Nacional, Nils Olsen.  Primero agradeció a los ecuatorianos por la confianza de permitirle llegar a la Asamblea Nacional  y ahora ser el presidente del Parlamento ecuatoriano, designado así en esta primera sesión de la legislatura.  Además, también el presidente de la Asamblea Nacional, Nils Olsen,  después de agradecer a los ecuatorianos por esta confianza y permitirle llegar al Parlamento,  también dijo que hay un gran reto y se comprometió a trabajar por los proyectos de ley,  así como también todas esas iniciativas que lleguen a la legislatura que se necesita  y sobre todo para entregar una Asamblea distinta.  Eso fue lo que dijo el presidente de la Asamblea Nacional.  Nosotros despedimos esta transmisión de los medios legislativos.  Como siempre con ustedes estaremos la Televisión Legislativa Canal 42 en Pichincha  y la Radio de la Asamblea Nacional en el territorio ecuatoriano.  Excelente noche.  Los medios legislativos en vivo.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Rueda De Prensa",
+        "confidence": 0.92
+      }
+    }
+  ],
+  "video_id": "xHJSsTs5rW8",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Rueda De Prensa",
+      "confidence": 0.92,
+      "votes": {
+        "[OOV] Rueda De Prensa": 12,
+        "[OOV] Periodista Medios Legislativos": 1
+      },
+      "samples": 17,
+      "successful_reads": 13,
+      "source": "ocr-oov"
+    },
+    "speaker_1": {
+      "name": "Niels Anthonez Olsen Peet",
+      "confidence": 1.0,
+      "votes": {
+        "Niels Anthonez Olsen Peet": 3
+      },
+      "samples": 3,
+      "successful_reads": 3,
+      "source": "db"
+    },
+    "speaker_2": {
+      "name": "Rueda De Prensa",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Rueda De Prensa": 6
+      },
+      "samples": 6,
+      "successful_reads": 6,
+      "source": "ocr-oov"
+    },
+    "speaker_3": {
+      "name": "Rueda De Prensa",
+      "confidence": 1.0,
+      "votes": {
+        "[OOV] Rueda De Prensa": 6
+      },
+      "samples": 6,
+      "successful_reads": 6,
+      "source": "ocr-oov"
+    }
+  },
+  "title": "Siga en vivo la rueda de prensa del Presidente de la Asamblea Nacional, Niels Olsen",
+  "url": "https://www.youtube.com/watch?v=xHJSsTs5rW8",
+  "published_at": "2025-05-15T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "xHJSsTs5rW8",
+  "date": "2025-05-15T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=xHJSsTs5rW8",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Rueda De Prensa",
+      "party": null,
+      "province": null,
+      "total_time": 76.23,
+      "interventions": 2,
+      "word_count": 203
+    },
+    {
+      "id": "speaker_1",
+      "name": "Niels Anthonez Olsen Peet",
+      "party": null,
+      "province": null,
+      "total_time": 68.87,
+      "interventions": 1,
+      "word_count": 144
+    },
+    {
+      "id": "speaker_2",
+      "name": "Rueda De Prensa",
+      "party": null,
+      "province": null,
+      "total_time": 16.79,
+      "interventions": 1,
+      "word_count": 45
+    },
+    {
+      "id": "speaker_3",
+      "name": "Rueda De Prensa",
+      "party": null,
+      "province": null,
+      "total_time": 14.97,
+      "interventions": 1,
+      "word_count": 28
+    }
+  ]
+}

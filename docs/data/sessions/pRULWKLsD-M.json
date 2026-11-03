@@ -1,0 +1,53 @@
+{
+  "text": "Eduardo Mendoza, en este momento lo escuchamos.  Gracias por el uso de la palabra, buenos días a los compañeros asambleístas.  Hoy estamos tratando un importante proyecto de ley a favor del sindicalismo del país,  pero también a la luz de lo que hoy es noticia pública del problema del sindicato de Selec,  con la desaparición de más de ochocientos mil dólares, y eso debe terminarse.  Deben haber sindicatos serios, sindicatos que se preocupen por sus miembros,  sindicatos que ayuden a las empresas donde laboran a no hundirlas, más bien para sacarlas adelante.  Concuerdo con el compañero Agnes Recalde de que este proyecto debe regresar a la comisión  para perfeccionarlo y que los trabajadores puedan asociarse libremente, como sirve ese reglamento,  pero como le dije, con sindicalistas serios, responsables, que no se perennicen en los cargos,  que no sea como herencia, padre a hijos, familiares, y que esto conlleve al progreso de los trabajadores  y que beneficie, ya le digo, a las empresas donde laboran.  Vamos a apoyar a este proyecto porque necesitamos, en todos los aspectos de la sociedad,  nos pasa en la agricultura, que no tenemos dirigentes serios, pasa también en otras instituciones privadas,  sindicatos de choferes, y un sinnúmero de organismos donde es letra muerta la rendición de cuentas,  deben ser serios en el manejo de los recursos, el aporte de los trabajadores,  para que eso conlleve la prosperidad de los miembros de estos sindicatos.  Lo demás ya se ha dicho por dos anteriores asambleístas de que regresen a la comisión  para perfeccionar este proyecto de ley.  Muchísimas gracias, presidente. Buenos días a todos los compañeros asambleístas.  Fue a la intervención del legislador Eduardo Mendoza que señaló que es necesario evitar",
+  "language": "es",
+  "duration": 153.11,
+  "speakers_detected": 1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 153.07,
+      "text": "Eduardo Mendoza, en este momento lo escuchamos.  Gracias por el uso de la palabra, buenos días a los compañeros asambleístas.  Hoy estamos tratando un importante proyecto de ley a favor del sindicalismo del país,  pero también a la luz de lo que hoy es noticia pública del problema del sindicato de Selec,  con la desaparición de más de ochocientos mil dólares, y eso debe terminarse.  Deben haber sindicatos serios, sindicatos que se preocupen por sus miembros,  sindicatos que ayuden a las empresas donde laboran a no hundirlas, más bien para sacarlas adelante.  Concuerdo con el compañero Agnes Recalde de que este proyecto debe regresar a la comisión  para perfeccionarlo y que los trabajadores puedan asociarse libremente, como sirve ese reglamento,  pero como le dije, con sindicalistas serios, responsables, que no se perennicen en los cargos,  que no sea como herencia, padre a hijos, familiares, y que esto conlleve al progreso de los trabajadores  y que beneficie, ya le digo, a las empresas donde laboran.  Vamos a apoyar a este proyecto porque necesitamos, en todos los aspectos de la sociedad,  nos pasa en la agricultura, que no tenemos dirigentes serios, pasa también en otras instituciones privadas,  sindicatos de choferes, y un sinnúmero de organismos donde es letra muerta la rendición de cuentas,  deben ser serios en el manejo de los recursos, el aporte de los trabajadores,  para que eso conlleve la prosperidad de los miembros de estos sindicatos.  Lo demás ya se ha dicho por dos anteriores asambleístas de que regresen a la comisión  para perfeccionar este proyecto de ley.  Muchísimas gracias, presidente. Buenos días a todos los compañeros asambleístas.  Fue a la intervención del legislador Eduardo Mendoza que señaló que es necesario evitar",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Eduardo Erwin Mendoza Palma",
+        "confidence": 1.0
+      }
+    }
+  ],
+  "video_id": "pRULWKLsD-M",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "Eduardo Erwin Mendoza Palma",
+      "confidence": 1.0,
+      "votes": {
+        "Eduardo Erwin Mendoza Palma": 3
+      },
+      "samples": 8,
+      "successful_reads": 3,
+      "source": "db"
+    }
+  },
+  "title": "Asambleísta Eduardo Mendoza - Sesión 035",
+  "url": "https://www.youtube.com/watch?v=pRULWKLsD-M",
+  "published_at": "2025-09-09T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "pRULWKLsD-M",
+  "date": "2025-09-09T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=pRULWKLsD-M",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Eduardo Erwin Mendoza Palma",
+      "party": null,
+      "province": null,
+      "total_time": 153.04,
+      "interventions": 1,
+      "word_count": 283
+    }
+  ]
+}

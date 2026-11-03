@@ -1,0 +1,111 @@
+{
+  "text": "Intervención del señor asambleísta Nils Olsenpitt, presidente de la Asamblea Nacional. Ya se prepara el presidente de la Asamblea Nacional, se dirige este momento hasta el atril para dirigirse también a los asambleístas presentes y a toda la ciudadanía que sigue esta transmisión de los medios legislativos, TVL y la radio de la Asamblea Nacional. Luis Alberto Cabezas Cler, Presidente de la Función de Transferencia y Control Social.  Querida familia que me acompaña, esposa, Romina, mamá, papá, hermanos.  Señora Michelle Mancheno, Primera Vicepresidenta de la Asamblea Nacional.  Señoras y señores vocales del Consejo de Administración Legislativa.  Señoras y señores colegas asambleístas.  Señoras y señores autoridades y delegados del Gobierno Nacional.  Señor General Superior Pablo Dávila, Comandante General de la Policía Nacional.  Señor Comandante General de la Armada del Ecuador.  Señor Comandante de la Zona 8 de la Policía Nacional.  Señoras y señores autoridades seccionales del Guayas, gracias por acompañarnos.  Señor Cardenal Luis Gerardo Cabrera.  Señoras y señores miembros del Cuerpo Consular de Guayaquil.  Señora María Cabanilla, Rectora de la Universidad Tecnológica Empresarial de Guayaquil y autoridades de la institución.  Muchas gracias por la hospitalidad y recibirnos en su casa.  Señoras y señores rectores de las universidades.  Señor Rubén Holguín, historiador de la ciudad de Guayaquil.  Señoras y señores homenajeados, gracias por acompañarnos y darnos el gusto y el honor de poder reconocer su trayectoria que nos hace a todos los guayaquileños muy orgullosos.  Señores familiares y amigos de los homenajeados, medios de comunicación, damas y caballeros.  Guayaquileños, guayaquileñas.  Guayaquil no se fundó una vez.  Se ha fundado muchas veces.  Cada vez que se levanta después de una crisis.  Cada vez que sus ciudadanos salen adelante con trabajo, con creatividad, con esa fuerza suya, imparable, que la ha convertido en corazón comercial de nuestro país.  En inspiración para el continente, en emblema de resiliencia.  Cuatrocientos noventa años no son una cifra cualquiera.  Son la huella de siglos de historia viva.  La de los pueblos que habitaron estas tierras antes de la colonia.  La de los libertadores que la soñaron libre.  La de las mujeres y hombres que la construyen todos los días desde sus barrios, desde sus mercados, desde sus aulas, sus oficinas y sus puertos.  Y hoy, desde la Asamblea Nacional, hemos venido no solo a conmemorar esa historia, sino a comprometernos con su presente y su futuro.  Porque Guayaquil no solo necesita aplausos.  Guayaquil necesita acción.  Necesita leyes que defiendan la seguridad de cada uno de sus barrios.  Que impulsen su economía.  Que protejan a sus jóvenes del crimen organizado.  Y que le devuelvan la esperanza a quienes ya no creen en la política.  En estos últimos meses, la Asamblea ha aprobado normativas con un solo propósito claro.  Darle al Estado herramientas reales para proteger a su gente.  No leyes para adornar el archivo, sino leyes que se sienten, que se aplican, que hacen una gran diferencia.  Aprobamos la ley de solidaridad nacional, porque el país necesita unidad en estos tiempos difíciles.  Aprobamos la ley de inteligencia para anticiparnos al delito y no llegar siempre tarde como en el pasado.  Aprobamos la ley de integridad pública para que la corrupción no siga robándonos la esperanza.  Aprobamos la ley de fortalecimiento de áreas protegidas porque el desarrollo también se construye con naturaleza viva.  Lograr que esta Asamblea trabaje con orden, sin ruido y con resultados, ha requerido algo que en política pocas veces se ve.  Coordinación, confianza y un propósito compartido.  Junto al presidente Daniel Novoa, semana a semana, hemos ratificado la decisión de caminar juntos,  el Ejecutivo y el Legislativo, para cumplir lo que el pueblo resolvió.  Llevar al Ecuador hacia adelante.  Nos une una visión clara del país que queremos.  Uno de acciones y no de discursos.  De ocho leyes en ocho semanas.  Un país y una asamblea de resultados.  Un solo futuro para el Ecuador y eso no es todo.  Desde mi presidencia hemos iniciado cambios profundos en el interior de esta noble institución.  Porque no se puede exigir transparencia hacia afuera sin empezar desde casa.  Por eso pusimos fin a prácticas que por años han sido toleradas.  Como la contratación de familiares en la misma institución.  No ha sido fácil, pero lo correcto rara vez lo es.  Y si queremos que el país cambie, tenemos que cambiar nosotros primero.  Y Guayaquil justamente nos enseña eso todos los días.  Que nada está garantizado.  Que hay que luchar por reconstruir, volver a empezar.  Pero también nos recuerda que los grandes logros no se consiguen en solos,  sino en comunidad, con alianzas, con propósito.  Por eso, hoy no estamos aquí solo para rendir homenajes,  sino para decirle a Guayaquil que cuenta con nosotros.  Con esta asamblea, que más allá de las diferencias,  trabaja para que cada ley tenga impacto real en la vida de nuestra gente.  Porque al final, la historia no recordará cuántos discursos dimos,  sino cuántas vidas mejoramos.  Y créanme, Guayaquil no está sola.  Y nunca más debe estarlo.  Gracias por recibirnos en su casa.  Feliz aniversario.  Y que los próximos 490 años los escribamos juntos,  con justicia, con equidad y con corazón.  Muchas gracias. Finaliza la intervención del presidente de la Asamblea.",
+  "language": "es",
+  "duration": 433.56,
+  "speakers_detected": 2,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.69,
+      "end": 5.84,
+      "text": "Intervención del señor asambleísta Nils Olsenpitt, presidente de la Asamblea Nacional.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Niels Anthonez Olsen Peet",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 1,
+      "start": 9.24,
+      "end": 23.79,
+      "text": "Ya se prepara el presidente de la Asamblea Nacional, se dirige este momento hasta el atril para dirigirse también a los asambleístas presentes y a toda la ciudadanía que sigue esta transmisión de los medios legislativos, TVL y la radio de la Asamblea Nacional.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Maritza Flores",
+        "confidence": 0.8945,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 2,
+      "start": 23.79,
+      "end": 427.07,
+      "text": "Luis Alberto Cabezas Cler, Presidente de la Función de Transferencia y Control Social.  Querida familia que me acompaña, esposa, Romina, mamá, papá, hermanos.  Señora Michelle Mancheno, Primera Vicepresidenta de la Asamblea Nacional.  Señoras y señores vocales del Consejo de Administración Legislativa.  Señoras y señores colegas asambleístas.  Señoras y señores autoridades y delegados del Gobierno Nacional.  Señor General Superior Pablo Dávila, Comandante General de la Policía Nacional.  Señor Comandante General de la Armada del Ecuador.  Señor Comandante de la Zona 8 de la Policía Nacional.  Señoras y señores autoridades seccionales del Guayas, gracias por acompañarnos.  Señor Cardenal Luis Gerardo Cabrera.  Señoras y señores miembros del Cuerpo Consular de Guayaquil.  Señora María Cabanilla, Rectora de la Universidad Tecnológica Empresarial de Guayaquil y autoridades de la institución.  Muchas gracias por la hospitalidad y recibirnos en su casa.  Señoras y señores rectores de las universidades.  Señor Rubén Holguín, historiador de la ciudad de Guayaquil.  Señoras y señores homenajeados, gracias por acompañarnos y darnos el gusto y el honor de poder reconocer su trayectoria que nos hace a todos los guayaquileños muy orgullosos.  Señores familiares y amigos de los homenajeados, medios de comunicación, damas y caballeros.  Guayaquileños, guayaquileñas.  Guayaquil no se fundó una vez.  Se ha fundado muchas veces.  Cada vez que se levanta después de una crisis.  Cada vez que sus ciudadanos salen adelante con trabajo, con creatividad, con esa fuerza suya, imparable, que la ha convertido en corazón comercial de nuestro país.  En inspiración para el continente, en emblema de resiliencia.  Cuatrocientos noventa años no son una cifra cualquiera.  Son la huella de siglos de historia viva.  La de los pueblos que habitaron estas tierras antes de la colonia.  La de los libertadores que la soñaron libre.  La de las mujeres y hombres que la construyen todos los días desde sus barrios, desde sus mercados, desde sus aulas, sus oficinas y sus puertos.  Y hoy, desde la Asamblea Nacional, hemos venido no solo a conmemorar esa historia, sino a comprometernos con su presente y su futuro.  Porque Guayaquil no solo necesita aplausos.  Guayaquil necesita acción.  Necesita leyes que defiendan la seguridad de cada uno de sus barrios.  Que impulsen su economía.  Que protejan a sus jóvenes del crimen organizado.  Y que le devuelvan la esperanza a quienes ya no creen en la política.  En estos últimos meses, la Asamblea ha aprobado normativas con un solo propósito claro.  Darle al Estado herramientas reales para proteger a su gente.  No leyes para adornar el archivo, sino leyes que se sienten, que se aplican, que hacen una gran diferencia.  Aprobamos la ley de solidaridad nacional, porque el país necesita unidad en estos tiempos difíciles.  Aprobamos la ley de inteligencia para anticiparnos al delito y no llegar siempre tarde como en el pasado.  Aprobamos la ley de integridad pública para que la corrupción no siga robándonos la esperanza.  Aprobamos la ley de fortalecimiento de áreas protegidas porque el desarrollo también se construye con naturaleza viva.  Lograr que esta Asamblea trabaje con orden, sin ruido y con resultados, ha requerido algo que en política pocas veces se ve.  Coordinación, confianza y un propósito compartido.  Junto al presidente Daniel Novoa, semana a semana, hemos ratificado la decisión de caminar juntos,  el Ejecutivo y el Legislativo, para cumplir lo que el pueblo resolvió.  Llevar al Ecuador hacia adelante.  Nos une una visión clara del país que queremos.  Uno de acciones y no de discursos.  De ocho leyes en ocho semanas.  Un país y una asamblea de resultados.  Un solo futuro para el Ecuador y eso no es todo.  Desde mi presidencia hemos iniciado cambios profundos en el interior de esta noble institución.  Porque no se puede exigir transparencia hacia afuera sin empezar desde casa.  Por eso pusimos fin a prácticas que por años han sido toleradas.  Como la contratación de familiares en la misma institución.  No ha sido fácil, pero lo correcto rara vez lo es.  Y si queremos que el país cambie, tenemos que cambiar nosotros primero.  Y Guayaquil justamente nos enseña eso todos los días.  Que nada está garantizado.  Que hay que luchar por reconstruir, volver a empezar.  Pero también nos recuerda que los grandes logros no se consiguen en solos,  sino en comunidad, con alianzas, con propósito.  Por eso, hoy no estamos aquí solo para rendir homenajes,  sino para decirle a Guayaquil que cuenta con nosotros.  Con esta asamblea, que más allá de las diferencias,  trabaja para que cada ley tenga impacto real en la vida de nuestra gente.  Porque al final, la historia no recordará cuántos discursos dimos,  sino cuántas vidas mejoramos.  Y créanme, Guayaquil no está sola.  Y nunca más debe estarlo.  Gracias por recibirnos en su casa.  Feliz aniversario.  Y que los próximos 490 años los escribamos juntos,  con justicia, con equidad y con corazón.  Muchas gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "Niels Anthonez Olsen Peet",
+        "confidence": 0.75
+      }
+    },
+    {
+      "id": 3,
+      "start": 431.1,
+      "end": 433.46,
+      "text": "Finaliza la intervención del presidente de la Asamblea.",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Maritza Flores",
+        "confidence": 0.8945,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "eQN8JXCNpwo",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {
+        "[OOV] Tvlegislativa X: @Tviecuador": 3
+      },
+      "samples": 7,
+      "successful_reads": 3,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "Niels Anthonez Olsen Peet",
+      "confidence": 0.75,
+      "votes": {
+        "Niels Anthonez Olsen Peet": 3,
+        "[OOV] Tvlegislativa X: @Tviecuador": 1
+      },
+      "samples": 5,
+      "successful_reads": 4,
+      "source": "db"
+    }
+  },
+  "title": "Intervención señor Asambleísta Niels Olsen Peet, Presidente de la Asamblea Nacional - #SesiónSolemne",
+  "url": "https://www.youtube.com/watch?v=eQN8JXCNpwo",
+  "published_at": "2025-07-24T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "eQN8JXCNpwo",
+  "date": "2025-07-24T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=eQN8JXCNpwo",
+  "speaker_stats": [
+    {
+      "id": "speaker_1",
+      "name": "Niels Anthonez Olsen Peet",
+      "party": null,
+      "province": null,
+      "total_time": 408.43,
+      "interventions": 2,
+      "word_count": 804
+    },
+    {
+      "id": "speaker_0",
+      "name": "Maritza Flores",
+      "party": null,
+      "province": null,
+      "total_time": 16.91,
+      "interventions": 2,
+      "word_count": 52
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "text": "que pase al estrado para la toma de juramento y la procesión respectiva. Gracias. Señor Nils Antonis Olsen-Pitt, jura usted por su honor ante Dios y la patria que cumplirá  fielmente las funciones otorgadas por la Constitución de la República y la ley en el desempeño  de su cargo como presidente de la Asamblea Nacional del Ecuador.  Sí, juro.  Si así lo hace, que la patria y el pueblo ecuatoriano le reconozca.  Caso contrario, le juzgue.  Queda usted constitucional y legalmente posesionado como presidente de la Asamblea Nacional del  Ecuador para el período 2025-2027.  ¡Gracias! A continuación tenemos intervención.",
+  "language": "es",
+  "duration": 228.88,
+  "speakers_detected": 3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.03,
+      "end": 6.29,
+      "text": "que pase al estrado para la toma de juramento y la procesión respectiva.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Saadin Alfredo Serrano Valladares",
+        "confidence": 0.8072,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 1,
+      "start": 42.98,
+      "end": 48.33,
+      "text": "Gracias.",
+      "speaker_id": "speaker_1",
+      "speaker": {
+        "id": "speaker_1",
+        "name": "No identificado",
+        "confidence": 0.0
+      }
+    },
+    {
+      "id": 2,
+      "start": 59.26,
+      "end": 109.48,
+      "text": "Señor Nils Antonis Olsen-Pitt, jura usted por su honor ante Dios y la patria que cumplirá  fielmente las funciones otorgadas por la Constitución de la República y la ley en el desempeño  de su cargo como presidente de la Asamblea Nacional del Ecuador.  Sí, juro.  Si así lo hace, que la patria y el pueblo ecuatoriano le reconozca.  Caso contrario, le juzgue.  Queda usted constitucional y legalmente posesionado como presidente de la Asamblea Nacional del  Ecuador para el período 2025-2027.  ¡Gracias!",
+      "speaker_id": "speaker_0",
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Annabella Emma Azín Arce",
+        "confidence": 0.8466,
+        "source": "voiceprint"
+      }
+    },
+    {
+      "id": 3,
+      "start": 225.97,
+      "end": 228.79,
+      "text": "A continuación tenemos intervención.",
+      "speaker_id": "speaker_2",
+      "speaker": {
+        "id": "speaker_2",
+        "name": "Saadin Alfredo Serrano Valladares",
+        "confidence": 0.8072,
+        "source": "voiceprint"
+      }
+    }
+  ],
+  "video_id": "cuDiU8cnTjw",
+  "source": "local-pyannote-community-1+whisper-large-v3-turbo",
+  "speaker_mapping": {
+    "speaker_0": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 10,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_1": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 2,
+      "successful_reads": 0,
+      "source": null
+    },
+    "speaker_2": {
+      "name": "No identificado",
+      "confidence": 0.0,
+      "votes": {},
+      "samples": 4,
+      "successful_reads": 0,
+      "source": null
+    }
+  },
+  "title": "Posesión y juramento del presidente de la Asamblea Nacional Niels  Olsen - Sesión de Instalación",
+  "url": "https://www.youtube.com/watch?v=cuDiU8cnTjw",
+  "published_at": "2025-05-14T00:00:00Z",
+  "channel_title": "Asamblea Nacional del Ecuador",
+  "video_type": "clip",
+  "id": "cuDiU8cnTjw",
+  "date": "2025-05-14T00:00:00Z",
+  "source_url": "https://www.youtube.com/watch?v=cuDiU8cnTjw",
+  "speaker_stats": [
+    {
+      "id": "speaker_0",
+      "name": "Annabella Emma Azín Arce",
+      "party": null,
+      "province": null,
+      "total_time": 50.22,
+      "interventions": 1,
+      "word_count": 81
+    },
+    {
+      "id": "speaker_2",
+      "name": "Saadin Alfredo Serrano Valladares",
+      "party": null,
+      "province": null,
+      "total_time": 9.08,
+      "interventions": 2,
+      "word_count": 17
+    },
+    {
+      "id": "UNIDENTIFIED",
+      "name": "No identificado",
+      "party": null,
+      "province": null,
+      "total_time": 5.35,
+      "interventions": 1,
+      "word_count": 1
+    }
+  ]
+}
