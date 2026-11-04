@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T06:16:58.870311",
-  "total_sessions": 1481,
+  "generated_at": "2026-11-04T05:50:41.252739",
+  "total_sessions": 1486,
   "sessions": [
     {
       "id": "idj5rUvns_g",
@@ -1333,6 +1333,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "84YkBjiHZjE",
+      "title": "Sesión No. 127-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-09-29T00:00:00Z",
+      "duration": 19439.77,
+      "url": "https://www.youtube.com/watch?v=84YkBjiHZjE",
+      "file_path": "data/sessions/84YkBjiHZjE.json",
+      "video_type": "full_session",
+      "speaker_count": 24,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "WV9hkwrY0zU",
       "title": "Asambleísta Edwin Jarrín - Sesión 127",
       "date": "2026-09-29T00:00:00Z",
@@ -1383,6 +1397,20 @@
       "file_path": "data/sessions/P5Lc_peA6rQ.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "ZEUaL91M6D4",
+      "title": "Sesión No. 126-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-09-24T00:00:00Z",
+      "duration": 15655.71,
+      "url": "https://www.youtube.com/watch?v=ZEUaL91M6D4",
+      "file_path": "data/sessions/ZEUaL91M6D4.json",
+      "video_type": "full_session",
+      "speaker_count": 27,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -15600,6 +15628,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "RgY8LdlygCU",
+      "title": "Sesión de instalación de la #AsambleaNacional, período 2023-2025",
+      "date": "2023-11-17T00:00:00Z",
+      "duration": 426.43,
+      "url": "https://www.youtube.com/watch?v=RgY8LdlygCU",
+      "file_path": "data/sessions/RgY8LdlygCU.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "vnhdkdG6QYI",
+      "title": "Presentación de observaciones al reglamento de la Ley Orgánica de Educación Intercultural",
+      "date": "2023-03-26T00:00:00Z",
+      "duration": 1242.15,
+      "url": "https://www.youtube.com/watch?v=vnhdkdG6QYI",
+      "file_path": "data/sessions/vnhdkdG6QYI.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "JzDEEcRJEe0",
       "title": "Sesión 833 del Pleno de la Asamblea Nacional.",
       "date": "2022-12-19T00:00:00Z",
@@ -15608,6 +15664,20 @@
       "file_path": "data/sessions/JzDEEcRJEe0.json",
       "video_type": "clip",
       "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Kb049M3fmuM",
+      "title": "Sesión Solemne del Pleno de la Asamblea Nacional, homenaje a #Quito por sus 488 años de fundación",
+      "date": "2022-12-07T00:00:00Z",
+      "duration": 1764.39,
+      "url": "https://www.youtube.com/watch?v=Kb049M3fmuM",
+      "file_path": "data/sessions/Kb049M3fmuM.json",
+      "video_type": "clip",
+      "speaker_count": 5,
       "topics": [],
       "keywords": [],
       "summary": "",
