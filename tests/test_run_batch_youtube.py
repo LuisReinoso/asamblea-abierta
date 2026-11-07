@@ -122,7 +122,7 @@ class SilentClipTest(unittest.TestCase):
             p.stop()
         self.tmp.cleanup()
 
-    def run_empty_transcript(self, peak):
+    def run_empty_transcript(self, peak, duration=None, video_type="clip", heard=None):
         def transcribe(script, *args, **kwargs):
             out = Path(args[args.index("--output") + 1])
             out.write_text(json.dumps({"segments": []}))
@@ -131,8 +131,14 @@ class SilentClipTest(unittest.TestCase):
         downloader = fake_downloader(lambda *a, **k: self.video)
         with mock.patch.object(rb, "downloader_module", return_value=downloader), \
              mock.patch.object(rb, "run_script", side_effect=transcribe), \
-             mock.patch.object(rb, "max_volume_db", return_value=peak):
-            return rb.process_video({"video_id": "quiet", "video_type": "clip"}, keep_video=False)
+             mock.patch.object(rb, "max_volume_db", return_value=peak), \
+             mock.patch.object(rb, "whisper_hears_speech", return_value=heard) as hears:
+            meta = {"video_id": "quiet", "video_type": video_type}
+            if duration is not None:
+                meta["duration"] = duration
+            res = rb.process_video(meta, keep_video=False)
+        self.hears = hears
+        return res
 
     def test_silent_clip_is_flagged_and_leaves_the_queue(self):
         res = self.run_empty_transcript(-91.0)
@@ -153,6 +159,29 @@ class SilentClipTest(unittest.TestCase):
         self.assertEqual(res["error"], "transcription produced 0 segments")
         index = json.loads((rb.DATA_SESSIONS / "index.json").read_text())
         self.assertNotIn("skip_reason", index["sessions"][0])
+
+
+    def test_short_loud_clip_without_speech_leaves_the_queue(self):
+        res = self.run_empty_transcript(-9.6, duration=29.0, heard=False)
+        self.assertTrue(res["ok"])
+        self.assertTrue(res["silent"])
+        self.assertFalse(self.video.exists())
+        index = json.loads((rb.DATA_SESSIONS / "index.json").read_text())
+        self.assertEqual(index["sessions"][0]["skip_reason"], "no speech")
+
+    def test_short_clip_is_still_a_failure_when_whisper_hears_speech_or_fails(self):
+        for heard in (True, None):
+            res = self.run_empty_transcript(-9.6, duration=29.0, heard=heard)
+            self.assertFalse(res["ok"])
+            self.assertEqual(res["error"], "transcription produced 0 segments")
+            index = json.loads((rb.DATA_SESSIONS / "index.json").read_text())
+            self.assertNotIn("skip_reason", index["sessions"][0])
+
+    def test_long_clip_and_full_session_are_never_marked_no_speech(self):
+        for duration, video_type in ((600.0, "clip"), (29.0, "full_session"), (None, "clip")):
+            res = self.run_empty_transcript(-9.6, duration=duration, video_type=video_type, heard=False)
+            self.assertFalse(res["ok"])
+            self.hears.assert_not_called()
 
 
 if __name__ == "__main__":

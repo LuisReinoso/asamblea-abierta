@@ -14,11 +14,13 @@ Usage:
 
 import argparse
 import json
+import os
 import random
 import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import time
 import traceback
 from pathlib import Path
@@ -58,6 +60,12 @@ BOT_PAUSE_FILE = PROJECT_ROOT / "temp" / "youtube_pause.json"
 # A clip whose loudest sample is below this is digital silence (hKcIpbZoAsg
 # peaks at -91 dB): an empty transcript is the right answer, not a failure.
 SILENCE_MAX_DB = -60.0
+# A short clip can be loud and still have nobody speaking: gMdii7-nyfs is 29 s
+# of channel jingle and room noise, and was retried every night from 11-02 to
+# 11-07. Up to this length, an empty transcript is checked by sending the whole
+# file to whisper; if whisper hears nothing either, the clip leaves the queue.
+NO_SPEECH_MAX_SECONDS = 120
+WHISPER_URL = os.environ.get("WHISPER_URL", "http://localhost:8000/transcribe")
 
 
 def log(msg: str):
@@ -174,13 +182,34 @@ def max_volume_db(path: Path) -> float | None:
     return float("-inf") if m.group(1) == "-inf" else float(m.group(1))
 
 
-def mark_silent(video_id: str) -> None:
-    """Flag an index entry as silent so later runs stop picking it up."""
+def whisper_hears_speech(path: Path) -> bool | None:
+    """Whether whisper finds any text in the whole file, or None if the call fails."""
+    import requests
+
+    with tempfile.TemporaryDirectory() as tmp:
+        wav = Path(tmp) / "audio.wav"
+        try:
+            subprocess.run(
+                ["ffmpeg", "-y", "-i", str(path), "-ac", "1", "-ar", "16000", "-vn", str(wav)],
+                check=True, capture_output=True, timeout=600,
+            )
+            with open(wav, "rb") as f:
+                r = requests.post(WHISPER_URL, files={"file": (wav.name, f, "audio/wav")},
+                                  params={"language": "es"}, timeout=600)
+            r.raise_for_status()
+            return bool(r.json().get("text", "").strip())
+        except Exception as e:
+            log(f"  whisper check of the whole clip failed: {e}")
+            return None
+
+
+def mark_silent(video_id: str, reason: str = "silent audio") -> None:
+    """Flag an index entry so later runs stop picking it up."""
     index_path = DATA_SESSIONS / "index.json"
     index = json.loads(index_path.read_text())
     for s in index.get("sessions", []):
         if s["video_id"] == video_id:
-            s["skip_reason"] = "silent audio"
+            s["skip_reason"] = reason
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2))
 
 
@@ -250,6 +279,15 @@ def process_video(session_meta: dict, keep_video: bool) -> dict:
             if not keep_video:
                 video_path.unlink(missing_ok=True)
             log(f"  audio is silent (peak {peak:.0f} dB): marked in the index, not retried")
+            result.update({"ok": True, "silent": True, "total_time": round(time.time() - started, 1)})
+            return result
+        duration = session_meta.get("duration") or 0
+        if not is_full_session and 0 < duration <= NO_SPEECH_MAX_SECONDS \
+                and whisper_hears_speech(video_path) is False:
+            mark_silent(vid, "no speech")
+            if not keep_video:
+                video_path.unlink(missing_ok=True)
+            log(f"  no speech in {duration:.0f}s clip (whisper empty on the whole file): marked in the index, not retried")
             result.update({"ok": True, "silent": True, "total_time": round(time.time() - started, 1)})
             return result
         result["error"] = "transcription produced 0 segments"

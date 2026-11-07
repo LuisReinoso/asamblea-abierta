@@ -13,9 +13,11 @@ BATCH_LIMIT=20
 # Full plenary sessions per night, newest first. Only the current legislative
 # period (installed 2025-05-14): older sessions are by members who are not in
 # the roster or the voiceprint DB, so they would come out "No identificado".
-# 2, not more: 20 clips + 3 sessions (plus discovery) drew a bot check on
-# 2026-10-29, so the night stays close to the 20-download budget.
-SESSION_LIMIT=2
+# 20 clips + 3 sessions (plus discovery) drew a bot check on 2026-10-29, so
+# this was 2 while clips still used most of the night's downloads. The clip
+# queue ran dry on 2026-11-07, so sessions get that budget: 5 stays well under
+# the 22 downloads of the blocked night.
+SESSION_LIMIT=5
 SESSION_SINCE=2025-05-14
 
 mkdir -p "$REPO_DIR/logs"
