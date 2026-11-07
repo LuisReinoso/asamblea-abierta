@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-06T05:02:57.078964",
-  "total_sessions": 1490,
+  "generated_at": "2026-11-07T05:06:31.072151",
+  "total_sessions": 1492,
   "sessions": [
+    {
+      "id": "UlYF5A7ZlGE",
+      "title": "Sesión No. 137-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-11-07T00:00:00Z",
+      "duration": 17204.27,
+      "url": "https://www.youtube.com/watch?v=UlYF5A7ZlGE",
+      "file_path": "data/sessions/UlYF5A7ZlGE.json",
+      "video_type": "full_session",
+      "speaker_count": 22,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
     {
       "id": "lLmAkQ6fXlg",
       "title": "Sesión No. 136-AN-2025-2029 del pleno de la Asamblea Nacional",
@@ -1635,6 +1649,20 @@
       "file_path": "data/sessions/T-Hi7s6P9zE.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "KaLvBqgGqr4",
+      "title": "Sesión Solemne de la Asamblea Nacional  - Día de la Fundación de la República.",
+      "date": "2026-09-11T00:00:00Z",
+      "duration": 5937.18,
+      "url": "https://www.youtube.com/watch?v=KaLvBqgGqr4",
+      "file_path": "data/sessions/KaLvBqgGqr4.json",
+      "video_type": "full_session",
+      "speaker_count": 3,
       "topics": [],
       "keywords": [],
       "summary": "",
