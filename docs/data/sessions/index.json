@@ -10887,7 +10887,8 @@
       "duration": 29.0,
       "url": "https://www.youtube.com/watch?v=gMdii7-nyfs",
       "discovered_at": "2026-10-27T04:22:14.703070",
-      "video_type": "clip"
+      "video_type": "clip",
+      "skip_reason": "no speech"
     },
     {
       "video_id": "gDNlKkYLnzU",
