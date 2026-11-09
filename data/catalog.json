@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T04:22:36.726152",
-  "total_sessions": 1492,
+  "generated_at": "2026-11-09T06:12:21.561256",
+  "total_sessions": 1497,
   "sessions": [
     {
       "id": "UlYF5A7ZlGE",
@@ -1683,6 +1683,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "AGzfKgHDZIQ",
+      "title": "Sesión  No. 122-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-09-09T00:00:00Z",
+      "duration": 16641.76,
+      "url": "https://www.youtube.com/watch?v=AGzfKgHDZIQ",
+      "file_path": "data/sessions/AGzfKgHDZIQ.json",
+      "video_type": "full_session",
+      "speaker_count": 22,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "vQtFGNbXbmI",
       "title": "Asambleísta Diego Salas - Sesión 121",
       "date": "2026-09-03T00:00:00Z",
@@ -1725,6 +1739,48 @@
       "bills_mentioned": 0
     },
     {
+      "id": "KerjVDmNIBk",
+      "title": "Sesión  No. 121-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-09-03T00:00:00Z",
+      "duration": 16119.78,
+      "url": "https://www.youtube.com/watch?v=KerjVDmNIBk",
+      "file_path": "data/sessions/KerjVDmNIBk.json",
+      "video_type": "full_session",
+      "speaker_count": 26,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "rUEsGTysn2Y",
+      "title": "Sesión  No. 120-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-09-02T00:00:00Z",
+      "duration": 4202.86,
+      "url": "https://www.youtube.com/watch?v=rUEsGTysn2Y",
+      "file_path": "data/sessions/rUEsGTysn2Y.json",
+      "video_type": "full_session",
+      "speaker_count": 4,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dhzAzk7BcdI",
+      "title": "Sesión virtual No. 119-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-30T00:00:00Z",
+      "duration": 4896.37,
+      "url": "https://www.youtube.com/watch?v=dhzAzk7BcdI",
+      "file_path": "data/sessions/dhzAzk7BcdI.json",
+      "video_type": "full_session",
+      "speaker_count": 7,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "HOPCJhFIS_c",
       "title": "Asambleísta Josefina Romero - Sesión 119",
       "date": "2026-08-30T00:00:00Z",
@@ -1761,6 +1817,20 @@
       "file_path": "data/sessions/GZqmj5B8U5c.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "SOD5X_X16So",
+      "title": "Sesión No. 118-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-27T00:00:00Z",
+      "duration": 15018.09,
+      "url": "https://www.youtube.com/watch?v=SOD5X_X16So",
+      "file_path": "data/sessions/SOD5X_X16So.json",
+      "video_type": "full_session",
+      "speaker_count": 21,
       "topics": [],
       "keywords": [],
       "summary": "",
