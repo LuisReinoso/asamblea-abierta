@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-09T06:12:21.561256",
-  "total_sessions": 1497,
+  "generated_at": "2026-11-10T05:17:27.216613",
+  "total_sessions": 1499,
   "sessions": [
+    {
+      "id": "XlAKPUYLHIE",
+      "title": "Sesión No. 138-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-11-09T00:00:00Z",
+      "duration": 13352.03,
+      "url": "https://www.youtube.com/watch?v=XlAKPUYLHIE",
+      "file_path": "data/sessions/XlAKPUYLHIE.json",
+      "video_type": "full_session",
+      "speaker_count": 16,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
     {
       "id": "UlYF5A7ZlGE",
       "title": "Sesión No. 137-AN-2025-2029 del pleno de la Asamblea Nacional",
@@ -1831,6 +1845,20 @@
       "file_path": "data/sessions/SOD5X_X16So.json",
       "video_type": "full_session",
       "speaker_count": 21,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "VuN7r8veAhA",
+      "title": "Sesión No. 117-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-25T00:00:00Z",
+      "duration": 14805.07,
+      "url": "https://www.youtube.com/watch?v=VuN7r8veAhA",
+      "file_path": "data/sessions/VuN7r8veAhA.json",
+      "video_type": "full_session",
+      "speaker_count": 24,
       "topics": [],
       "keywords": [],
       "summary": "",
