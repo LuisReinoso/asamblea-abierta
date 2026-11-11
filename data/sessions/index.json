@@ -1,6 +1,17 @@
 {
   "sessions": [
     {
+      "video_id": "tcg_XHPH2Ss",
+      "title": "Sesión No. 139-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-11-10T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 8532.0,
+      "url": "https://www.youtube.com/watch?v=tcg_XHPH2Ss",
+      "discovered_at": "2026-11-11T04:20:12.504353",
+      "video_type": "full_session"
+    },
+    {
       "video_id": "XlAKPUYLHIE",
       "title": "Sesión No. 138-AN-2025-2029 del pleno de la Asamblea Nacional",
       "description": "",
@@ -21000,5 +21011,5 @@
       "discovered_at": "2026-07-09T22:44:01.692663"
     }
   ],
-  "last_updated": "2026-11-10T04:20:11.861940Z"
+  "last_updated": "2026-11-11T04:20:12.504535Z"
 }

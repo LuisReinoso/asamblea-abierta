@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-10T05:17:27.216613",
-  "total_sessions": 1499,
+  "generated_at": "2026-11-11T05:01:22.449370",
+  "total_sessions": 1502,
   "sessions": [
+    {
+      "id": "tcg_XHPH2Ss",
+      "title": "Sesión No. 139-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-11-10T00:00:00Z",
+      "duration": 8531.62,
+      "url": "https://www.youtube.com/watch?v=tcg_XHPH2Ss",
+      "file_path": "data/sessions/tcg_XHPH2Ss.json",
+      "video_type": "full_session",
+      "speaker_count": 9,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
     {
       "id": "XlAKPUYLHIE",
       "title": "Sesión No. 138-AN-2025-2029 del pleno de la Asamblea Nacional",
@@ -1873,6 +1887,34 @@
       "file_path": "data/sessions/kWBUNgFvPiQ.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "9FdE5yPulxM",
+      "title": "Sesión No. 116-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-20T00:00:00Z",
+      "duration": 11526.04,
+      "url": "https://www.youtube.com/watch?v=9FdE5yPulxM",
+      "file_path": "data/sessions/9FdE5yPulxM.json",
+      "video_type": "full_session",
+      "speaker_count": 21,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "0jUkcE8NeeE",
+      "title": "Continuación de la Sesión No. 113-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-19T00:00:00Z",
+      "duration": 5314.47,
+      "url": "https://www.youtube.com/watch?v=0jUkcE8NeeE",
+      "file_path": "data/sessions/0jUkcE8NeeE.json",
+      "video_type": "full_session",
+      "speaker_count": 12,
       "topics": [],
       "keywords": [],
       "summary": "",
