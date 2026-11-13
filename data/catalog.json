@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T05:01:22.449370",
-  "total_sessions": 1502,
+  "generated_at": "2026-11-13T05:34:57.255469",
+  "total_sessions": 1507,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -1921,6 +1921,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "qfulGRwbW2w",
+      "title": "Sesión No. 115-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-13T00:00:00Z",
+      "duration": 7546.23,
+      "url": "https://www.youtube.com/watch?v=qfulGRwbW2w",
+      "file_path": "data/sessions/qfulGRwbW2w.json",
+      "video_type": "full_session",
+      "speaker_count": 14,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "iSFYlU5boBk",
       "title": "Asambleísta Dina Farinango - Sesión 115",
       "date": "2026-08-13T00:00:00Z",
@@ -1928,6 +1942,20 @@
       "url": "https://www.youtube.com/watch?v=iSFYlU5boBk",
       "file_path": "data/sessions/iSFYlU5boBk.json",
       "video_type": "clip",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "AQNwg-8TY2k",
+      "title": "Siga en vivo la Ceremonia de Relevo de Guardia de la Escolta Legislativa.",
+      "date": "2026-08-13T00:00:00Z",
+      "duration": 3334.46,
+      "url": "https://www.youtube.com/watch?v=AQNwg-8TY2k",
+      "file_path": "data/sessions/AQNwg-8TY2k.json",
+      "video_type": "full_session",
       "speaker_count": 1,
       "topics": [],
       "keywords": [],
@@ -1949,6 +1977,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "5IPkjyk8zjw",
+      "title": "Sesión No. 114-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-12T00:00:00Z",
+      "duration": 9704.27,
+      "url": "https://www.youtube.com/watch?v=5IPkjyk8zjw",
+      "file_path": "data/sessions/5IPkjyk8zjw.json",
+      "video_type": "full_session",
+      "speaker_count": 14,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "9_tFzCCl6vQ",
+      "title": "Sesión Solemne del Pleno de la Asamblea Nacional",
+      "date": "2026-08-07T00:00:00Z",
+      "duration": 5638.29,
+      "url": "https://www.youtube.com/watch?v=9_tFzCCl6vQ",
+      "file_path": "data/sessions/9_tFzCCl6vQ.json",
+      "video_type": "full_session",
+      "speaker_count": 7,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "Dy2ZPZ6wZ2I",
       "title": "Asambleísta Nuvia Vega - Sesión 113",
       "date": "2026-08-04T00:00:00Z",
@@ -1957,6 +2013,20 @@
       "file_path": "data/sessions/Dy2ZPZ6wZ2I.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "9oG1XZ396Gc",
+      "title": "Sesión No. 113-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-08-04T00:00:00Z",
+      "duration": 16337.4,
+      "url": "https://www.youtube.com/watch?v=9oG1XZ396Gc",
+      "file_path": "data/sessions/9oG1XZ396Gc.json",
+      "video_type": "full_session",
+      "speaker_count": 25,
       "topics": [],
       "keywords": [],
       "summary": "",
