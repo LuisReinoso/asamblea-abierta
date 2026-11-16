@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T05:51:44.990052",
-  "total_sessions": 1517,
+  "generated_at": "2026-11-16T06:25:16.962465",
+  "total_sessions": 1522,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -3027,6 +3027,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "twEFdla3yYA",
+      "title": "Sesión No. 105-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-07-02T00:00:00Z",
+      "duration": 10701.73,
+      "url": "https://www.youtube.com/watch?v=twEFdla3yYA",
+      "file_path": "data/sessions/twEFdla3yYA.json",
+      "video_type": "full_session",
+      "speaker_count": 16,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "yfNckXie7ic",
       "title": "Asambleísta Nathaly Farinango - Sesión 105 - III Intervención",
       "date": "2026-07-02T00:00:00Z",
@@ -3371,6 +3385,20 @@
       "file_path": "data/sessions/w7-3DvAxfEA.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "dlRAwh5BWvo",
+      "title": "Sesión No. 104-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-30T00:00:00Z",
+      "duration": 17086.82,
+      "url": "https://www.youtube.com/watch?v=dlRAwh5BWvo",
+      "file_path": "data/sessions/dlRAwh5BWvo.json",
+      "video_type": "full_session",
+      "speaker_count": 21,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -4217,6 +4245,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "YwxG_22BSJU",
+      "title": "Sesión No. 103-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-24T00:00:00Z",
+      "duration": 17597.73,
+      "url": "https://www.youtube.com/watch?v=YwxG_22BSJU",
+      "file_path": "data/sessions/YwxG_22BSJU.json",
+      "video_type": "full_session",
+      "speaker_count": 29,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "u2j25Eehv6M",
       "title": "Asambleísta Patricia Núñez - Sesión 103",
       "date": "2026-06-24T00:00:00Z",
@@ -4497,6 +4539,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "_mmcxvwI3os",
+      "title": "Sesión No. 102-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-23T00:00:00Z",
+      "duration": 11641.02,
+      "url": "https://www.youtube.com/watch?v=_mmcxvwI3os",
+      "file_path": "data/sessions/_mmcxvwI3os.json",
+      "video_type": "full_session",
+      "speaker_count": 14,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "drbhQ8PSh3k",
       "title": "Asambleísta Fernando Jaramillo - Sesión 102 - II Intervención",
       "date": "2026-06-23T00:00:00Z",
@@ -4519,6 +4575,20 @@
       "file_path": "data/sessions/G3G7zcOcvH0.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Tp0s6hs7E6Q",
+      "title": "Continuación de la Sesión No. 097-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-19T00:00:00Z",
+      "duration": 3754.6,
+      "url": "https://www.youtube.com/watch?v=Tp0s6hs7E6Q",
+      "file_path": "data/sessions/Tp0s6hs7E6Q.json",
+      "video_type": "full_session",
+      "speaker_count": 6,
       "topics": [],
       "keywords": [],
       "summary": "",
