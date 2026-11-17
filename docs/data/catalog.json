@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T06:25:16.962465",
-  "total_sessions": 1522,
+  "generated_at": "2026-11-17T06:15:52.423737",
+  "total_sessions": 1527,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -4693,6 +4693,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "OUefmxJDE4Q",
+      "title": "Continuación de la Sesión No. 078-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-18T00:00:00Z",
+      "duration": 6951.68,
+      "url": "https://www.youtube.com/watch?v=OUefmxJDE4Q",
+      "file_path": "data/sessions/OUefmxJDE4Q.json",
+      "video_type": "full_session",
+      "speaker_count": 13,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "t5U23BdoS8k",
       "title": "Asambleísta Domenica Escobar - Sesión 097",
       "date": "2026-06-18T00:00:00Z",
@@ -4841,6 +4855,20 @@
       "file_path": "data/sessions/Bdp-iz-rYg0.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "x5XJ272pG_U",
+      "title": "Sesión No. 101-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-17T00:00:00Z",
+      "duration": 10542.6,
+      "url": "https://www.youtube.com/watch?v=x5XJ272pG_U",
+      "file_path": "data/sessions/x5XJ272pG_U.json",
+      "video_type": "full_session",
+      "speaker_count": 18,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -5253,6 +5281,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "eGOFdzyUynA",
+      "title": "Sesión No. 100-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-10T00:00:00Z",
+      "duration": 2239.4,
+      "url": "https://www.youtube.com/watch?v=eGOFdzyUynA",
+      "file_path": "data/sessions/eGOFdzyUynA.json",
+      "video_type": "full_session",
+      "speaker_count": 4,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "899xXjs-q0A",
       "title": "Asambleísta Pablo Jurado - Sesión 100",
       "date": "2026-06-10T00:00:00Z",
@@ -5491,6 +5533,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "PmeTcvGVZzg",
+      "title": "Sesión No. 099-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-09T00:00:00Z",
+      "duration": 16375.04,
+      "url": "https://www.youtube.com/watch?v=PmeTcvGVZzg",
+      "file_path": "data/sessions/PmeTcvGVZzg.json",
+      "video_type": "full_session",
+      "speaker_count": 22,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "15QCwsFr8gU",
       "title": "Asambleísta Jhajaira Urresta - Sesión 99",
       "date": "2026-06-09T00:00:00Z",
@@ -5723,6 +5779,20 @@
       "file_path": "data/sessions/am-Z95tCTtU.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "GirOwWvfqpM",
+      "title": "Sesión No. 098-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-08T00:00:00Z",
+      "duration": 19153.95,
+      "url": "https://www.youtube.com/watch?v=GirOwWvfqpM",
+      "file_path": "data/sessions/GirOwWvfqpM.json",
+      "video_type": "full_session",
+      "speaker_count": 20,
       "topics": [],
       "keywords": [],
       "summary": "",
