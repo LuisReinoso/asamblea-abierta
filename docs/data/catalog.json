@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T06:15:52.423737",
-  "total_sessions": 1527,
+  "generated_at": "2026-11-18T06:07:23.162268",
+  "total_sessions": 1530,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -5821,6 +5821,48 @@
       "file_path": "data/sessions/zIwhu4CTrYA.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "qiI46ykW0UU",
+      "title": "Continuación de la Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-03T00:00:00Z",
+      "duration": 13727.52,
+      "url": "https://www.youtube.com/watch?v=qiI46ykW0UU",
+      "file_path": "data/sessions/qiI46ykW0UU.json",
+      "video_type": "full_session",
+      "speaker_count": 23,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Z8e1LYsfxkc",
+      "title": "Sesión No. 096-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-06-02T00:00:00Z",
+      "duration": 11349.59,
+      "url": "https://www.youtube.com/watch?v=Z8e1LYsfxkc",
+      "file_path": "data/sessions/Z8e1LYsfxkc.json",
+      "video_type": "full_session",
+      "speaker_count": 15,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "RBNhDX216C0",
+      "title": "Continuación de la Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-05-27T00:00:00Z",
+      "duration": 19569.13,
+      "url": "https://www.youtube.com/watch?v=RBNhDX216C0",
+      "file_path": "data/sessions/RBNhDX216C0.json",
+      "video_type": "full_session",
+      "speaker_count": 32,
       "topics": [],
       "keywords": [],
       "summary": "",
