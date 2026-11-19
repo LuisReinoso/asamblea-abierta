@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T06:07:23.162268",
-  "total_sessions": 1530,
+  "generated_at": "2026-11-19T05:04:28.803167",
+  "total_sessions": 1533,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -5863,6 +5863,48 @@
       "file_path": "data/sessions/RBNhDX216C0.json",
       "video_type": "full_session",
       "speaker_count": 32,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "FbXoaD5Zi2c",
+      "title": "Sesión Solemne del Pleno de la Asamblea Nacional - Informe a la Nación 2026",
+      "date": "2026-05-24T00:00:00Z",
+      "duration": 8970.57,
+      "url": "https://www.youtube.com/watch?v=FbXoaD5Zi2c",
+      "file_path": "data/sessions/FbXoaD5Zi2c.json",
+      "video_type": "full_session",
+      "speaker_count": 11,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "DI6nXsSzbjI",
+      "title": "Sesión No. 094-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-05-21T00:00:00Z",
+      "duration": 11466.32,
+      "url": "https://www.youtube.com/watch?v=DI6nXsSzbjI",
+      "file_path": "data/sessions/DI6nXsSzbjI.json",
+      "video_type": "full_session",
+      "speaker_count": 21,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "OQTV5-pXLoA",
+      "title": "Continuación de la Sesión No. 093-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-05-21T00:00:00Z",
+      "duration": 7563.32,
+      "url": "https://www.youtube.com/watch?v=OQTV5-pXLoA",
+      "file_path": "data/sessions/OQTV5-pXLoA.json",
+      "video_type": "full_session",
+      "speaker_count": 5,
       "topics": [],
       "keywords": [],
       "summary": "",
