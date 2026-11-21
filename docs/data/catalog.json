@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T05:37:06.762037",
-  "total_sessions": 1537,
+  "generated_at": "2026-11-21T05:27:22.976067",
+  "total_sessions": 1542,
   "sessions": [
     {
       "id": "tcg_XHPH2Ss",
@@ -5981,6 +5981,48 @@
       "bills_mentioned": 0
     },
     {
+      "id": "tXJOkaAX4jQ",
+      "title": "Sesión No. 090-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-29T00:00:00Z",
+      "duration": 2203.97,
+      "url": "https://www.youtube.com/watch?v=tXJOkaAX4jQ",
+      "file_path": "data/sessions/tXJOkaAX4jQ.json",
+      "video_type": "full_session",
+      "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "qklvOa9r_ko",
+      "title": "Sesión No. 089-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-28T00:00:00Z",
+      "duration": 7912.36,
+      "url": "https://www.youtube.com/watch?v=qklvOa9r_ko",
+      "file_path": "data/sessions/qklvOa9r_ko.json",
+      "video_type": "full_session",
+      "speaker_count": 10,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "flJyhhgrVm0",
+      "title": "Sesión No. 088-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-25T00:00:00Z",
+      "duration": 5877.32,
+      "url": "https://www.youtube.com/watch?v=flJyhhgrVm0",
+      "file_path": "data/sessions/flJyhhgrVm0.json",
+      "video_type": "full_session",
+      "speaker_count": 6,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "mp_3B3pqpig",
       "title": "Asambleísta Gabriela Molina - Sesión 087",
       "date": "2026-04-22T00:00:00Z",
@@ -5989,6 +6031,34 @@
       "file_path": "data/sessions/mp_3B3pqpig.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "K4PoQTycchw",
+      "title": "Sesión No. 087-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-22T00:00:00Z",
+      "duration": 16940.33,
+      "url": "https://www.youtube.com/watch?v=K4PoQTycchw",
+      "file_path": "data/sessions/K4PoQTycchw.json",
+      "video_type": "full_session",
+      "speaker_count": 24,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "DJdvYdWna3M",
+      "title": "Continuación de la Sesión No. 083-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-16T00:00:00Z",
+      "duration": 5561.64,
+      "url": "https://www.youtube.com/watch?v=DJdvYdWna3M",
+      "file_path": "data/sessions/DJdvYdWna3M.json",
+      "video_type": "full_session",
+      "speaker_count": 9,
       "topics": [],
       "keywords": [],
       "summary": "",
