@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T05:27:21.957246",
-  "total_sessions": 1542,
+  "generated_at": "2026-11-23T05:25:03.229040",
+  "total_sessions": 1545,
   "speaker_stats": [
     {
       "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
@@ -9,9 +9,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Zamora Chinchipe",
-      "total_time": 47577.529999999984,
-      "total_interventions": 980,
-      "sessions_attended": 77,
+      "total_time": 54123.43999999998,
+      "total_interventions": 1081,
+      "sessions_attended": 80,
       "topics_discussed": 0
     },
     {
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "PSC",
       "province": "Nacional",
-      "total_time": 27007.160000000003,
-      "total_interventions": 94,
-      "sessions_attended": 53,
+      "total_time": 27460.930000000004,
+      "total_interventions": 95,
+      "sessions_attended": 54,
       "topics_discussed": 0
     },
     {
@@ -45,9 +45,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 24674.99999999999,
-      "total_interventions": 141,
-      "sessions_attended": 53,
+      "total_time": 25145.99999999999,
+      "total_interventions": 143,
+      "sessions_attended": 54,
       "topics_discussed": 0
     },
     {
@@ -57,9 +57,21 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 23893.449999999993,
-      "total_interventions": 231,
-      "sessions_attended": 86,
+      "total_time": 24305.539999999994,
+      "total_interventions": 234,
+      "sessions_attended": 87,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 23160.40000000001,
+      "total_interventions": 162,
+      "sessions_attended": 52,
       "topics_discussed": 0
     },
     {
@@ -75,28 +87,28 @@
       "topics_discussed": 3
     },
     {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 21782.000000000007,
-      "total_interventions": 154,
-      "sessions_attended": 50,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ADRIAN-ERNESTO-CASTRO-PIEDRA",
       "name": "Adrián Ernesto Castro Piedra",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 21089.31999999999,
-      "total_interventions": 134,
-      "sessions_attended": 60,
+      "total_time": 21239.55999999999,
+      "total_interventions": 139,
+      "sessions_attended": 61,
       "topics_discussed": 3
+    },
+    {
+      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
+      "name": "Nathaly Estefanía Farinango Delgado",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Quito Rural",
+      "total_time": 21161.750000000004,
+      "total_interventions": 263,
+      "sessions_attended": 63,
+      "topics_discussed": 0
     },
     {
       "id": "AN-MARIO-AMADO-ZAMBRANO-VERA",
@@ -123,15 +135,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-NATHALY-ESTEFANIA-FARINANGO-DELGADO",
-      "name": "Nathaly Estefanía Farinango Delgado",
+      "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
+      "name": "Milton Javier Aguas Flores",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
-      "province": "Pichincha Quito Rural",
-      "total_time": 20579.33,
-      "total_interventions": 257,
-      "sessions_attended": 61,
+      "province": "Galápagos",
+      "total_time": 18914.79,
+      "total_interventions": 101,
+      "sessions_attended": 41,
       "topics_discussed": 0
     },
     {
@@ -159,18 +171,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MILTON-JAVIER-AGUAS-FLORES",
-      "name": "Milton Javier Aguas Flores",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Galápagos",
-      "total_time": 18187.230000000003,
-      "total_interventions": 95,
-      "sessions_attended": 40,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ANA-BELEN-TAPIA-VALLEJO",
       "name": "Ana Belén Tapia Vallejo",
       "type": "asambleísta",
@@ -189,9 +189,9 @@
       "role": "Asambleísta",
       "party": "MUPP",
       "province": "Bolívar",
-      "total_time": 16273.330000000002,
-      "total_interventions": 34,
-      "sessions_attended": 30,
+      "total_time": 16885.63,
+      "total_interventions": 35,
+      "sessions_attended": 31,
       "topics_discussed": 0
     },
     {
@@ -207,28 +207,28 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-GIOVANNY-BRAVO",
-      "name": "Giovanny Bravo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Unknown",
-      "province": "Unknown",
-      "total_time": 15131.12,
-      "total_interventions": 385,
-      "sessions_attended": 24,
-      "topics_discussed": 3
-    },
-    {
       "id": "AN-MAURICIO-JAVIER-ORDONEZ-FUENTES",
       "name": "Mauricio Javier Ordóñez Fuentes",
       "type": "asambleísta",
       "role": "Asambleísta",
       "party": "ADN",
       "province": "América Latina, Caribe y África",
-      "total_time": 15096.690000000002,
-      "total_interventions": 107,
-      "sessions_attended": 34,
+      "total_time": 15894.160000000002,
+      "total_interventions": 114,
+      "sessions_attended": 35,
       "topics_discussed": 0
+    },
+    {
+      "id": "AN-GIOVANNY-BRAVO",
+      "name": "Giovanny Bravo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Unknown",
+      "province": "Unknown",
+      "total_time": 15773.400000000001,
+      "total_interventions": 397,
+      "sessions_attended": 25,
+      "topics_discussed": 3
     },
     {
       "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
@@ -237,9 +237,9 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Pichincha Centro-Sur",
-      "total_time": 14587.82,
-      "total_interventions": 51,
-      "sessions_attended": 28,
+      "total_time": 15142.89,
+      "total_interventions": 52,
+      "sessions_attended": 29,
       "topics_discussed": 0
     },
     {
@@ -249,9 +249,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Chimborazo",
-      "total_time": 14312.590000000004,
-      "total_interventions": 85,
-      "sessions_attended": 36,
+      "total_time": 14828.900000000003,
+      "total_interventions": 87,
+      "sessions_attended": 37,
       "topics_discussed": 3
     },
     {
@@ -273,9 +273,21 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Carchi",
-      "total_time": 12785.69,
-      "total_interventions": 124,
-      "sessions_attended": 42,
+      "total_time": 13241.029999999999,
+      "total_interventions": 126,
+      "sessions_attended": 44,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
+      "name": "Edwin Estuardo Jarrín Rivadeneira",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "PSP",
+      "province": "Morona Santiago",
+      "total_time": 12479.230000000001,
+      "total_interventions": 63,
+      "sessions_attended": 32,
       "topics_discussed": 0
     },
     {
@@ -288,6 +300,18 @@
       "total_time": 12367.59,
       "total_interventions": 33,
       "sessions_attended": 20,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
+      "name": "María Verónica Iñiguez Gallardo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Loja",
+      "total_time": 12195.400000000005,
+      "total_interventions": 43,
+      "sessions_attended": 23,
       "topics_discussed": 0
     },
     {
@@ -315,30 +339,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-MARIA-VERONICA-INIGUEZ-GALLARDO",
-      "name": "María Verónica Iñiguez Gallardo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Loja",
-      "total_time": 11566.280000000004,
-      "total_interventions": 42,
-      "sessions_attended": 22,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-EDWIN-ESTUARDO-JARRIN-RIVADENEIRA",
-      "name": "Edwin Estuardo Jarrín Rivadeneira",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "PSP",
-      "province": "Morona Santiago",
-      "total_time": 11042.97,
-      "total_interventions": 54,
-      "sessions_attended": 30,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JORGE-ENRIQUE-CHAMBA-CABANILLA",
       "name": "Jorge Enrique Chamba Cabanilla",
       "type": "asambleísta",
@@ -360,6 +360,18 @@
       "total_time": 10607.63,
       "total_interventions": 101,
       "sessions_attended": 34,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
+      "name": "Roberto Fernando Jaramillo Martínez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Imbabura",
+      "total_time": 10581.69,
+      "total_interventions": 42,
+      "sessions_attended": 18,
       "topics_discussed": 0
     },
     {
@@ -396,18 +408,6 @@
       "total_time": 9480.9,
       "total_interventions": 41,
       "sessions_attended": 16,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ROBERTO-FERNANDO-JARAMILLO-MARTINEZ",
-      "name": "Roberto Fernando Jaramillo Martínez",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Imbabura",
-      "total_time": 9472.48,
-      "total_interventions": 36,
-      "sessions_attended": 17,
       "topics_discussed": 0
     },
     {
@@ -507,6 +507,30 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
+      "name": "Silvia Patricia Nuñez Ramos",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Chimborazo",
+      "total_time": 7743.04,
+      "total_interventions": 27,
+      "sessions_attended": 16,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-MISHEL-ANDREA-MANCHENO-DAVILA",
+      "name": "Mishel Andrea Mancheno Dávila",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Chimborazo",
+      "total_time": 7697.580000000001,
+      "total_interventions": 787,
+      "sessions_attended": 45,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
       "name": "Gerardo Eugenio Machado Clavijo",
       "type": "asambleísta",
@@ -528,18 +552,6 @@
       "total_time": 7627.15,
       "total_interventions": 47,
       "sessions_attended": 17,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-MISHEL-ANDREA-MANCHENO-DAVILA",
-      "name": "Mishel Andrea Mancheno Dávila",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Chimborazo",
-      "total_time": 7560.670000000001,
-      "total_interventions": 764,
-      "sessions_attended": 44,
       "topics_discussed": 0
     },
     {
@@ -591,18 +603,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-SILVIA-PATRICIA-NUNEZ-RAMOS",
-      "name": "Silvia Patricia Nuñez Ramos",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Chimborazo",
-      "total_time": 7132.78,
-      "total_interventions": 23,
-      "sessions_attended": 15,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-VALENTINA-CENTENO-ARTEAGA",
       "name": "Valentina Centeno Arteaga",
       "type": "asambleísta",
@@ -621,9 +621,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Pichincha Centro-Sur",
-      "total_time": 6817.97,
-      "total_interventions": 26,
-      "sessions_attended": 11,
+      "total_time": 6899.5,
+      "total_interventions": 27,
+      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -645,9 +645,33 @@
       "role": "Asambleísta",
       "party": "Ind.",
       "province": "Tungurahua",
-      "total_time": 6532.8099999999995,
-      "total_interventions": 23,
-      "sessions_attended": 14,
+      "total_time": 6733.499999999999,
+      "total_interventions": 25,
+      "sessions_attended": 15,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-LUCIA-LIZBETH-JARAMILLO-ZURITA",
+      "name": "Lucía Lizbeth Jaramillo Zurita",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 6468.880000000001,
+      "total_interventions": 55,
+      "sessions_attended": 18,
+      "topics_discussed": 3
+    },
+    {
+      "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
+      "name": "Isaac Vladimir Solano Calle",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 6466.91,
+      "total_interventions": 36,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -672,18 +696,6 @@
       "total_time": 6283.849999999999,
       "total_interventions": 78,
       "sessions_attended": 24,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ISAAC-VLADIMIR-SOLANO-CALLE",
-      "name": "Isaac Vladimir Solano Calle",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 6250.44,
-      "total_interventions": 35,
-      "sessions_attended": 19,
       "topics_discussed": 0
     },
     {
@@ -717,22 +729,10 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Esmeraldas",
-      "total_time": 5779.59,
-      "total_interventions": 21,
-      "sessions_attended": 12,
+      "total_time": 5944.43,
+      "total_interventions": 25,
+      "sessions_attended": 13,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-LUCIA-LIZBETH-JARAMILLO-ZURITA",
-      "name": "Lucía Lizbeth Jaramillo Zurita",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 5635.650000000001,
-      "total_interventions": 48,
-      "sessions_attended": 17,
-      "topics_discussed": 3
     },
     {
       "id": "AN-JANINA-JADIRA-RIZZO-ALVEAR",
@@ -741,9 +741,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Guayas",
-      "total_time": 5592.45,
-      "total_interventions": 22,
-      "sessions_attended": 11,
+      "total_time": 5777.91,
+      "total_interventions": 23,
+      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -768,6 +768,18 @@
       "total_time": 5450.68,
       "total_interventions": 22,
       "sessions_attended": 14,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-NIELS-ANTHONEZ-OLSEN-PEET",
+      "name": "Niels Anthonez Olsen Peet",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Nacional",
+      "total_time": 5303.780000000001,
+      "total_interventions": 190,
+      "sessions_attended": 15,
       "topics_discussed": 0
     },
     {
@@ -819,18 +831,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-NIELS-ANTHONEZ-OLSEN-PEET",
-      "name": "Niels Anthonez Olsen Peet",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Nacional",
-      "total_time": 5118.47,
-      "total_interventions": 156,
-      "sessions_attended": 14,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-JOSE-LUIS-VALLEJO-AYALA",
       "name": "José Luis Vallejo Ayala",
       "type": "asambleísta",
@@ -852,6 +852,18 @@
       "total_time": 4978.870000000001,
       "total_interventions": 23,
       "sessions_attended": 13,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-HECTOR-EDUARDO-RODRIGUEZ-CHAVEZ",
+      "name": "Héctor Eduardo Rodríguez Chávez",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 4978.060000000001,
+      "total_interventions": 32,
+      "sessions_attended": 11,
       "topics_discussed": 0
     },
     {
@@ -915,15 +927,15 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-HECTOR-EDUARDO-RODRIGUEZ-CHAVEZ",
-      "name": "Héctor Eduardo Rodríguez Chávez",
+      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
+      "name": "Doménica Carolina Escobar Galarza",
       "type": "asambleísta",
       "role": "Asambleísta",
-      "party": "RC",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 4332.67,
-      "total_interventions": 29,
-      "sessions_attended": 10,
+      "party": "ADN",
+      "province": "Tungurahua",
+      "total_time": 4320.599999999999,
+      "total_interventions": 69,
+      "sessions_attended": 20,
       "topics_discussed": 0
     },
     {
@@ -975,6 +987,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ALEX-MORAN-GALARZA",
+      "name": "Alex Moran Galarza",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Guayas",
+      "total_time": 4046.5800000000004,
+      "total_interventions": 33,
+      "sessions_attended": 22,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
       "name": "César Gustavo Palacios Alejandro",
       "type": "asambleísta",
@@ -984,30 +1008,6 @@
       "total_time": 4035.9699999999993,
       "total_interventions": 23,
       "sessions_attended": 10,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ALEX-MORAN-GALARZA",
-      "name": "Alex Moran Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Guayas",
-      "total_time": 4011.5000000000005,
-      "total_interventions": 32,
-      "sessions_attended": 21,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-DOMENICA-CAROLINA-ESCOBAR-GALARZA",
-      "name": "Doménica Carolina Escobar Galarza",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Tungurahua",
-      "total_time": 3952.5199999999995,
-      "total_interventions": 67,
-      "sessions_attended": 19,
       "topics_discussed": 0
     },
     {
@@ -1023,6 +1023,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
+      "name": "José Fernando Nantipia Chumpi",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Morona Santiago",
+      "total_time": 3868.6000000000004,
+      "total_interventions": 18,
+      "sessions_attended": 12,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-ELIANA-KATHERINE-CORREA-GONZALEZ",
       "name": "Eliana Katherine Correa González",
       "type": "asambleísta",
@@ -1032,6 +1044,18 @@
       "total_time": 3809.87,
       "total_interventions": 30,
       "sessions_attended": 15,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
+      "name": "Johnny Alfredo Lavayen Tamayo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "EE.UU. y Canadá",
+      "total_time": 3746.0999999999995,
+      "total_interventions": 24,
+      "sessions_attended": 13,
       "topics_discussed": 0
     },
     {
@@ -1083,18 +1107,6 @@
       "topics_discussed": 0
     },
     {
-      "id": "AN-JOSE-FERNANDO-NANTIPIA-CHUMPI",
-      "name": "José Fernando Nantipia Chumpi",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Morona Santiago",
-      "total_time": 3565.1000000000004,
-      "total_interventions": 17,
-      "sessions_attended": 11,
-      "topics_discussed": 0
-    },
-    {
       "id": "AN-ANA-MARIA-RAFFO-GUEVARA",
       "name": "Ana María Raffo Guevara",
       "type": "asambleísta",
@@ -1104,18 +1116,6 @@
       "total_time": 3488.58,
       "total_interventions": 19,
       "sessions_attended": 8,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JOHNNY-ALFREDO-LAVAYEN-TAMAYO",
-      "name": "Johnny Alfredo Lavayen Tamayo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "EE.UU. y Canadá",
-      "total_time": 3431.1099999999997,
-      "total_interventions": 23,
-      "sessions_attended": 12,
       "topics_discussed": 0
     },
     {
@@ -1275,6 +1275,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
+      "name": "Sandra Elizabeth Figueroa Aguilar",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Guayas",
+      "total_time": 2640.05,
+      "total_interventions": 11,
+      "sessions_attended": 8,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-MARIA-BESIBELL-MENDOZA-IBARRA",
       "name": "María Besibell Mendoza Ibarra",
       "type": "asambleísta",
@@ -1344,18 +1356,6 @@
       "total_time": 2441.3799999999997,
       "total_interventions": 15,
       "sessions_attended": 10,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-SANDRA-ELIZABETH-FIGUEROA-AGUILAR",
-      "name": "Sandra Elizabeth Figueroa Aguilar",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Guayas",
-      "total_time": 2333.45,
-      "total_interventions": 9,
-      "sessions_attended": 7,
       "topics_discussed": 0
     },
     {
@@ -2994,9 +2994,9 @@
     },
     {
       "month": "2026-04",
-      "sessions_count": 7,
-      "total_duration": 40148.97,
-      "unique_speakers": 28,
+      "sessions_count": 10,
+      "total_duration": 74170.95,
+      "unique_speakers": 29,
       "unique_topics": 0
     },
     {
