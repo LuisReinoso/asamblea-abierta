@@ -1,6 +1,17 @@
 {
   "sessions": [
     {
+      "video_id": "n4ZYeqjEBfQ",
+      "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+      "description": "",
+      "published_at": "2026-11-24T00:00:00Z",
+      "channel_title": "Asamblea Nacional del Ecuador",
+      "duration": 1365.0,
+      "url": "https://www.youtube.com/watch?v=n4ZYeqjEBfQ",
+      "discovered_at": "2026-11-24T04:20:12.845464",
+      "video_type": "clip"
+    },
+    {
       "video_id": "tcg_XHPH2Ss",
       "title": "Sesión No. 139-AN-2025-2029 del pleno de la Asamblea Nacional",
       "description": "",
@@ -21011,5 +21022,5 @@
       "discovered_at": "2026-07-09T22:44:01.692663"
     }
   ],
-  "last_updated": "2026-11-11T04:20:12.504535Z"
+  "last_updated": "2026-11-24T04:20:12.845666Z"
 }

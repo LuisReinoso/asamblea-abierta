@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-23T05:25:04.322850",
-  "total_sessions": 1545,
+  "generated_at": "2026-11-24T05:50:48.208450",
+  "total_sessions": 1549,
   "sessions": [
+    {
+      "id": "n4ZYeqjEBfQ",
+      "title": "Sesión Extraordinaria del pleno de la Asamblea Nacional",
+      "date": "2026-11-24T00:00:00Z",
+      "duration": 1365.5,
+      "url": "https://www.youtube.com/watch?v=n4ZYeqjEBfQ",
+      "file_path": "data/sessions/n4ZYeqjEBfQ.json",
+      "video_type": "clip",
+      "speaker_count": 3,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
     {
       "id": "tcg_XHPH2Ss",
       "title": "Sesión No. 139-AN-2025-2029 del pleno de la Asamblea Nacional",
@@ -6107,6 +6121,34 @@
       "bills_mentioned": 0
     },
     {
+      "id": "hWaelI7Mbvg",
+      "title": "Siga en vivo la  Sesión No. 083-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-04-07T00:00:00Z",
+      "duration": 11083.88,
+      "url": "https://www.youtube.com/watch?v=hWaelI7Mbvg",
+      "file_path": "data/sessions/hWaelI7Mbvg.json",
+      "video_type": "full_session",
+      "speaker_count": 19,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "B_xLzxmNTYQ",
+      "title": "Siga en vivo la  Sesión No. 082-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-31T00:00:00Z",
+      "duration": 13028.93,
+      "url": "https://www.youtube.com/watch?v=B_xLzxmNTYQ",
+      "file_path": "data/sessions/B_xLzxmNTYQ.json",
+      "video_type": "full_session",
+      "speaker_count": 11,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "TSAVf9EBaxY",
       "title": "Asambleísta Keevin Gallardo - Sesión 082 - Cambio del orden del día",
       "date": "2026-03-31T00:00:00Z",
@@ -6437,6 +6479,20 @@
       "file_path": "data/sessions/LGHz121Z8g8.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "LAEFN85_Aog",
+      "title": "Siga en vivo la continuación de la Sesión No. 080-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-30T00:00:00Z",
+      "duration": 17610.52,
+      "url": "https://www.youtube.com/watch?v=LAEFN85_Aog",
+      "file_path": "data/sessions/LAEFN85_Aog.json",
+      "video_type": "full_session",
+      "speaker_count": 20,
       "topics": [],
       "keywords": [],
       "summary": "",
