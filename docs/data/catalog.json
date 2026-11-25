@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T05:50:48.208450",
-  "total_sessions": 1549,
+  "generated_at": "2026-11-25T09:21:21.233446",
+  "total_sessions": 1551,
   "sessions": [
     {
       "id": "n4ZYeqjEBfQ",
@@ -7269,6 +7269,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "XYHTX_cUDkQ",
+      "title": "Siga en vivo la Sesión No. 079-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-18T00:00:00Z",
+      "duration": 9041.99,
+      "url": "https://www.youtube.com/watch?v=XYHTX_cUDkQ",
+      "file_path": "data/sessions/XYHTX_cUDkQ.json",
+      "video_type": "full_session",
+      "speaker_count": 16,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "wvQ8YdFplRs",
       "title": "Votación de la moción del asambleísta Adrian Castro - Sesión 078",
       "date": "2026-03-18T00:00:00Z",
@@ -7977,6 +7991,20 @@
       "file_path": "data/sessions/fN9pK4bBlEk.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "SaTkt2EX82Y",
+      "title": "Siga en vivo la Sesión No. 077-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-13T00:00:00Z",
+      "duration": 6617.27,
+      "url": "https://www.youtube.com/watch?v=SaTkt2EX82Y",
+      "file_path": "data/sessions/SaTkt2EX82Y.json",
+      "video_type": "full_session",
+      "speaker_count": 6,
       "topics": [],
       "keywords": [],
       "summary": "",
