@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T09:21:21.233446",
-  "total_sessions": 1551,
+  "generated_at": "2026-11-26T06:30:51.015721",
+  "total_sessions": 1556,
   "sessions": [
     {
       "id": "n4ZYeqjEBfQ",
@@ -6751,6 +6751,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "9GPI7z-DwKw",
+      "title": "Siga en vivo la Sesión No. 081-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-26T00:00:00Z",
+      "duration": 13640.59,
+      "url": "https://www.youtube.com/watch?v=9GPI7z-DwKw",
+      "file_path": "data/sessions/9GPI7z-DwKw.json",
+      "video_type": "full_session",
+      "speaker_count": 18,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "AH3mcBCUOnM",
       "title": "Asambleísta Ana Tapia - Sesión 081",
       "date": "2026-03-26T00:00:00Z",
@@ -6983,6 +6997,20 @@
       "file_path": "data/sessions/j8aDBZN4_-c.json",
       "video_type": "clip",
       "speaker_count": 0,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Dp39JdR0lmg",
+      "title": "Siga en vivo la Sesión No. 080-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-24T00:00:00Z",
+      "duration": 14015.77,
+      "url": "https://www.youtube.com/watch?v=Dp39JdR0lmg",
+      "file_path": "data/sessions/Dp39JdR0lmg.json",
+      "video_type": "full_session",
+      "speaker_count": 19,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -7661,6 +7689,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "Ypnt8f_hBqI",
+      "title": "Siga en vivo la Sesión No. 078-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-17T00:00:00Z",
+      "duration": 16443.63,
+      "url": "https://www.youtube.com/watch?v=Ypnt8f_hBqI",
+      "file_path": "data/sessions/Ypnt8f_hBqI.json",
+      "video_type": "full_session",
+      "speaker_count": 21,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "y2EqIy7GGLU",
       "title": "Asambleísta Ledy Zuñiga - Sesión 078 - Parte 2",
       "date": "2026-03-17T00:00:00Z",
@@ -8165,6 +8207,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "NJlpOl6KGNE",
+      "title": "Siga en vivo la continuación de la Sesión No. 064-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-11T00:00:00Z",
+      "duration": 6352.54,
+      "url": "https://www.youtube.com/watch?v=NJlpOl6KGNE",
+      "file_path": "data/sessions/NJlpOl6KGNE.json",
+      "video_type": "full_session",
+      "speaker_count": 16,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "vxAeGnYNwMQ",
       "title": "Asambleísta Franklin Samaniego  - Sesión 064",
       "date": "2026-03-11T00:00:00Z",
@@ -8383,6 +8439,20 @@
       "file_path": "data/sessions/3imUOidGrj8.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "YJmi79Garpg",
+      "title": "Sesión No. 076-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-10T00:00:00Z",
+      "duration": 8676.41,
+      "url": "https://www.youtube.com/watch?v=YJmi79Garpg",
+      "file_path": "data/sessions/YJmi79Garpg.json",
+      "video_type": "full_session",
+      "speaker_count": 15,
       "topics": [],
       "keywords": [],
       "summary": "",
