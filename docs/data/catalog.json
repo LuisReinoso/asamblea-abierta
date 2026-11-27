@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T06:30:51.015721",
-  "total_sessions": 1556,
+  "generated_at": "2026-11-27T07:08:49.988475",
+  "total_sessions": 1560,
   "sessions": [
     {
       "id": "n4ZYeqjEBfQ",
@@ -8529,6 +8529,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "9tVHSB9bzAg",
+      "title": "Sesión No. 075-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-05T00:00:00Z",
+      "duration": 3102.72,
+      "url": "https://www.youtube.com/watch?v=9tVHSB9bzAg",
+      "file_path": "data/sessions/9tVHSB9bzAg.json",
+      "video_type": "full_session",
+      "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "k_WTK2ymc9U",
       "title": "Norma Vallejo Jaramillo - Sesión 075 - Cumplimiento de la sentencia",
       "date": "2026-03-05T00:00:00Z",
@@ -8627,6 +8641,20 @@
       "bills_mentioned": 0
     },
     {
+      "id": "-YvmF3LqUwY",
+      "title": "Sesión No. 073-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-03-03T00:00:00Z",
+      "duration": 19917.87,
+      "url": "https://www.youtube.com/watch?v=-YvmF3LqUwY",
+      "file_path": "data/sessions/-YvmF3LqUwY.json",
+      "video_type": "full_session",
+      "speaker_count": 7,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
       "id": "kjKuy_9kKjY",
       "title": "Asambleísta Ana Belén Tapia - Sesión 073",
       "date": "2026-03-03T00:00:00Z",
@@ -8663,6 +8691,20 @@
       "file_path": "data/sessions/1PUAAFT8qmA.json",
       "video_type": "clip",
       "speaker_count": 2,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "LKSq1Y19giI",
+      "title": "Sesión No. 074-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-02-26T00:00:00Z",
+      "duration": 13987.4,
+      "url": "https://www.youtube.com/watch?v=LKSq1Y19giI",
+      "file_path": "data/sessions/LKSq1Y19giI.json",
+      "video_type": "full_session",
+      "speaker_count": 20,
       "topics": [],
       "keywords": [],
       "summary": "",
@@ -9027,6 +9069,20 @@
       "file_path": "data/sessions/Xr16ZWiFRRg.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "6ZG60qIJQTI",
+      "title": "Continuación de la Sesión No. 067-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-02-25T00:00:00Z",
+      "duration": 12308.76,
+      "url": "https://www.youtube.com/watch?v=6ZG60qIJQTI",
+      "file_path": "data/sessions/6ZG60qIJQTI.json",
+      "video_type": "full_session",
+      "speaker_count": 14,
       "topics": [],
       "keywords": [],
       "summary": "",
