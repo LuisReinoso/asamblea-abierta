@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:08:49.988475",
-  "total_sessions": 1560,
+  "generated_at": "2026-11-28T08:26:56.435876",
+  "total_sessions": 1561,
   "sessions": [
     {
       "id": "n4ZYeqjEBfQ",
@@ -10371,6 +10371,20 @@
       "file_path": "data/sessions/dAuDt02AaTE.json",
       "video_type": "clip",
       "speaker_count": 1,
+      "topics": [],
+      "keywords": [],
+      "summary": "",
+      "bills_mentioned": 0
+    },
+    {
+      "id": "Zsxkmh7xS4s",
+      "title": "Sesión No. 069-AN-2025-2029 del pleno de la Asamblea Nacional",
+      "date": "2026-02-10T00:00:00Z",
+      "duration": 11825.37,
+      "url": "https://www.youtube.com/watch?v=Zsxkmh7xS4s",
+      "file_path": "data/sessions/Zsxkmh7xS4s.json",
+      "video_type": "full_session",
+      "speaker_count": 11,
       "topics": [],
       "keywords": [],
       "summary": "",

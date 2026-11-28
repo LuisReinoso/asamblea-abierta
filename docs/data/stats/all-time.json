@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T07:08:48.886467",
-  "total_sessions": 1560,
+  "generated_at": "2026-11-28T08:26:53.604656",
+  "total_sessions": 1561,
   "speaker_stats": [
     {
       "id": "AN-DEL-CISNE-ROGEL-ESPERANZA",
@@ -21,9 +21,9 @@
       "role": "Asambleísta",
       "party": "Unknown",
       "province": "Unknown",
-      "total_time": 33052.49999999999,
-      "total_interventions": 755,
-      "sessions_attended": 39,
+      "total_time": 34615.14999999999,
+      "total_interventions": 798,
+      "sessions_attended": 40,
       "topics_discussed": 3
     },
     {
@@ -57,9 +57,21 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Nacional",
-      "total_time": 25760.939999999984,
-      "total_interventions": 248,
-      "sessions_attended": 90,
+      "total_time": 26552.619999999984,
+      "total_interventions": 254,
+      "sessions_attended": 91,
+      "topics_discussed": 0
+    },
+    {
+      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
+      "name": "Inés Margarita Alarcón Bueno",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "ADN",
+      "province": "Pichincha Centro-Norte",
+      "total_time": 26215.430000000004,
+      "total_interventions": 194,
+      "sessions_attended": 58,
       "topics_discussed": 0
     },
     {
@@ -72,18 +84,6 @@
       "total_time": 25441.24999999999,
       "total_interventions": 146,
       "sessions_attended": 55,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-INES-MARGARITA-ALARCON-BUENO",
-      "name": "Inés Margarita Alarcón Bueno",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "ADN",
-      "province": "Pichincha Centro-Norte",
-      "total_time": 25304.410000000007,
-      "total_interventions": 185,
-      "sessions_attended": 57,
       "topics_discussed": 0
     },
     {
@@ -105,9 +105,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Azuay",
-      "total_time": 24094.899999999987,
-      "total_interventions": 160,
-      "sessions_attended": 66,
+      "total_time": 24303.339999999986,
+      "total_interventions": 161,
+      "sessions_attended": 67,
       "topics_discussed": 3
     },
     {
@@ -231,6 +231,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
+      "name": "Jhajaira Estefanía Urresta Guzmán",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Pichincha Centro-Sur",
+      "total_time": 16317.629999999997,
+      "total_interventions": 57,
+      "sessions_attended": 31,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-KEEVIN-FERNANDO-GALLARDO-RUIZ",
       "name": "Keevin Fernando Gallardo Ruiz",
       "type": "asambleísta",
@@ -241,18 +253,6 @@
       "total_interventions": 100,
       "sessions_attended": 41,
       "topics_discussed": 3
-    },
-    {
-      "id": "AN-JHAJAIRA-ESTEFANIA-URRESTA-GUZMAN",
-      "name": "Jhajaira Estefanía Urresta Guzmán",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Pichincha Centro-Sur",
-      "total_time": 15880.779999999999,
-      "total_interventions": 54,
-      "sessions_attended": 30,
-      "topics_discussed": 0
     },
     {
       "id": "AN-BRIGIDA-LUCIA-POZO-MORETA",
@@ -519,6 +519,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
+      "name": "Gerardo Eugenio Machado Clavijo",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Azuay",
+      "total_time": 8710.35,
+      "total_interventions": 35,
+      "sessions_attended": 20,
+      "topics_discussed": 3
+    },
+    {
       "id": "AN-LUIS-FERNANDO-MOLINA-ONOFA",
       "name": "Luis Fernando Molina Onofa",
       "type": "asambleísta",
@@ -549,9 +561,9 @@
       "role": "Asambleísta",
       "party": "RC",
       "province": "Guayas",
-      "total_time": 8436.28,
-      "total_interventions": 23,
-      "sessions_attended": 21,
+      "total_time": 8553.27,
+      "total_interventions": 24,
+      "sessions_attended": 22,
       "topics_discussed": 0
     },
     {
@@ -577,18 +589,6 @@
       "total_interventions": 93,
       "sessions_attended": 39,
       "topics_discussed": 0
-    },
-    {
-      "id": "AN-GERARDO-EUGENIO-MACHADO-CLAVIJO",
-      "name": "Gerardo Eugenio Machado Clavijo",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Azuay",
-      "total_time": 8174.18,
-      "total_interventions": 34,
-      "sessions_attended": 19,
-      "topics_discussed": 3
     },
     {
       "id": "AN-MISHEL-ANDREA-MANCHENO-DAVILA",
@@ -645,9 +645,9 @@
       "role": "Asambleísta",
       "party": "ADN",
       "province": "Tungurahua",
-      "total_time": 7329.120000000001,
-      "total_interventions": 54,
-      "sessions_attended": 16,
+      "total_time": 7463.740000000001,
+      "total_interventions": 56,
+      "sessions_attended": 17,
       "topics_discussed": 0
     },
     {
@@ -855,6 +855,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
+      "name": "César Gustavo Palacios Alejandro",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Santa Elena",
+      "total_time": 5448.949999999999,
+      "total_interventions": 30,
+      "sessions_attended": 13,
+      "topics_discussed": 0
+    },
+    {
       "id": "MARITZA-FLORES",
       "name": "Maritza Flores",
       "type": "desconocido",
@@ -927,6 +939,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
+      "name": "Jahiren Elizabeth Noriega Donoso",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "RC",
+      "province": "Pichincha Quito Rural",
+      "total_time": 5036.589999999999,
+      "total_interventions": 26,
+      "sessions_attended": 16,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-JOSE-LUIS-VALLEJO-AYALA",
       "name": "José Luis Vallejo Ayala",
       "type": "asambleísta",
@@ -935,30 +959,6 @@
       "province": "Carchi",
       "total_time": 5022.08,
       "total_interventions": 16,
-      "sessions_attended": 12,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-JAHIREN-ELIZABETH-NORIEGA-DONOSO",
-      "name": "Jahiren Elizabeth Noriega Donoso",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Pichincha Quito Rural",
-      "total_time": 5013.989999999999,
-      "total_interventions": 22,
-      "sessions_attended": 15,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-CESAR-GUSTAVO-PALACIOS-ALEJANDRO",
-      "name": "César Gustavo Palacios Alejandro",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "RC",
-      "province": "Santa Elena",
-      "total_time": 4980.66,
-      "total_interventions": 28,
       "sessions_attended": 12,
       "topics_discussed": 0
     },
@@ -1515,6 +1515,18 @@
       "topics_discussed": 0
     },
     {
+      "id": "AN-ANNIE-CHRISTINA-MUNOZ-AROCA",
+      "name": "Annie Christina Muñoz Aroca",
+      "type": "asambleísta",
+      "role": "Asambleísta",
+      "party": "Ind.",
+      "province": "Nacional",
+      "total_time": 1690.74,
+      "total_interventions": 4,
+      "sessions_attended": 4,
+      "topics_discussed": 0
+    },
+    {
       "id": "AN-DIANA-PATRICIA-BLACIO-CARRION",
       "name": "Diana Patricia Blacio Carrión",
       "type": "asambleísta",
@@ -1619,18 +1631,6 @@
       "province": "Bolívar",
       "total_time": 1348.32,
       "total_interventions": 4,
-      "sessions_attended": 3,
-      "topics_discussed": 0
-    },
-    {
-      "id": "AN-ANNIE-CHRISTINA-MUNOZ-AROCA",
-      "name": "Annie Christina Muñoz Aroca",
-      "type": "asambleísta",
-      "role": "Asambleísta",
-      "party": "Ind.",
-      "province": "Nacional",
-      "total_time": 1347.94,
-      "total_interventions": 3,
       "sessions_attended": 3,
       "topics_discussed": 0
     },
@@ -2980,8 +2980,8 @@
     },
     {
       "month": "2026-02",
-      "sessions_count": 172,
-      "total_duration": 129721.82000000005,
+      "sessions_count": 173,
+      "total_duration": 141547.19000000006,
       "unique_speakers": 28,
       "unique_topics": 0
     },
